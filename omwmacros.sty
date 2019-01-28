@@ -1,0 +1,27 @@
+%%
+%% Shared settings
+%%
+%\volumeissue {10}{4}
+%\monthyear   {Sep}{2017}
+
+
+%%
+%% Shared macros
+%%
+\newcommand{\txx}[1]{\textbf{#1}}
+\usepackage{xspace}
+\newcommand{\merge}{\txx{merge}\xspace}
+\newcommand{\expand}{\txx{expand}\xspace}
+\newcommand{\extend}{\txx{extend}\xspace}
+
+\newcommand{\thiswordnet}{this Wordnet\xspace}
+\newcommand{\Thiswordnet}{This Wordnet\xspace}
+
+\newcommand{\wn}[3]{\textit{\textbf{#1}}$_{#2:#3}$}
+%\newcommand{\syn}[2]{\texttt{#1}}
+
+%\newcommand{\syn}[2][]{\texttt{#1}:\texttt{#2}}
+\newcommand{\syn}[2][]{\ifthenelse{\equal{#1}{}}{\texttt{#2}}{\texttt{#1:#2}}}
+
+%\newcommand{\ili}[1]{\texttt{\textbf{#1}}}
+\newcommand{\ili}[1]{\href{http://www.globalwordnet.org/ili/#1}{\url{#1}}}
