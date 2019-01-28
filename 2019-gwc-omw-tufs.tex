@@ -1,0 +1,215 @@
+%
+% File acl2010.tex
+%
+% Contact  jshin@csie.ncnu.edu.tw or pkoehn@inf.ed.ac.uk
+%%
+%% Based on the style files for ACL-IJCNLP-2009, which were, in turn,
+%% based on the style files for EACL-2009 and IJCNLP-2008...
+
+%% Based on the style files for EACL 2006 by 
+%%e.agirre@ehu.es or Sergi.Balari@uab.es
+%% and that of ACL 08 by Joakim Nivre and Noah Smith
+\PassOptionsToPackage{xetex}{xcolor}
+\documentclass[11pt]{article}
+\usepackage[hidelinks]{hyperref,xcolor}
+\hypersetup{
+     colorlinks,
+     linkcolor={blue!50!black},
+     citecolor={red!50!black},
+     urlcolor={blue!80!black}
+}
+\usepackage[round]{natbib}
+
+\usepackage{polyglossia}
+\setmainlanguage{english}
+\setotherlanguage{urdu}
+%\setotherlanguage{myanmar}
+%\setmainfont[Mapping=tex-text]{Times New Roman}
+\usepackage{xeCJK}
+%\setCJKmainfont{WenQuanYi Micro Hei}
+% \setmainfont[Numbers=OldStyle]{TeX Gyre Pagella}
+%\setCJKmainfont{Droid Sans Fallback}
+\setCJKmainfont{Noto Sans CJK SC}
+\setCJKsansfont{Noto Sans CJK SC}
+%\setmainfont{Noto Sans}
+\newfontfamily\urdufont[Script=Arabic,Language=Urdu,Scale=1.5]{Amiri}
+% or Scheherazade after installing the font
+%sudo apt-get install font-hosny-amiri
+\newfontfamily\myanmarfont[Script=Myanmar]{Padauk}
+\newcommand{\myanmar}[1]{{\myanmarfont #1}}
+\usepackage{acl2010}
+\setmainfont{TeX Gyre Termes}
+%\usepackage{times}
+\usepackage{url}
+\usepackage{latexsym}
+\usepackage{graphicx}
+\usepackage{enumitem}
+\usepackage{omwmacros}
+%\setlength\titlebox{6.5cm}    % You can expand the title box if you
+% really have to
+
+\newcommand{\lex}[1]{\textbf{\textit{#1}}}
+\title{Linking the TUFS Basic Vocabulary \\ to the Open Multilingual Wordnet}
+
+\author{
+	Francis Bond,$^\spadesuit$ 
+	Hiroki Nomoto ,$^\diamondsuit$
+	Luis Morgado da Costa$^\spadesuit$\\
+  $^\spadesuit$ Nanyang Technological University (NTU),  Singapore\\
+  $^\diamondsuit$
+  Tokyo University of Foreign Studies (TUFS), Japan \\
+  \url{bond@ieee.org, nomoto@tufs.ac.jp} }
+
+\date{}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+We describe the linking of the TUFS Basic Vocabulary Modules, created for
+on-line language learning, with the Open Multilingual Wordnet.  The
+links are then used to (i) evaluate existing wordnets, (ii) add data
+to these wordnets and (iii) create new open w1ordnets for Khmer,
+Korean, Lao, Mongolian, Russian, Tagalog, Urdu and Vietnamese.
+% Turkish, German, Myanmar
+
+
+\end{abstract}
+\section{Introduction}
+
+Preliminary values for the coverage are shown in Table~\ref{tab:cover}.
+
+\begin{table*}
+  \centering
+  \input{tufgoi.tex}
+  \caption{Wordnet coverage of the basic vocabulary}\label{tab:cover}
+\end{table*}
+
+
+\subsection*{Acknowledgements}
+
+This research is supported by the JSPS grant \textit{A collaborative
+  network for usage-based research on lesser-studied languages}.  We
+thank the creators of the individual wordnets.
+
+\bibliographystyle{aclnat}
+\bibliography{main}
+
+\clearpage
+\onecolumn
+\appendix
+\section{Instructions for Link Checkers}
+
+The main goal of this task is to link the concepts in the TUFS
+vocabulary list with concepts in wordnet.  A straight forward example
+is January: \href{14674}{the entry in tufs} matches with a
+\href{http://compling.hss.ntu.edu.sg/omw/cgi-bin/wn-gridx.cgi?usrname=&gridmode=grid&synset=15210045-n&lang=eng&lang2=eng}{single
+  wordnet synset}, and it matches through multiple languages.
+
+A more typical example is \lex{dog}.  This has entries for 5 languages
+in TUFS: (fr: chien; ja: 犬, ms: anjing, ur: \texturdu{کتا} and my: \myanmar{ခွေး}).  
+These match to several synsets in OMW: 
+
+\begin{figure}[htpb]
+  \centering
+\begin{tabular}{lcrlp{3cm}p{5cm}}
+Chk &     TUFS & Score & Wordnet & Lemmas & Definition \\ \hline
+1 &    犬:1.5501 &  27.58 & 02084071-n &	dog; Canis familiaris;
+                                           domestic dog & 	a member of
+                                                          the genus Canis
+                                                          (probably
+                                                          descended from
+                                                          the common wolf)
+                                                          that has been
+                                                          domesticated by
+                                                          man since
+                                                          prehistoric
+                                                          times  \\
+ 0 &   犬:1.5501 &  7.76 & 03481824-n &  cock; hammer &	the part of a gunlock that strikes the percussion cap when the trigger is pulled\\
+  ? &  犬 (1.5501) & 7.76 & 02084732-n & doggie; pooch; doggy; bow-wow;
+                                          barker &	informal terms for dogs		\\
+  0 &  犬:1.5501 &  7.76 & 07676602-n &dog; wiener; hot dog;
+                                             wienerwurst; \ldots
+                                             & a smooth-textured sausage of minced beef or pork usually smoked; often served on a bread roll	\\
+  \end{tabular}
+  
+  \caption{Linking Table for 'dog'}
+  \label{fig:linking}
+\end{figure}
+
+
+You will be given a large collection of candidate mappings (as a tab
+separated file)\footnote{You should read this in with a spreadsheet,
+  and sort by score and TUFS id}.  Your job
+is to take the column marked Check and add '1' if it is a good match.
+If it is not, you can either mark it '0' or leave it blank.  If you
+mark it as '?' then it means you are not sure, and wish to discuss it
+with your supervisor.    
+
+
+In general, the top scoring entry (or entries) are much more likely to
+be good, and the ones below less so.  If there are many matches (which
+often happens) and you have one or two good matches near the top, you
+can check the rest quite quickly.  Please take into account the part
+of speech as well as the meaning: \textbf{n} is noun, \textbf{v} is
+verb, \textbf{a} is adjective and \textbf{r} is adveRb.
+
+
+
+We will give you an html document with all the TUFs entries in them,
+with explanations, linked to the vocabulary module.  We show part of the entry
+for 'dog' in Figure~\ref{fig:tufs-inu}.
+
+\begin{figure}[htpb]
+  \centering
+  \includegraphics[width=0.9\textwidth]{inu-html.png}
+  \caption{TUFs concept summary for 'dog' (and 'puppy')}
+  \label{fig:tufs-inu}
+\end{figure}
+
+In addition to the columns shown in Figure~\ref{fig:linking}, there
+are also columns for the Japanese and Chinese lemmas and definitions
+(where available).  You can look up the wordnet synsets on the OMW
+page:
+\href{http://compling.hss.ntu.edu.sg/omw/cgi-bin/wn-grid.cgi?usrname=&gridmode=gridx&synset=02084071-n&lang=eng&lang2=eng}{entry
+  for 02084071-n}.  You can cut and paste the synset ids
+(e.g. 02084071-n) into the search window, or search for the lemma.
+
+
+\subsection{Problematic cases}
+
+The main problems with linking is when the granularity is not the
+same.  For example, TUFS has a single entry for 切る \textit{kiru} with
+two meanings listed ``switch off'' and ``cut''.    These link to very
+different concepts in  wordnet.  In this case, you should link to both
+concepts, and make a note: these should be two concepts in TUFS.
+
+Sometimes the senses in wordnet are very fine: for today it has both 
+15156001-n ``the day that includes the present moment (as opposed to
+yesterday or tomorrow)'' and 15262921-n ``the present time or age''.
+In this case you can link to both if you think both senses are likely
+to be used in all languages.  Again, make a note as to which you think
+is the best match.
+
+
+% \subsubsection{Ambiguous Concept in TUFS}
+
+% \subsubsection{}
+
+\subsection{Errors in the resources}
+
+If you find errors in either TUFS or wordnet, including the Japanese
+and Chinese lemmas and definitions, please make a note.
+
+For example, the Japanese wordnet has '洋犬' as an entry for the
+synset for dog, but it should be a hyponym (foreign (Western) breed of
+dog).
+
+\end{document}
+
+%%% Local Variables: 
+%%% coding: utf-8
+%%% mode: latex
+%%% TeX-PDF-mode: t
+%%% TeX-engine: xetex
+%%% TeX-master: t
+%%% End: 
