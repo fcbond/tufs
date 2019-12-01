@@ -417,7 +417,7 @@ TID そちら:1.1700 n linked True
 
 TID みんな:1.1940 n linked True
 14011	77000099-n	1	1	1.0	T	みんな:1.1940	everyone; everybody [person, universal pronoun; pronoun, person; quantifier: universal]  {}
-14011	02269286-a	1	1	1.0	T	みんな:1.1940	every; all [quantifier, used to refer to the entire quantity or extent of something; entity, universal pronoun; quantifier, universal]  {we sat up all night; ate all the food; all men are mortal; all parties are welcome}
+14011	02269286-a	1	1	1.0	F	みんな:1.1940	every; all [quantifier, used to refer to the entire quantity or extent of something; entity, universal pronoun; quantifier, universal]  {we sat up all night; ate all the food; all men are mortal; all parties are welcome}
 14011	02269286-n	1	?	0.7	F	みんな:1.1940	all [pronoun, entity; quantifier: universal]  {}
 14011	01623836-a	0	?	0.3	F	みんな:1.1940	unoccupied [not held or filled or in use]  {an unoccupied telephone booth; unoccupied hours}
 14011	01688757-s	?	0	0.3	F	みんな:1.1940	[]  {}
@@ -428,7 +428,7 @@ TID みんな:1.1940 n linked True
 
 TID 曇り:1.5154 n linked True
 59985	14524198-n	1	1	1.0	T	曇り:1.5154	cloudiness; cloud cover; overcast [the state of the sky when it is covered by clouds]  {}
-59985	00461311-a	1	1	1.0	T	曇り:1.5154	cloudy [full of or covered with clouds]  {cloudy skies}
+59985	00461311-a	1	1	1.0	F	曇り:1.5154	cloudy [full of or covered with clouds]  {cloudy skies}
 59985	13984468-n	1	?	0.7	F	曇り:1.5154	cloudiness; overcast [gloomy semidarkness caused by cloud cover]  {}
 59985	00781974-a	0	1	0.5	F	曇り:1.5154	cloudy; nebulose; nebulous [lacking definite form or limits]  {gropes among cloudy issues toward a feeble conclusion- H.T.Moore; nebulous distinction between pride and conceit}
 59985	00433529-a	0	1	0.5	F	曇り:1.5154	cloudy; mirky; muddy; murky; turbid [(of liquids) clouded as with sediment]  {a cloudy liquid; muddy coffee; murky waters}
@@ -1047,7 +1047,7 @@ TID 痛い:3.3001 a linked True
 95091	01318741-a	1	1	1.0	T	痛い:3.3001	hurt; wounded [suffering from physical injury especially that suffered in battle]  {nursing his wounded arm; ambulances...for the hurt men and women}
 95091	00680532-a	1	1	1.0	F	痛い:3.3001	hurt; weakened [damaged inanimate objects or their value]  {}
 95091	01792567-v	1	?	0.7	F	痛い:3.3001	hurt; anguish; pain [cause emotional anguish or make miserable]  {It pains me to see my children not being taught well in school}
-95091	00065070-v	1	?	0.7	T	痛い:3.3001	hurt; suffer [feel pain or be in pain]  {}
+95091	00065070-v	1	?	0.7	F	痛い:3.3001	hurt; suffer [feel pain or be in pain]  {}
 95091	02122164-v	1	?	0.7	F	痛い:3.3001	hurt; smart; ache [be the source of pain]  {}
 95091	00078665-v	1	?	0.7	F	痛い:3.3001	ail [be ill or unwell]  {}
 95091	02121511-v	1	?	0.7	F	痛い:3.3001	hurt; suffer; ache [feel physical pain]  {Were you hurting after the accident?}
@@ -2129,7 +2129,7 @@ TID あたたかい（暖・温）:3.5170 a linked True
 99853	05016451-n	?	?	?	F	あたたかい（暖・温）:3.5170	incalescence; calefaction [the property of being warming]  {}
 99853	01372948-a	1	1	1.0	F	あたたかい（暖・温）:3.5170	sympathetic; benevolent; large-hearted; charitable; kindly; openhearted; good-hearted [showing or motivated by sympathy and understanding and generosity]  {was charitable in his opinions of others; kindly criticism; a kindly act; sympathetic words; a large-hearted mentor}
 99853	01075178-a	1	1	1.0	F	あたたかい（暖・温）:3.5170	affable; genial; amiable; cordial [diffusing warmth and friendliness]  {an affable smile; an amiable gathering; cordial relations; a cordial greeting; a genial host}
-99853	00432314-r	1	1	1.0	T	あたたかい（暖・温）:3.5170	warm; warmly [in a warm manner]  {warmly dressed; warm-clad skiers}
+99853	00432314-r	1	1	1.0	F	あたたかい（暖・温）:3.5170	warm; warmly [in a warm manner]  {warmly dressed; warm-clad skiers}
 99853	02530861-a	1	1	1.0	F	あたたかい（暖・温）:3.5170	warm [psychologically warm; friendly and responsive]  {a warm greeting; a warm personality; warm support}
 99853	02531919-a	1	1	1.0	F	あたたかい（暖・温）:3.5170	warm [inducing the impression of warmth; used especially of reds and oranges and yellows]  {warm reds and yellows and orange}
 99853	02448889-a	1	1	1.0	F	あたたかい（暖・温）:3.5170	tender [given to sympathy or gentleness or sentimentality]  {a tender heart; a tender smile; tender loving care; tender memories; a tender mother}
@@ -2472,7 +2472,7 @@ TID 寝る:2.3391 v linked False
 82694	00017031-v	0	?	0.3	F	寝る:2.3391	snore; saw logs; saw wood [breathe noisily during one's sleep]  {she complained that her husband snores}
 82694	14026089-n	0	?	0.3	F	寝る:2.3391	shuteye [informal term for sleep]  {}
 82694	14025993-n	0	?	0.3	F	寝る:2.3391	sopor; sleep [a torpid state resembling deep sleep]  {}
-82694	14024882-n	0	?	0.3	T	寝る:2.3391	slumber; sleep [a natural and periodic state of rest during which consciousness of the world is suspended]  {he didn't get enough sleep last night; calm as a child in dreamless slumber}
+82694	14024882-n	0	?	0.3	F	寝る:2.3391	slumber; sleep [a natural and periodic state of rest during which consciousness of the world is suspended]  {he didn't get enough sleep last night; calm as a child in dreamless slumber}
 82694	01884974-v	0	?	0.3	F	寝る:2.3391	careen; wobble; tilt; shift [move sideways or in an unsteady way]  {The ship careened out of control}
 82694	00858377-n	0	?	0.3	F	寝る:2.3391	forty winks; short sleep; snooze; catnap; nap; cat sleep [sleeping for a short period of time (usually not in bed)]  {}
 82694	15273955-n	0	?	0.3	F	寝る:2.3391	kip [sleep]  {roused him from his kip}
@@ -2545,7 +2545,7 @@ TID 掃除:1.3843 n linked True
 47401	00476133-v	nan	?	WTF	F	掃除:1.3843	purify [become clean or pure or free of guilt and sin]  {The hippies came to the ashram in order to purify}
 47401	00455529-v	1	1	1.0	F	掃除:1.3843	purge; flush; scour [rinse, clean, or empty with a liquid]  {flush the wound with antibiotics; purge the old gas tank}
 47401	00251013-n	1	1	1.0	T	掃除:1.3843	cleaning; cleanup; cleansing [the act of making something clean]  {he gave his shoes a good cleaning}
-47401	01532589-v	1	?	0.7	T	掃除:1.3843	clean; make clean [make clean by removing dirt, filth, or unwanted substances from]  {Clean the stove!; The dentist cleaned my teeth}
+47401	01532589-v	1	?	0.7	F	掃除:1.3843	clean; make clean [make clean by removing dirt, filth, or unwanted substances from]  {Clean the stove!; The dentist cleaned my teeth}
 47401	00073813-v	0	1	0.5	F	掃除:1.3843	purge [excrete or evacuate (someone's bowels or body)]  {The doctor decided that the patient must be purged}
 47401	08078020-n	0	1	0.5	F	掃除:1.3843	home; menage; family; household; house [a social unit living together]  {he moved his family to Virginia; It was a good Christian household; I waited until the whole house was asleep; the teacher asked how many people made up his home}
 47401	00475647-v	0	?	0.3	F	掃除:1.3843	purge [rid of impurities]  {purge the water; purge your mind}
@@ -3728,8 +3728,8 @@ TID かばん:1.4514 n linked True
 
 TID 長い:3.1911 a linked True
 94000	02386125-a	1	1	1.0	F	長い:3.1911	long [of relatively great height]  {a race of long gaunt men- Sherwood Anderson; looked out the long French windows}
-94000	00166025-r	1	1	1.0	T	長い:3.1911	long [for an extended time or at a distant time]  {a promotion long overdue; something long hoped for; his name has long been forgotten; talked all night long; how long will you be gone?; arrived long before he was expected; it is long after your bedtime}
-94000	00166318-r	1	1	1.0	T	長い:3.1911	long [for an extended distance]  {}
+94000	00166025-r	1	1	1.0	F	長い:3.1911	long [for an extended time or at a distant time]  {a promotion long overdue; something long hoped for; his name has long been forgotten; talked all night long; how long will you be gone?; arrived long before he was expected; it is long after your bedtime}
+94000	00166318-r	1	1	1.0	F	長い:3.1911	long [for an extended distance]  {}
 94000	01437963-a	1	1	1.0	T	長い:3.1911	long [primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified]  {a long life; a long boring speech; a long time; a long friendship; a long game; long ago; an hour long}
 94000	01444022-a	1	1	1.0	T	長い:3.1911	long [(of speech sounds or syllables) of relatively long duration]  {the English vowel sounds in `bate', `beat', `bite', `boat', `boot' are long}
 94000	01433493-a	1	1	1.0	T	長い:3.1911	long [primarily spatial sense; of relatively great or greater than average spatial extension or extension as specified]  {a long road; a long distance; contained many long words; ten miles long}
@@ -3797,7 +3797,7 @@ TID まっすぐ:3.1800 a linked True
 93723	02310895-a	1	1	1.0	T	まっすぐ:3.1800	straight [having no deviations]  {straight lines; straight roads across the desert; straight teeth; straight shoulders}
 93723	00051848-r	1	1	1.0	F	まっすぐ:3.1800	direct; directly; straight [without deviation]  {the path leads directly to the lake; went direct to the office}
 93723	02318272-a	1	1	1.0	T	まっすぐ:3.1800	straight; uncoiled [no longer coiled]  {}
-93723	00509432-r	1	1	1.0	T	まっすぐ:3.1800	straight [in a straight line; in a direct course]  {the road runs straight}
+93723	00509432-r	1	1	1.0	F	まっすぐ:3.1800	straight [in a straight line; in a direct course]  {the road runs straight}
 93723	01237754-a	1	?	0.7	F	まっすぐ:3.1800	unbent; straight; unbowed [erect in posture]  {sit straight; stood defiantly with unbowed back}
 93723	00504281-r	1	?	0.7	F	まっすぐ:3.1800	directly [without anyone or anything intervening]  {these two factors are directly related; he was directly responsible; measured the physical properties directly}
 93723	01982044-v	1	?	0.7	F	まっすぐ:3.1800	straighten [get up from a sitting or slouching position]  {The students straightened when the teacher entered}
@@ -4274,7 +4274,7 @@ TID 生徒:1.2419 n linked True
 20241	07995453-n	0	0	0.0	F	生徒:1.2419	shoal; school [a large group of fish]  {a school of small glittering fish swam by}
 
 TID 昨日（きのう）:1.1642 n linked True
-9118	00507716-r	1	1	1.0	T	昨日（きのう）:1.1642	yesterday [on the day preceding today]  {yesterday the weather was beautiful}
+9118	00507716-r	1	1	1.0	F	昨日（きのう）:1.1642	yesterday [on the day preceding today]  {yesterday the weather was beautiful}
 9118	15156187-n	1	1	1.0	T	昨日（きのう）:1.1642	yesterday [the day immediately before today]  {it was in yesterday's newspapers}
 9118	00507819-r	1	1	1.0	F	昨日（きのう）:1.1642	yesterday [in the recent past; only a short time ago]  {I was not born yesterday!}
 9118	15263138-n	1	1	1.0	F	昨日（きのう）:1.1642	yesterday [the recent past]  {yesterday's solutions are not good enough; we shared many yesterdays}
@@ -6624,7 +6624,7 @@ TID ええ:4.3210 r linked True
 100800	00053004-r	?	?	?	F	ええ:4.3210	OK; fine; very well; all right; alright [an expression of agreement normally occurring at the beginning of a sentence]  {}
 100800	80001230-x	1	1	1.0	T	ええ:4.3210	yup; yeah; yes; yep [a word used to signal a positive response]  {Sandy said, "Yes, I can help you."}
 100800	80000658-x	1	1	1.0	F	ええ:4.3210	why [a phrase used to express surprise]  {Why, I didn't expect that to happen}
-100800	00150351-r	1	1	1.0	T	ええ:4.3210	right; that's right; yes; exactly; right on [an interjection expressing agreement; Yes, you are indeed correct]  {}
+100800	00150351-r	1	1	1.0	F	ええ:4.3210	right; that's right; yes; exactly; right on [an interjection expressing agreement; Yes, you are indeed correct]  {}
 100800	80001169-x	1	1	1.0	F	ええ:4.3210	[a word uttered when pressing others]  {}
 100800	07204008-n	1	?	0.7	F	ええ:4.3210	yea [yes]  {The yeas have it}
 100800	80001382-x	1	?	0.7	F	ええ:4.3210	ah; oh [an interjection indicating or expressing surprise, astonishment, acknowledgement, disappointment, realisation, etc; an interjection used in reaction to something (remark, situation, etc)]  {Oh! You are here; Oh, is it? I didn't know that; Oh... now I understand; Ah, I understand now; Oh no}
@@ -8014,7 +8014,7 @@ TID 色（いろ）:1.5020 n linked True
 
 TID －中（じゅう）［町～・一日～］:3.1940 a linked False
 94851	00514884-a	1	?	0.7	T	－中（じゅう）［町～・一日～］:3.1940	whole [including all components without exception; being one unit or constituting the full amount or extent or duration; complete]  {gave his whole attention; a whole wardrobe for the tropics; the whole hog; a whole week; the baby cried the whole trip home; a whole loaf of bread}
-94851	00103087-r	1	?	0.7	T	－中（じゅう）［町～・一日～］:3.1940	end-to-end; throughout [from first to last]  {the play was excellent end-to-end}
+94851	00103087-r	1	?	0.7	F	－中（じゅう）［町～・一日～］:3.1940	end-to-end; throughout [from first to last]  {the play was excellent end-to-end}
 94851	00515380-a	1	?	0.7	F	－中（じゅう）［町～・一日～］:3.1940	total; entire; full [constituting the full quantity or extent; complete]  {an entire town devastated by an earthquake; gave full attention; a total failure}
 94851	01319712-a	0	1	0.5	F	－中（じゅう）［町～・一日～］:3.1940	whole; unscathed; unhurt; unharmed [not injured]  {}
 94851	00784215-a	0	1	0.5	F	－中（じゅう）［町～・一日～］:3.1940	solid; unanimous; whole [acting together as a single undiversified whole]  {a solid voting bloc}
@@ -13497,7 +13497,7 @@ TID クラス:1.2760 n linked True
 TID 横:1.1740 n linked True
 11035	08649345-n	1	1	1.0	T	横:1.1740	side [a place within a region identified relative to a center or reference location]  {they always sat on the right side of the church; he never left my side}
 11035	05136150-n	1	1	1.0	T	横:1.1740	breadth; width [the extent of something from side to side]  {}
-11035	00447472-a	1	?	0.7	T	横:1.1740	next; side by side; adjacent [nearest in space or position; immediately adjoining without intervening space]  {had adjacent rooms; in the next room; the person sitting next to me; our rooms were side by side}
+11035	00447472-a	1	?	0.7	F	横:1.1740	next; side by side; adjacent [nearest in space or position; immediately adjoining without intervening space]  {had adjacent rooms; in the next room; the person sitting next to me; our rooms were side by side}
 11035	05130614-n	0	1	0.5	F	横:1.1740	wingspread; wingspan [linear distance between the extremities of an airfoil]  {}
 11035	08102282-n	0	1	0.5	F	横:1.1740	side [a family line of descent]  {he gets his brains from his father's side}
 11035	00706243-v	0	1	0.5	F	横:1.1740	propose; project [present for consideration, examination, criticism, etc.]  {He proposed a new plan for dealing with terrorism; She proposed a new theory of relativity}
@@ -13638,7 +13638,7 @@ TID 授業:1.3640 n linked True
 42954	00829107-v	0	?	0.3	F	授業:1.3640	teach; instruct; learn [impart skills or knowledge to]  {I taught them French; He instructed me in building a boat}
 
 TID 明日（あした）:1.1643 n linked True
-9211	00479275-r	1	1	1.0	T	明日（あした）:1.1643	tomorrow [the next day, the day after, following the present day]  {}
+9211	00479275-r	1	1	1.0	F	明日（あした）:1.1643	tomorrow [the next day, the day after, following the present day]  {}
 9211	15263795-n	1	1	1.0	F	明日（あした）:1.1643	tomorrow [the near future]  {tomorrow's world; everyone hopes for a better tomorrow}
 9211	15155891-n	1	1	1.0	T	明日（あした）:1.1643	tomorrow [the day after today]  {what are our tasks for tomorrow?}
 9211	15165289-n	0	?	0.3	F	明日（あした）:1.1643	forenoon; morn; morning time; morning [the time period between dawn and noon]  {I spent the morning running errands}
@@ -15038,7 +15038,7 @@ TID こちら:1.1730 n linked True
 10765	08489497-n	1	1	1.0	T	こちら:1.1730	here [the present location; this place; location, proximal pronoun; demonstrative pronoun, location; quantifier: demonstrative determiner, singular, proximal]  {where do we go from here?}
 10765	77000072-n	1	1	1.0	T	こちら:1.1730	[entity, dual, formal, proximal pronoun; demonstrative pronoun, entity, formal; quantifier: demonstrative determiner, proximal]  {}
 10765	00108479-r	1	1	1.0	F	こちら:1.1730	here [in or at this place; where the speaker or writer is]  {I work here; turn here; radio waves received here on Earth}
-10765	00108647-r	1	1	1.0	T	こちら:1.1730	hither; here [to this place (especially toward the speaker)]  {come here, please}
+10765	00108647-r	1	1	1.0	F	こちら:1.1730	hither; here [to this place (especially toward the speaker)]  {come here, please}
 10765	00260998-r	1	1	1.0	F	こちら:1.1730	over here; up here [in a specified area or place]  {you shouldn't be up here}
 10765	77000121-n	1	?	0.7	F	こちら:1.1730	[MERGE ME demonstrative pronoun, location; quantifier: demonstrative determiner, proximal]  {}
 10765	00043521-r	1	?	0.7	F	こちら:1.1730	hence [from this place]  {get thee hence!}
@@ -16163,7 +16163,7 @@ TID かえる（帰・返）:2.1526 v linked True
 
 TID まずい:3.5050 a linked False
 99491	01716971-a	?	?	?	T	まずい:3.5050	unsavory; unsavoury; distasteful [not pleasing in odor or taste]  {}
-99491	04996355-n	1	?	0.7	T	まずい:3.5050	unpalatableness; unpalatability [the property of being unacceptable to the mouth]  {}
+99491	04996355-n	1	?	0.7	F	まずい:3.5050	unpalatableness; unpalatability [the property of being unacceptable to the mouth]  {}
 99491	02399595-a	1	?	0.7	T	まずい:3.5050	savorless; bland; savourless; vapid; flat; flavorless; flavourless; insipid [lacking taste or flavor or tang]  {a bland diet; insipid hospital food; flavorless supermarket tomatoes; vapid beer; vapid tea}
 99491	01716491-a	1	?	0.7	F	まずい:3.5050	unpalatable [not pleasant or acceptable to the taste or mind]  {an unpalatable meal; unpalatable truths; unpalatable behavior}
 99491	04996571-n	1	?	0.7	F	まずい:3.5050	unsavoriness; nauseatingness; disgustingness; sickeningness; distastefulness [extreme unpalatability to the mouth]  {}
@@ -16963,7 +16963,7 @@ TID 太い:3.1912 a linked True
 
 TID 欲しい:3.3042 a linked True
 96159	02632567-v	1	1	1.0	T	欲しい:3.3042	want [be without, lack; be deficient in]  {want courtesy; want the strength to go on living; flood victims wanting food and shelter}
-96159	00733297-a	1	1	1.0	T	欲しい:3.3042	sought after; desired; in demand; coveted [much wanted]  {}
+96159	00733297-a	1	1	1.0	F	欲しい:3.3042	sought after; desired; in demand; coveted [much wanted]  {}
 96159	01188725-v	1	?	0.7	F	欲しい:3.3042	require; want; need [have need of]  {This piano wants the attention of a competent tuner}
 96159	01825962-v	1	?	0.7	F	欲しい:3.3042	like [want to have]  {I'd like a beer now!}
 96159	00709205-v	1	?	0.7	F	欲しい:3.3042	want [wish or demand the presence of]  {I want you here at noon!}
@@ -17273,7 +17273,7 @@ TID 借りる:2.3780 v linked True
 TID 午後:1.1635 n linked True
 8824	15166191-n	1	1	1.0	T	午後:1.1635	afternoon [the part of the day between noon and evening]  {he spent a quiet afternoon in the park}
 8824	15167474-n	1	?	0.7	F	午後:1.1635	night [the period spent sleeping]  {I had a restless night}
-8824	00130701-a	1	?	0.7	T	午後:1.1635	p.m.; post meridiem [after noon]  {}
+8824	00130701-a	1	?	0.7	F	午後:1.1635	p.m.; post meridiem [after noon]  {}
 8824	13983717-n	1	?	0.7	F	午後:1.1635	night [darkness]  {it vanished into the night}
 8824	15167027-n	1	?	0.7	F	午後:1.1635	nighttime; dark; night [the time after sunset and before sunrise while it is dark outside]  {}
 8824	15166462-n	1	?	0.7	F	午後:1.1635	evening; even; eventide; eve [the latter part of the day (the period of decreasing daylight from late afternoon until nightfall)]  {he enjoyed the evening light across the lake}
@@ -17330,7 +17330,7 @@ TID 厚い:3.1911 a linked True
 94048	02516435-a	0	?	0.3	F	厚い:3.1911	gross; megascopic [visible to the naked eye (especially of rocks and anatomical features)]  {}
 
 TID 茶色:1.5020 n linked True
-58007	00372111-a	1	1	1.0	T	茶色:1.5020	brown; chocolate-brown; dark-brown; brownish [of a color similar to that of wood or earth]  {}
+58007	00372111-a	1	1	1.0	F	茶色:1.5020	brown; chocolate-brown; dark-brown; brownish [of a color similar to that of wood or earth]  {}
 58007	04971928-n	1	1	1.0	T	茶色:1.5020	brown; brownness [an orange of low brightness and saturation]  {}
 58007	04972350-n	1	?	0.7	F	茶色:1.5020	chestnut [the brown color of chestnuts]  {}
 58007	12262905-n	0	1	0.5	F	茶色:1.5020	chestnut [wood of any of various chestnut trees of the genus Castanea]  {}
@@ -18607,7 +18607,7 @@ TID レモン:1.5401 n linked True
 61891	14785325-n	0	?	0.3	F	レモン:1.5401	brimstone; native sulphur; native sulfur [an old name for sulfur]  {}
 
 TID 大人（おとな）:1.2050 n linked True
-16184	01488616-a	1	1	1.0	T	大人（おとな）:1.2050	grown; big; full-grown; adult; grownup; fully grown [(of animals) fully developed]  {an adult animal; a grown woman}
+16184	01488616-a	1	1	1.0	F	大人（おとな）:1.2050	grown; big; full-grown; adult; grownup; fully grown [(of animals) fully developed]  {an adult animal; a grown woman}
 16184	01321456-n	1	1	1.0	F	大人（おとな）:1.2050	adult [any mature animal]  {}
 16184	09605289-n	1	1	1.0	T	大人（おとな）:1.2050	adult; grownup [a fully developed person from maturity onward]  {}
 16184	15152062-n	1	?	0.7	F	大人（おとな）:1.2050	majority; legal age [the age at which persons are considered competent to manage their own affairs]  {}
