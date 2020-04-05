@@ -70,7 +70,7 @@ def writeToWns(syns, info):
         for c in syns[k]: # loops through cids
             if c not in info:
                 continue
-            for lng, com, lem, exe in info[c]:
+            for lng, com, lem, exe in info[c]: # loops through list of tuples
                 l3 = l2l3(lng)[0]
                 col2lem = l3 + ':lemma'
                 col2exe = l3 + ':exe'
