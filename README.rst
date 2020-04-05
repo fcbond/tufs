@@ -1,7 +1,9 @@
+
+
 Code and paper for matching TUFS basic Vocab to OMW
 ---------------------------------------------------
 
-#. read basic vocab from the TUFS database dump
+#. Read basic vocab from the TUFS database dump
    #. output some stats
    #. format as input to the OMW linker
 
@@ -11,7 +13,6 @@ Code and paper for matching TUFS basic Vocab to OMW
 #. Hand check linked results
    #. should end with a table of TUFS to OMW links
    #. also fix minor errors in Chinese/Japanese wordnets
-      
    
 #. Use the links to:
    #. evaluate the existing wordnets
