@@ -64,7 +64,7 @@ initWordnet(langs) # initialise wn tsv files
 def writeToWns(syns, info):
     '''A function that writes the required columns to the 
        initialised wn tsv files.
-       syns: a dictionary that maps cid to synset
+       syns: a dictionary that maps synset to cids
        info: a dictionary of lists of tuples with info'''
     for k in syns: # loops through synsets
         for c in syns[k]: # loops through cids
