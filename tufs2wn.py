@@ -16,7 +16,7 @@ tufsVocab = 'tufs-vocab.tsv'
 
 def synToCid(filename):
     '''Maps the synonym set in the OMW to the concept id found in TUFS'''
-    sc = dd(list) # synset to cid
+    sc = dd(list) # synset can have multiple cids
     fh = open(filename)
     for l in fh:
         row = l.strip().split('\t')
@@ -26,14 +26,13 @@ def synToCid(filename):
         
 syns = synToCid(tufsOmwMap)
 
-### Storing info as dictionary with list item
+### Storing cid info in a dictionary
     
 def cidInfo(filename):
     '''Stores the information from tufs-vocab.tsv to process it into a format
        suitable for the OMW
-       cid: a dictionary of lists which contain tuples of info
-       lgs: set of languages useful for initialising dict found in 
-       createWordnet function'''
+       cid: a dictionary to store essential info
+       lgs: set of languages'''
     fh = open(filename)
     cid, lgs = dd(list), set() # cid info, language set
     for l in fh:
@@ -49,32 +48,29 @@ info, langs = cidInfo(tufsVocab)
 
 #print(langs)
 
-### Presenting it as a Wordnet
+### Initialising wordnet tsv files in the required format
 
 def initWordnet(lgs):
     '''Initialises wordnets for each language'''
     fh = dict()
     for l in lgs:
         fh[l] = open('tufs-vocab-{}.tsv'.format(l), 'w')
-#        fh[l] = open('tufs-vocab-{}'.format(l), 'a')
         print('\t'.join(['# TUFS Basic {} Wordnet'.format(l2l3(l)[1]), 
-                         '{0} http://www.coelang.tufs.ac.jp/mt/{1}/'.format(
-                                                           l2l3(l)[0], l),
+                         '{0} http://www.coelang.tufs.ac.jp/mt/{1}/'.format(l2l3(l)[0], l),
                          'CC BY 4.0']), file = fh[l])
 
-initWordnet(langs)
+initWordnet(langs) # initialise wn tsv files
 
 def writeToWns(syns, info):
-    '''A function that writes the required data to the 
+    '''A function that writes the required columns to the 
        initialised wn tsv files.
-       syns: a dictionary that maps cid to synset
-       tups: a tuple with info
-       wn: an initialised dictionary of wordnets'''
-    for k in syns:
-        for c in syns[k]: # sense
+       syns: a dictionary that maps synset to cids
+       info: a dictionary of lists of tuples with info'''
+    for k in syns: # loops through synsets
+        for c in syns[k]: # loops through cids
             if c not in info:
                 continue
-            for lng, com, lem, exe in info[c]:
+            for lng, com, lem, exe in info[c]: # loops through list of tuples
                 l3 = l2l3(lng)[0]
                 col2lem = l3 + ':lemma'
                 col2exe = l3 + ':exe'
@@ -85,7 +81,7 @@ def writeToWns(syns, info):
                 else:
                     print('\t'.join([k, col2lem, lem]), file=fh)
                 if exe != None:
-                    exe = exe.split('|')[0] # remove Jap gloss
+                    exe = exe.split('|')[0] # removes Japanese gloss
                     print('\t'.join([k, col2exe, exe]), file=fh)
 
 #print(info['19186'][11][2].split('; '))
