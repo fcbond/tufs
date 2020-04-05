@@ -187,17 +187,18 @@ for lang in ["ar", "as", "de", "en", "es", "fr", "id",
             sense[u2t[u]][lang] = (usage[u][0], usage[u][1], usage_inst[u])
 
 ### debug
-print ('word in English is:', word['en']['1208'], '1208') #475
-print ('language in English is:', word['en']['1206'], '1206') #477
-#inst = dd(lambda: dd(tuple))
-print('TUFS ID', '30264', sense['30264']['en'])
-print('example for', '215', inst['en']['215'])
-print('usage:', '475', usage['475'])
-print('u2t[]:', '475', u2t['475'])
-print('TUFS ID', '30521', sense['30521']['en'])
-print('example for', '738', inst['en']['7385'])
-print('usage:', '477', usage['477'])
-print('u2t[]:', '477', u2t['477'])
+if __name__ == "__main__":
+    print ('word in English is:', word['en']['1208'], '1208') #475
+    print ('language in English is:', word['en']['1206'], '1206') #477
+    #inst = dd(lambda: dd(tuple))
+    print('TUFS ID', '30264', sense['30264']['en'])
+    print('example for', '215', inst['en']['215'])
+    print('usage:', '475', usage['475'])
+    print('u2t[]:', '475', u2t['475'])
+    print('TUFS ID', '30521', sense['30521']['en'])
+    print('example for', '738', inst['en']['7385'])
+    print('usage:', '477', usage['477'])
+    print('u2t[]:', '477', u2t['477'])
 
 # 
 bunrui2pos = dd(lambda: '?')
@@ -255,7 +256,7 @@ def clean(word, lang):
             zhs = w.split() # single or multi
             cleaned.append((zhs[0], 'py:'+ zhs[1]))
             if len(zhs) > 2:
-                print('ERROR in pinyin', w)
+                print('ERROR in pinyin', file=log)
         else:
             cleaned.append((w, ''))
         #word = re.sub(r'(.+) \((.+?)\)', r'brk:\1 ', word)
@@ -263,6 +264,8 @@ def clean(word, lang):
 
     return cleaned
     
+
+
 ### nice tsv format
 # "cid", "lang", "wid", "lemma", "meaning", "example"
 with open('tufs-vocab.tsv','w') as t:
@@ -284,134 +287,137 @@ with open('tufs-vocab.tsv','w') as t:
                   sep='\t',file=t)
 
 
+def main():
 
-
-luis =open ('luis-vocab.tsv','w')
-html=open ('tufs-vocab.html','w')
-print("""<HTML>
-  <head>
-  </head>
-  <body>""",
-          file=html)
-
-stats=dd(int)
-for b in sorted(bunrui, key=lambda x: bunrui_t[x]):
-    ### messy html
-    tid = b
-    print("""<h3><a name='{3}'>{0} ({1}: {2}) id={3}, pos={4}</a></h3>
-    """.format(bunrui[b], bunrui_t[b],
-               st[bunrui_t[b][:4]]['en'], b,
-               bunrui2pos[bunrui_t[b][0]]),
-          file=html)
-    print ("{} ({}: {}) id={}".format(bunrui[b], bunrui_t[b],
-                                   st[bunrui_t[b][:4]]['en'], b))
-    ws = [] # for dic matching
-    print("""    <table border>\n""", file=html)
- 
-    print ("""    <tr>
-      <th>Language</th>
-      <th>Lemma</th>
-      <th>Cleaned</th>
-      <th>Meaning</th>
-      <th>Example</th>
-    </tr>""", file=html)
-    #print (sense[tid].keys()
-    for l in sorted(sense[tid].keys()):
-        stats[l] += len(sense[tid][l])
-        (wid, explanation, iid) = sense[tid][l]
-        w = word[l][wid]
-        if w == '':
-            continue
-        cleaned = []
-        for (lem,typ) in clean(w,l):
-            if not typ:
-                cleaned.append(lem)
-            else:
-                cleaned.append(lem + ' (' + typ  + ')')
-            ws.append(l2l3(l)[0] +'|' + lem)
-        ### print language
-        print("""  <tr>\n""", file=html)
-        print('<td>{}</td>'.format(l2l3(l)[1],l),file=html)
-#         s= <img class='basicSound' src='./img/speaker_box_out.gif' id='sndmk_946'/>
-# <a href='./sound/word/word_946.mp3'><img id='sndmk_0' class='wordSoundLink' src='./img/soundmark_out.gif'></a>
-#	🔊
-        url='http://www.coelang.tufs.ac.jp/mt/{0}/vmod'.format(l)
-        print("""<td><a href='{0}/v_search_detail.php?id={1}'>{2}</a>
-        (<a href='{0}/sound/word/word_{1}.mp3'/>🔊</a>)</td>""".format(url,
-                                                                   wid,
-                                                                   w),file=html)
-        print("<td>{}</td>".format('; '.join(cleaned)),file=html)
-        print('<td>{}</td>'.format(explanation),file=html)
-        if inst[l][iid]:
-            print("<td>{2} (<a href='{0}/sound/inst/inst_{1}.mp3'>🔊</a>)<br>{3}</td>".format(url,
-                                                                                             iid,
-                                                                                             inst[l][iid][0],
-                                                                                             inst[l][iid][1]),file=html)
-        else:
-            print('<td><br></td>', file=html)
-        print("""  </tr>\n""", file=html)
-    print("""    <table>\n""", file=html)
-    ### output for LUIS
-    if ws:
-        sens=bunrui[b] + ':' + bunrui_t[b]
-        comment='tufs_id='+b
-        print('TUFS', bunrui2pos[bunrui_t[b][0]], sens,
-              ', '.join(ws),
-              comment, '', '', '', '', '', '', '', 
-              sep='\t',file=luis)
-print("""<hr>
-<p>Based on data from <a href='https://malindo.aa-ken.jp/TUFSOpenLgResources.html'>TUFS Open Language Resources</a>
-<p>This view created by Francis Bond
-</body>
-</html>""",
-          file=html)
-html.close()
-luis.close()
-
-        
-fh =open('tufgoi.tex', 'w')
-print("\\begin{tabular}{llrrrl} ", file=fh)
-print("Language& & Concepts\t& Words & \% in WN & Comment \\\\\n\\hline ", file=fh)
-total = dd(int)
-for l in sorted(stats.keys()):
-    l3, language=l2l3(l)
-    shared=set()
-    bad =0
-    for i in word[l]:
-        #w = clean(i, l)[0][0]
-        w = word[l][i]
-        if (not w) or w=="":
-            bad+=1
-            continue
-        w = clean(w,l)[0][0]    
-        w_ = w.replace(' ','_')
-        try:
-            if wn.synsets(w, lang=l3) or wn.synsets(w_, lang=l3): 
-                shared.add(w)
-            else:
-                print('"{}" not found in wn ({})'.format(w,l))
-        except:
-            True
-    print("{} & {}\t&{:6,d}\t&{:6,d} & {:d}\\\\".format(language, l,
-                                                      stats[l], len(word[l]),
-                                                      round(100* len(shared)/(len(word[l])-bad))
-    ), file=fh)
-    total['words'] += len(word[l])
-    total['concepts'] += stats[l]
-print("{}\t&{:6,d}\t&{:6,d} \\\\".format('Total',
-                                   total['concepts'], total['words']), file=fh)
-print("\\end{tabular}", file=fh)
-fh.close()
-
-for sp in  sorted(super_w.keys()):
-    lxn = dd(float)
-    for w in super_w[sp]['en']:
-        for l in wn.lemmas(w):
-            lxn[l.synset().lexname()] += l.count() + .5
-    print (sp, st[sp]['en'], ",".join(super_w[sp]['en']), sep='\t')
-    stp = (0, 'Unknown')
-    if len(lxn.items()) > 0:
-        stp=sorted([(f,w) for (w, f) in lxn.items()])[-1]
+    luis =open ('luis-vocab.tsv','w')
+    html=open ('tufs-vocab.html','w')
+    print("""<HTML>
+      <head>
+      </head>
+      <body>""",
+              file=html)
     
-    print ('', '', stp, sep='\t')
-    #print ('', '', lxn, sep='\t')
+    stats=dd(int)
+    for b in sorted(bunrui, key=lambda x: bunrui_t[x]):
+        ### messy html
+        tid = b
+        print("""<h3><a name='{3}'>{0} ({1}: {2}) id={3}, pos={4}</a></h3>
+        """.format(bunrui[b], bunrui_t[b],
+                   st[bunrui_t[b][:4]]['en'], b,
+                   bunrui2pos[bunrui_t[b][0]]),
+              file=html)
+        print ("{} ({}: {}) id={}".format(bunrui[b], bunrui_t[b],
+                                       st[bunrui_t[b][:4]]['en'], b))
+        ws = [] # for dic matching
+        print("""    <table border>\n""", file=html)
+     
+        print ("""    <tr>
+          <th>Language</th>
+          <th>Lemma</th>
+          <th>Cleaned</th>
+          <th>Meaning</th>
+          <th>Example</th>
+        </tr>""", file=html)
+        #print (sense[tid].keys()
+        for l in sorted(sense[tid].keys()):
+            stats[l] += len(sense[tid][l])
+            (wid, explanation, iid) = sense[tid][l]
+            w = word[l][wid]
+            if w == '':
+                continue
+            cleaned = []
+            for (lem,typ) in clean(w,l):
+                if not typ:
+                    cleaned.append(lem)
+                else:
+                    cleaned.append(lem + ' (' + typ  + ')')
+                ws.append(l2l3(l)[0] +'|' + lem)
+            ### print language
+            print("""  <tr>\n""", file=html)
+            print('<td>{}</td>'.format(l2l3(l)[1],l),file=html)
+    #         s= <img class='basicSound' src='./img/speaker_box_out.gif' id='sndmk_946'/>
+    # <a href='./sound/word/word_946.mp3'><img id='sndmk_0' class='wordSoundLink' src='./img/soundmark_out.gif'></a>
+    #	🔊
+            url='http://www.coelang.tufs.ac.jp/mt/{0}/vmod'.format(l)
+            print("""<td><a href='{0}/v_search_detail.php?id={1}'>{2}</a>
+            (<a href='{0}/sound/word/word_{1}.mp3'/>🔊</a>)</td>""".format(url,
+                                                                       wid,
+                                                                       w),file=html)
+            print("<td>{}</td>".format('; '.join(cleaned)),file=html)
+            print('<td>{}</td>'.format(explanation),file=html)
+            if inst[l][iid]:
+                print("<td>{2} (<a href='{0}/sound/inst/inst_{1}.mp3'>🔊</a>)<br>{3}</td>".format(url,
+                                                                                                 iid,
+                                                                                                 inst[l][iid][0],
+                                                                                                 inst[l][iid][1]),file=html)
+            else:
+                print('<td><br></td>', file=html)
+            print("""  </tr>\n""", file=html)
+        print("""    <table>\n""", file=html)
+        ### output for LUIS
+        if ws:
+            sens=bunrui[b] + ':' + bunrui_t[b]
+            comment='tufs_id='+b
+            print('TUFS', bunrui2pos[bunrui_t[b][0]], sens,
+                  ', '.join(ws),
+                  comment, '', '', '', '', '', '', '', 
+                  sep='\t',file=luis)
+    print("""<hr>
+    <p>Based on data from <a href='https://malindo.aa-ken.jp/TUFSOpenLgResources.html'>TUFS Open Language Resources</a>
+    <p>This view created by Francis Bond
+    </body>
+    </html>""",
+              file=html)
+    html.close()
+    luis.close()
+    
+            
+    fh =open('tufgoi.tex', 'w')
+    print("\\begin{tabular}{llrrrl} ", file=fh)
+    print("Language& & Concepts\t& Words & \% in WN & Comment \\\\\n\\hline ", file=fh)
+    total = dd(int)
+    for l in sorted(stats.keys()):
+        l3, language=l2l3(l)
+        shared=set()
+        bad =0
+        for i in word[l]:
+            #w = clean(i, l)[0][0]
+            w = word[l][i]
+            if (not w) or w=="":
+                bad+=1
+                continue
+            w = clean(w,l)[0][0]    
+            w_ = w.replace(' ','_')
+            try:
+                if wn.synsets(w, lang=l3) or wn.synsets(w_, lang=l3): 
+                    shared.add(w)
+                else:
+                    print('"{}" not found in wn ({})'.format(w,l))
+            except:
+                True
+        print("{} & {}\t&{:6,d}\t&{:6,d} & {:d}\\\\".format(language, l,
+                                                          stats[l], len(word[l]),
+                                                          round(100* len(shared)/(len(word[l])-bad))
+        ), file=fh)
+        total['words'] += len(word[l])
+        total['concepts'] += stats[l]
+    print("{}\t&{:6,d}\t&{:6,d} \\\\".format('Total',
+                                       total['concepts'], total['words']), file=fh)
+    print("\\end{tabular}", file=fh)
+    fh.close()
+    
+    for sp in  sorted(super_w.keys()):
+        lxn = dd(float)
+        for w in super_w[sp]['en']:
+            for l in wn.lemmas(w):
+                lxn[l.synset().lexname()] += l.count() + .5
+        print (sp, st[sp]['en'], ",".join(super_w[sp]['en']), sep='\t')
+        stp = (0, 'Unknown')
+        if len(lxn.items()) > 0:
+            stp=sorted([(f,w) for (w, f) in lxn.items()])[-1]
+        
+        print ('', '', stp, sep='\t')
+        #print ('', '', lxn, sep='\t')
+        
+if __name__ == "__main__":
+    main()
