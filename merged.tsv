@@ -15327,7 +15327,7 @@ TID 七月:1.1961 n linked True
 14680	13726074-n	0	?	0.3	F	七月:1.1961	watt second; joule; J [a unit of electrical energy equal to the work done when a current of one ampere passes through a resistance of one ohm for one second]  {}
 
 TID 語（ご）:1.3101 n linked True
-30521	06286395-n	1	1	1.0	T	語（ご）:1.3101	word [a unit of language that native speakers can identify]  {words are the blocks from which sentences are made; he hardly said ten words all morning}
+30521	06286395-n	1	1	1.0	M	語（ご）:1.3101	word [a unit of language that native speakers can identify]  {words are the blocks from which sentences are made; he hardly said ten words all morning}
 30521	06306034-n	1	?	0.7	F	語（ご）:1.3101	lexeme [a minimal unit (as a word or stem) in the lexicon of a language; `go' and `went' and `gone' and `going' are all members of the English lexeme `go']  {}
 30521	06303888-n	1	?	0.7	F	語（ご）:1.3101	term [a word or expression used for some particular thing]  {he learned many medical terms}
 30521	05650820-n	0	1	0.5	F	語（ご）:1.3101	speech; language [the mental faculty or power of vocal communication]  {language sets homo sapiens apart from all other animals}
@@ -15922,7 +15922,7 @@ TID あの:4.3010 r linked False
 100468	06633363-n	0	?	0.3	F	あの:4.3010	apology [an expression of regret at having caused trouble for someone]  {he wrote a letter of apology to the hostess}
 100468	06604548-n	0	?	0.3	F	あの:4.3010	loophole [an ambiguity (especially one in the text of a law or contract) that makes it possible to evade a difficulty or obligation]  {}
 100468	00892923-v	0	?	0.3	F	あの:4.3010	apologize; apologise [acknowledge faults or shortcomings or failing]  {I apologized for being late; He apologized for the many typoes}
-100468	80000672-x	?	?	0.5	T	あの:4.3010	excuse me [A phrase used to apologise or get someone's attention] {}
+100468	80000672-x	?	?	0.5	M	あの:4.3010	excuse me [A phrase used to apologise or get someone's attention] {}
 
 
 TID 耳:1.5601 n linked True
