@@ -23,7 +23,11 @@ This is the classification of concepts used by TUFS:
 
 `Bunruigoihyou (Word List by Semantic Principle) <https://pj.ninjal.ac.jp/corpus_center/goihyo.html>`_
 
+This contains the PostgreSQL dumps:
+
 `TUFS data <https://malindo.aa-ken.jp/TUFSOpenLgResources.html>`_
+
+This is the link to the Open Multilingual Wordnet:
 
 `OMW <http://compling.hss.ntu.edu.sg/omw/>`_
 
