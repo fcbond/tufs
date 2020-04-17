@@ -41,23 +41,27 @@ sense = dd(lambda: dd(tuple))
 ##
 ##
 
-##
-## bunrui names
-## 
 
-# st['4.50']['en'] = 'Animal calls'
-st = dd(lambda: dd(str))
-fh = open(datadir + "/bunrui_names.tsv")
-for l in fh:
-    #print(l)
-    (code, en, ms, my, ja) = l.strip().split("\t")
-    if code == 'Code':
-        continue
-    st[code]['en'] = en
-    st[code]['ms'] = ms
-    st[code]['my'] = my
-    st[code]['ja'] = ja
+def read_bunrui_names(filename):
+    """
+    read the names of the bunrui concepts 
+    we have them in four languages: en, ms, my, ja
 
+    bunrui_name['4.50']['en'] = 'Animal calls'
+    """
+    bunrui_name = dd(lambda: dd(str))
+    fh = open(filename)
+    for l in fh:
+        #print(l)
+        (code, en, ms, my, ja) = l.strip().split("\t")
+        if code == 'Code':
+            continue
+        bunrui_name[code]['en'] = en
+        bunrui_name[code]['ms'] = ms
+        bunrui_name[code]['my'] = my
+        bunrui_name[code]['ja'] = ja
+    return bunrui_name
+        
 def read_lang(lang):
     """Put all the data for  language in a table
     the key is the table name, 
@@ -288,7 +292,7 @@ with open('tufs-vocab.tsv','w') as t:
 
 
 def main():
-
+    st =read_bunrui_names(datadir + "/bunrui_names.tsv")
     luis =open ('luis-vocab.tsv','w')
     html=open ('tufs-vocab.html','w')
     print("""<HTML>
