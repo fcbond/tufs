@@ -55,8 +55,8 @@ def initWordnet(lgs):
     fh = dict()
     for l in lgs:
         fh[l] = open('tufs-vocab-{}.tsv'.format(l), 'w')
-        print('\t'.join(['# TUFS Basic {} Wordnet'.format(l2l3(l)[1]), 
-                         '{0} http://www.coelang.tufs.ac.jp/mt/{1}/'.format(l2l3(l)[0], l),
+        print('\t'.join(['# TUFS Basic {} Wordnet'.format(l2l3(l)[1]), l2l3(l)[0], 
+                         'http://www.coelang.tufs.ac.jp/mt/{}/'.format(l),
                          'CC BY 4.0']), file = fh[l])
 
 initWordnet(langs) # initialise wn tsv files
