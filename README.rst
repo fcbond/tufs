@@ -19,6 +19,9 @@ Code and paper for matching TUFS basic Vocab to OMW
    #. create new data for the wordnets (should send)
       synonyms, example sentences, ...
 
+This is the classification of concepts used by TUFS:
+
+`Bunruigoihyou (Word List by Semnatic Principle) <https://pj.ninjal.ac.jp/corpus_center/goihyo.html>`
 
 `TUFS data <https://malindo.aa-ken.jp/TUFSOpenLgResources.html>`_
 
