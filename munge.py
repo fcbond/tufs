@@ -16,34 +16,34 @@ import re
 datadir = 'tufsdata'  # where the tufs data is downloaded to 
 log = open('munge.log', 'w')
 
-##
-## Three data types
-##
-## word --- has form and pronunciation
-## word[lang][wid] = form
+### Three data types
+
+## Lemmas
+
+# word --- has wid (word ID) and form
+# word[lang][wid] = form
 word = dd(lambda: dd(str))
-## url = 'http://www.coelang.tufs.ac.jp/mt/{}/vmod/sound/word/word_{}.mp3'.format(lang,wid)
-##
-## Instance id (for examples)
-##
-## inst[lang][iid] = (form, trans)
+
+# wid also links to pronounciation
+# url = 'http://www.coelang.tufs.ac.jp/mt/{}/vmod/sound/word/word_{}.mp3'.format(lang,wid)
+
+## Instances
+
+# instances (for examples)
+# inst[lang][iid] = (form, trans)
 inst = dd(lambda: dd(tuple))
-## url = 'http://www.coelang.tufs.ac.jp/mt/{}/vmod/sound/inst/inst_{}.mp3'.format(lang,iid)
-##
-## ???
-##
 
-##
-## sense[tid][lang] = [(wid, explanation, iid), (wid, explanation, iid) ]
+# iid (instance ID) also links to pronounciation
+# url = 'http://www.coelang.tufs.ac.jp/mt/{}/vmod/sound/inst/inst_{}.mp3'.format(lang,iid)
+
+### TUFS Senses
+
+# explanation 
+# tid (tufs ID)
+# sense[tid][lang] = [(wid, explanation, iid), (wid, explanation, iid) ]
 sense = dd(lambda: dd(tuple))
-## 
-## concept[tid] = bid
-##
-##
 
-##
-## bunrui names
-## 
+
 
 # st['4.50']['en'] = 'Animal calls'
 st = dd(lambda: dd(str))
