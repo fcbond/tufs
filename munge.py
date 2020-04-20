@@ -309,7 +309,10 @@ def clean(word, lang):
             elif lang in ['ja']:  # it is a footnotemark
                 cleaned.append((m.group(1), ''))
             elif lang in ['ms']:  # Malay gives us roots
-                cleaned.append((m.group(1), 'morph:root '+m.group(2)))
+                if m.group(1)[0] == 'm':
+                    cleaned.append((m.group(2), 'morph:meN- '+m.group(1)))
+                elif m.group(1)[0] == 'b':
+                    cleaned.append((m.group(2), 'morph:ber- '+m.group(1)))
         elif lang == 'zh': # split pinyin
             #print(w)
             #print('zh', w)
