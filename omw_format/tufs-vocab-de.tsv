@@ -2,10 +2,12 @@
 15210045-n	deu:lemma	Januar
 15210045-n	deu:exe	Also, bis zum 18. Januar.
 05755883-n	deu:lemma	Studium
+05755883-n	deu:exe	Im März werde ich das Studium beendet haben.
 05755883-n	deu:exe	Äh, was willst du denn eigentlich nach dem Studium machen?
 04971928-n	deu:lemma	braun
 04971928-n	deu:exe	Sie hat braune Augen und eine braune Haarfarbe.
 15163797-n	deu:lemma	Sonntag
+15163797-n	deu:exe	Am Sonntag besuchen sie ihre Großeltern.
 15163797-n	deu:exe	Ach, übrigens, hast du am Sonntag Zeit?
 15043763-n	deu:lemma	Schnee
 15043763-n	deu:exe	Der Berggipfel ist selbst im Sommer mit Schnee bedeckt.
@@ -14,12 +16,16 @@
 08058098-n	deu:lemma	Firma
 08058098-n	deu:exe	Mein Vater arbeitet bei einer Firma, die eng mit Toyota zusammenarbeitet.
 01382086-a	deu:lemma	groß
+01382086-a	deu:exe	Die Schnitzel sind so groß wie Teller, und man bekommt sogar zwei davon.
 01382086-a	deu:exe	Der kleine Wecker und die große Vase sind Geschenke von meinem Vater.
 01453084-a	deu:lemma	groß
+01453084-a	deu:exe	Die Schnitzel sind so groß wie Teller, und man bekommt sogar zwei davon.
 01453084-a	deu:exe	Der kleine Wecker und die große Vase sind Geschenke von meinem Vater.
 00527870-a	deu:lemma	groß
+00527870-a	deu:exe	Die Schnitzel sind so groß wie Teller, und man bekommt sogar zwei davon.
 00527870-a	deu:exe	Der kleine Wecker und die große Vase sind Geschenke von meinem Vater.
 01677433-a	deu:lemma	groß
+01677433-a	deu:exe	Die Schnitzel sind so groß wie Teller, und man bekommt sogar zwei davon.
 01677433-a	deu:exe	Der kleine Wecker und die große Vase sind Geschenke von meinem Vater.
 10084295-n	deu:lemma	Mädchen
 10084295-n	deu:exe	Das Mädchen steht vor dem Spiegel.
@@ -30,16 +36,21 @@
 00065495-v	deu:lemma	munter
 00065495-v	deu:exe	Das Kind hat Fieber und sieht trotzdem munter aus.
 80001734-n	deu:lemma	Unterricht
+80001734-n	deu:exe	Der Unterricht beginnt um 9 Uhr.
 80001734-n	deu:exe	„Sind Sie mit dem Unterricht zufrieden?“
 00889472-n	deu:lemma	Unterricht
+00889472-n	deu:exe	Der Unterricht beginnt um 9 Uhr.
 00889472-n	deu:exe	„Sind Sie mit dem Unterricht zufrieden?“
 02608347-v	deu:lemma	beginnen
+02608347-v	deu:exe	Der Film beginnt um acht Uhr. Davor kommt nur Werbung.
 02608347-v	deu:exe	Alles beginnt mit dem ersten Schritt.
 07850329-n	deu:lemma	Käse
 07850329-n	deu:exe	Er nimmt ein Messer. Und damit schneidet er ein Stück Käse ab.
 03623556-n	deu:lemma	Messer
+03623556-n	deu:exe	Er nimmt ein Messer. Und damit schneidet er ein Stück Käse ab.
 03623556-n	deu:exe	Ich brauche ein schärferes Messer.
 03624134-n	deu:lemma	Messer
+03624134-n	deu:exe	Er nimmt ein Messer. Und damit schneidet er ein Stück Käse ab.
 03624134-n	deu:exe	Ich brauche ein schärferes Messer.
 01776727-v	deu:lemma	hassen
 01776727-v	deu:exe	Ich hasse Leute, die im Auto mit dem Handy telefonieren.
@@ -48,6 +59,7 @@
 02783161-n	deu:lemma	Kugelschreiber
 02783161-n	deu:exe	Dieser Kugelschreiber schreibt echt gut.
 02632567-v	deu:lemma	mögen
+02632567-v	deu:exe	Heute möchte ich zu Hause bleiben.
 02632567-v	deu:exe	Ich möchte zum Geburtstag ein Sportrad.
 01579608-a	deu:lemma	gleich
 01579608-a	deu:exe	Geh lieber gleich zum Arzt!
@@ -58,20 +70,29 @@
 11456462-n	deu:lemma	heiter
 11456462-n	deu:exe	Berlin meldet heiter bis wölkig bei 27 Grad.
 07848338-n	deu:lemma	Butter
+07848338-n	deu:exe	Sie hat dick Butter aufs Brot gestrichen.
 07848338-n	deu:exe	Zwiebeln klein schneiden und in Butter braun rösten.
 90000501-n	deu:lemma	letztes Jahr
 90000501-n	deu:exe	Aber letztes Jahr war ich in Thailand.
 15210870-n	deu:lemma	März
+15210870-n	deu:exe	Im März werde ich das Studium beendet haben.
 15210870-n	deu:exe	In Japan feiert man am 3. März das Mädchenfest.
 77000072-n	deu:lemma	hier
+77000072-n	deu:exe	Warte mal hier!
+77000072-n	deu:exe	Hier darf man nicht rauchen.
 77000072-n	deu:exe	Hier wird bald eine Grundschule gebaut.
 08489497-n	deu:lemma	hier
+08489497-n	deu:exe	Warte mal hier!
+08489497-n	deu:exe	Hier darf man nicht rauchen.
 08489497-n	deu:exe	Hier wird bald eine Grundschule gebaut.
 03561345-n	deu:lemma	Bild
+03561345-n	deu:exe	Wow, das Bild ist aber schön!
 03561345-n	deu:exe	Auf dem Film sind noch drei Bilder.
 03234306-n	deu:lemma	Bild
+03234306-n	deu:exe	Wow, das Bild ist aber schön!
 03234306-n	deu:exe	Auf dem Film sind noch drei Bilder.
 03876519-n	deu:lemma	Bild
+03876519-n	deu:exe	Wow, das Bild ist aber schön!
 03876519-n	deu:exe	Auf dem Film sind noch drei Bilder.
 07110615-n	deu:lemma	Stimme
 07110615-n	deu:exe	Ich erkenne ihn an seiner Stimme.
@@ -80,6 +101,7 @@
 09411430-n	deu:lemma	Fluss
 09411430-n	deu:exe	Den Fluss entlang stehen Kirschbäume.
 15236859-n	deu:lemma	Herbst
+15236859-n	deu:exe	Im Herbst färbt sich das Laub herrlich bunt.
 15236859-n	deu:exe	Wir haben uns schon im Herbst vorigen Jahres kennen gelernt.
 02107442-v	deu:lemma	hören
 02107442-v	deu:exe	Du kannst doch hier nicht einfach Musik hören!
@@ -88,56 +110,89 @@
 02242464-v	deu:lemma	verkaufen
 02242464-v	deu:exe	Ich glaube, die sind schon fast alle verkauft.
 00271022-a	deu:lemma	hell
+00271022-a	deu:exe	Durch die großen Fenster ist das Zimmer sehr hell.
+00271022-a	deu:lemma	hell
+00271022-a	deu:exe	Sie trägt heute ein helles Kleid.
 00271022-a	deu:exe	Ich nehme ein helles Bier.
 00396523-a	deu:lemma	hell
+00396523-a	deu:exe	Durch die großen Fenster ist das Zimmer sehr hell.
+00396523-a	deu:lemma	hell
+00396523-a	deu:exe	Sie trägt heute ein helles Kleid.
 00396523-a	deu:exe	Ich nehme ein helles Bier.
 00269989-a	deu:lemma	hell
+00269989-a	deu:exe	Durch die großen Fenster ist das Zimmer sehr hell.
+00269989-a	deu:lemma	hell
+00269989-a	deu:exe	Sie trägt heute ein helles Kleid.
 00269989-a	deu:exe	Ich nehme ein helles Bier.
 00278551-a	deu:lemma	hell
+00278551-a	deu:exe	Durch die großen Fenster ist das Zimmer sehr hell.
+00278551-a	deu:lemma	hell
+00278551-a	deu:exe	Sie trägt heute ein helles Kleid.
 00278551-a	deu:exe	Ich nehme ein helles Bier.
 02924116-n	deu:lemma	Bus
+02924116-n	deu:exe	Die Kinder fahren mit dem Bus zur Schule.
+02924116-n	deu:exe	Der Bus kann jeden Augenblick kommen.
 02924116-n	deu:exe	Dort steigen Sie um in den Bus der Linie 100.
 01614426-v	deu:lemma	kleben
 01614426-v	deu:exe	Bitte kleben Sie eine Briefmarke darauf und werfen Sie den Brief in den Postkasten.
 80001230-x	deu:lemma	ja
+80001230-x	deu:exe	Ja, ich bin Japaner.
+80001230-x	deu:exe	Ja, das hoffe ich auch.
 80001230-x	deu:exe	Ja, ist in Ordnung.
 01184932-a	deu:lemma	schwer
 01184932-a	deu:exe	Dieser Koffer ist ziemlich schwer.
 07881800-n	deu:lemma	Getränk
 07881800-n	deu:exe	Welche Getränke gibt es zu den Mahlzeiten?
 01119192-a	deu:lemma	gut
+01119192-a	deu:exe	Der Fußballer spielt sehr gut.
 01119192-a	deu:exe	Und was ich echt erstaunlich fand, war, dass die so gut Deutsch gesprochen hat.
 02226162-a	deu:lemma	gut
+02226162-a	deu:exe	Der Fußballer spielt sehr gut.
 02226162-a	deu:exe	Und was ich echt erstaunlich fand, war, dass die so gut Deutsch gesprochen hat.
 01838916-a	deu:lemma	gut
+01838916-a	deu:exe	Der Fußballer spielt sehr gut.
 01838916-a	deu:exe	Und was ich echt erstaunlich fand, war, dass die so gut Deutsch gesprochen hat.
 03467517-n	deu:lemma	Gitarre
 03467517-n	deu:exe	Da spielt jemand Gitarre!
 03613294-n	deu:lemma	Schlüssel
 03613294-n	deu:exe	Hier hast du den Schlüssel zu meinem Zimmer. Ich komme gleich nach.
 01553629-a	deu:lemma	viel
+01553629-a	deu:exe	Dann viel Spaß!
+01553629-a	deu:exe	Oh, das ist aber ganz schön viel, was wir da machen müssen.
 01553629-a	deu:exe	Wow, du hast ja viele Bücher!
 01551633-a	deu:lemma	viel
+01551633-a	deu:exe	Dann viel Spaß!
+01551633-a	deu:exe	Oh, das ist aber ganz schön viel, was wir da machen müssen.
 01551633-a	deu:exe	Wow, du hast ja viele Bücher!
 01552419-a	deu:lemma	viel
+01552419-a	deu:exe	Dann viel Spaß!
+01552419-a	deu:exe	Oh, das ist aber ganz schön viel, was wir da machen müssen.
 01552419-a	deu:exe	Wow, du hast ja viele Bücher!
 00127137-a	deu:lemma	alt
+00127137-a	deu:exe	Das alte Haus wurde abgerissen.
 00127137-a	deu:exe	Die Touristen, die diese alte Stadt kennen, besuchen sie immer wieder.
 01638438-a	deu:lemma	alt
+01638438-a	deu:exe	Das alte Haus wurde abgerissen.
 01638438-a	deu:exe	Die Touristen, die diese alte Stadt kennen, besuchen sie immer wieder.
 01729384-a	deu:lemma	alt
+01729384-a	deu:exe	Das alte Haus wurde abgerissen.
 01729384-a	deu:exe	Die Touristen, die diese alte Stadt kennen, besuchen sie immer wieder.
 10694258-n	deu:lemma	Lehrer
+10694258-n	deu:lemma	Lehrerin (morph:f)
+10694258-n	deu:exe	Ein Schüler fragt den Lehrer.
+10694258-n	deu:exe	Der Lehrer hilft dem Schüler ständig.
 10694258-n	deu:exe	Die Lehrerin ist seit drei Tagen krank.
 07859284-n	deu:lemma	Zucker
 07859284-n	deu:exe	Sie trinkt Kaffee ohne Zucker.
 09605289-n	deu:lemma	Erwachsene
+09605289-n	deu:exe	Kinder reden, Erwachsene hören zu.
 09605289-n	deu:exe	Die Eintrittskarte für Erwachsene kostet 10 Euro, für Kinder 5 Euro.
 04081281-n	deu:lemma	Restaurant
 04081281-n	deu:exe	Das chinesische Restaurant ist wegen seiner besonderen Atmosphäre beliebt.
 04081281-n	deu:lemma	Mensa
 04081281-n	deu:exe	Die Studenten essen in der Mensa.
 10448983-n	deu:lemma	Polizist
+10448983-n	deu:lemma	Polizistin (morph:f)
 10448983-n	deu:exe	Er will wie sein Vater Polizist werden.
 90000507-n	deu:lemma	diese Woche
 90000507-n	deu:exe	Diese Woche habe ich viel zu tun.
@@ -146,8 +201,10 @@
 02691156-n	deu:lemma	Flugzeug
 02691156-n	deu:exe	Das Flugzeug ist pünktlich gelandet.
 08420278-n	deu:lemma	Bank
+08420278-n	deu:exe	Sie arbeitet bei einer Bank.
 08420278-n	deu:exe	Heute gehe ich zur Bank, um ein Konto zu eröffnen.
 02787772-n	deu:lemma	Bank
+02787772-n	deu:exe	Sie arbeitet bei einer Bank.
 02787772-n	deu:exe	Heute gehe ich zur Bank, um ein Konto zu eröffnen.
 02018049-v	deu:lemma	einsteigen
 02018049-v	deu:exe	Wir sind in Tokio in einen falschen Zug eingestiegen.
@@ -164,10 +221,12 @@
 06627938-n	deu:lemma	Postkarte
 06627938-n	deu:exe	Auf der Urlaubsreise schreibt sie gerne Postkarten an ihre Freunde.
 03959485-n	deu:lemma	Teller
+03959485-n	deu:exe	Ich brauche einen größeren Teller.
 03959485-n	deu:exe	Die Schnitzel sind so groß wie Teller, und man bekommt sogar zwei davon.
 00393105-a	deu:lemma	weiß
 00393105-a	deu:exe	Das weiße Hemd trägt er ohne Krawatte, dazu Jeans.
 08625073-n	deu:lemma	rechts
+08625073-n	deu:exe	Gehen Sie hier nach rechts und dann immer geradeaus.
 08625073-n	deu:exe	Auf der rechten Seite ist dann der Kopierraum.
 03051540-n	deu:lemma	Kleidung
 03051540-n	deu:exe	Wie viel Geld gibst du durchschnittlich im Monat für Kleidung aus?
@@ -176,6 +235,7 @@
 03419014-n	deu:lemma	Kleidung
 03419014-n	deu:exe	Wie viel Geld gibst du durchschnittlich im Monat für Kleidung aus?
 15165289-n	deu:lemma	Morgen
+15165289-n	deu:exe	Guten Morgen!
 15165289-n	deu:exe	Diesen Morgen sind wir in die Kirche gegangen.
 15165289-n	deu:lemma	Vormittag
 15165289-n	deu:exe	Ich habe fast jeden Vormittag Unterricht.
@@ -184,28 +244,56 @@
 03720163-n	deu:lemma	Landkarte
 03720163-n	deu:exe	Sie zeigt mir den Weg auf der Landkarte.
 00024996-a	deu:lemma	neu
+00024996-a	deu:exe	Und, was gibt's Neues?
+00024996-a	deu:exe	Ja, heute haben wir wirklich viele neue Vokabeln besprochen.
 00024996-a	deu:exe	Oh Nicole, wer soll jetzt bloß unsere neue Mitbewohnerin werden?
 01642477-a	deu:lemma	neu
+01642477-a	deu:exe	Und, was gibt's Neues?
+01642477-a	deu:exe	Ja, heute haben wir wirklich viele neue Vokabeln besprochen.
 01642477-a	deu:exe	Oh Nicole, wer soll jetzt bloß unsere neue Mitbewohnerin werden?
 01641648-a	deu:lemma	neu
+01641648-a	deu:exe	Und, was gibt's Neues?
+01641648-a	deu:exe	Ja, heute haben wir wirklich viele neue Vokabeln besprochen.
 01641648-a	deu:exe	Oh Nicole, wer soll jetzt bloß unsere neue Mitbewohnerin werden?
 01687167-a	deu:lemma	neu
+01687167-a	deu:exe	Und, was gibt's Neues?
+01687167-a	deu:exe	Ja, heute haben wir wirklich viele neue Vokabeln besprochen.
 01687167-a	deu:exe	Oh Nicole, wer soll jetzt bloß unsere neue Mitbewohnerin werden?
 02584699-a	deu:lemma	neu
+02584699-a	deu:exe	Und, was gibt's Neues?
+02584699-a	deu:exe	Ja, heute haben wir wirklich viele neue Vokabeln besprochen.
 02584699-a	deu:exe	Oh Nicole, wer soll jetzt bloß unsere neue Mitbewohnerin werden?
 01686439-a	deu:lemma	neu
+01686439-a	deu:exe	Und, was gibt's Neues?
+01686439-a	deu:exe	Ja, heute haben wir wirklich viele neue Vokabeln besprochen.
 01686439-a	deu:exe	Oh Nicole, wer soll jetzt bloß unsere neue Mitbewohnerin werden?
 02070491-a	deu:lemma	neu
+02070491-a	deu:exe	Und, was gibt's Neues?
+02070491-a	deu:exe	Ja, heute haben wir wirklich viele neue Vokabeln besprochen.
 02070491-a	deu:exe	Oh Nicole, wer soll jetzt bloß unsere neue Mitbewohnerin werden?
 02013758-a	deu:lemma	neu
+02013758-a	deu:exe	Und, was gibt's Neues?
+02013758-a	deu:exe	Ja, heute haben wir wirklich viele neue Vokabeln besprochen.
 02013758-a	deu:exe	Oh Nicole, wer soll jetzt bloß unsere neue Mitbewohnerin werden?
 01640850-a	deu:lemma	neu
+01640850-a	deu:exe	Und, was gibt's Neues?
+01640850-a	deu:exe	Ja, heute haben wir wirklich viele neue Vokabeln besprochen.
 01640850-a	deu:exe	Oh Nicole, wer soll jetzt bloß unsere neue Mitbewohnerin werden?
 00894552-n	deu:lemma	Übung
 00894552-n	deu:exe	Übung macht den Meister.
+01292683-a	deu:lemma	mögen
+01292683-a	deu:exe	Die Schüler mögen ihren Lehrer sehr.
+01292683-a	deu:exe	„Magst du Möhren?“ „Nein, Möhren mag ich nicht.“
 01292683-a	deu:lemma	gefallen
+01292683-a	deu:exe	Dieses Fahrrad gefällt mir sehr.
+01292683-a	deu:exe	Das sind die Schuhe, die mir am besten gefallen.
 01292683-a	deu:exe	Ich hoffe, er gefällt dir.
+01777210-v	deu:lemma	mögen
+01777210-v	deu:exe	Die Schüler mögen ihren Lehrer sehr.
+01777210-v	deu:exe	„Magst du Möhren?“ „Nein, Möhren mag ich nicht.“
 01777210-v	deu:lemma	gefallen
+01777210-v	deu:exe	Dieses Fahrrad gefällt mir sehr.
+01777210-v	deu:exe	Das sind die Schuhe, die mir am besten gefallen.
 01777210-v	deu:exe	Ich hoffe, er gefällt dir.
 03038685-n	deu:lemma	Klassenzimmer
 03038685-n	deu:exe	Gestern haben wir uns den Film "Das fliegende Klassenzimmer" angesehen.
@@ -214,6 +302,7 @@
 00154449-r	deu:lemma	wahrscheinlich
 00154449-r	deu:exe	Wahrscheinlich regnet es morgen.
 03001627-n	deu:lemma	Stuhl
+03001627-n	deu:exe	Um jeden Tisch stehen sechs Stühle.
 03001627-n	deu:exe	Er ist vor Aufregung vom Stuhl aufgestanden.
 01734929-v	deu:lemma	kopieren
 01734929-v	deu:exe	Dann drückst du auf "Start", so wie beim normalen Kopieren.
@@ -222,14 +311,20 @@
 01926311-v	deu:lemma	rennen
 01926311-v	deu:exe	Jeden Morgen steht er um 5 auf und rennt ein paar Stunden im Park herum.
 02005496-v	deu:lemma	zurückkehren
+02005496-v	deu:exe	Sie sind gerade von der Reise zurückgekehrt.
 02005496-v	deu:exe	In naher Zukunft will ich gerne in meine Heimat zurückkehren.
 04298308-n	deu:lemma	Treppe
+04298308-n	deu:exe	Gehen Sie hier die Treppe hoch und dann geradeaus.
 04298308-n	deu:exe	Nehmen Sie den Aufzug oder die Treppe.
 00037919-v	deu:lemma	duschen
 00037919-v	deu:exe	Als der Wecker klingelte, hatte ich mich schon geduscht und umgezogen.
 01532589-v	deu:lemma	putzen
+01532589-v	deu:exe	Das Kind putzt sich die Zähne.
+01532589-v	deu:exe	Seine Schuhe sind blank geputzt.
 01532589-v	deu:exe	Das Bad und die Toilette sollte man häufig putzen.
 01533442-v	deu:lemma	putzen
+01533442-v	deu:exe	Das Kind putzt sich die Zähne.
+01533442-v	deu:exe	Seine Schuhe sind blank geputzt.
 01533442-v	deu:exe	Das Bad und die Toilette sollte man häufig putzen.
 07663592-n	deu:lemma	Rindfleisch
 07663592-n	deu:exe	Hindus essen kein Rindfleisch, Moslems kein Schweinefleisch.
@@ -240,16 +335,22 @@
 80000079-n	deu:lemma	letzten Monat
 80000079-n	deu:exe	Wie viele Bücher hast du letzten Monat gelesen?
 10020890-n	deu:lemma	Arzt
+10020890-n	deu:lemma	Ärztin (morph:f)
+10020890-n	deu:exe	Er wird Arzt und sie wird auch Ärztin.
 10020890-n	deu:exe	Geh lieber gleich zum Arzt!
 10305802-n	deu:lemma	Arzt
+10305802-n	deu:lemma	Ärztin (morph:f)
+10305802-n	deu:exe	Er wird Arzt und sie wird auch Ärztin.
 10305802-n	deu:exe	Geh lieber gleich zum Arzt!
 03710193-n	deu:lemma	Briefkasten
 03710193-n	deu:exe	Der Briefkasten steht direkt am Haupteingang vom Hotel.
 03989074-n	deu:lemma	Briefkasten
 03989074-n	deu:exe	Der Briefkasten steht direkt am Haupteingang vom Hotel.
 15136147-n	deu:lemma	Woche
+15136147-n	deu:exe	In einer Woche kommt meine Freundin aus den Staaten zu Besuch.
 15136147-n	deu:exe	Ich gehe mindesten einmal pro Woche schwimmen.
 15169873-n	deu:lemma	Woche
+15169873-n	deu:exe	In einer Woche kommt meine Freundin aus den Staaten zu Besuch.
 15169873-n	deu:exe	Ich gehe mindesten einmal pro Woche schwimmen.
 15211806-n	deu:lemma	Juni
 15211806-n	deu:exe	Bis Ende Juni möchte ich gerne noch zwei Kilo abnehmen.
@@ -264,6 +365,7 @@
 00081737-r	deu:lemma	jedes Jahr
 00081737-r	deu:exe	Da wohnt nämlich mein Onkel, den besuche ich jedes Jahr.
 00018158-v	deu:lemma	aufstehen
+00018158-v	deu:exe	Wenn jemand arbeitet, muss der immer so früh aufstehen.
 00018158-v	deu:exe	Jeden Morgen steht er um 5 auf und rennt ein paar Stunden im Park herum.
 05538625-n	deu:lemma	Kopf
 05538625-n	deu:exe	Doch mein Kopf schmerzt und ich fühle mich nicht gut.
@@ -279,57 +381,89 @@
 05137165-n	deu:exe	Dieser Turm hat eine Höhe von über 50 Metern.
 05131647-n	deu:lemma	Höhe
 05131647-n	deu:exe	Dieser Turm hat eine Höhe von über 50 Metern.
+00009966-r	deu:lemma	gern geschehen
+00009966-r	deu:exe	Gern geschehen.
 00009966-r	deu:lemma	bitte
+00009966-r	deu:exe	Nehmen Sie bitte Platz!
 00009966-r	deu:exe	Werde doch bitte schnell wieder gesund!
 10103485-n	deu:lemma	Ausländer
+10103485-n	deu:lemma	Ausländerin (morph:f)
+10103485-n	deu:exe	In Tokio leben viele Ausländer.
 10103485-n	deu:exe	Er hat eine Ausländerin geheiratet.
 02958343-n	deu:lemma	Auto
+02958343-n	deu:exe	Sie fährt mit dem Auto nach Berlin.
+02958343-n	deu:exe	Dieses Auto gehört meinem Vater.
 02958343-n	deu:exe	Seit jenem Unfall fährt er nicht mehr Auto.
 03924069-n	deu:lemma	Schallplatte
 03924069-n	deu:exe	Er sammelt alte Schallplatten, die er teilweise wieder verkauft.
 10332385-n	deu:lemma	Mutter
+10332385-n	deu:exe	Meine Mutter war früher Angestellte.
 10332385-n	deu:exe	 „Was schenkst du deiner Mutter?“
 02410855-v	deu:lemma	arbeiten
+02410855-v	deu:exe	Ich möchte als Programmierer arbeiten.
+02410855-v	deu:exe	Wenn ich genug Geld hätte, würde ich nicht mehr arbeiten.
 02410855-v	deu:exe	Sagen Sie, woran arbeiten Sie denn eigentlich genau?
 07668702-n	deu:lemma	Schweinefleisch
 07668702-n	deu:exe	Schweinefleisch enthält vor allem Vitamin B1 und B6.
 00081836-n	deu:lemma	Einkauf
+00081836-n	deu:exe	Wir machen immer in diesem Supermarkt Einkäufe.
 00081836-n	deu:exe	Gesundes Essen fängt beim Einkauf an.
 04203889-n	deu:lemma	Einkauf
+04203889-n	deu:exe	Wir machen immer in diesem Supermarkt Einkäufe.
 04203889-n	deu:exe	Gesundes Essen fängt beim Einkauf an.
 13836136-n	deu:lemma	Westen
+13836136-n	deu:exe	Im Westen der Stadt entsteht ein neues Altenheim.
 13836136-n	deu:exe	Belgien liegt in Westeuropa.
 02368336-a	deu:lemma	süß
+02368336-a	deu:exe	Diese Schokolade gefällt mir nicht. Sie ist zu süß.
 02368336-a	deu:exe	Das Kind räumt sein Zimmer auf und bekommt dafür was Süßes.
 04254777-n	deu:lemma	Strumpf
 04254777-n	deu:exe	Das Kind kann die Strümpfe schon selber anziehen.
 01845229-v	deu:lemma	reisen
+01845229-v	deu:exe	Im Sommer reist sie nach Deutschland.
 01845229-v	deu:exe	Er erweitert seinen Gesichtskreis durch Reisen.
 01846916-v	deu:lemma	reisen
+01846916-v	deu:exe	Im Sommer reist sie nach Deutschland.
 01846916-v	deu:exe	Er erweitert seinen Gesichtskreis durch Reisen.
 01845720-v	deu:lemma	reisen
+01845720-v	deu:exe	Im Sommer reist sie nach Deutschland.
 01845720-v	deu:exe	Er erweitert seinen Gesichtskreis durch Reisen.
 00061203-r	deu:lemma	hinten
+00061203-r	deu:exe	Ich frage mal den Mann da hinten.
 00061203-r	deu:exe	Er steht ganz hinten im Saal.
 10112591-n	deu:lemma	Freund
+10112591-n	deu:lemma	Freundin (morph:f)
+10112591-n	deu:exe	Ein Freund hat ihn über den Unfall unterrichtet.
 10112591-n	deu:exe	Da kommt eine japanische Freundin zu mir.
 08588294-n	deu:lemma	Mitte
 08588294-n	deu:exe	Der Marktplatz liegt in der Mitte der Stadt.
 08588152-n	deu:lemma	Mitte
 08588152-n	deu:exe	Der Marktplatz liegt in der Mitte der Stadt.
 77000021-n	deu:lemma	du
+77000021-n	deu:exe	Hast du schon etwas vor?
+77000021-n	deu:exe	Du hast zu gehorchen.
+77000021-n	deu:exe	Erinnerst du dich noch an deinen Kindergarten?
 77000021-n	deu:exe	Wer ist der Mann, den du anrufen wolltest?
 77000021-n	deu:lemma	Sie
+77000021-n	deu:exe	Haben Sie heute Zeit?
 77000021-n	deu:exe	Sind Sie für seinen Vorschlag?
 02771169-v	deu:lemma	sich aufklären
 02771169-v	deu:exe	Der Himmel klärt sich auf.
 77000061-a	deu:lemma	dieser
+77000061-a	deu:exe	Wann kommt dieser Zug in Köln an?
+77000061-a	deu:exe	Ich möchte diese Seite vergrößern.
 77000061-a	deu:exe	In dieser Zeit wird hart gearbeitet und ordentlich verdient.
 80001619-a	deu:lemma	dieser
+80001619-a	deu:exe	Wann kommt dieser Zug in Köln an?
+80001619-a	deu:exe	Ich möchte diese Seite vergrößern.
 80001619-a	deu:exe	In dieser Zeit wird hart gearbeitet und ordentlich verdient.
 77000075-a	deu:lemma	dieser
+77000075-a	deu:exe	Wann kommt dieser Zug in Köln an?
+77000075-a	deu:exe	Ich möchte diese Seite vergrößern.
 77000075-a	deu:exe	In dieser Zeit wird hart gearbeitet und ordentlich verdient.
 08649345-n	deu:lemma	neben
+08649345-n	deu:exe	Der Drucker steht neben dem Computer.
+08649345-n	deu:exe	Er stellt den Drucker neben den Computer.
 08649345-n	deu:exe	Neben dem Haupteingang ist eine Kopierecke, dort ist ein Kartenautomat.
 15211484-n	deu:lemma	Mai
 15211484-n	deu:exe	Anfang Mai planen wir eine kleine Reise nach Hawaii. 
@@ -338,12 +472,15 @@
 15165490-n	deu:lemma	Mittag
 15165490-n	deu:exe	Heute Mittag habe ich einen Termin in der Klinik.
 04272054-n	deu:lemma	Brille
+04272054-n	deu:exe	Der Lehrer trägt eine goldene Brille.
 04272054-n	deu:exe	Ich habe gestern meine Brille verloren.
 80000746-n	deu:lemma	chinesisches Zeichen
 80000746-n	deu:exe	In diesem Kurs lernen die Teilnehmer chinesische Zeichen lesen und schreiben.
 10287213-n	deu:lemma	Mann
+10287213-n	deu:exe	Ich frage mal den Mann da hinten.
 10287213-n	deu:exe	Der kranke Mann konnte nichts essen.
 09624168-n	deu:lemma	Mann
+09624168-n	deu:exe	Ich frage mal den Mann da hinten.
 09624168-n	deu:exe	Der kranke Mann konnte nichts essen.
 15164105-n	deu:lemma	Dienstag
 15164105-n	deu:exe	Ich habe am Dienstag Nachmittag einen wichtigen Termin.
@@ -352,18 +489,30 @@
 00479391-v	deu:lemma	löschen
 00479391-v	deu:exe	Sie stellt den Wecker und löscht die Kerze.
 03238879-n	deu:lemma	Hemd
+03238879-n	deu:exe	Das ist das Hemd, das mir am besten gefällt.
 03238879-n	deu:exe	Das weiße Hemd trägt er ohne Krawatte, dazu Jeans.
 02412164-a	deu:lemma	dünn
+02412164-a	deu:exe	Das Brot ist in dünne Scheiben geschnitten.
 02412164-a	deu:exe	Ich finde sie zu dünn.
 02414188-a	deu:lemma	dünn
+02414188-a	deu:exe	Das Brot ist in dünne Scheiben geschnitten.
 02414188-a	deu:exe	Ich finde sie zu dünn.
 08489627-n	deu:lemma	dort
 08489627-n	deu:exe	Neben dem Haupteingang ist eine Kopierecke, dort ist ein Kartenautomat.
 01168468-v	deu:lemma	essen
+01168468-v	deu:exe	Die Studenten essen in der Mensa.
+01168468-v	deu:exe	Wer nicht arbeitet, soll auch nicht essen.
+01168468-v	deu:exe	Kannst du eigentlich mit Stäbchen essen?
 01168468-v	deu:exe	Hmm... Ich muss vorher aber unbedingt noch was essen.
 01166351-v	deu:lemma	essen
+01166351-v	deu:exe	Die Studenten essen in der Mensa.
+01166351-v	deu:exe	Wer nicht arbeitet, soll auch nicht essen.
+01166351-v	deu:exe	Kannst du eigentlich mit Stäbchen essen?
 01166351-v	deu:exe	Hmm... Ich muss vorher aber unbedingt noch was essen.
 01179865-v	deu:lemma	essen
+01179865-v	deu:exe	Die Studenten essen in der Mensa.
+01179865-v	deu:exe	Wer nicht arbeitet, soll auch nicht essen.
+01179865-v	deu:exe	Kannst du eigentlich mit Stäbchen essen?
 01179865-v	deu:exe	Hmm... Ich muss vorher aber unbedingt noch was essen.
 15122231-n	deu:lemma	Zeit
 15122231-n	deu:exe	Die Zeit vergeht so schnell.
@@ -372,6 +521,7 @@
 90000503-n	deu:lemma	nächstes Jahr
 90000503-n	deu:exe	Das neue Gebäude wird nächstes Jahr fertig.
 08168367-n	deu:lemma	Ausland
+08168367-n	deu:exe	Ich möchte ins Ausland reisen.
 08168367-n	deu:exe	Mein Mann arbeitet demnächst für zwei Jahre im Ausland.
 02560548-a	deu:lemma	weit
 02560548-a	deu:exe	Von hier kann man das Meer weit überschauen.
@@ -388,16 +538,23 @@
 07139316-n	deu:lemma	Gespräch
 07139316-n	deu:exe	Was muss man beim Gespräch mit den Kunden beachten?
 00031798-r	deu:lemma	schon
+00031798-r	deu:exe	Wartest du schon lange?
+00031798-r	deu:exe	Ich glaube, die sind schon fast alle verkauft.
 00031798-r	deu:exe	Hast du schon mal in Asien Urlaub gemacht?
 07555863-n	deu:lemma	Essen
+07555863-n	deu:exe	Der Tisch wurde gedeckt und das Essen wurde aufgetragen.
 07555863-n	deu:exe	Die esse ich sogar am liebsten, was japanisches Essen angeht.
 07560652-n	deu:lemma	Essen
+07560652-n	deu:exe	Der Tisch wurde gedeckt und das Essen wurde aufgetragen.
 07560652-n	deu:exe	Die esse ich sogar am liebsten, was japanisches Essen angeht.
 00157412-r	deu:lemma	manchmal
+00157412-r	deu:exe	Manchmal telefoniere ich mit ihm.
 00157412-r	deu:exe	Manchmal hat er sogar keine Zeit zum Schlafen.
 00021212-r	deu:lemma	manchmal
+00021212-r	deu:exe	Manchmal telefoniere ich mit ihm.
 00021212-r	deu:exe	Manchmal hat er sogar keine Zeit zum Schlafen.
 03740161-n	deu:lemma	Medikament
+03740161-n	deu:exe	Bei mir wirkt dieses Medikament auf jeden Fall sehr gut.
 03740161-n	deu:exe	Er muss die Medikamente täglich einnehmen.
 02318272-a	deu:lemma	geradeaus
 02318272-a	deu:exe	Gehen Sie hier die Treppe hoch und dann geradeaus.
@@ -408,6 +565,7 @@
 10787470-n	deu:lemma	Frau
 10787470-n	deu:exe	Die alte Frau stand an der Ampel und wartete auf Grün. 
 10736091-n	deu:lemma	Onkel
+10736091-n	deu:exe	Ich wohne bei meinem Onkel.
 10736091-n	deu:exe	Statt meines Vaters kommt mein Onkel.
 04404997-n	deu:lemma	Kamera
 04404997-n	deu:exe	Ich habe zum Geburtstag von meinem Vater eine Digitalkamera geschenkt bekommen.
@@ -416,20 +574,26 @@
 04370048-n	deu:lemma	Pullover
 04370048-n	deu:exe	Sie trägt gern eine Jeans und einen Pullover.
 02626604-v	deu:lemma	werden
+02626604-v	deu:exe	Ich will Staatsanwältin werden.
 02626604-v	deu:exe	Je älter er wird, desto bescheidener wird er.
 02623529-v	deu:lemma	werden
+02623529-v	deu:exe	Ich will Staatsanwältin werden.
 02623529-v	deu:exe	Je älter er wird, desto bescheidener wird er.
 04398497-n	deu:lemma	Café
+04398497-n	deu:exe	Ich war am Samstag zum ersten Mal im Café Kowalski.
 04398497-n	deu:exe	Hmm, gehen wir ins Stadt-Café oder bleiben wir in der Uni?
 00081591-r	deu:lemma	jede Woche
 00081591-r	deu:exe	Wir schreiben jede Woche einen Vokabeltest.
 01535246-v	deu:lemma	waschen
+01535246-v	deu:exe	Ich wasche dem Kind die Hände.
+01535246-v	deu:exe	Während sie die Wäsche wäschst, bereitet er das Mittagessen.
 01535246-v	deu:exe	Wie oft wäscht du dein Auto?
 00606093-v	deu:lemma	üben
 00606093-v	deu:exe	Sie übt jeden Tag drei Stunden Piano.
 01723224-v	deu:lemma	üben
 01723224-v	deu:exe	Sie übt jeden Tag drei Stunden Piano.
 15156187-n	deu:lemma	gestern
+15156187-n	deu:exe	Warum bist du denn gestern nicht zur Fete gekommen?
 15156187-n	deu:exe	Seit gestern tut mir der Hals ziemlich weh.
 01919428-a	deu:lemma	ruhig
 01919428-a	deu:exe	Stockholm ist eine sehr saubere und ruhige Stadt.
@@ -442,40 +606,57 @@
 04350905-n	deu:lemma	Anzug
 04350905-n	deu:exe	Der neue Anzug steht ihm gut.
 00409440-a	deu:lemma	dunkel
+00409440-a	deu:exe	Sie hat dunkle Haare und braune Augen.
 00409440-a	deu:exe	Ich trinke gerne dunkles Bier.
 00842199-a	deu:lemma	stark
 00842199-a	deu:exe	Er hat einen starken Willen und setzt seine Meinug durch.
 15163979-n	deu:lemma	Montag
+15163979-n	deu:exe	Ich muss noch bis Montag ein Referat fertig kriegen.
 15163979-n	deu:exe	Kommen Sie doch einfach am nächsten Montag vorbei.
 00059413-r	deu:lemma	oft
+00059413-r	deu:exe	Klar, ich mach' gern Aerobic und ich schwimme auch oft.
 00059413-r	deu:exe	Wie oft bist du denn da?
 00035058-r	deu:lemma	oft
+00035058-r	deu:exe	Klar, ich mach' gern Aerobic und ich schwimme auch oft.
 00035058-r	deu:exe	Wie oft bist du denn da?
 05687338-n	deu:lemma	Problem
+05687338-n	deu:exe	Deutschland hat ein ernstes Arbeitslosenproblem.
 05687338-n	deu:exe	Er hat Probleme mit seiner Freundin.
 06784003-n	deu:lemma	Problem
+06784003-n	deu:exe	Deutschland hat ein ernstes Arbeitslosenproblem.
 06784003-n	deu:exe	Er hat Probleme mit seiner Freundin.
 03281145-n	deu:lemma	Aufzug
 03281145-n	deu:exe	Nehmen Sie den Aufzug oder die Treppe.
 05320899-n	deu:lemma	Ohr
 05320899-n	deu:exe	Er hat gute Ohren.
 00007846-n	deu:lemma	jemand
+00007846-n	deu:exe	Kann hier jemand Deutsch?
+00007846-n	deu:exe	Da macht jemand Musik!
 00007846-n	deu:exe	Es gibt Menschen, denen nie jemand glaubt, obwohl sie die Wahrheit sprechen.
 03436182-n	deu:lemma	Radiorekorder
 03436182-n	deu:exe	Ich suche einen Radiorekorder mit CD-Spieler.
 04284002-n	deu:lemma	Löffel
+04284002-n	deu:exe	Das Kind isst die warme Suppe mit dem Löffel.
 04284002-n	deu:exe	Sie trinkt Kaffee immer mit zwei Löffel Zucker.
 13134947-n	deu:lemma	Obst
 13134947-n	deu:exe	Zum Frühstück esse ich meistens nur Obst.
 11683989-n	deu:lemma	Obst
 11683989-n	deu:exe	Zum Frühstück esse ich meistens nur Obst.
 02730813-v	deu:lemma	sagen
+02730813-v	deu:exe	Das sagen alle.
+02730813-v	deu:exe	Ich habe nicht den Mut, meinem Freund die Wahrheit zu sagen.
 02730813-v	deu:exe	Ich konnte mir nicht erlauben, meine Meinung zu sagen.
 01009240-v	deu:lemma	sagen
+01009240-v	deu:exe	Das sagen alle.
+01009240-v	deu:exe	Ich habe nicht den Mut, meinem Freund die Wahrheit zu sagen.
 01009240-v	deu:exe	Ich konnte mir nicht erlauben, meine Meinung zu sagen.
 00941990-v	deu:lemma	sagen
+00941990-v	deu:exe	Das sagen alle.
+00941990-v	deu:exe	Ich habe nicht den Mut, meinem Freund die Wahrheit zu sagen.
 00941990-v	deu:exe	Ich konnte mir nicht erlauben, meine Meinung zu sagen.
 00979870-v	deu:lemma	sagen
+00979870-v	deu:exe	Das sagen alle.
+00979870-v	deu:exe	Ich habe nicht den Mut, meinem Freund die Wahrheit zu sagen.
 00979870-v	deu:exe	Ich konnte mir nicht erlauben, meine Meinung zu sagen.
 04507155-n	deu:lemma	Regenschirm
 04507155-n	deu:exe	Nimm einen Regenschirm mit! Vielleicht regnet es heute Abend wieder.
@@ -488,10 +669,16 @@
 02229000-a	deu:lemma	schlecht
 02229000-a	deu:exe	Sein Englisch ist schlecht, aber besser als mein Italienisch.
 15270431-n	deu:lemma	Zeit
+15270431-n	deu:exe	Ach, ich schlafe zur Zeit nicht gut.
+15270431-n	deu:exe	Papa, wann hast du denn Zeit, mit mir Fußball zu spielen?
 15270431-n	deu:exe	In dieser Zeit wird hart gearbeitet und ordentlich verdient.
 15227846-n	deu:lemma	Zeit
+15227846-n	deu:exe	Ach, ich schlafe zur Zeit nicht gut.
+15227846-n	deu:exe	Papa, wann hast du denn Zeit, mit mir Fußball zu spielen?
 15227846-n	deu:exe	In dieser Zeit wird hart gearbeitet und ordentlich verdient.
 15269513-n	deu:lemma	Zeit
+15269513-n	deu:exe	Ach, ich schlafe zur Zeit nicht gut.
+15269513-n	deu:exe	Papa, wann hast du denn Zeit, mit mir Fußball zu spielen?
 15269513-n	deu:exe	In dieser Zeit wird hart gearbeitet und ordentlich verdient.
 00744916-a	deu:lemma	schwierig
 00744916-a	deu:exe	Die Aufgaben, die unser Lehrer uns gibt, sind sehr schwierig.
@@ -500,10 +687,15 @@
 06272803-n	deu:lemma	Telefon
 06272803-n	deu:exe	Ja, tut mir Leid, aber unser Telefon war plötzlich kaputt, ausgerechnet gestern Abend!
 02870092-n	deu:lemma	Buch
+02870092-n	deu:exe	Peter kauft heute ein Buch.
+02870092-n	deu:exe	Sie nimmt ein Buch aus der Tasche.
 02870092-n	deu:exe	Die Mutter sitzt neben dem schlafenden Kind und liest ein Buch.
 06410904-n	deu:lemma	Buch
+06410904-n	deu:exe	Peter kauft heute ein Buch.
+06410904-n	deu:exe	Sie nimmt ein Buch aus der Tasche.
 06410904-n	deu:exe	Die Mutter sitzt neben dem schlafenden Kind und liest ein Buch.
 09972010-n	deu:lemma	Cousin
+09972010-n	deu:lemma	Cousine (morph:f)
 09972010-n	deu:exe	Mein Cousin wohnt in Köln.
 14974264-n	deu:lemma	Papier
 14974264-n	deu:exe	Nehmen Sie ein Blatt Papier zur Hand und schreiben Sie Ihren Namen in die Mitte des Papiers. 
@@ -514,12 +706,19 @@
 04960277-n	deu:lemma	schwarz
 04960277-n	deu:exe	Hätten Sie den vielleicht auch noch in Schwarz?
 02770717-v	deu:lemma	sich bewölken
+02770717-v	deu:exe	Der Himmel bewölkte sich rasch.
 02770717-v	deu:exe	Heute ist es teilweise bewölkt.
 02529945-a	deu:lemma	kühl
 02529945-a	deu:exe	Heute ist es windig und ziemlich kühl.
+02207206-v	deu:lemma	einkaufen
+02207206-v	deu:exe	Heute Nachmittag gehe ich im Supermarkt einkaufen.
 02207206-v	deu:lemma	kaufen
+02207206-v	deu:exe	Und wo kann ich die kaufen?
 02207206-v	deu:exe	Sie sagte, er kaufe sich ein Auto.
+02208265-v	deu:lemma	einkaufen
+02208265-v	deu:exe	Heute Nachmittag gehe ich im Supermarkt einkaufen.
 02208265-v	deu:lemma	kaufen
+02208265-v	deu:exe	Und wo kann ich die kaufen?
 02208265-v	deu:exe	Sie sagte, er kaufe sich ein Auto.
 00422620-a	deu:lemma	schmutzig
 00422620-a	deu:exe	Weiße Hemden werden schnell schmutzig.
@@ -538,24 +737,28 @@
 04330340-n	deu:lemma	Ofen
 04330340-n	deu:exe	Alle Kinder wärmen sich am Ofen.
 07823951-n	deu:lemma	Curry
+07823951-n	deu:exe	Mein Sohn mag sehr gerne Curry.
 07823951-n	deu:exe	Dieses Curry enthält zehn verschiedene Gewürze.
 05598147-n	deu:lemma	Nase
 05598147-n	deu:exe	Er fiel zu Boden und das Blut floss ihm aus der Nase.
 05658826-n	deu:lemma	Nase
 05658826-n	deu:exe	Er fiel zu Boden und das Blut floss ihm aus der Nase.
 06947032-n	deu:lemma	Englisch
+06947032-n	deu:exe	Er spricht gut Englisch.
 06947032-n	deu:exe	Er spricht am besten Englisch von uns.
 07575726-n	deu:lemma	Abendessen
 07575726-n	deu:exe	Nach dem Abendessen sehe ich einen Film.
 03485794-n	deu:lemma	Taschentuch
 03485794-n	deu:exe	Er wischt sich mit dem Taschentuch den Schweiß von der Stirn ab.
 01198101-v	deu:lemma	rauchen
+01198101-v	deu:exe	Hier darf man nicht rauchen.
 01198101-v	deu:exe	Ich höre mit dem Rauchen auf.
 02741003-v	deu:lemma	hängen
 02741003-v	deu:exe	Sie hängt das Foto über den Schreibtisch.
 01206474-a	deu:lemma	niedrig
 01206474-a	deu:exe	Der Schreibtisch ist zu niedrig für mich.
 13832355-n	deu:lemma	Osten
+13832355-n	deu:exe	Die Sonne geht im Osten auf.
 13832355-n	deu:exe	Er kommt aus Ostdeutschland.
 11525955-n	deu:lemma	Wind
 11525955-n	deu:exe	Das Auto fährt gegen den Wind.
@@ -572,20 +775,30 @@
 80001077-n	deu:lemma	was
 80001077-n	deu:exe	Was kostet das denn?
 10665698-n	deu:lemma	Schüler
+10665698-n	deu:lemma	Schülerin (morph:f)
+10665698-n	deu:exe	Ein Schüler fragt den Lehrer.
 10665698-n	deu:exe	Der Schüler wird ständig gelobt.
 10665698-n	deu:lemma	Student
+10665698-n	deu:lemma	Studentin (morph:f)
+10665698-n	deu:exe	Die Zeitschrift wird von vielen Studenten gelesen.
 10665698-n	deu:exe	Alle Studenten bestehen diese Prüfung.
 10251779-n	deu:lemma	Schüler
+10251779-n	deu:lemma	Schülerin (morph:f)
+10251779-n	deu:exe	Ein Schüler fragt den Lehrer.
 10251779-n	deu:exe	Der Schüler wird ständig gelobt.
 08615374-n	deu:lemma	Park
 08615374-n	deu:exe	Im Park tummeln sich viele Kinder.
 77000064-n	deu:lemma	welch
+77000064-n	deu:exe	Welche Bücher sind denn da gut?
+77000064-n	deu:exe	Welche Bluse passt zu diesem Rock?
+77000064-n	deu:exe	Welche Straßenbahn fährt zum Marktplatz?
 77000064-n	deu:exe	Und welche Preislage sollte es sein?
 03290771-n	deu:lemma	Eingang
 03290771-n	deu:exe	Das Gebäude hat zwei Eingänge.
 03290771-n	deu:lemma	Eingang
 03290771-n	deu:exe	Das Gebäude hat zwei Eingänge.
 06409752-n	deu:lemma	Aufsatz
+06409752-n	deu:exe	Hast du schon angefangen, den Aufsatz zu schreiben?
 06409752-n	deu:exe	Ich muss meinen Aufsatz noch verbessern.
 10286084-n	deu:lemma	Geschwister
 10286084-n	deu:exe	Ich habe zwei Geschwister, einen Bruder und eine Schwester. Ich bin die älteste.
@@ -594,6 +807,8 @@
 80001731-n	deu:lemma	ausländischer Student
 80001731-n	deu:exe	Er ist ein ausländischer Student aus der Türkei.
 77000031-n	deu:lemma	sie
+77000031-n	deu:exe	Sie muss bald nach Osaka umziehen.
+77000031-n	deu:exe	Trotz des Regens machen sie einen Spaziergang.
 77000031-n	deu:exe	Ich hoffe, sie werden bald wieder gesund.
 00934199-a	deu:lemma	billig
 00934199-a	deu:exe	Wir suchen ein billiges Hotel oder eine Jugendherberge.
@@ -604,62 +819,85 @@
 15213115-n	deu:lemma	Oktober
 15213115-n	deu:exe	Das Wintersemester beginnt am 1. Oktober.
 15203791-n	deu:lemma	Jahr
-15203791-n	deu:exe	Deutsch in zwei Jahren perfekt zu lernen
+15203791-n	deu:exe	Ich miete das Zimmer für ein Jahr.
+15203791-n	deu:exe	Die Grundschule wurde vor einem Jahr gebaut.
+15203791-n	deu:exe	Deutsch in zwei Jahren perfekt zu lerne
 03619890-n	deu:lemma	Küche
 03619890-n	deu:exe	Aus der Küche riecht es gut. 
 00273734-v	deu:lemma	lehren
+00273734-v	deu:exe	Sie lehrt Deutsch.
 00273734-v	deu:exe	Er hat mich sehr viel gelehrt.
 00829107-v	deu:lemma	lehren
+00829107-v	deu:exe	Sie lehrt Deutsch.
 00829107-v	deu:exe	Er hat mich sehr viel gelehrt.
 00963570-v	deu:lemma	sprechen
+00963570-v	deu:exe	Darf ich Sie bitten, etwas langsamer zu sprechen?
 00963570-v	deu:exe	Es gibt Menschen, denen nie jemand glaubt, obwohl sie die Wahrheit sprechen.
 00815686-v	deu:lemma	antworten
+00815686-v	deu:exe	Der Prüfling war nicht fähig, auf die Fragen schlagfertig zu antworten.
 00815686-v	deu:exe	Antworte bitte sofort!
 00635523-v	deu:lemma	antworten
+00635523-v	deu:exe	Der Prüfling war nicht fähig, auf die Fragen schlagfertig zu antworten.
 00635523-v	deu:exe	Antworte bitte sofort!
 03417345-n	deu:lemma	Garten
+03417345-n	deu:exe	Sein Ferienhaus hat einen großen Garten.
 03417345-n	deu:exe	Trotz des Regens spielen die Kinder im Garten.
 03417749-n	deu:lemma	Garten
+03417749-n	deu:exe	Sein Ferienhaus hat einen großen Garten.
 03417749-n	deu:exe	Trotz des Regens spielen die Kinder im Garten.
 01775164-v	deu:lemma	Lieblings...
 01775164-v	deu:exe	"Was ist dein Lieblingssport?" ― "Mein Lieblingssport ist Fußball."
 01828736-v	deu:lemma	Lieblings...
 01828736-v	deu:exe	"Was ist dein Lieblingssport?" ― "Mein Lieblingssport ist Fußball."
 06418901-n	deu:lemma	Wörterbuch
+06418901-n	deu:exe	Dieses Wörterbuch kann ich Ihnen empfehlen.
 06418901-n	deu:exe	Hast du vielleicht ein japanisch-deutsches Wörterbuch?
 15164570-n	deu:lemma	Samstag
+15164570-n	deu:exe	Dann treffen wir uns am Samstag um 7!
 15164570-n	deu:exe	Das schaffst du schon noch bis Samstag.
 00284798-n	deu:lemma	Spaziergang
 00284798-n	deu:exe	Trotz des Regens machen sie einen Spaziergang.
 00284101-n	deu:lemma	Spaziergang
 00284101-n	deu:exe	Trotz des Regens machen sie einen Spaziergang.
 01712704-v	deu:lemma	tun
+01712704-v	deu:exe	Ich habe viel zu tun.
 01712704-v	deu:exe	Das ist das Beste, was ich tun kann.
 08277393-n	deu:lemma	Schule
+08277393-n	deu:exe	Die Kinder fahren mit dem Bus zur Schule.
 08277393-n	deu:exe	Unsere Schule liegt gegenüber dem Friedhof.
 08276720-n	deu:lemma	Schule
+08276720-n	deu:exe	Die Kinder fahren mit dem Bus zur Schule.
 08276720-n	deu:exe	Unsere Schule liegt gegenüber dem Friedhof.
 00161630-r	deu:lemma	langsam
+00161630-r	deu:exe	Ich muss langsam nach Hause fahren.
 00161630-r	deu:exe	Darf ich Sie bitten, etwas langsamer zu sprechen?
 90000506-n	deu:lemma	letzte Woche
+90000506-n	deu:exe	Du Andrea, du warst doch auch letzte Woche hier in der Vorlesung?
 90000506-n	deu:exe	Wir haben uns doch letzte Woche erst gesehen, bei Claudia.
 03057021-n	deu:lemma	Jacke
+03057021-n	deu:exe	Das ist die Jacke, die mir am besten gefällt.
 03057021-n	deu:exe	Kannst du diesen Fleck aus der Jacke entfernen?
 03057021-n	deu:lemma	Mantel
+03057021-n	deu:exe	Darf ich den roten Mantel mal probieren?
 03057021-n	deu:exe	Der Mantel muss zum Reinigen gegeben werden.
 03589791-n	deu:lemma	Jacke
+03589791-n	deu:exe	Das ist die Jacke, die mir am besten gefällt.
 03589791-n	deu:exe	Kannst du diesen Fleck aus der Jacke entfernen?
 06929279-n	deu:lemma	Japanisch
+06929279-n	deu:exe	Sie lernt Japanisch.
 06929279-n	deu:exe	Du kannst doch Japanisch, oder?
 03303965-n	deu:lemma	Ausgang
 03303965-n	deu:exe	Ich warte am Ausgang auf dich.
 10142391-n	deu:lemma	Großvater
 10142391-n	deu:exe	Ich war fünf Jahre alt, als mein Großvater starb. Ich vermisse ihn sehr.
 07934530-n	deu:lemma	Tee
+07934530-n	deu:exe	Ah nee, ich trinke am liebsten schwarzen Tee.
 07934530-n	deu:exe	Ein Freund hat mir gestern chinesischen Tee geschenkt.
 07933274-n	deu:lemma	Tee
+07933274-n	deu:exe	Ah nee, ich trinke am liebsten schwarzen Tee.
 07933274-n	deu:exe	Ein Freund hat mir gestern chinesischen Tee geschenkt.
 07933274-n	deu:lemma	Tee
+07933274-n	deu:exe	Ein Freund hat mir gestern chinesischen Tee geschenkt.
 07933274-n	deu:exe	Ah nee, ich trinke am liebsten schwarzen Tee.
 07989373-n	deu:lemma	Ehepaar
 07989373-n	deu:exe	Das Ehepaar Meyer hat drei Kinder.
@@ -674,42 +912,65 @@
 04968895-n	deu:lemma	blau
 04968895-n	deu:exe	Das Mädchen trägt ein blaues Kleid.
 01555416-a	deu:lemma	wenig
+01555416-a	deu:exe	Ich habe wenig zu tun.
 01555416-a	deu:exe	Er hat weniger Haar als du.
 01552885-a	deu:lemma	wenig
+01552885-a	deu:exe	Ich habe wenig zu tun.
 01552885-a	deu:exe	Er hat weniger Haar als du.
 00017865-v	deu:lemma	schlafen
+00017865-v	deu:exe	Wir sollten einfach noch mal 'ne Nacht drüber schlafen.
+00017865-v	deu:exe	Ach, ich schlafe zur Zeit nicht gut.
 00017865-v	deu:exe	Das Kind schläft immer schnell ein.
 00450147-a	deu:lemma	nah
+00450147-a	deu:exe	Das Hotel liegt ganz nahe am Meer.
 00450147-a	deu:exe	Der nächste Bahnhof ist 10 km entfernt.
 00444519-a	deu:lemma	nah
+00444519-a	deu:exe	Das Hotel liegt ganz nahe am Meer.
 00444519-a	deu:exe	Der nächste Bahnhof ist 10 km entfernt.
 00445169-a	deu:lemma	nah
+00445169-a	deu:exe	Das Hotel liegt ganz nahe am Meer.
 00445169-a	deu:exe	Der nächste Bahnhof ist 10 km entfernt.
 00584367-n	deu:lemma	Arbeit
+00584367-n	deu:exe	Ich muss zur Arbeit.
 00584367-n	deu:exe	In drei Stunden bin ich mit der Arbeit fertig.
 07574602-n	deu:lemma	Frühstück
+07574602-n	deu:exe	Um wie viel Uhr gibt es Frühstück?
 07574602-n	deu:exe	Zum Frühstück gab es belegte Brote und gekochte Eier.
 08078020-n	deu:lemma	Familie
+08078020-n	deu:exe	Jeden Tag für die Familie zu kochen ist nicht leicht.
 08078020-n	deu:exe	Jede Familie hat ihre eigenen Regeln.
 10236304-n	deu:lemma	Familie
+10236304-n	deu:exe	Jeden Tag für die Familie zu kochen ist nicht leicht.
 10236304-n	deu:exe	Jede Familie hat ihre eigenen Regeln.
 07970406-n	deu:lemma	Familie
+07970406-n	deu:exe	Jeden Tag für die Familie zu kochen ist nicht leicht.
 07970406-n	deu:exe	Jede Familie hat ihre eigenen Regeln.
 07970406-n	deu:lemma	Familie
+07970406-n	deu:exe	Jeden Tag für die Familie zu kochen ist nicht leicht.
 07970406-n	deu:exe	Jede Familie hat ihre eigenen Regeln.
 09918248-n	deu:lemma	Kind
+09918248-n	deu:exe	Das Kind schläft immer schnell ein.
+09918248-n	deu:exe	Ja, ich habe als Kind in Frankreich gelebt.
+09918248-n	deu:exe	Ich suche etwas für ein sechsjähriges Kind.
 09918248-n	deu:exe	Manche Kinder gehen zu einer Nachhilfeschule.
 12212361-n	deu:lemma	Gemüse
 12212361-n	deu:exe	Dass frische Früchte und Gemüse gesund sind, weiß eigentlich jeder.
 07707451-n	deu:lemma	Gemüse
 07707451-n	deu:exe	Dass frische Früchte und Gemüse gesund sind, weiß eigentlich jeder.
 03365991-n	deu:lemma	Stock
+03365991-n	deu:exe	Ja, der Kopierraum ist im ersten Stock.
 03365991-n	deu:exe	Nehmen Sie den Aufzug oder die Treppe.
 00976508-a	deu:lemma	schnell
+00976508-a	deu:exe	Geht schnell zur Schule!
+00976508-a	deu:exe	Das Kind schläft immer schnell ein.
 00976508-a	deu:exe	Sie spricht zwar immer ziemlich schnell, nee, aber sie ist wirklich okay.
 00981818-a	deu:lemma	schnell
+00981818-a	deu:exe	Geht schnell zur Schule!
+00981818-a	deu:exe	Das Kind schläft immer schnell ein.
 00981818-a	deu:exe	Sie spricht zwar immer ziemlich schnell, nee, aber sie ist wirklich okay.
 00979862-a	deu:lemma	schnell
+00979862-a	deu:exe	Geht schnell zur Schule!
+00979862-a	deu:exe	Das Kind schläft immer schnell ein.
 00979862-a	deu:exe	Sie spricht zwar immer ziemlich schnell, nee, aber sie ist wirklich okay.
 07644382-n	deu:lemma	Huhn
 07644382-n	deu:exe	Für ihren Sohn hat sie ein gebratenes Huhn gekauft.
@@ -720,6 +981,7 @@
 07825972-n	deu:lemma	Sojasoße
 07825972-n	deu:exe	Die Sojasoße stammt ursprünglich aus China.
 02005948-v	deu:lemma	ankommen
+02005948-v	deu:exe	Wann kommt dieser Zug in Köln an?
 02005948-v	deu:exe	Ich bin gestern Abend hier angekommen.
 02930766-n	deu:lemma	Taxi
 02930766-n	deu:exe	Ich musste ein Taxi nehmen, weil der letzte Bus schon abgefahren war.
@@ -728,17 +990,26 @@
 00604617-a	deu:lemma	praktisch
 00604617-a	deu:exe	Das Handy ist wirklich praktisch.
 15237250-n	deu:lemma	Sommer
+15237250-n	deu:exe	Was machst du denn diesen Sommer?
+15237250-n	deu:exe	Im Sommer reist sie nach Deutschland.
 15237250-n	deu:exe	In Japan ist es im Sommer sehr schwül.
 03757138-n	deu:lemma	U-Bahn
 03757138-n	deu:exe	Wo ist die nächste U-Bahn-Station?
 04349306-n	deu:lemma	U-Bahn
 04349306-n	deu:exe	Wo ist die nächste U-Bahn-Station?
 77000090-n	deu:lemma	wie
+77000090-n	deu:exe	Wie lernst du Deutsch?
 77000090-n	deu:exe	Wie geht es Ihnen?
 80001331-x	deu:lemma	wie
+80001331-x	deu:exe	Wie lernst du Deutsch?
 80001331-x	deu:exe	Wie geht es Ihnen?
 77000104-n	deu:lemma	wann
+77000104-n	deu:exe	Wann kommt dieser Zug in Köln an?
+77000104-n	deu:exe	Oh, seit wann bist du denn hier?
 77000104-n	deu:exe	Hey, Anna, wann fängt dein nächstes Seminar an?
+04105893-n	deu:lemma	Zimmer
+04105893-n	deu:exe	Ich miete das Zimmer für ein Jahr.
+04105893-n	deu:exe	Mein Zimmer ist kleiner als sein Zimmer.
 04105893-n	deu:lemma	Apartment
 04105893-n	deu:exe	Das Apartment liegt direkt am Meer.
 06415419-n	deu:lemma	Heft
@@ -748,16 +1019,20 @@
 01375831-a	deu:lemma	berühmt
 01375831-a	deu:exe	Sie ist eine berühmte Künstlerin.
 00953216-v	deu:lemma	erzählen
+00953216-v	deu:exe	Das ist alles, was ich erzählen kann.
 00953216-v	deu:exe	Meine Mutter hat mir das Märchen oft erzählt, als ich klein war.
 00962447-v	deu:lemma	erzählen
+00962447-v	deu:exe	Das ist alles, was ich erzählen kann.
 00962447-v	deu:exe	Meine Mutter hat mir das Märchen oft erzählt, als ich klein war.
 02935891-n	deu:lemma	Mensa
 02935891-n	deu:exe	Die Studenten essen in der Mensa.
 01984902-v	deu:lemma	sich setzen
 01984902-v	deu:exe	... Hier, bitte, setzen Sie sich.
 00120223-r	deu:lemma	während
+00120223-r	deu:exe	Während er sprach, hat er das Zimmer verlassen.
 00120223-r	deu:exe	Während sie die Wäsche wäschst, bereitet er das Mittagessen.
 00120095-r	deu:lemma	während
+00120095-r	deu:exe	Während er sprach, hat er das Zimmer verlassen.
 00120095-r	deu:exe	Während sie die Wäsche wäschst, bereitet er das Mittagessen.
 02386612-a	deu:lemma	klein
 02386612-a	deu:exe	Mein Zimmer ist kleiner als sein Zimmer.
@@ -766,34 +1041,48 @@
 03025755-n	deu:lemma	Stäbchen
 03025755-n	deu:exe	Kannst du eigentlich mit Stäbchen essen?
 15166191-n	deu:lemma	Nachmittag
+15166191-n	deu:exe	Heute Nachmittag kann ich im Supermarkt einkaufen gehen.
 15166191-n	deu:exe	Würden Sie bitte das Material für die Sitzung am Nachmittag vorbereiten?
 80000080-n	deu:lemma	diesen Monat
 80000080-n	deu:exe	Meine Nichte wird diesen Monat fünf Jahre alt.
 06624161-n	deu:lemma	Brief
+06624161-n	deu:exe	Sie schreibt oft Briefe an ihre Freunde in Deutschland.
 06624161-n	deu:exe	Er bekommt von dem Japaner einen Brief.
 01909812-v	deu:lemma	biegen
+01909812-v	deu:exe	Die Tische biegen sich unter der schweren Last.
 01909812-v	deu:exe	Sie bogen sich alle vor Lachen.
 07929519-n	deu:lemma	Kaffee
+07929519-n	deu:exe	Dann trinken wir erst mal einen Kaffee.
 07929519-n	deu:exe	Magst du eigentlich lieber Kaffee oder Tee?
 01729431-v	deu:lemma	singen
+01729431-v	deu:exe	Singen wir zusammen!
 01729431-v	deu:exe	Auf der Party wurde gelacht und gesungen.
 11501381-n	deu:lemma	Regen
+11501381-n	deu:exe	Ja schon, aber es sieht doch so nach Regen aus ...
 11501381-n	deu:exe	Trotz des Regens machen sie einen Spaziergang.
 07749582-n	deu:lemma	Zitrone
 07749582-n	deu:exe	Ich trinke sehr gerne Tee mit Zitrone.
 90000511-n	deu:lemma	vorgestern
 90000511-n	deu:exe	Seine Frau liegt seit vorgestern im Krankenhaus.
 00118032-r	deu:lemma	dann
+00118032-r	deu:exe	Dann viel Spaß!
+00118032-r	deu:exe	Also dann bis Samstag!
+00118032-r	deu:exe	Dann wünsche ich dir noch einen schönen Abend!
 00118032-r	deu:exe	Bis dann.
 00118032-r	deu:lemma	also
 00118032-r	deu:exe	Also, wenn du willst, kannst du bei uns essen.
 04468005-n	deu:lemma	Zug
+04468005-n	deu:exe	Der Zug fährt nur bis nach Bonn.
+04468005-n	deu:exe	Fährst du eigentlich immer mit diesem Zug?
 04468005-n	deu:exe	Der Zug hatte 20 Minuten Verspätung.
 77000002-n	deu:lemma	wir
+77000002-n	deu:exe	Wir bummeln durch die Stadt.
 77000002-n	deu:exe	Wollen wir am Wochenende in die Berge fahren?
 15206296-n	deu:lemma	Monat
 15206296-n	deu:exe	In diesem Sommer werde ich für zwei Monate im New Yorker Büro arbeiten.
 02834778-n	deu:lemma	Fahrrad
+02834778-n	deu:exe	Dieses Fahrrad gefällt mir sehr.
+02834778-n	deu:exe	Kazuya fährt mit dem Fahrrad um den See.
 02834778-n	deu:exe	Das Fahrrad ist schon repariert.
 06597466-n	deu:lemma	Zeitschrift
 06597466-n	deu:exe	Die Zeitschrift wird von vielen Studenten gelesen.
@@ -806,44 +1095,61 @@
 00050454-v	deu:lemma	ausziehen
 00050454-v	deu:exe	Zieh dir die Schuhe aus!
 02649830-v	deu:lemma	wohnen
+02649830-v	deu:exe	Da wohnt nämlich mein Onkel, den besuche ich jedes Jahr.
 02649830-v	deu:exe	Meine Tante wohnt in München.
 15155891-n	deu:lemma	morgen
+15155891-n	deu:exe	Wir fahren morgen sehr früh ab.
 15155891-n	deu:exe	Ich hoffe, dass wir morgen schönes Wetter haben.
 04208936-n	deu:lemma	Dusche
+04208936-n	deu:exe	Zuerst möchte ich eine heiße Dusche nehmen.
 04208936-n	deu:exe	Möchten Sie ein Zimmer mit Bad oder Dusche?
 15213774-n	deu:lemma	Dezember
 15213774-n	deu:exe	Auf jeden Dezember folgt wieder ein Mai.
 00625119-v	deu:lemma	lesen
+00625119-v	deu:exe	Und den Roman hast du auch! Den wollte ich schon lange mal lesen.
 00625119-v	deu:exe	Es ist nicht möglich, dieses dicke Buch in drei Tagen zu lesen.
 02774152-n	deu:lemma	Tasche
 02774152-n	deu:exe	Sie nimmt ein Buch aus der Tasche.
 02773037-n	deu:lemma	Tasche
 02773037-n	deu:exe	Sie nimmt ein Buch aus der Tasche.
 13250542-n	deu:lemma	Geld
+13250542-n	deu:exe	Ich muss Geld für ein Auto sparen.
+13250542-n	deu:exe	Er hat mir versprochen, das Geld heute zurückzugeben.
 13250542-n	deu:exe	Wenn ich genug Geld hätte, würde ich nicht mehr arbeiten.
 13384557-n	deu:lemma	Geld
+13384557-n	deu:exe	Ich muss Geld für ein Auto sparen.
+13384557-n	deu:exe	Er hat mir versprochen, das Geld heute zurückzugeben.
 13384557-n	deu:exe	Wenn ich genug Geld hätte, würde ich nicht mehr arbeiten.
 05600637-n	deu:lemma	Gesicht
 05600637-n	deu:exe	Ihr Gesicht strahlte vor Freude.
 07597365-n	deu:lemma	Bonbon
 07597365-n	deu:exe	"Mama, krieg ich noch ein leckeres Bonbon?"
 00024356-r	deu:lemma	nein
+00024356-r	deu:exe	Nein, er kommt heute nicht.
 00024356-r	deu:exe	„Nein, ich habe es noch nicht gelesen.“
 03176763-n	deu:lemma	Kaufhaus
+03176763-n	deu:exe	Ich gehe zur Post und dann zum Kaufhaus.
 03176763-n	deu:exe	Dem Bahnhof gegenüber ist ein Kaufhaus.
 01725051-v	deu:lemma	spielen
+01725051-v	deu:exe	Da spielt jemand Gitarre!
 01725051-v	deu:exe	Mein Sohn kann Geige spielen.
 03388183-n	deu:lemma	Füllfederhalter
 03388183-n	deu:exe	Ich habe von meinem Vater einen Füllfederhalter geschenkt bekommen.
 77000089-a	deu:lemma	solch
+77000089-a	deu:exe	Solche Fahrräder rosten schnell.
 77000089-a	deu:exe	Mit solchen Leuten wollen wir nicht mehr zusammenarbeiten.
 15164354-n	deu:lemma	Donnerstag
 15164354-n	deu:exe	Am Donnerstag letzter Woche hab ich ein Gespräch mit ihm gehabt. 
+00056916-r	deu:lemma	gern geschehen
+00056916-r	deu:exe	Gern geschehen.
 00056916-r	deu:lemma	bitte
+00056916-r	deu:exe	Nehmen Sie bitte Platz!
 00056916-r	deu:exe	Werde doch bitte schnell wieder gesund!
 00816481-a	deu:lemma	spät
+00816481-a	deu:exe	Es war schon sehr spät und eigentlich waren wir müde.
 00816481-a	deu:exe	„Wie spät ist es jetzt?“ „Es ist 8.20 Uhr.“
 01901186-a	deu:lemma	spät
+01901186-a	deu:exe	Es war schon sehr spät und eigentlich waren wir müde.
 01901186-a	deu:exe	„Wie spät ist es jetzt?“ „Es ist 8.20 Uhr.“
 04956594-n	deu:lemma	Farbe
 04956594-n	deu:exe	Aber ... die Farbe gefällt mir nicht so.
@@ -854,32 +1160,52 @@
 06282651-n	deu:lemma	Sprache
 06282651-n	deu:exe	Wer keine Fremdsprache kennt, kennt seine Muttersprache nicht. (Johann Wolfgang Geothe)
 00121135-r	deu:lemma	so
+00121135-r	deu:exe	Ja, sieht so aus.
+00121135-r	deu:exe	Ach, weißt du, Volleyball ist nicht so mein Ding.
 00121135-r	deu:exe	Ich verstehe nicht, warum du so lachst.
 04962784-n	deu:lemma	rot
 04962784-n	deu:exe	Darf ich den roten Mantel mal probieren?
 03871083-n	deu:lemma	Paket
+03871083-n	deu:exe	Heute muss ich das Paket zur Post bringen.
 03871083-n	deu:exe	Wenn das Paket doch endlich käme!
 02774630-n	deu:lemma	Paket
+02774630-n	deu:exe	Heute muss ich das Paket zur Post bringen.
 02774630-n	deu:exe	Wenn das Paket doch endlich käme!
+07891726-n	deu:lemma	Alkohol
+07891726-n	deu:exe	Sie trinken keinen Tropfen Alkohol.
 07891726-n	deu:lemma	Wein
+07891726-n	deu:exe	Ich möchte ein Glas Wein trinken.
 07891726-n	deu:exe	Ich trinke lieber Wein als Bier.
+07884567-n	deu:lemma	Alkohol
+07884567-n	deu:exe	Sie trinken keinen Tropfen Alkohol.
 07884567-n	deu:lemma	Wein
+07884567-n	deu:exe	Ich möchte ein Glas Wein trinken.
 07884567-n	deu:exe	Ich trinke lieber Wein als Bier.
+07891433-n	deu:lemma	Alkohol
+07891433-n	deu:exe	Sie trinken keinen Tropfen Alkohol.
 07891433-n	deu:lemma	Wein
+07891433-n	deu:exe	Ich möchte ein Glas Wein trinken.
 07891433-n	deu:exe	Ich trinke lieber Wein als Bier.
 15164463-n	deu:lemma	Freitag
+15164463-n	deu:exe	Du musstest ja, bis Freitag, glaub' ich, dieses Referat fertig kriegen.
 15164463-n	deu:exe	Nächste Woche Freitag fahr' ich für zwei Wochen in Urlaub.
 03581125-n	deu:lemma	Kreuzung
 03581125-n	deu:exe	An der Kreuzung steht die Polizei.
 02410393-a	deu:lemma	dick
+02410393-a	deu:exe	Es ist nicht möglich, dieses dicke Buch in drei Tagen zu lesen.
 02410393-a	deu:exe	Sie hat dick Butter aufs Brot gestrichen.
 02410393-a	deu:lemma	dick
+02410393-a	deu:exe	Es ist nicht möglich, dieses dicke Buch in drei Tagen zu lesen.
 02410393-a	deu:exe	Sie hat dick Butter aufs Brot gestrichen.
 02415390-a	deu:lemma	dick
+02415390-a	deu:exe	Es ist nicht möglich, dieses dicke Buch in drei Tagen zu lesen.
 02415390-a	deu:exe	Sie hat dick Butter aufs Brot gestrichen.
 02756821-v	deu:lemma	regnen
 02756821-v	deu:exe	Ich fahre mit dem Bus zur Uni, wenn es stark regnet.
 02529264-a	deu:lemma	warm
+02529264-a	deu:exe	Heute ist es sehr warm.
+02529264-a	deu:exe	Ja, und es ist noch richtig warm.
+02529264-a	deu:exe	Es ist noch kalt, aber bald wird es warm.
 02529264-a	deu:exe	Ich möchte etwas Warmes trinken.
 01546111-v	deu:lemma	aufstehen
 01546111-v	deu:exe	Er ist vor Aufregung vom Stuhl aufgestanden.
@@ -888,44 +1214,64 @@
 07679356-n	deu:lemma	Brot
 07679356-n	deu:exe	Dieses Brot wird zum Frühstück frisch gebacken und noch warm serviert.
 03259505-n	deu:lemma	Haus
+03259505-n	deu:exe	Ein Ziegelhaus ist weitaus trockener als ein Haus, das aus anderen Materialien errichtet wird.
 03259505-n	deu:exe	Das alte Haus wurde abgerissen.
 03544360-n	deu:lemma	Haus
+03544360-n	deu:exe	Ein Ziegelhaus ist weitaus trockener als ein Haus, das aus anderen Materialien errichtet wird.
 03544360-n	deu:exe	Das alte Haus wurde abgerissen.
 03544360-n	deu:lemma	Wohnung
 03544360-n	deu:exe	Wir haben eine möblierte Wohnung gemietet.
 08559508-n	deu:lemma	Haus
+08559508-n	deu:exe	Ein Ziegelhaus ist weitaus trockener als ein Haus, das aus anderen Materialien errichtet wird.
 08559508-n	deu:exe	Das alte Haus wurde abgerissen.
 08559508-n	deu:lemma	Wohnung
 08559508-n	deu:exe	Wir haben eine möblierte Wohnung gemietet.
 15210486-n	deu:lemma	Februar
 15210486-n	deu:exe	Im letzten Februar hat meine Schwester einen Amerikaner geheiratet.
 15167349-n	deu:lemma	Nacht
+15167349-n	deu:exe	Gute Nacht!
+15167349-n	deu:exe	Wir sollten einfach noch mal 'ne Nacht drüber schlafen.
 15167349-n	deu:exe	Es wurde bis in die Nacht hinein gefeiert.
 15155747-n	deu:lemma	Nacht
+15155747-n	deu:exe	Gute Nacht!
+15155747-n	deu:exe	Wir sollten einfach noch mal 'ne Nacht drüber schlafen.
 15155747-n	deu:exe	Es wurde bis in die Nacht hinein gefeiert.
 15167027-n	deu:lemma	Nacht
+15167027-n	deu:exe	Gute Nacht!
+15167027-n	deu:exe	Wir sollten einfach noch mal 'ne Nacht drüber schlafen.
 15167027-n	deu:exe	Es wurde bis in die Nacht hinein gefeiert.
 15167027-n	deu:lemma	gestern Abend
+15167027-n	deu:exe	Gestern abend kam ich um 11 Uhr nach Hause. Da las meine Frau die Zeitung.
 15167027-n	deu:exe	Ja, tut mir Leid, aber unser Telefon war plötzlich kaputt, ausgerechnet gestern Abend!
 15167474-n	deu:lemma	Nacht
+15167474-n	deu:exe	Gute Nacht!
+15167474-n	deu:exe	Wir sollten einfach noch mal 'ne Nacht drüber schlafen.
 15167474-n	deu:exe	Es wurde bis in die Nacht hinein gefeiert.
 03438257-n	deu:lemma	Glas
 03438257-n	deu:exe	Das Glas fällt auf den Boden und zerbricht.
 08613593-n	deu:lemma	draußen
+08613593-n	deu:exe	Setzen wir uns doch hier draußen auf den Rasen?
 08613593-n	deu:exe	Draußen ist es sehr kalt.
 03338821-n	deu:lemma	Film
+03338821-n	deu:exe	Auf dem Film sind noch drei Bilder.
 03338821-n	deu:exe	Ich möchte diesen Film entwickeln lassen.
 06613686-n	deu:lemma	Film
+06613686-n	deu:exe	Auf dem Film sind noch drei Bilder.
 06613686-n	deu:exe	Ich möchte diesen Film entwickeln lassen.
 06613686-n	deu:lemma	Film
+06613686-n	deu:exe	Nach dem Abendessen sehe ich einen Film.
 06613686-n	deu:exe	Der Film beginnt um acht Uhr. Davor kommt nur Werbung.
 06262567-n	deu:lemma	Film
+06262567-n	deu:exe	Auf dem Film sind noch drei Bilder.
 06262567-n	deu:exe	Ich möchte diesen Film entwickeln lassen.
 04096066-n	deu:lemma	Straße
+04096066-n	deu:exe	Die Schüler gehen hier über die Straße.
 04096066-n	deu:exe	Gestern habe ich deine Schwester auf der Straße getroffen.
 15212739-n	deu:lemma	September
 15212739-n	deu:exe	Hier ist es im September immer noch schwül.
 77000079-a	deu:lemma	der
+77000079-a	deu:exe	Der Zug fährt nur bis nach Bonn.
+77000079-a	deu:exe	Der Patient kann noch gerettet werden.
 77000079-a	deu:exe	Der Unfall war viel schlimmer, als ich es mir vorgetellt hatte.
 14524198-n	deu:lemma	wolkig
 14524198-n	deu:exe	Berlin meldet heiter bis wölkig bei 27 Grad.
@@ -940,16 +1286,21 @@
 07020895-n	deu:lemma	Musik
 07020895-n	deu:exe	Er will in Paris Musik studieren.
 00409709-r	deu:lemma	Nähe
+00409709-r	deu:exe	Ich wohne ganz in der Nähe von hier.
 00409709-r	deu:exe	Entschuldigung, gibt es hier in der Nähe einen Kopierer?
 08641113-n	deu:lemma	Nähe
+08641113-n	deu:exe	Ich wohne ganz in der Nähe von hier.
 08641113-n	deu:exe	Entschuldigung, gibt es hier in der Nähe einen Kopierer?
 03112099-n	deu:lemma	Flur
+03112099-n	deu:exe	Der Schrank steht im Flur.
 03112099-n	deu:exe	Sie wohnen auf dem gleichen Flur.
 03661043-n	deu:lemma	Bibliothek
+03661043-n	deu:exe	Wir leihen uns aus der Bibliothek Bücher aus.
 03661043-n	deu:exe	Dann brauche ich mal Ihren Bibliotheksausweis.
 07840804-n	deu:lemma	Ei
 07840804-n	deu:exe	Viele essen gerne ein gekochtes Ei zum Frühstück.
 90000502-n	deu:lemma	dieses Jahr
+90000502-n	deu:exe	Meine Tochter ist dieses Jahr 20 Jahre alt geworden.
 90000502-n	deu:exe	„Ja, wir kriegen dieses Jahr auch keine neuen Kalender mehr rein.“
 03908204-n	deu:lemma	Bleistift
 03908204-n	deu:exe	Das Kind zeichnet mit dem Bleistift die Bilder.
@@ -960,24 +1311,33 @@
 05282746-n	deu:lemma	Zahn
 05282746-n	deu:exe	Das Kind putzt sich die Zähne.
 01649720-a	deu:lemma	jung
+01649720-a	deu:exe	Es wird gefeiert, es wird gesungen, es wird geweint. Junge Menschen steigen auf die Mauer und tanzen.
 01649720-a	deu:exe	Meine Großeltern haben sehr jung geheiratet.
 01646941-a	deu:lemma	jung
+01646941-a	deu:exe	Es wird gefeiert, es wird gesungen, es wird geweint. Junge Menschen steigen auf die Mauer und tanzen.
 01646941-a	deu:exe	Meine Großeltern haben sehr jung geheiratet.
 00514884-a	deu:lemma	ganz
+00514884-a	deu:exe	Was machst du eigentlich den ganzen Tag?
 00514884-a	deu:exe	Aber du, ... warum redest du eigentlich die ganze Zeit über japanisches Essen?
 00988232-a	deu:lemma	dünn
+00988232-a	deu:exe	Das Brot ist in dünne Scheiben geschnitten.
 00988232-a	deu:exe	Ich finde sie zu dünn.
 01029368-v	deu:lemma	heißen
 01029368-v	deu:exe	Übrigens, ich heiße Silke.
 77000084-n	deu:lemma	wo
+77000084-n	deu:exe	Wo wohnst du?
 77000084-n	deu:exe	Wo ist denn noch mal die Kunsthalle?
 00220082-a	deu:lemma	schön
 00220082-a	deu:exe	Wow, das Bild ist aber schön!
 01586342-a	deu:lemma	schön
 01586342-a	deu:exe	Wow, das Bild ist aber schön!
 01586342-a	deu:lemma	gut
+01586342-a	deu:exe	Das gefällt mir wirklich gut.
+01586342-a	deu:exe	Ach, ich schlafe zur Zeit nicht gut.
 01586342-a	deu:exe	Welche Bücher sind denn da gut?
 01346003-v	deu:lemma	öffnen
+01346003-v	deu:exe	Er öffnet ihr die Tür.
+01346003-v	deu:exe	Darf ich das Fenster öffnen?
 01346003-v	deu:exe	Das Geschäft ist von 10 bis 20 Uhr geöffnet.
 09853467-n	deu:lemma	Bruder
 09853467-n	deu:exe	Ich kenne deinen Bruder.
@@ -992,36 +1352,49 @@
 07844042-n	deu:lemma	Milch
 07844042-n	deu:exe	Das Kind trinkt täglich ca. ein Liter Milch.
 10780632-n	deu:lemma	Frau
+10780632-n	deu:exe	Er liest die Zeitung und seine Frau sieht die Nachrichten.
 10780632-n	deu:exe	Martin sagte, seine Frau komme morgen nach Japan.
 10780632-n	deu:lemma	Frau
+10780632-n	deu:exe	Er liest die Zeitung und seine Frau sieht die Nachrichten.
 10780632-n	deu:exe	Martin sagte, seine Frau komme morgen nach Japan.
 08625462-n	deu:lemma	links
 08625462-n	deu:exe	Biegen Sie hier nach links ab.
 90000508-n	deu:lemma	nächste Woche
+90000508-n	deu:exe	Wir werden nächste Woche in Urlaub fahren.
 90000508-n	deu:exe	Schreiben wir eigentlich nächste Woche wieder einen Vokabeltest?
 01848718-v	deu:lemma	gehen
+01848718-v	deu:exe	Lass uns trotzdem gehen, und wenn's auch regnet.
 01848718-v	deu:exe	Wir müssen schon gehen, damit wir den Zug nicht verpassen.
 06518719-n	deu:lemma	Fahrkarte
+06518719-n	deu:exe	Er hat für morgen eine Fahrkarte nach München gelöst.
+06518719-n	deu:exe	Eine einfache Fahrkarte nach München bitte!
 06518719-n	deu:exe	Eine Hin- und Rückfahrkarte kostet 35 Euro.
 01470670-v	deu:lemma	treffen
+01470670-v	deu:exe	Also, wann treffen wir uns?
 01470670-v	deu:exe	Gestern habe ich deine Schwester auf der Straße getroffen.
 02428924-v	deu:lemma	treffen
+02428924-v	deu:exe	Also, wann treffen wir uns?
 02428924-v	deu:exe	Gestern habe ich deine Schwester auf der Straße getroffen.
 10285313-n	deu:lemma	Junge
 10285313-n	deu:exe	Der Junge legt den Fußball unter den Tisch.
 03542333-n	deu:lemma	Hotel
+03542333-n	deu:exe	In welchem Hotel wohnen Sie?
 03542333-n	deu:exe	Das Hotel ist gleich beim Bahnhof.
 02913152-n	deu:lemma	Gebäude
+02913152-n	deu:exe	Das Gebäude steht an einer der Hauptstraßen.
 02913152-n	deu:exe	Das neue Gebäude wird nächstes Jahr fertig.
 07649854-n	deu:lemma	Fleisch
 07649854-n	deu:exe	Mein Sohn isst sehr gerne Fleisch.
 09397391-n	deu:lemma	Teich
 09397391-n	deu:exe	Sie haben ein großes Haus mit Garten. Im Garten gibt es auch einen Teich.
 07935152-n	deu:lemma	Tee
+07935152-n	deu:exe	Ein Freund hat mir gestern chinesischen Tee geschenkt.
 07935152-n	deu:exe	Ah nee, ich trinke am liebsten schwarzen Tee.
 03082979-n	deu:lemma	Computer
+03082979-n	deu:exe	Ist dein Computer etwa kaputt?
 03082979-n	deu:exe	Also ... wenn du mal mit deinem Computer Probleme hast, helfe ich dir gerne!
 00312553-n	deu:lemma	Reise
+00312553-n	deu:exe	Gute Reise!
 00312553-n	deu:exe	Wenn er Zeit hätte, würde er eine Reise durch Deutschland machen.
 04043733-n	deu:lemma	Radio
 04043733-n	deu:exe	Er schaltet das Radio ein, um die Nachrichten zu hören.
@@ -1032,38 +1405,60 @@
 01442826-a	deu:lemma	kurz
 01442826-a	deu:exe	Sie will heute ihre langen Haare kurz schneiden lassen.
 14513694-n	deu:lemma	Familie
+14513694-n	deu:exe	Jeden Tag für die Familie zu kochen ist nicht leicht.
 14513694-n	deu:exe	Jede Familie hat ihre eigenen Regeln.
 02808440-n	deu:lemma	Bad
 02808440-n	deu:exe	Er ist gerade im Bad.
 02807731-n	deu:lemma	Bad
 02807731-n	deu:exe	Er ist gerade im Bad.
 15274074-n	deu:lemma	Ferien
+15274074-n	deu:exe	Die Studenten freuen sich auf die Ferien.
+15274074-n	deu:exe	Was wollt ihr in den Ferien machen?
 15274074-n	deu:exe	Schöne Ferien!
 15183428-n	deu:lemma	Ferien
+15183428-n	deu:exe	Die Studenten freuen sich auf die Ferien.
+15183428-n	deu:exe	Was wollt ihr in den Ferien machen?
 15183428-n	deu:exe	Schöne Ferien!
 15137890-n	deu:lemma	Ferien
+15137890-n	deu:exe	Die Studenten freuen sich auf die Ferien.
+15137890-n	deu:exe	Was wollt ihr in den Ferien machen?
 15137890-n	deu:exe	Schöne Ferien!
 00027918-r	deu:lemma	noch
+00027918-r	deu:exe	Ist hier noch frei?
+00027918-r	deu:exe	Es ist noch kalt, aber bald wird es warm.
 00027918-r	deu:exe	Erinnerst du dich noch an deinen Kindergarten?
 00031304-r	deu:lemma	noch
+00031304-r	deu:exe	Ist hier noch frei?
+00031304-r	deu:exe	Es ist noch kalt, aber bald wird es warm.
 00031304-r	deu:exe	Erinnerst du dich noch an deinen Kindergarten?
 03925226-n	deu:lemma	Foto
+03925226-n	deu:exe	Sie hängt das Foto über den Schreibtisch.
+03925226-n	deu:exe	Davon mach' ich jetzt mal ein Foto.
 03925226-n	deu:exe	Das Foto hängt über dem Schreibtisch.
 03931044-n	deu:lemma	Foto
+03931044-n	deu:exe	Sie hängt das Foto über den Schreibtisch.
+03931044-n	deu:exe	Davon mach' ich jetzt mal ein Foto.
 03931044-n	deu:exe	Das Foto hängt über dem Schreibtisch.
 04248607-n	deu:lemma	Foto
+04248607-n	deu:exe	Sie hängt das Foto über den Schreibtisch.
+04248607-n	deu:exe	Davon mach' ich jetzt mal ein Foto.
 04248607-n	deu:exe	Das Foto hängt über dem Schreibtisch.
 15164233-n	deu:lemma	Mittwoch
 15164233-n	deu:exe	Heute ist doch erst Mittwoch!
 11524662-n	deu:lemma	Wetter
+11524662-n	deu:exe	Ich hoffe, dass wir morgen schönes Wetter haben.
 11524662-n	deu:exe	Heute war das Wetter wirklich schön!
 07193184-n	deu:lemma	Frage
+07193184-n	deu:exe	Er beantwortet die Frage.
 07193184-n	deu:exe	Ich hab' mal eine Frage.
 07196682-n	deu:lemma	Frage
+07196682-n	deu:exe	Er beantwortet die Frage.
 07196682-n	deu:exe	Ich hab' mal eine Frage.
 05797597-n	deu:lemma	Frage
+05797597-n	deu:exe	Er beantwortet die Frage.
 05797597-n	deu:exe	Ich hab' mal eine Frage.
 07193596-n	deu:lemma	Frage
+07193596-n	deu:exe	Er beantwortet die Frage.
 07193596-n	deu:exe	Ich hab' mal eine Frage.
 01904930-v	deu:lemma	laufen
 01904930-v	deu:exe	Um fit zu bleiben, läuft er jeden Tag eine Stunde.
@@ -1076,26 +1471,44 @@
 08278169-n	deu:lemma	Universität
 08278169-n	deu:exe	Ich studiere seit zwei Jahren an der Universität in Tokio.
 01000214-v	deu:lemma	schreiben
+01000214-v	deu:exe	Ich habe heute zwei Briefe zu schreiben.
+01000214-v	deu:exe	Hast du schon angefangen, den Aufsatz zu schreiben?
 01000214-v	deu:exe	Jetzt wollte ich Sie bitten, ob Sie mir das vielleicht schreiben könnten.
 02471690-v	deu:lemma	schreiben
+02471690-v	deu:exe	Ich habe heute zwei Briefe zu schreiben.
+02471690-v	deu:exe	Hast du schon angefangen, den Aufsatz zu schreiben?
 02471690-v	deu:exe	Jetzt wollte ich Sie bitten, ob Sie mir das vielleicht schreiben könnten.
 01020356-v	deu:lemma	schreiben
+01020356-v	deu:exe	Ich habe heute zwei Briefe zu schreiben.
+01020356-v	deu:exe	Hast du schon angefangen, den Aufsatz zu schreiben?
 01020356-v	deu:exe	Jetzt wollte ich Sie bitten, ob Sie mir das vielleicht schreiben könnten.
 01691057-v	deu:lemma	schreiben
+01691057-v	deu:exe	Ich habe heute zwei Briefe zu schreiben.
+01691057-v	deu:exe	Hast du schon angefangen, den Aufsatz zu schreiben?
 01691057-v	deu:exe	Jetzt wollte ich Sie bitten, ob Sie mir das vielleicht schreiben könnten.
 01698271-v	deu:lemma	schreiben
+01698271-v	deu:exe	Ich habe heute zwei Briefe zu schreiben.
+01698271-v	deu:exe	Hast du schon angefangen, den Aufsatz zu schreiben?
 01698271-v	deu:exe	Jetzt wollte ich Sie bitten, ob Sie mir das vielleicht schreiben könnten.
 01020934-v	deu:lemma	schreiben
+01020934-v	deu:exe	Ich habe heute zwei Briefe zu schreiben.
+01020934-v	deu:exe	Hast du schon angefangen, den Aufsatz zu schreiben?
 01020934-v	deu:exe	Jetzt wollte ich Sie bitten, ob Sie mir das vielleicht schreiben könnten.
 00993014-v	deu:lemma	schreiben
+00993014-v	deu:exe	Ich habe heute zwei Briefe zu schreiben.
+00993014-v	deu:exe	Hast du schon angefangen, den Aufsatz zu schreiben?
 00993014-v	deu:exe	Jetzt wollte ich Sie bitten, ob Sie mir das vielleicht schreiben könnten.
 03822171-n	deu:lemma	Zeitung
+03822171-n	deu:exe	Gestern abend kam ich um 11 Uhr nach Hause. Da las meine Frau die Zeitung.
 03822171-n	deu:exe	In der Zeitung steht, dass die Bankräuber festgenommen worden sind.
 06267145-n	deu:lemma	Zeitung
+06267145-n	deu:exe	Gestern abend kam ich um 11 Uhr nach Hause. Da las meine Frau die Zeitung.
 06267145-n	deu:exe	In der Zeitung steht, dass die Bankräuber festgenommen worden sind.
 14961722-n	deu:lemma	Zeitung
+14961722-n	deu:exe	Gestern abend kam ich um 11 Uhr nach Hause. Da las meine Frau die Zeitung.
 14961722-n	deu:exe	In der Zeitung steht, dass die Bankräuber festgenommen worden sind.
 07197021-n	deu:lemma	Prüfung
+07197021-n	deu:exe	Da er eine Prüfung hat, kommt er nicht mit ins Kino.
 07197021-n	deu:exe	Die Prüfung zu bestehen, ist jetzt das wichtigste.
 00158309-r	deu:lemma	eben
 00158309-r	deu:exe	Ich wollte ihn eben anrufen, als er eintrat.
@@ -1104,6 +1517,7 @@
 00002950-r	deu:lemma	eben
 00002950-r	deu:exe	Ich wollte ihn eben anrufen, als er eintrat.
 13714184-n	deu:lemma	Grad
+13714184-n	deu:exe	Es sind 20 Grad draußen.
 13714184-n	deu:exe	Inzwischen hatte er 40 Grad Fieber.
 00119568-n	deu:lemma	fliegen
 00119568-n	deu:exe	Ende März fliege ich nach Deutschland.
@@ -1112,108 +1526,168 @@
 15237044-n	deu:lemma	Frühling
 15237044-n	deu:exe	Wenn die Kirschen blühen, kommt der Frühling.
 01270199-v	deu:lemma	waschen
+01270199-v	deu:exe	Ich wasche dem Kind die Hände.
+01270199-v	deu:exe	Während sie die Wäsche wäschst, bereitet er das Mittagessen.
 01270199-v	deu:exe	Wie oft wäscht du dein Auto?
 06505517-n	deu:lemma	Kopie
 06505517-n	deu:exe	Bitte senden Sie eine Kopie Ihres Ausweises an uns.
 15166462-n	deu:lemma	Abend
+15166462-n	deu:exe	Hast du heute Abend Zeit?
 15166462-n	deu:exe	Dann wünsche ich dir noch einen schönen Abend!
 15166462-n	deu:lemma	gestern Abend
+15166462-n	deu:exe	Gestern abend kam ich um 11 Uhr nach Hause. Da las meine Frau die Zeitung.
 15166462-n	deu:exe	Ja, tut mir Leid, aber unser Telefon war plötzlich kaputt, ausgerechnet gestern Abend!
 01343918-a	deu:lemma	interessant
+01343918-a	deu:exe	Der Reiseführer hier ist so interessant.
 01343918-a	deu:exe	Ach, das ist ja interessant.
 01344344-a	deu:lemma	interessant
+01344344-a	deu:exe	Der Reiseführer hier ist so interessant.
 01344344-a	deu:exe	Ach, das ist ja interessant.
 01344344-a	deu:lemma	lustig
 01344344-a	deu:exe	Er ist immer so lustig und macht viele Witze.
 01265308-a	deu:lemma	interessant
+01265308-a	deu:exe	Der Reiseführer hier ist so interessant.
 01265308-a	deu:exe	Ach, das ist ja interessant.
 01344485-a	deu:lemma	interessant
+01344485-a	deu:exe	Der Reiseführer hier ist so interessant.
 01344485-a	deu:exe	Ach, das ist ja interessant.
 00067045-r	deu:lemma	vorn
 00067045-r	deu:exe	Gleich da vorn ist ein schönes Café.
 00067265-r	deu:lemma	vorn
 00067265-r	deu:exe	Gleich da vorn ist ein schönes Café.
 90000515-n	deu:lemma	übermorgen
+90000515-n	deu:exe	Er fährt übermorgen nach München.
 90000515-n	deu:exe	Oh Mann, ich hab' immer noch kein Geschenk für meine Schwester, und die hat schon übermorgen Geburtstag.
 01296462-v	deu:lemma	befestigen
 01296462-v	deu:exe	Die Lampe kann sowohl an der Wand als auch an der Decke befestigt werden.
 01801029-a	deu:lemma	lustig
 01801029-a	deu:exe	Er ist immer so lustig und macht viele Witze.
 77000095-n	deu:lemma	wer
+77000095-n	deu:exe	Wer nimmt am Ausflug teil?
+77000095-n	deu:exe	Wer ist der Mann, dem die Frauen vertrauen?
 77000095-n	deu:exe	Wer nicht arbeitet, soll auch nicht essen.
 90000500-n	deu:lemma	vorletztes Jahr
 90000500-n	deu:exe	Ich war letztes Jahr in Italien und vorletztes Jahr in Frankreich, beide im August.
 03221720-n	deu:lemma	Tür
+03221720-n	deu:exe	Mach bitte die Tür zu!
 03221720-n	deu:exe	Sie ist weggegangen, ohne die Tür zuzumachen.
 00050681-r	deu:lemma	kein
+00050681-r	deu:exe	Kein Student besteht diese Prüfung.
+00050681-r	deu:exe	Er sagte, er habe keine Zeit.
 00050681-r	deu:exe	Ja, du weißt, dass ich kein Handy habe.
 00024587-r	deu:lemma	kein
+00024587-r	deu:exe	Kein Student besteht diese Prüfung.
+00024587-r	deu:exe	Er sagte, er habe keine Zeit.
 00024587-r	deu:exe	Ja, du weißt, dass ich kein Handy habe.
 77000012-n	deu:lemma	ich
+77000012-n	deu:exe	Ich lerne Deutsch.
+77000012-n	deu:exe	Ich muss zur Arbeit.
 77000012-n	deu:exe	Ich wohne bei meinem Onkel.
 77000015-n	deu:lemma	ich
+77000015-n	deu:exe	Ich lerne Deutsch.
+77000015-n	deu:exe	Ich muss zur Arbeit.
 77000015-n	deu:exe	Ich wohne bei meinem Onkel.
 01344963-a	deu:lemma	langweilig
 01344963-a	deu:exe	Der Film ist langweilig.
 01170052-v	deu:lemma	trinken
+01170052-v	deu:exe	Ich bringe dann etwas zu trinken mit.
+01170052-v	deu:exe	Dann trinken wir erst mal einen Kaffee.
 01170052-v	deu:exe	Es ist besser, mit Freunden Bier zu trinken, als allein zu Hause zu sitzen.
 03282295-n	deu:lemma	Botschaft
 03282295-n	deu:exe	Wo liegt die deutsche Botschaft in Japan?
 14145501-n	deu:lemma	Erkältung
+14145501-n	deu:exe	Wegen der Erkältung kommt sie nicht.
 14145501-n	deu:exe	Ich habe vor zwei Wochen eine schlimme Erkältung bekommen.
 06796119-n	deu:lemma	Briefmarke
 06796119-n	deu:exe	Sie klebte die Briefmarke auf den Brief.
 07775375-n	deu:lemma	Fisch
+07775375-n	deu:exe	Isst du auch Sashimi, ich meine rohen Fisch?
 07775375-n	deu:exe	Ich esse lieber Fisch als Fleisch.
 02512053-n	deu:lemma	Fisch
+02512053-n	deu:exe	Isst du auch Sashimi, ich meine rohen Fisch?
 02512053-n	deu:exe	Ich esse lieber Fisch als Fleisch.
 01586866-a	deu:lemma	gut
+01586866-a	deu:exe	Das gefällt mir wirklich gut.
+01586866-a	deu:exe	Ach, ich schlafe zur Zeit nicht gut.
 01586866-a	deu:exe	Welche Bücher sind denn da gut?
 01048762-a	deu:lemma	gut
+01048762-a	deu:exe	Das gefällt mir wirklich gut.
+01048762-a	deu:exe	Ach, ich schlafe zur Zeit nicht gut.
 01048762-a	deu:exe	Welche Bücher sind denn da gut?
 00067638-a	deu:lemma	gut
+00067638-a	deu:exe	Das gefällt mir wirklich gut.
+00067638-a	deu:exe	Ach, ich schlafe zur Zeit nicht gut.
 00067638-a	deu:exe	Welche Bücher sind denn da gut?
 01993408-a	deu:lemma	gut
+01993408-a	deu:exe	Das gefällt mir wirklich gut.
+01993408-a	deu:exe	Ach, ich schlafe zur Zeit nicht gut.
 01993408-a	deu:exe	Welche Bücher sind denn da gut?
 01171213-a	deu:lemma	gut
+01171213-a	deu:exe	Das gefällt mir wirklich gut.
+01171213-a	deu:exe	Ach, ich schlafe zur Zeit nicht gut.
 01171213-a	deu:exe	Welche Bücher sind denn da gut?
 01800349-a	deu:lemma	gut
+01800349-a	deu:exe	Das gefällt mir wirklich gut.
+01800349-a	deu:exe	Ach, ich schlafe zur Zeit nicht gut.
 01800349-a	deu:exe	Welche Bücher sind denn da gut?
 01123148-a	deu:lemma	gut
+01123148-a	deu:exe	Das gefällt mir wirklich gut.
+01123148-a	deu:exe	Ach, ich schlafe zur Zeit nicht gut.
 01123148-a	deu:exe	Welche Bücher sind denn da gut?
 00064787-a	deu:lemma	gut
+00064787-a	deu:exe	Das gefällt mir wirklich gut.
+00064787-a	deu:exe	Ach, ich schlafe zur Zeit nicht gut.
 00064787-a	deu:exe	Welche Bücher sind denn da gut?
 00850183-a	deu:lemma	gut
+00850183-a	deu:exe	Das gefällt mir wirklich gut.
+00850183-a	deu:exe	Ach, ich schlafe zur Zeit nicht gut.
 00850183-a	deu:exe	Welche Bücher sind denn da gut?
 01129977-a	deu:lemma	gut
+01129977-a	deu:exe	Das gefällt mir wirklich gut.
+01129977-a	deu:exe	Ach, ich schlafe zur Zeit nicht gut.
 01129977-a	deu:exe	Welche Bücher sind denn da gut?
 01586752-a	deu:lemma	gut
+01586752-a	deu:exe	Das gefällt mir wirklich gut.
+01586752-a	deu:exe	Ach, ich schlafe zur Zeit nicht gut.
 01586752-a	deu:exe	Welche Bücher sind denn da gut?
 04588365-n	deu:lemma	Fenster
+04588365-n	deu:exe	Darf ich das Fenster schließen?
 04588365-n	deu:exe	Sie steht am Fenster und blickt hinaus.
 04587648-n	deu:lemma	Fenster
+04587648-n	deu:exe	Darf ich das Fenster schließen?
 04587648-n	deu:exe	Sie steht am Fenster und blickt hinaus.
 05216365-n	deu:lemma	Körper
 05216365-n	deu:exe	Ein gesunder Geist erfordert einen gesunden Körper.
+76100002-x	deu:lemma	Exemplar
+76100002-x	deu:exe	Diese Bibliothek hat 2 Mio. Exemplare in ihrem Bestand.
 76100002-x	deu:lemma	Blatt
+76100002-x	deu:exe	Diese Liste besteht aus drei Seiten..
 76100002-x	deu:exe	Also, du legst das Blatt hier auf...
 04967191-n	deu:lemma	grün
 04967191-n	deu:exe	Viele Bäume sind bereits grün und auf den Wiesen blühen Blumen.
 80001047-v	deu:lemma	sterben
+80001047-v	deu:exe	Meine Großmutter ist mit 80 Jahren gestorben.
+80001047-v	deu:exe	Eher will ich sterben als ihn heiraten.
 80001047-v	deu:exe	Ob in Vietnam, in Palestina, in Tschetschenien oder im Irak überall wurde und wird gestorben.
 03497657-n	deu:lemma	Hut
 03497657-n	deu:exe	Sie sucht den Hut, den sie gestern gekauft hat.
 15129927-n	deu:lemma	Uhr
+15129927-n	deu:exe	Der Film beginnt um acht Uhr. Davor kommt nur Werbung.
+15129927-n	deu:exe	„Wie spät ist es jetzt?“ -- „Es ist 8.20 Uhr.“
+15129927-n	deu:exe	Ich soll um 5 Uhr vor dem Bahnhof sein.
 15129927-n	deu:exe	Also ich hab' am Tag vorher bis zwei Uhr nachts gearbeitet und ich konnt' dann einfach nicht mehr...
 06359877-n	deu:lemma	Satz
+06359877-n	deu:exe	Ich kann diesen Satz nicht verstehen.
 06359877-n	deu:exe	Wir übersetzen den Satz aus dem Deutschen ins Japanische.
 00546389-n	deu:lemma	Lied
 00546389-n	deu:exe	Das Lied ist auch im Ausland ziemlich bekannt.
 07048000-n	deu:lemma	Lied
 07048000-n	deu:exe	Das Lied ist auch im Ausland ziemlich bekannt.
 01754737-v	deu:lemma	schneiden
+01754737-v	deu:exe	Das Brot ist in dünne Scheiben geschnitten.
 01754737-v	deu:exe	Früher hat mir immer meine Mutter die Haare geschnitten.
 07447641-n	deu:lemma	Party
+07447641-n	deu:exe	Warum kommt sie nicht zur Party?
 07447641-n	deu:exe	Auf der Party wurde gelacht und gesungen.
 01842204-v	deu:lemma	ausgehen
 01842204-v	deu:exe	Geht ihr heute Abend aus?
@@ -1222,6 +1696,7 @@
 05301908-n	deu:lemma	Mund
 05301908-n	deu:exe	Er stand mit offenem Mund da und dachte an nichts.
 02440250-n	deu:lemma	Hand
+02440250-n	deu:exe	Ich wasche dem Kind die Hände.
 02440250-n	deu:exe	Sie hat die Hände wie zum Gebet gefaltet.
 09823502-n	deu:lemma	Tante
 09823502-n	deu:exe	Meine Tante wohnt in München.
@@ -1230,17 +1705,26 @@
 15213406-n	deu:lemma	November
 15213406-n	deu:exe	Im November findet jährlich das Unifest statt. 
 06277280-n	deu:lemma	Fernsehen
+06277280-n	deu:exe	Der Fernseher steht zwischen dem Regal und dem Schrank.
 06277280-n	deu:exe	Er stellt den Fernseher zwischen das Regal und den Schrank.
 13831176-n	deu:lemma	Norden
+13831176-n	deu:exe	Schweden liegt im Norden Europas.
 13831176-n	deu:exe	Sapporo liegt in Nordjapan.
 06964901-n	deu:lemma	Französisch
+06964901-n	deu:exe	Hanna kann gut Französisch.
 06964901-n	deu:exe	Ich habe gehört, dass die Vorlesung auf Französisch ist.
 01318741-a	deu:lemma	weh tun
+01318741-a	deu:exe	Seit gestern tut mir der Hals ziemlich weh.
 01318741-a	deu:exe	Manchmal tut es noch weh.
 01712753-a	deu:lemma	weh tun
+01712753-a	deu:exe	Seit gestern tut mir der Hals ziemlich weh.
 01712753-a	deu:exe	Manchmal tut es noch weh.
 05395690-n	deu:lemma	Bauch
 05395690-n	deu:exe	Der Arzt tastete seinen Bauch ab.
+05395690-n	deu:lemma	Bauch
+05395690-n	deu:exe	Der Arzt tastete seinen Bauch ab.
+05556943-n	deu:lemma	Bauch
+05556943-n	deu:exe	Der Arzt tastete seinen Bauch ab.
 05556943-n	deu:lemma	Bauch
 05556943-n	deu:exe	Der Arzt tastete seinen Bauch ab.
 00749230-a	deu:lemma	leicht
@@ -1252,16 +1736,25 @@
 14473054-n	deu:lemma	Krankheit
 14473054-n	deu:exe	Er leidet an einer Krankheit.
 10399491-n	deu:lemma	Eltern
+10399491-n	deu:exe	Ich fahre zu meinen Eltern.
+10399491-n	deu:exe	Grüß deine Eltern von mir!
+10399491-n	deu:exe	Die Eltern verwöhnen Gisela sehr.
 10399491-n	deu:exe	Meine Eltern gehen jeden Tag spazieren.
 13833375-n	deu:lemma	Süden
+13833375-n	deu:exe	Das Zimmer geht nach Süden und ist sehr hell.
 13833375-n	deu:exe	Brasilien ist das größte Land in Südamerika.
 02472293-n	deu:lemma	Mensch
+02472293-n	deu:exe	Der Mensch lebt nicht vom Brot allein.
+02472293-n	deu:exe	Wie vielen Menschen wird mit Ihrer Spende geholfen?
+02472293-n	deu:lemma	Mensch
+02472293-n	deu:exe	Der Mensch lebt nicht vom Brot allein.
 02472293-n	deu:exe	Wie vielen Menschen wird mit Ihrer Spende geholfen?
 15212167-n	deu:lemma	Juli
 15212167-n	deu:exe	Anfang Juli fahre ich für 5 Tage nach Frankfurt zu meinen Eltern.
 00442917-a	deu:lemma	fern
 00442917-a	deu:exe	Er wohnt fern von dieser Stadt.
 03398467-n	deu:lemma	vor
+03398467-n	deu:exe	Das Mädchen tritt vor den Spiegel.
 03398467-n	deu:exe	Das Mädchen steht vor dem Spiegel.
 00964768-a	deu:lemma	schwach
 00964768-a	deu:exe	Sie ist schwach und oft krank.
@@ -1282,22 +1775,30 @@
 06601327-n	deu:lemma	Bedeutung
 06601327-n	deu:exe	Er erfasste die Bedeutung ihres Wortes nicht.
 04059701-n	deu:lemma	hinter
+04059701-n	deu:exe	Das Buch fällt hinter das Regal.
 04059701-n	deu:exe	Das Buch liegt hinter dem Regal.
 02767665-n	deu:lemma	hinter
+02767665-n	deu:exe	Das Buch fällt hinter das Regal.
 02767665-n	deu:exe	Das Buch liegt hinter dem Regal.
 03540595-n	deu:lemma	Krankenhaus
+03540595-n	deu:exe	Seine Frau liegt seit vorgestern im Krankenhaus.
 03540595-n	deu:exe	Das Krankenhaus liegt fünf Minuten zu Fuß vom Hauptbahnhof.
 08054417-n	deu:lemma	Krankenhaus
+08054417-n	deu:exe	Seine Frau liegt seit vorgestern im Krankenhaus.
 08054417-n	deu:exe	Das Krankenhaus liegt fünf Minuten zu Fuß vom Hauptbahnhof.
 05311054-n	deu:lemma	Auge
+05311054-n	deu:exe	Ihre Augen sind vom Weinen rot.
 05311054-n	deu:exe	Ich habe gute Augen.
 05316025-n	deu:lemma	Auge
+05316025-n	deu:exe	Ihre Augen sind vom Weinen rot.
 05316025-n	deu:exe	Ich habe gute Augen.
 02871439-n	deu:lemma	Regal
 02871439-n	deu:exe	Das Buch liegt hinter dem Regal.
 01186408-a	deu:lemma	leicht
 01186408-a	deu:exe	Mein Gepäck ist leicht.
 04049098-n	deu:lemma	Bahnhof
+04049098-n	deu:exe	Er fährt zum Bahnhof.
+04049098-n	deu:exe	Der Bahnhof war mit Reisenden überfüllt.
 04049098-n	deu:exe	Oder soll ich dich lieber am Bahnhof abholen?
 03030663-n	deu:lemma	Zigarette
 03030663-n	deu:exe	Da löschte er die Zigarette.
@@ -1311,9 +1812,15 @@
 03815615-n	deu:exe	Sie trägt oft Krawatten und es sieht auch gut aus.
 07596684-n	deu:lemma	Kuchen
 07596684-n	deu:exe	Kannst du noch ein Stück Kuchen essen?
+05560787-n	deu:lemma	Bein
+05560787-n	deu:exe	Der Hund hat ihm ins Bein gebissen. 
 05560787-n	deu:lemma	Fuß
+05560787-n	deu:exe	Zu Fuß dauert es etwa fünf Minuten.
 05560787-n	deu:exe	Wenn man große Füße hat, ist es schwer gescheite Schuhe zu finden. 
+05563266-n	deu:lemma	Bein
+05563266-n	deu:exe	Der Hund hat ihm ins Bein gebissen. 
 05563266-n	deu:lemma	Fuß
+05563266-n	deu:exe	Zu Fuß dauert es etwa fünf Minuten.
 05563266-n	deu:exe	Wenn man große Füße hat, ist es schwer gescheite Schuhe zu finden. 
 15211189-n	deu:lemma	April
 15211189-n	deu:exe	Anfang April fängt das neue Semester an.
@@ -1324,12 +1831,16 @@
 80001595-v	deu:lemma	zurückgeben
 80001595-v	deu:exe	Er hat mir versprochen, das Geld heute zurückzugeben.
 10080869-n	deu:lemma	Vater
+10080869-n	deu:exe	Dieses Auto gehört meinem Vater.
 10080869-n	deu:exe	Mein Vater kann sehr gut kochen.
 02411224-a	deu:lemma	dick
+02411224-a	deu:exe	Es ist nicht möglich, dieses dicke Buch in drei Tagen zu lesen.
 02411224-a	deu:exe	Sie hat dick Butter aufs Brot gestrichen.
 04446276-n	deu:lemma	Toilette
+04446276-n	deu:exe	Wo ist die Toilette?
 04446276-n	deu:exe	Ich muss kurz auf die Toilette.
 04555291-n	deu:lemma	Toilette
+04555291-n	deu:exe	Wo ist die Toilette?
 04555291-n	deu:exe	Ich muss kurz auf die Toilette.
 15212455-n	deu:lemma	August
 15212455-n	deu:exe	Mitte August haben wir eine Woche Urlaub.
@@ -1340,10 +1851,16 @@
 03291819-n	deu:lemma	Briefumschlag
 03291819-n	deu:exe	Sie holte einen großen Briefumschlag aus ihrem Schreibtisch und schrieb seine Adresse darauf.
 09215315-n	deu:lemma	unter
+09215315-n	deu:exe	Der Junge legt den Fußball unter den Tisch.
+09215315-n	deu:exe	Der Fußball liegt unter dem Tisch.
 09215315-n	deu:exe	Die Sonne geht bald unter.
 80001661-n	deu:lemma	unter
+80001661-n	deu:exe	Der Junge legt den Fußball unter den Tisch.
+80001661-n	deu:exe	Der Fußball liegt unter dem Tisch.
 80001661-n	deu:exe	Die Sonne geht bald unter.
 00523513-n	deu:lemma	Sport
+00523513-n	deu:exe	Du solltest vielleicht mehr Sport machen.
+00523513-n	deu:exe	Tina, wie ist das eigentlich mit dir, machst du auch Sport?
 00523513-n	deu:exe	Ich habe zwei Kilo abgenommen, indem ich jeden Tag Sport gemacht habe.
 03179701-n	deu:lemma	Tisch
 03179701-n	deu:exe	Um jeden Tisch stehen sechs Stühle.
@@ -1352,22 +1869,31 @@
 02016062-v	deu:lemma	aussteigen
 02016062-v	deu:exe	Ich muss aussteigen!
 15237782-n	deu:lemma	Winter
+15237782-n	deu:exe	Wir wollen diesen Winter in Skiurlaub fahren.
 15237782-n	deu:exe	Dann komm mich doch mal im Winter in St. Anton besuchen!
 80001691-n	deu:lemma	über
+80001691-n	deu:exe	Sie hängt das Foto über den Schreibtisch.
 80001691-n	deu:exe	Das Foto hängt über dem Schreibtisch.
 08663354-n	deu:lemma	über
+08663354-n	deu:exe	Sie hängt das Foto über den Schreibtisch.
 08663354-n	deu:exe	Das Foto hängt über dem Schreibtisch.
 07804323-n	deu:lemma	Reis
+07804323-n	deu:exe	In Japan isst man sehr viel Reis.
 07804323-n	deu:exe	Während der Reis kocht, bereite ich ein Dessert vor.
 15245990-n	deu:lemma	Reis
+15245990-n	deu:exe	In Japan isst man sehr viel Reis.
 15245990-n	deu:exe	Während der Reis kocht, bereite ich ein Dessert vor.
 90000417-n	deu:lemma	Reis
+90000417-n	deu:exe	In Japan isst man sehr viel Reis.
 90000417-n	deu:exe	Während der Reis kocht, bereite ich ein Dessert vor.
 07575076-n	deu:lemma	Mittagessen
 07575076-n	deu:exe	Während sie die Wäsche wäschst, bereitet er das Mittagessen.
 15156001-n	deu:lemma	heute
+15156001-n	deu:exe	Was machst du heute?
+15156001-n	deu:exe	Hast du heute Abend Zeit?
 15156001-n	deu:exe	Heute war das Wetter wirklich schön!
 09604981-n	deu:lemma	selber
+09604981-n	deu:exe	Mein Sohn räumt sein Zimmer selber auf.
 09604981-n	deu:exe	Könnt ihr das wirklich selber machen?
 07557434-n	deu:lemma	Speise
 07557434-n	deu:exe	Sie hat für uns so leckere Speisen zubereitet.

@@ -87,12 +87,20 @@
 02169891-v	eng:exe	That sounds good, but I have to ask my parents first. 
 02242464-v	eng:lemma	sell
 02242464-v	eng:exe	They sell futon there.
+00271022-a	eng:lemma	bright
+00271022-a	eng:exe	The moon is very bright tonight.
 00271022-a	eng:lemma	light
 00271022-a	eng:exe	The sky over Cape Sounion became light purple at dusk.
+00396523-a	eng:lemma	bright
+00396523-a	eng:exe	The moon is very bright tonight.
 00396523-a	eng:lemma	light
 00396523-a	eng:exe	The sky over Cape Sounion became light purple at dusk.
+00269989-a	eng:lemma	bright
+00269989-a	eng:exe	The moon is very bright tonight.
 00269989-a	eng:lemma	light
 00269989-a	eng:exe	The sky over Cape Sounion became light purple at dusk.
+00278551-a	eng:lemma	bright
+00278551-a	eng:exe	The moon is very bright tonight.
 00278551-a	eng:lemma	light
 00278551-a	eng:exe	The sky over Cape Sounion became light purple at dusk.
 02924116-n	eng:lemma	bus
@@ -162,9 +170,9 @@
 02397732-a	eng:lemma	hot
 02397732-a	eng:exe	This food is really hot.
 06628228-n	eng:lemma	postcard
-06628228-n	eng:exe	
+06628228-n	eng:exe	Please stick a fifty-yen stamp on this postcard.
 06627938-n	eng:lemma	postcard
-06627938-n	eng:exe	
+06627938-n	eng:exe	Please stick a fifty-yen stamp on this postcard.
 03959485-n	eng:lemma	dish
 03959485-n	eng:exe	Should I take my dishes to the kitchen?
 00393105-a	eng:lemma	white
@@ -208,7 +216,11 @@
 00894552-n	eng:lemma	practice
 00894552-n	eng:exe	It's good English practice, too.
 01292683-a	eng:lemma	like
+01292683-a	eng:exe	I like playing baseball and drawing pictures.
+01292683-a	eng:lemma	like
 01292683-a	eng:exe	I think she'll like that.
+01777210-v	eng:lemma	like
+01777210-v	eng:exe	I like playing baseball and drawing pictures.
 01777210-v	eng:lemma	like
 01777210-v	eng:exe	I think she'll like that.
 03038685-n	eng:lemma	classroom
@@ -346,7 +358,7 @@
 08649345-n	eng:lemma	by
 08649345-n	eng:exe	Do you see that big tree by the house?
 08649345-n	eng:lemma	next
-08649345-n	eng:exe	Well, there are some elephants here ― next to the　monkeys.
+08649345-n	eng:exe	Well, there are some elephants here ― next to the monkeys.
 05136150-n	eng:lemma	side
 05136150-n	eng:exe	The side door is closed on Sunday.
 15211484-n	eng:lemma	May
@@ -506,6 +518,8 @@
 00979870-v	eng:lemma	say
 00979870-v	eng:exe	What do I need to say when I meet his parents?
 09854218-n	eng:lemma	sister
+09854218-n	eng:exe	How about your sister?
+09854218-n	eng:lemma	sister
 09854218-n	eng:exe	How many brothers and sisters do you have?
 04507155-n	eng:lemma	umbrella
 04507155-n	eng:exe	This umbrella is as light as air.
@@ -547,8 +561,12 @@
 02770717-v	eng:exe	It will get cloudy tomorrow.
 02529945-a	eng:lemma	cool
 02529945-a	eng:exe	It's fairly cool here.
+02207206-v	eng:lemma	go shopping
+02207206-v	eng:exe	Let's go shopping next Sunday.
 02207206-v	eng:lemma	buy
 02207206-v	eng:exe	I have just enough money to buy this book.
+02208265-v	eng:lemma	go shopping
+02208265-v	eng:exe	Let's go shopping next Sunday.
 02208265-v	eng:lemma	buy
 02208265-v	eng:exe	I have just enough money to buy this book.
 00422620-a	eng:lemma	dirty
@@ -775,6 +793,8 @@
 80001331-x	eng:exe	So, how are your parents? 
 77000104-n	eng:lemma	when
 77000104-n	eng:exe	I wonder when he will call me.
+04105893-n	eng:lemma	room
+04105893-n	eng:exe	This room is for staff only.
 04105893-n	eng:lemma	apartment
 04105893-n	eng:exe	He lives in an apartment,
 06415419-n	eng:lemma	notebook
@@ -903,10 +923,16 @@
 03871083-n	eng:exe	Attach name tags to all of your baggage.
 02774630-n	eng:lemma	baggage
 02774630-n	eng:exe	Attach name tags to all of your baggage.
+07891726-n	eng:lemma	alcohol
+07891726-n	eng:exe	John gave up alcohol ten years ago.
 07891726-n	eng:lemma	wine
 07891726-n	eng:exe	I prefer sweet wine to dry wine.
+07884567-n	eng:lemma	alcohol
+07884567-n	eng:exe	John gave up alcohol ten years ago.
 07884567-n	eng:lemma	wine
 07884567-n	eng:exe	I prefer sweet wine to dry wine.
+07891433-n	eng:lemma	alcohol
+07891433-n	eng:exe	John gave up alcohol ten years ago.
 07891433-n	eng:lemma	wine
 07891433-n	eng:exe	I prefer sweet wine to dry wine.
 15164463-n	eng:lemma	Friday
@@ -1291,6 +1317,10 @@
 01712753-a	eng:exe	Oh, my tooth hurts!
 05395690-n	eng:lemma	stomach
 05395690-n	eng:exe	I wish I had a firm stomach.
+05395690-n	eng:lemma	stomach
+05395690-n	eng:exe	I wish I had a firm stomach.
+05556943-n	eng:lemma	stomach
+05556943-n	eng:exe	I wish I had a firm stomach.
 05556943-n	eng:lemma	stomach
 05556943-n	eng:exe	I wish I had a firm stomach.
 02324478-v	eng:lemma	add
@@ -1311,6 +1341,8 @@
 10399491-n	eng:exe	My parents are strict, huh?
 13833375-n	eng:lemma	south
 13833375-n	eng:exe	Wakayama Prefecture is located in the south of Honshu.
+02472293-n	eng:lemma	person
+02472293-n	eng:exe	You're the only person in this class who can speak German.
 02472293-n	eng:lemma	person
 02472293-n	eng:exe	You're the only person in this class who can speak German.
 15212167-n	eng:lemma	July
@@ -1371,8 +1403,12 @@
 03815615-n	eng:exe	I bought a red tie yesterday.
 07596684-n	eng:lemma	sweet
 07596684-n	eng:exe	Hmm, you should probably bring something small –– like some sweets.
+05560787-n	eng:lemma	leg
+05560787-n	eng:exe	Bend your leg back and grab your ankle.
 05560787-n	eng:lemma	foot
 05560787-n	eng:exe	My foot goes to sleep soon after I sit on my heels.
+05563266-n	eng:lemma	leg
+05563266-n	eng:exe	Bend your leg back and grab your ankle.
 05563266-n	eng:lemma	foot
 05563266-n	eng:exe	My foot goes to sleep soon after I sit on my heels.
 15211189-n	eng:lemma	April
@@ -1402,7 +1438,7 @@
 03291819-n	eng:lemma	envelope
 03291819-n	eng:exe	Could you open this envelope?
 80001545-n	eng:lemma	next
-80001545-n	eng:exe	Well, there are some elephants here ― next to the　monkeys.
+80001545-n	eng:exe	Well, there are some elephants here ― next to the monkeys.
 09215315-n	eng:lemma	down
 09215315-n	eng:exe	Don't look down!
 80001661-n	eng:lemma	down
