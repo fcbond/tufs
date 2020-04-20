@@ -22,7 +22,7 @@
 
 \usepackage{polyglossia}
 \setmainlanguage{english}
-\setotherlanguage{urdu}
+
 %\setotherlanguage{myanmar}
 %\setmainfont[Mapping=tex-text]{Times New Roman}
 \usepackage{xeCJK}
@@ -37,9 +37,9 @@
 %sudo apt-get install font-hosny-amiri
 \newfontfamily\myanmarfont[Script=Myanmar]{Padauk}
 \newcommand{\myanmar}[1]{{\myanmarfont #1}}
-\usepackage{acl2010}
+%\usepackage{acl2010}
 \newcommand{\secref}[1]{\StrSubstitute{\getrefnumber{#1}}{.}{ }}
-
+\setotherlanguage{urdu}
 \setmainfont{Noto Serif}%TeX Gyre Termes}
 
 \usepackage[j,e]{mtg2e}
@@ -53,7 +53,8 @@
 % really have to
 
 \newcommand{\lex}[1]{\textbf{\textit{#1}}}
-\title{Linking the TUFS Basic Vocabulary \\ to the Open Multilingual Wordnet}
+\title{Linking the TUFS Basic Vocabulary \\ to the Open Multilingual
+  Wordnet \\ Guidelines}
 
 \author{
 	Francis Bond,$^\spadesuit$ 
@@ -68,31 +69,10 @@
 
 \begin{document}
 \maketitle
-\begin{abstract}
-We describe the linking of the TUFS Basic Vocabulary Modules, created for
-on-line language learning, with the Open Multilingual Wordnet.  The
-links are then used to (i) evaluate existing wordnets, (ii) add data
-to these wordnets and (iii) create new open w1ordnets for Khmer,
-Korean, Lao, Mongolian, Russian, Tagalog, Urdu and Vietnamese.
-% Turkish, German, Myanmar
-
-
-\end{abstract}
-\section{Introduction}
 
 
 
-
-Preliminary values for the coverage are shown in Table~\ref{tab:cover}.
-
-\begin{table*}
-  \centering
-  \input{tufgoi.tex}
-  \caption{Wordnet coverage of the basic vocabulary}\label{tab:cover}
-\end{table*}
-
-
-\subsection{TUFS Open Language Resources}
+\section{TUFS Open Language Resources}
 
 
 The data comes from the basic vocabulary words and example sentences
@@ -100,121 +80,13 @@ in 24 languages in the TUFS Open Language Resources
 \citep{Kawaguchi:2007}.  These have also been used as a basis for the TUFS Asian Language
 Parallel Corpus, or TALPCo \citep{}.
 
-Nomoto, Hiroki, Kenji Okano, David Moeljadi and Hideo Sawada. 2018. TUFS Asian Language Parallel Corpus (TALPCo). Proceedings of the Twenty-Fourth Annual Meeting of the Association for Natural Language Processing, 436-439.
-(For Thai and Vietnamese translations, and interpersonal meaning annotations)
-Nomoto, Hiroki, Kenji Okano, Sunisa Wittayapanyanon and Junta
-Nomura. 2019. Interpersonal meaning annotation for Asian language
-corpora: The case of TUFS Asian Language Parallel Corpus
-(TALPCo). Proceedings of the Twenty-Fifth Annual Meeting of the
-Association for Natural Language Processing, .
-Kawaguchi, Yuji. 2007. Foundations of Center of Usage-Based Linguistic
-Informatics (UBLI). In Yuji Kawaguchi, Toshihiro Takagaki, Nobuo
-Tomimori and Yoichiro Tsuruga (eds.) Corpus-Based Perspectives in
-Linguistics, 3-28. Amsterdam: John Benjamins.
-
-https://github.com/matbahasa/TALPCo
-
-The Japanese component consists of 799 basic vocabulary words with
-example sentences for them. These basic vocabulary words were selected
-in accordance with the lowest level of the Japanese Language
-Proficiency Test, i.e. N5 (equivalent to Level 4 in the old
-system). The example sentences are given in a formal conversational
-register.  Some of the vocabulary is a little old fashioned (for
-example 万年筆 \jpn[fountain pen]{mannenhitu} or フィルム 
-\jpn[(photgraphic) film]{firumu}).   We give the translations
-for 先生 \jpn[teacher]{sensei} in Table~\ref{tab:teacher}.  We see
-here that different languages offer extra information as free text: German, French and Vietnamese have male and
-female versions: Russian differentiates school and university
-teachers.  Further, Arabic offers irregular plurals and Chinese pinyin
-transliterations.\marginpar{translate}
-
-\begin{table*}
-  \centering
-\begin{tabular}{lll}
-Language	&  Cleaned	& Meaning \\ \hline
-Arabic (ar)	&	أُسْتَاذٌ	& ［名詞］教授（職名）、先生（呼称）أَسَاتِذَةٌ√أستاذ
-أستاذ,استاذ,أساتذة,اساتذة \\
-Arabic in Syria (as)	& إستاذ (brk:أساتذة)     & 先生 \\
-German (de)	    & Lehrer	& 先生，教師　<女>Lehrerin\\
-English (en)	    & teacher	& 先生\\
-Spanish (es)	    & profesor	& 先生\\
-French (fr)		& instituteur	& 先生。とくに小学校の先生。;＊女性形はinstitutrice。\\
-French (fr)		& professeur	& 先生。教授。;＊男女とも同じ形。\\
-French (fr)		& enseignant	& 先生。教員。職業としての先生。\\
-Indonesian (id)	 	& guru	& 先生\\
-Indonesian (id)	 	& dosen	& 先生\\
-Japanese (ja)	        & 先生	& 【よみ】; せんせい;;【意味】; teacher; instructor; ※ not used when referring to one's own job;; doctor; ※ used when addressing a medical doctor in stead of "Dr.～"\\
-Central Khmer (km)	& គ្រូ	& 先生\\
-Korean (ko)		& 선생님	& 先生\\
-Lao (lo)		& ອາຈານ	& 先生\\
-Mongolian (mn)		& багш	& 先生\\
-Malay (ms)	& guru;cikgu	& 【よみ】; せんせい;;【意味】; teacher; instructor; ※ not used when referring to one's own job;; doctor; ※ used when addressing a medical doctor in stead of "Dr.～"\\
-Burmese (my)	& \myanmar{ဆရာ;ဆရာမ;ကျောင်းဆရာ;ဆရာဝန်}	& 【よみ】; せんせい;;【意味】; teacher; instructor; ※ not used when referring to one's own job;; doctor; ※ used when addressing a medical doctor in stead of "Dr.～"\\
-Por. in Brazil (pb)	& professor	& 先生\\
-Portuguese (pt)	& professor	& 先生\\
-Russian (ru)         & учитель	& 小・中・高校の先生;（大学の先生にはпреподавательを用いる。）\\
-Thai (th)            & อาจารย์	& 先生\\
-Tagalog (tl)         & titser	& 先生\\
-Turkish (tr)   	& öğretmen	& 先生\\
-Urdu (ur)	&  \texturdu{ استاد}	& 先生\\
-Vietnamese (vi)	&  cô giáo	& 先生　（女性の先生を指します）\\
-Vietnamese (vi)	&  thầy giáo	& 先生　（男性の先生を指します）\\
-Mandarin Chinese (zh)	& 老师 (py:lǎoshī)	& 先生
-\end{tabular}
-\caption{Entry for 先生 \jpn[teacher]{sensei}}
-\label{tab:teacher}
-\end{table*}
-
-The vocabulary also comes with example sentences, all glossed in
-Japanese (as the material is aimed at Japanese learners.  The
-sentences are not the same across all languages, although there is a
-revised corpus parallel in seven languages for TALPCo: Japanese,
-Burmese (Myanmar), Malay, Indonesian, Thai, Vietnamese and English
-\citep{}.   This has not been fed back into the original
-data.\marginpar{Hiroki: will it?}
-\marginpar{Arthur add citation}
-
-
-\begin{exe}
-  \ex Mrs. McDonald is my English teacher. [en]
-  \ex Ein Schüler fragt den Lehrer. [de]
-  \trans ``A student asks the teacher a question.''
-  \ex Akiko, Pak Yanto adalah dosen tata bahasa. [id]
-  \trans ``Akiko, Mr Yanto is a grammar teacher.''
-\end{exe}
-
-\begin{table*}
-  \centering
-  \begin{tabular}{rr}
-    $\le$ & Translation Groups \\ \hline
-$0 < x \le 5$ & 2004\\
-$5 < x \le 10$ & 214\\
-$10 < x \le 15$ & 2\\
-$15 < x \le 20$ & 80\\
-$20 < x \le 25$ & 425\\
-  \end{tabular}
-  \caption{Distribution of Translations}\label{tab:cover}
-\end{table*}
-
-Not all words have are used in the teaching materials for all
-languages.  We show the distribution of translations for words
-  Many words only have translations in one language (mainly Arabic).
-505 have translations in more than fifteen, we focus on linking them to
-wordnet due to the diminishing returns for the rest.
-
-
-\subsection*{Acknowledgements}
-
+Nomo
 This research is supported by the JSPS grant \textit{A collaborative
   network for usage-based research on lesser-studied languages}.  We
 thank the creators of the individual wordnets.
 
-\bibliographystyle{aclnat}
-\bibliography{main}
-
 \clearpage
 \onecolumn
-\appendix
 \section{Instructions for Link Checkers}
 
 The main goal of this task is to link the concepts in the TUFS
