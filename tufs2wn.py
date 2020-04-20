@@ -69,6 +69,12 @@ def cidInfo(filename):
         ('fr', '留学生。外国人の学生。;＊女性形はétudiante étrangère。', 
          'étudiant étranger; étudiante étrangère (morph:f)', 
          'Voici la résidence pour les étudiants étrangers.|これが留学生のための宿舎です。')
+        >>> info['163'][0]
+        ('fr',
+         'どれ。;＊単数女性形laquel、複数男性形lesquels、複数女性形lesquelles。',
+         'lequel; laquel (morph:f:sg); lesquels (morph:m:sg); lesquelles (morph:f:pl)',
+         'Avec la télévision par câble, il y a beaucoup de chaînes. 
+          Je ne sais lesquelles choisir.|ケーブルテレビはたくさんチャンネルがあって、どれを選んでいいのかわかりません')
         >>> 'ko' in langs
         True
     '''
@@ -89,10 +95,10 @@ def cidInfo(filename):
         cid, lng, wid, lem, com, uid, exe = ln.strip('\n').split('\t')
         langs.add(lng)
 #        matches = re.findall(r'''(<女>|\w+[性数]形)(?:は|\s*:\s*|\s*：\s*)?([\w ]+)''', com.replace('\u200f', ''))
-        matches = re.findall(r'''(<女>|[可数名詞双男女単複]+[性数]形)(?:は|\s*:\s*|\s*：\s*)?([\w ،-٩]+)''', # need to
+        matches = re.findall(r'''(<女>|[可数名詞双男女性単複]+[性数]形)(?:は|\s*:\s*|\s*：\s*)?([\w ،-٩]+)''', # need to
                              com.replace('\u200f', ''))                          # consider Arabic diacritics
         if matches:
-#            print('MATCHES:', matches, lem, com, sep='\t')
+#            print('MATCHES:', cid, matches, lem, com, sep='\t')
             known = [l + ' (morph:' + morph[m] + ')'          # adding more lemmas!!!
                      for m, l in matches 
                      if m in morph and l[0] not in 'のを名で'] # there's still a couple bugs!
@@ -101,7 +107,7 @@ def cidInfo(filename):
                 lem += '; ' + '; '.join(known)
             else:
                 unknown = [(l, m) for m, l in matches if m not in morph or l[0] in 'のを名で']
-                print('WARNING: unknown morphology', unknown)
+#                print('WARNING: unknown morphology', unknown)
         if exe:
             info[cid].append((lng,                                        # language        
                               com.replace('\u3000', ' '),                 # comment
