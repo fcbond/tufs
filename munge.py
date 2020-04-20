@@ -230,16 +230,6 @@ def get_concepts(data):
             #                                      usage[usage_id][0],
             #                                      usage[usage_id][1]))
             #super_w[bunrui_t[classified_id][:4]][lang].append(word[lang][usage[usage_id][0]]) 
-#     print ('word in English is:', word['en']['1208'], '1208') #475
-#     print ('language in English is:', word['en']['1206'], '1206') #477
-#     #inst = dd(lambda: dd(tuple))
-#     print('TUFS ID', '30264', sense['30264']['en'])
-#     print('example for', '215', inst['en']['215'])
-#     print('usage:', '475', usage['475'])
-#     print('TUFS ID', '30521', sense['30521']['en'])
-#     print('example for', '738', inst['en']['7385'])
-#     print('usage:', '477', usage['477'])
-#     print('u2t[]:', '477', u2t['477'])
     return u2t, bunrui_n, bunrui_c, bunrui_u
 
 
@@ -477,7 +467,7 @@ def main():
          "pb", "pt", "ru", "th",
          "tl", "tr", "ur", "vi", "zh"]
     data  = fetch_data(datadir, langs)
-    print_tsv('onew.tsv', data)
+    print_tsv('tufs-vocab.tsv', data)
     #print_html('onew.html',data)
     return None
 
