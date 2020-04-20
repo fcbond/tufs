@@ -365,6 +365,40 @@ def print_tsv(filename, data):
                       ";;;".join(examples) if examples else '',          # examples  
                       sep='\t', file=t)
 
+def l2l3(l):
+    """convert the language name
+    >>> l2l3('en')
+    ('eng', 'English')
+    >>> l2l3('as')
+    ('apc', 'Arabic, Syrian')
+    >>> l2l3('ar')
+    ('arb', 'Arabic')
+    """
+    try:
+        if l == 'pb':
+            language= 'Por., Brazil'
+            l3 ='por'
+        elif l == 'ms':
+            language= 'Malay'
+            l3='zsm'
+        elif l == 'as':
+            language= 'Arabic, Syrian'
+            l3='apc'
+        elif l == 'ar':
+            language= 'Arabic'
+            l3='arb'
+        elif l == 'zh':
+            language= 'Chinese, Mandarin'
+            l3='cmn' 
+        else:
+            language= languages.get(alpha2=l).name
+            l3 = languages.get(alpha2=l).part3
+    except:
+        language=l
+        l3='unk'
+    return l3, language
+
+                
 # def print_html(filename, data):
 #     """
 #     print html
@@ -488,38 +522,6 @@ if __name__ == "__main__":
 # bunrui2pos['3'] = 'a'
 # bunrui2pos['4'] = 'r'
 
-# def l2l3(l):
-#     """convert the language name
-#     >>> l2l3('en')
-#     ('eng', 'English')
-#     >>> l2l3('as')
-#     ('apc', 'Arabic, Syrian')
-#     >>> l2l3('ar')
-#     ('arb', 'Arabic')
-#     """
-#     try:
-#         if l == 'pb':
-#             language= 'Por., Brazil'
-#             l3 ='por'
-#         elif l == 'ms':
-#             language= 'Malay'
-#             l3='zsm'
-#         elif l == 'as':
-#             language= 'Arabic, Syrian'
-#             l3='apc'
-#         elif l == 'ar':
-#             language= 'Arabic'
-#             l3='arb'
-#         elif l == 'zh':
-#             language= 'Chinese, Mandarin'
-#             l3='cmn' 
-#         else:
-#             language= languages.get(alpha2=l).name
-#             l3 = languages.get(alpha2=l).part3
-#     except:
-#         language=l
-#         l3='unk'
-#     return l3, language
 
 
 
