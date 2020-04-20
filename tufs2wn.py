@@ -84,8 +84,10 @@ def cidInfo(filename):
             '複数形': 'pl',                        # plural
             '<女>': 'f',                          # female
             '単数女性形': 'f:sg',                 # female:singular
-            '複数男性形': 'm:sg',                # masculine:singular
+            '複数男性形': 'm:pl',                # masculine:plural
+            '男性複数形': 'm:pl',                # masculine:plural
             '複数女性形': 'f:pl',               # female:plural
+            '女性複数形': 'f:pl',               # female:plural
             '女性形': 'f',                    # female
             '可数名詞単数形': 'count:sg',     # count:singular
             '双数形': 'du'                  # dual
@@ -95,7 +97,7 @@ def cidInfo(filename):
         cid, lng, wid, lem, com, uid, exe = ln.strip('\n').split('\t')
         langs.add(lng)
 #        matches = re.findall(r'''(<女>|\w+[性数]形)(?:は|\s*:\s*|\s*：\s*)?([\w ]+)''', com.replace('\u200f', ''))
-        matches = re.findall(r'''(<女>|[可数名詞双男女性単複]+[性数]形)(?:は|\s*:\s*|\s*：\s*)?([\w ،-٩]+)''', # need to
+        matches = re.findall(r'''(<女>|[可数名詞双男女性単複]+[性数]形)(?:[は\u200f]|\s*:\s*|\s*：\s*)?([\w ،-٩]+)''', # need to
                              com.replace('\u200f', ''))                          # consider Arabic diacritics
         if matches:
 #            print('MATCHES:', cid, matches, lem, com, sep='\t')
