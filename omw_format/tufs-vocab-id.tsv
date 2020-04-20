@@ -1,6 +1,8 @@
 # TUFS Basic Indonesian Wordnet	ind	http://www.coelang.tufs.ac.jp/mt/id/	CC BY 4.0
 15210045-n	ind:lemma	Januari
 15210045-n	ind:exe	1月  Januari
+05755883-n	ind:lemma	pelajaran
+05755883-n	ind:exe	Saya tidak suka pelajaran matematika.
 05755883-n	ind:lemma	belajar
 05755883-n	ind:exe	Saya sedang belajar bahasa Indonesia.
 04971928-n	ind:lemma	cokelat
@@ -11,15 +13,21 @@
 15043763-n	ind:exe	Di tempat kamu saljunya turun banyak?
 00251013-n	ind:lemma	pembersihan
 00251013-n	ind:exe	Program pembersihan lingkungan akan diadakan di kampung kami.
+08058098-n	ind:lemma	perusahaan
+08058098-n	ind:exe	Dia bekerja sebagai pegawai perusahaan.
 08058098-n	ind:lemma	kantor
 08058098-n	ind:exe	Laki-laki yang baru saja masuk ke kantor itu adalah kakak saya.
 01382086-a	ind:lemma	besar
+01382086-a	ind:exe	Iwan tahu, 'kan, kantor pos besar di sini?
 01382086-a	ind:exe	Matanya besar dan hidungnya mancung.
 01453084-a	ind:lemma	besar
+01453084-a	ind:exe	Iwan tahu, 'kan, kantor pos besar di sini?
 01453084-a	ind:exe	Matanya besar dan hidungnya mancung.
 00527870-a	ind:lemma	besar
+00527870-a	ind:exe	Iwan tahu, 'kan, kantor pos besar di sini?
 00527870-a	ind:exe	Matanya besar dan hidungnya mancung.
 01677433-a	ind:lemma	besar
+01677433-a	ind:exe	Iwan tahu, 'kan, kantor pos besar di sini?
 01677433-a	ind:exe	Matanya besar dan hidungnya mancung.
 10084295-n	ind:lemma	anak perempuan
 10084295-n	ind:exe	Hampir semua anak perempuan memakai anting-anting.
@@ -30,8 +38,10 @@
 00065495-v	ind:lemma	sehat
 00065495-v	ind:exe	Semoga Bapak sekeluarga selalu dalam keadaan sehat.
 80001734-n	ind:lemma	kuliah
+80001734-n	ind:exe	Kuliah apa?
 80001734-n	ind:exe	Saya khawatir akhir-akhir ini Ayu tidak masuk kuliah.
 00889472-n	ind:lemma	kuliah
+00889472-n	ind:exe	Kuliah apa?
 00889472-n	ind:exe	Saya khawatir akhir-akhir ini Ayu tidak masuk kuliah.
 02608347-v	ind:lemma	mulai
 02608347-v	ind:exe	Minggu depan mulai libur panjang, ya?
@@ -41,14 +51,21 @@
 03623556-n	ind:exe	Silakan pakai pisau ini untuk memotong daging.
 03624134-n	ind:lemma	pisau
 03624134-n	ind:exe	Silakan pakai pisau ini untuk memotong daging.
+01776727-v	ind:lemma	tidak suka
+01776727-v	ind:exe	Anak-anak biasanya tidak suka minum obat.
 01776727-v	ind:lemma	benci
 01776727-v	ind:exe	Saya benci kepada orang yang suka berbohong.
+01774136-v	ind:lemma	tidak suka
+01774136-v	ind:exe	Anak-anak biasanya tidak suka minum obat.
 01774136-v	ind:lemma	benci
 01774136-v	ind:exe	Saya benci kepada orang yang suka berbohong.
 02783161-n	ind:lemma	bolpoin
 02783161-n	ind:exe	Formulir ini diisi dengan bolpoin bertinta hitam.
 02632567-v	ind:lemma	mau
+02632567-v	ind:exe	Mau pesan apa, Mbak?
 02632567-v	ind:exe	Kalau begitu, saya mau makan masakan Padang.
+01579608-a	ind:lemma	segera
+01579608-a	ind:exe	Saya harus segera pulang.
 01579608-a	ind:lemma	langsung
 01579608-a	ind:exe	Kemarin, setelah pulang kerja, saya langsung jatuh tidur karena capai sekali.
 03427296-n	ind:lemma	pintu
@@ -67,16 +84,24 @@
 77000072-n	ind:exe	Di sini dilarang parkir motor.
 08489497-n	ind:lemma	sini
 08489497-n	ind:exe	Di sini dilarang parkir motor.
+03561345-n	ind:lemma	gambar
+03561345-n	ind:exe	Gambar ini baru saya beli di toko.
 03561345-n	ind:lemma	lukisan
 03561345-n	ind:exe	Lukisan ini bisa menyembuhkan luka hati.
+03234306-n	ind:lemma	gambar
+03234306-n	ind:exe	Gambar ini baru saya beli di toko.
 03234306-n	ind:lemma	lukisan
 03234306-n	ind:exe	Lukisan ini bisa menyembuhkan luka hati.
+03876519-n	ind:lemma	gambar
+03876519-n	ind:exe	Gambar ini baru saya beli di toko.
 03876519-n	ind:lemma	lukisan
 03876519-n	ind:exe	Lukisan ini bisa menyembuhkan luka hati.
 07110615-n	ind:lemma	suara
 07110615-n	ind:exe	Suara Kakak berbeda dengan biasanya. Masuk angin?
 05202284-n	ind:lemma	suara
 05202284-n	ind:exe	Suara Kakak berbeda dengan biasanya. Masuk angin?
+09411430-n	ind:lemma	sungai
+09411430-n	ind:exe	Ada sungai di dekat rumah saya.
 09411430-n	ind:lemma	kali
 09411430-n	ind:exe	Kali Brantas mengalir di Jawa Timur.
 15236859-n	ind:lemma	musim gugur
@@ -87,19 +112,30 @@
 02169891-v	ind:exe	Saya ingin bertanya.
 02242464-v	ind:lemma	menjual
 02242464-v	ind:exe	Apa saja yang dijual di toko itu?
+00271022-a	ind:lemma	terang
+00271022-a	ind:exe	Kamar ini akan kelihatan lebih terang kalau dicat dengan warna putih.
 00271022-a	ind:lemma	muda
 00271022-a	ind:exe	Ibu Widji usianya sudah tua, tetapi suka memakai baju merah muda.
+00396523-a	ind:lemma	terang
+00396523-a	ind:exe	Kamar ini akan kelihatan lebih terang kalau dicat dengan warna putih.
 00396523-a	ind:lemma	muda
 00396523-a	ind:exe	Ibu Widji usianya sudah tua, tetapi suka memakai baju merah muda.
+00269989-a	ind:lemma	terang
+00269989-a	ind:exe	Kamar ini akan kelihatan lebih terang kalau dicat dengan warna putih.
 00269989-a	ind:lemma	muda
 00269989-a	ind:exe	Ibu Widji usianya sudah tua, tetapi suka memakai baju merah muda.
+00278551-a	ind:lemma	terang
+00278551-a	ind:exe	Kamar ini akan kelihatan lebih terang kalau dicat dengan warna putih.
 00278551-a	ind:lemma	muda
 00278551-a	ind:exe	Ibu Widji usianya sudah tua, tetapi suka memakai baju merah muda.
+02924116-n	ind:lemma	bus
+02924116-n	ind:exe	Saya jarang naik bus.
 02924116-n	ind:lemma	bis
 02924116-n	ind:exe	Iya, sih. Tapi kalau naik bis itu lebih murah dibandingkan naik pesawat terbang.
 01614426-v	ind:lemma	menempelkan
 01614426-v	ind:exe	Kami mohon izin menempelkan stiker ini di sini.
 80001230-x	ind:lemma	ya
+80001230-x	ind:exe	Ya, betul.
 80001230-x	ind:exe	Ya, Anda harus mengumpulkan dalam minggu ini.
 01184932-a	ind:lemma	berat
 01184932-a	ind:exe	Saya tidak mau membawa barang yang berat.
@@ -116,18 +152,30 @@
 03613294-n	ind:lemma	kunci
 03613294-n	ind:exe	Adik saya sering kehilangan kunci.
 01553629-a	ind:lemma	banyak
+01553629-a	ind:exe	Tidak sulit, tetapi harus membaca banyak karya sastra.
 01553629-a	ind:exe	Paling banyak empat buku.
 01551633-a	ind:lemma	banyak
+01551633-a	ind:exe	Tidak sulit, tetapi harus membaca banyak karya sastra.
 01551633-a	ind:exe	Paling banyak empat buku.
 01552419-a	ind:lemma	banyak
+01552419-a	ind:exe	Tidak sulit, tetapi harus membaca banyak karya sastra.
 01552419-a	ind:exe	Paling banyak empat buku.
+00127137-a	ind:lemma	lama
+00127137-a	ind:exe	Kemarin saya makan malam dengan teman-teman lama.
 00127137-a	ind:lemma	tua
 00127137-a	ind:exe	Kipas angin ini sudah tua, tetapi masih berguna.
+01638438-a	ind:lemma	lama
+01638438-a	ind:exe	Kemarin saya makan malam dengan teman-teman lama.
 01638438-a	ind:lemma	tua
 01638438-a	ind:exe	Kipas angin ini sudah tua, tetapi masih berguna.
+01729384-a	ind:lemma	lama
+01729384-a	ind:exe	Kemarin saya makan malam dengan teman-teman lama.
 01729384-a	ind:lemma	tua
 01729384-a	ind:exe	Kipas angin ini sudah tua, tetapi masih berguna.
+10694258-n	ind:lemma	guru
+10694258-n	ind:exe	Kalau guru privat, bagaimana?
 10694258-n	ind:lemma	dosen
+10694258-n	ind:exe	Lima halaman, tapi kata dosen minimal delapan halaman.
 10694258-n	ind:exe	Akiko, Pak Yanto adalah dosen tata bahasa.
 07859284-n	ind:lemma	gula
 07859284-n	ind:exe	Kalau sudah matang, baru dimasukkan nasinya dan ditambahkan garam, gula, sedikit kecap manis.
@@ -135,6 +183,8 @@
 09605289-n	ind:exe	Dia masih berumur 17 tahun, tetapi pikirannya sudah dewasa.
 04081281-n	ind:lemma	restoran
 04081281-n	ind:exe	Restoran itu sangat populer, tetapi harganya mahal.
+04081281-n	ind:lemma	kantin
+04081281-n	ind:exe	Mari kita makan siang di kantin.
 04081281-n	ind:lemma	warung
 04081281-n	ind:exe	Banyak warung yang buka sampai malam di daerah ini.
 10448983-n	ind:lemma	polisi
@@ -142,6 +192,7 @@
 10448983-n	ind:lemma	polisi
 10448983-n	ind:exe	Anda lebih baik bertanya kepada polisi.
 90000507-n	ind:lemma	minggu ini
+90000507-n	ind:exe	Apakah saya harus mengumpulkan dalam minggu ini, Bu?
 90000507-n	ind:exe	Minggu ini saya kurang tidur.
 02686568-n	ind:lemma	pesawat terbang
 02686568-n	ind:exe	Kalau naik pesawat terbang itu cepat, tetapi biayanya paling mahal.
@@ -168,6 +219,7 @@
 03959485-n	ind:lemma	piring
 03959485-n	ind:exe	Ayo, ambil piring. Kita makan!
 00393105-a	ind:lemma	putih
+00393105-a	ind:exe	Bawang putih dan bawang merah diiris halus, cabe diiris miring.
 00393105-a	ind:exe	Bendera Kebangsaan Indonesia disebut Sang Saka Merah Putih.
 08625073-n	ind:lemma	kanan
 08625073-n	ind:exe	Coba lihat ke arah kanan.
@@ -180,8 +232,11 @@
 03419014-n	ind:lemma	pakaian
 03419014-n	ind:exe	Kamu tunggu sebentar di sini. Saya berganti pakaian dulu.
 15165289-n	ind:lemma	pagi
+15165289-n	ind:exe	Selamat pagi, Pak.
+15165289-n	ind:exe	Dari pagi sampai sore saya memancing.
 15165289-n	ind:exe	Kalau begitu, kami akan jemput Ria pada jam delapan pagi.
 00109151-r	ind:lemma	situ
+00109151-r	ind:exe	Tolong ambilkan baju yang digantung di situ.
 00109151-r	ind:exe	situ
 03720163-n	ind:lemma	peta
 03720163-n	ind:exe	peta
@@ -205,15 +260,29 @@
 01640850-a	ind:exe	Eh, Tini, katanya punya pacar baru, ya?
 00894552-n	ind:lemma	latihan
 00894552-n	ind:exe	Saya baru saja selesai latihan gamelan.
+01292683-a	ind:lemma	suka
+01292683-a	ind:exe	Tapi saya lebih suka lagu-lagu dangdut.
+01292683-a	ind:lemma	suka
+01292683-a	ind:exe	Syukurlah kalau suka.
 01292683-a	ind:lemma	gemar
 01292683-a	ind:exe	Ibu saya gemar minum kopi.
+01777210-v	ind:lemma	suka
+01777210-v	ind:exe	Tapi saya lebih suka lagu-lagu dangdut.
+01777210-v	ind:lemma	suka
+01777210-v	ind:exe	Syukurlah kalau suka.
 01777210-v	ind:lemma	gemar
 01777210-v	ind:exe	Ibu saya gemar minum kopi.
 03038685-n	ind:lemma	ruang kelas
 03038685-n	ind:exe	Ruang kelas itu kecil sukali.
+00296131-r	ind:lemma	barangkali
+00296131-r	ind:exe	Barangkali Kak Tomo sekarang tidak ada di rumah.
 00296131-r	ind:lemma	mungkin
+00296131-r	ind:exe	Oh, mungkin saya akan berlibur ke Bali dan Lombok.
 00296131-r	ind:exe	Mungkin naik bis atau pesawat terbang.
+00154449-r	ind:lemma	barangkali
+00154449-r	ind:exe	Barangkali Kak Tomo sekarang tidak ada di rumah.
 00154449-r	ind:lemma	mungkin
+00154449-r	ind:exe	Oh, mungkin saya akan berlibur ke Bali dan Lombok.
 00154449-r	ind:exe	Mungkin naik bis atau pesawat terbang.
 03001627-n	ind:lemma	kursi
 03001627-n	ind:exe	Boleh saya duduk di kursi ini?
@@ -223,6 +292,8 @@
 01914947-v	ind:exe	Dia pasti berlari pagi setiap hari.
 01926311-v	ind:lemma	berlari
 01926311-v	ind:exe	Dia pasti berlari pagi setiap hari.
+02005496-v	ind:lemma	pulang
+02005496-v	ind:exe	Saya harus pulang ke kampung karena ada urusan mendadak.
 02005496-v	ind:lemma	kembali
 02005496-v	ind:exe	Surat yang dikirimkan minggu yang lalu kembali karena alamatnya tidak dikenal.
 04379243-n	ind:lemma	meja
@@ -230,9 +301,14 @@
 04298308-n	ind:lemma	tangga
 04298308-n	ind:exe	tangga
 00037919-v	ind:lemma	mandi
+00037919-v	ind:exe	Sementara jangan mandi dulu, ya.
 00037919-v	ind:exe	Tidak boleh mandi?
+01532589-v	ind:lemma	membersihkan
+01532589-v	ind:exe	Saya sudah membersihkan kamar saya.
 01532589-v	ind:lemma	menyapu
 01532589-v	ind:exe	Ibu saya menyapu lantai rumah setiap hari.
+01533442-v	ind:lemma	membersihkan
+01533442-v	ind:exe	Saya sudah membersihkan kamar saya.
 01533442-v	ind:lemma	menyapu
 01533442-v	ind:exe	Ibu saya menyapu lantai rumah setiap hari.
 07663592-n	ind:lemma	daging sapi
@@ -252,8 +328,10 @@
 03989074-n	ind:lemma	bis surat
 03989074-n	ind:exe	Tidak ada bis surat di sekitar sini.
 15136147-n	ind:lemma	minggu
+15136147-n	ind:exe	Paling lama dua minggu.
 15136147-n	ind:exe	Kira-kira satu minggu.
 15169873-n	ind:lemma	minggu
+15169873-n	ind:exe	Paling lama dua minggu.
 15169873-n	ind:exe	Kira-kira satu minggu.
 15211806-n	ind:lemma	Juni
 15211806-n	ind:exe	6月  Juni
@@ -261,8 +339,12 @@
 04489008-n	ind:exe	Saya suka memakai celana pendek.
 04230808-n	ind:lemma	rok
 04230808-n	ind:exe	Dia jarang memakai rok yang berwarna hitam.
+08544813-n	ind:lemma	negeri
+08544813-n	ind:exe	Ada empat musim di negeri ini.
 08544813-n	ind:lemma	negara
 08544813-n	ind:exe	Para atlet dari berbagai negara berkumpul untuk mengikuti Olimpiade.
+08490199-n	ind:lemma	negeri
+08490199-n	ind:exe	Ada empat musim di negeri ini.
 08490199-n	ind:lemma	negara
 08490199-n	ind:exe	Para atlet dari berbagai negara berkumpul untuk mengikuti Olimpiade.
 00081737-r	ind:lemma	setiap tahun
@@ -272,7 +354,8 @@
 05538625-n	ind:lemma	kepala
 05538625-n	ind:exe	Sudah dua hari ini kepala dan tenggorokan saya sakit, Dok.
 02418686-v	ind:lemma	bermain
-02418686-v	ind:exe	bermain
+02418686-v	ind:exe	Kita perlu bermain untuk menghilangkan stres.
+02418686-v	ind:exe	bermai
 04965661-n	ind:lemma	kuning
 04965661-n	ind:exe	Saya mau baju yang kuning itu.
 02561888-a	ind:lemma	sempit
@@ -284,7 +367,13 @@
 05131647-n	ind:lemma	tinggi
 05131647-n	ind:exe	Tinggi badan saya kira-kira 160 cm.
 00009966-r	ind:lemma	tolong
+00009966-r	ind:exe	Tolong ambilkan baju yang digantung di situ.
 00009966-r	ind:exe	Iwan, tolong kemari sebentar.
+00009966-r	ind:lemma	silakan
+00009966-r	ind:exe	Silakan masuk.
+00009966-r	ind:lemma	silakan
+00009966-r	ind:exe	Silakan dimakan!
+00009966-r	ind:exe	Kalau begitu, silakan datang dengan teman Ayu juga.
 00009966-r	ind:lemma	sama-sama
 00009966-r	ind:exe	Sama-sama. Saya juga berterima kasih atas kebaikan Anda.
 10103485-n	ind:lemma	orang asing
@@ -294,6 +383,7 @@
 03924069-n	ind:lemma	piringan hitam
 03924069-n	ind:exe	Dia suka mengumpulkan piringan hitam lagu-lagu klasik opera.
 10332385-n	ind:lemma	ibu
+10332385-n	ind:exe	ibu
 10332385-n	ind:exe	Ibu saya memasak di dapur.
 10332385-n	ind:lemma	ibu
 10332385-n	ind:exe	ibu
@@ -319,6 +409,9 @@
 01845720-v	ind:exe	Banyak turis berpariwisata ke Pulau Bali.
 00061203-r	ind:lemma	belakang
 00061203-r	ind:exe	Rumah saya ada di belakang bengkel mobil.
+10112591-n	ind:lemma	teman
+10112591-n	ind:exe	Hari Minggu ini saya dan teman-teman ada rencana piknik ke Puncak.
+10112591-n	ind:exe	Kalau begitu, silakan datang dengan teman Ayu juga.
 10112591-n	ind:lemma	sahabat
 10112591-n	ind:exe	Saya sangat sedih karena sahabat saya akan pindah rumah.
 08588294-n	ind:lemma	dalam
@@ -326,23 +419,41 @@
 08588152-n	ind:lemma	dalam
 08588152-n	ind:exe	Setelah dua sendok makan minyak goreng dipanaskan, semua bumbu yang telah diiris masukkan ke dalam wajan.
 77000021-n	ind:lemma	kamu
+77000021-n	ind:exe	Kira-kira berapa lama kamu di kampung?
 77000021-n	ind:exe	Silakan kamu ambil minggu depan.
 77000021-n	ind:lemma	Anda
+77000021-n	ind:exe	Ini daftar nilai Anda.
+77000021-n	ind:exe	Senang berkenalan dengan Anda.
 77000021-n	ind:exe	Sebaiknya Anda cukup tidur.
 02771169-v	ind:lemma	cerah
 02771169-v	ind:exe	Menurut ramalan cuaca, besok cerah.
 77000061-a	ind:lemma	ini
+77000061-a	ind:exe	Bulan Oktober ini saya dua puluh tahun.
+77000061-a	ind:exe	Perpustakaan ini buka mulai jam berapa?
+77000061-a	ind:exe	Saya khawatir akhir-akhir ini Ayu tidak masuk kuliah.
 77000061-a	ind:exe	Ini namanya kue onde-onde.
 80001619-a	ind:lemma	ini
+80001619-a	ind:exe	Bulan Oktober ini saya dua puluh tahun.
+80001619-a	ind:exe	Perpustakaan ini buka mulai jam berapa?
+80001619-a	ind:exe	Saya khawatir akhir-akhir ini Ayu tidak masuk kuliah.
 80001619-a	ind:exe	Ini namanya kue onde-onde.
 77000075-a	ind:lemma	ini
+77000075-a	ind:exe	Bulan Oktober ini saya dua puluh tahun.
+77000075-a	ind:exe	Perpustakaan ini buka mulai jam berapa?
+77000075-a	ind:exe	Saya khawatir akhir-akhir ini Ayu tidak masuk kuliah.
 77000075-a	ind:exe	Ini namanya kue onde-onde.
+04018667-n	ind:lemma	kamar kecil
+04018667-n	ind:exe	Dia belum kembali dari kamar kecil.
 04018667-n	ind:lemma	belakang
 04018667-n	ind:exe	Saya mau pergi ke belakang dulu.
 08649345-n	ind:lemma	lebar
 08649345-n	ind:exe	Sawah ini lebarnya berapa meter?
+08649345-n	ind:lemma	dekat
+08649345-n	ind:exe	Mereka selalu ada di dekat saya.
 08649345-n	ind:lemma	samping
 08649345-n	ind:exe	Dilarang parkir sepeda di samping stasiun.
+08649345-n	ind:lemma	samping
+08649345-n	ind:exe	Asramanya berada di Jalan Merapi No.18, tepat di samping warung kopi.
 08649345-n	ind:lemma	sebelah
 08649345-n	ind:exe	Rumah Ibu Ani tepat di sebelahnya.
 05136150-n	ind:lemma	lebar
@@ -357,8 +468,12 @@
 04272054-n	ind:exe	Saya merasa terganggu dengan kacamata atau lensa kontak.
 80000746-n	ind:lemma	huruf kanji
 80000746-n	ind:exe	Bagi saya, hal yang paling sulit dalam bahasa Jepang adalah huruf kanji.
+10287213-n	ind:lemma	laki-laki
+10287213-n	ind:exe	Dia tidak disukai teman perempuannya karena selalu genit di depan laki-laki.
 10287213-n	ind:lemma	pria
 10287213-n	ind:exe	Kasihan pria itu karena pacarnya ternyata tidak setia.
+09624168-n	ind:lemma	laki-laki
+09624168-n	ind:exe	Dia tidak disukai teman perempuannya karena selalu genit di depan laki-laki.
 09624168-n	ind:lemma	pria
 09624168-n	ind:exe	Kasihan pria itu karena pacarnya ternyata tidak setia.
 15164105-n	ind:lemma	Selasa
@@ -374,19 +489,27 @@
 02414188-a	ind:lemma	tipis
 02414188-a	ind:exe	Majalah yang tipis ini milik siapa?
 08489627-n	ind:lemma	sana
+08489627-n	ind:exe	Ada apa di sana?
 08489627-n	ind:exe	Ya, silakan langsung ke sana saja.
 01168468-v	ind:lemma	makan
+01168468-v	ind:exe	Bilang saja mau makan apa.
 01168468-v	ind:exe	Silakan dimakan!
 01166351-v	ind:lemma	makan
+01166351-v	ind:exe	Bilang saja mau makan apa.
 01166351-v	ind:exe	Silakan dimakan!
 01179865-v	ind:lemma	makan
+01179865-v	ind:exe	Bilang saja mau makan apa.
 01179865-v	ind:exe	Silakan dimakan!
+15122231-n	ind:lemma	waktu
+15122231-n	ind:exe	Waktu masih kecil, saya suka bermain-main bersama kucing.
 15122231-n	ind:lemma	ketika
 15122231-n	ind:exe	Ketika dia pergi, temannya datang.
 02818832-n	ind:lemma	tempat tidur
 02818832-n	ind:exe	Kemarin saya jatuh dari tempat tidur, sehingga tangan saya terluka.
 90000503-n	ind:lemma	tahun depan
 90000503-n	ind:exe	Tahun depan saya akan belajar di Universitas Indonesia.
+08168367-n	ind:lemma	luar negeri
+08168367-n	ind:exe	Apakah Anda pernah pergi ke luar negeri?
 08168367-n	ind:lemma	negeri asing
 08168367-n	ind:exe	Kami sedang mencari nafkah di negeri asing.
 02560548-a	ind:lemma	luas
@@ -403,11 +526,15 @@
 07221094-n	ind:exe	Saya sangat tertarik pada cerita rakyat dari Jawa Tengah.
 07139316-n	ind:lemma	cerita
 07139316-n	ind:exe	Saya sangat tertarik pada cerita rakyat dari Jawa Tengah.
+00031798-r	ind:lemma	sudah
+00031798-r	ind:exe	Dia sudah berkeluarga.
 00031798-r	ind:lemma	telah
 00031798-r	ind:exe	Dokter telah memberi tahu saya tentang penyakit ibu saya.
 07555863-n	ind:lemma	makanan
+07555863-n	ind:exe	Bagaimana dengan makanan?
 07555863-n	ind:exe	Sementara jangan makan makanan berminyak.
 07560652-n	ind:lemma	makanan
+07560652-n	ind:exe	Bagaimana dengan makanan?
 07560652-n	ind:exe	Sementara jangan makan makanan berminyak.
 00157412-r	ind:lemma	kadang-kadang
 00157412-r	ind:exe	Kadang-kadang Sakti menelepon ayahnya.
@@ -421,6 +548,8 @@
 02310895-a	ind:exe	Kalau berjalan lurus ke arah ini. Stasiun Balapan akan kelihatan di sebelah kanan.
 02314584-a	ind:lemma	lurus
 02314584-a	ind:exe	Kalau berjalan lurus ke arah ini. Stasiun Balapan akan kelihatan di sebelah kanan.
+10787470-n	ind:lemma	perempuan
+10787470-n	ind:exe	Sudah tiga tahun saya tidak berjalan-jalan bersama perempuan.
 10787470-n	ind:lemma	wanita
 10787470-n	ind:exe	Banyak wanita lajang benar-benar bahagia tanpa keberadaan suami.
 10736091-n	ind:lemma	paman
@@ -453,8 +582,12 @@
 01723224-v	ind:exe	Anak itu berlatih menulis huruf kanji.
 15156187-n	ind:lemma	kemarin
 15156187-n	ind:exe	Kemarin hujannya deras sekali, ya.
+01919428-a	ind:lemma	tenang
+01919428-a	ind:exe	Teman saya berkata bahwa daerah itu tenang dan indah.
 01919428-a	ind:lemma	sepi
 01919428-a	ind:exe	Pada pagi hari jalan ini masih sepi.
+01918984-a	ind:lemma	tenang
+01918984-a	ind:exe	Teman saya berkata bahwa daerah itu tenang dan indah.
 01918984-a	ind:lemma	sepi
 01918984-a	ind:exe	Pada pagi hari jalan ini masih sepi.
 04437953-n	ind:lemma	jam
@@ -468,7 +601,7 @@
 00842199-a	ind:lemma	kuat
 00842199-a	ind:exe	Tim itu sangat kuat dan belum pernah kalah dalam pertandingan.
 15163979-n	ind:lemma	Senin
-15163979-n	ind:exe	Senin
+15163979-n	ind:exe	Seni
 00059413-r	ind:lemma	sering
 00059413-r	ind:exe	Mereka sering makan di restoran cepat saji.
 00035058-r	ind:lemma	sering
@@ -481,22 +614,38 @@
 03281145-n	ind:exe	Sekarang lift ini sedang rusak.
 05320899-n	ind:lemma	telinga
 05320899-n	ind:exe	Masuk ke telinga kanan, keluar dari telinga kiri.
+00007846-n	ind:lemma	seseorang
+00007846-n	ind:exe	Aaah, ini surat pemberitahuan bahwa Iwan mendapat paket dari seseorang dan harus mengambilnya ke kantor pos sendiri.
 00007846-n	ind:lemma	siapa saja
 00007846-n	ind:exe	Kalau mau datang, siapa saja bisa datang.
 04284002-n	ind:lemma	sendok
 04284002-n	ind:exe	Setelah dua sendok makan minyak goreng dipanaskan, semua bumbu yang telah diiris masukkan ke dalam wajan.
+13134947-n	ind:lemma	buah
+13134947-n	ind:exe	Buah ini disebut apa dalam bahasa Indonesia?
 13134947-n	ind:lemma	buah-buahan
 13134947-n	ind:exe	Murid-murid menggambar buah-buahan dalam pelajaran menggambar.
+11683989-n	ind:lemma	buah
+11683989-n	ind:exe	Buah ini disebut apa dalam bahasa Indonesia?
 11683989-n	ind:lemma	buah-buahan
 11683989-n	ind:exe	Murid-murid menggambar buah-buahan dalam pelajaran menggambar.
+02730813-v	ind:lemma	mengatakan
+02730813-v	ind:exe	Maia mengatakan dia percaya kepada suaminya.
 02730813-v	ind:lemma	berkata
 02730813-v	ind:exe	Mereka tidak berani berkata ''tidak'' pada bosnya.
+01009240-v	ind:lemma	mengatakan
+01009240-v	ind:exe	Maia mengatakan dia percaya kepada suaminya.
 01009240-v	ind:lemma	berkata
 01009240-v	ind:exe	Mereka tidak berani berkata ''tidak'' pada bosnya.
+00941990-v	ind:lemma	mengatakan
+00941990-v	ind:exe	Maia mengatakan dia percaya kepada suaminya.
 00941990-v	ind:lemma	berkata
 00941990-v	ind:exe	Mereka tidak berani berkata ''tidak'' pada bosnya.
+00979870-v	ind:lemma	mengatakan
+00979870-v	ind:exe	Maia mengatakan dia percaya kepada suaminya.
 00979870-v	ind:lemma	berkata
 00979870-v	ind:exe	Mereka tidak berani berkata ''tidak'' pada bosnya.
+09854218-n	ind:lemma	kakak perempuan
+09854218-n	ind:exe	Kedua kakak perempuan saya sedang mengandung.
 09854218-n	ind:lemma	saudara
 09854218-n	ind:exe	saudara (sowdara)
 04507155-n	ind:lemma	payung
@@ -510,11 +659,19 @@
 02229000-a	ind:lemma	tidak pintar
 02229000-a	ind:exe	Saya tidak pintar berbahasa Indonesia.
 15270431-n	ind:lemma	waktu
+15270431-n	ind:exe	Kerja paruh waktu.
 15270431-n	ind:exe	Ah, itu sangat memakan waktu.
 15227846-n	ind:lemma	waktu
+15227846-n	ind:exe	Kerja paruh waktu.
 15227846-n	ind:exe	Ah, itu sangat memakan waktu.
 15269513-n	ind:lemma	waktu
+15269513-n	ind:exe	Kerja paruh waktu.
 15269513-n	ind:exe	Ah, itu sangat memakan waktu.
+00744916-a	ind:lemma	sulit
+00744916-a	ind:exe	Ujiannya sulit?
+00744916-a	ind:exe	Apa yang paling sulit?
+00744916-a	ind:lemma	sukar
+00744916-a	ind:exe	Menurut pendapat saya, hal ini sukar dilakukan.
 00744916-a	ind:lemma	susah
 00744916-a	ind:exe	Kami susah mendapat kamus Indonesia di Jepang.
 04401088-n	ind:lemma	telepon
@@ -539,7 +696,15 @@
 02770717-v	ind:exe	Agak mendung. Saya khawatir hujan akan turun.
 02529945-a	ind:lemma	sejuk
 02529945-a	ind:exe	Mana yang lebih sejuk, Makassar atau Tokyo?
+02207206-v	ind:lemma	berbelanja
+02207206-v	ind:exe	Karena sakit, dia tidak bisa berbelanja hari ini.
 02207206-v	ind:lemma	membeli
+02207206-v	ind:exe	Anak itu membeli sari buah dalam kaleng di mesin penjualan otomatis.
+02207206-v	ind:lemma	membeli
+02208265-v	ind:lemma	berbelanja
+02208265-v	ind:exe	Karena sakit, dia tidak bisa berbelanja hari ini.
+02208265-v	ind:lemma	membeli
+02208265-v	ind:exe	Anak itu membeli sari buah dalam kaleng di mesin penjualan otomatis.
 02208265-v	ind:lemma	membeli
 00422620-a	ind:lemma	kotor
 00422620-a	ind:exe	Saya mau mencuci tangan dulu karena tangan saya kotor.
@@ -551,9 +716,11 @@
 01345109-v	ind:exe	Pemilik toko itu cepat menutup toko setiap malam.
 01960911-v	ind:lemma	berenang
 01960911-v	ind:exe	Untuk berenang di pantai?
+00933154-a	ind:lemma	tinggi
 00933154-a	ind:lemma	mahal
 00933154-a	ind:exe	Kalau naik pesawat terbang itu cepat, tetapi biayanya paling mahal.
 04199027-n	ind:lemma	sepatu
+04199027-n	ind:exe	sepatu
 04199027-n	ind:exe	Harap membuka sepatu.
 04330340-n	ind:lemma	pemanas
 04330340-n	ind:exe	Hotel ini dilengkapi dengan pemanas ruangan di setiap kamarnya.
@@ -571,6 +738,8 @@
 07575726-n	ind:exe	Tidak boleh menghindari makan malam untuk menurunkan berat badan.
 03485794-n	ind:lemma	sapu tangan
 03485794-n	ind:exe	Sapu tangan bergambar sakura ini oleh-oleh dari Jepang.
+01198101-v	ind:lemma	mengisap
+01198101-v	ind:exe	Kupu-kupu mengisap sari bunga.
 01198101-v	ind:lemma	merokok
 01198101-v	ind:exe	Tidak boleh merokok di sini.
 02741003-v	ind:lemma	menggantungkan
@@ -584,24 +753,30 @@
 02324182-v	ind:lemma	meminjamkan
 02324182-v	ind:exe	Dia meminjamkan uang kepada saya.
 01437963-a	ind:lemma	panjang
+01437963-a	ind:exe	Minggu depan mulai libur panjang, ya?
 01437963-a	ind:exe	Bisakah saya memperpanjang?
 01433493-a	ind:lemma	panjang
+01433493-a	ind:exe	Minggu depan mulai libur panjang, ya?
 01433493-a	ind:exe	Bisakah saya memperpanjang?
 01444022-a	ind:lemma	panjang
+01444022-a	ind:exe	Minggu depan mulai libur panjang, ya?
 01444022-a	ind:exe	Bisakah saya memperpanjang?
 80001077-n	ind:lemma	berapa
+80001077-n	ind:exe	Berapa umurnya, dan apa hobinya, Joko?
 80001077-n	ind:exe	Oh, ya? Berapa orang?
 80001077-n	ind:lemma	berapa
 80001077-n	ind:exe	Berapa harga tiketnya?
 10665698-n	ind:lemma	murid
 10665698-n	ind:exe	Murid itu sering bertanya kepada guru.
 10665698-n	ind:lemma	mahasiswa
+10665698-n	ind:exe	Omong-omong, banyak mahasiswa yang mengambil kuliah itu?
 10665698-n	ind:exe	Anda mahasiswa jurusan bahasa Jepang, 'kan?
 10251779-n	ind:lemma	murid
 10251779-n	ind:exe	Murid itu sering bertanya kepada guru.
 08615374-n	ind:lemma	taman
 08615374-n	ind:exe	Anak-anak bermain sepak bola di taman.
 77000064-n	ind:lemma	mana
+77000064-n	ind:exe	Baju yang mana, Mbak?
 77000064-n	ind:exe	Di sebelah mana, ya, di Jalan Merapi?
 03290771-n	ind:lemma	pintu masuk
 03290771-n	ind:exe	Tolong masuk dari pitu masuk.
@@ -615,6 +790,11 @@
 09876454-n	ind:exe	saudara (sowdara)
 80001731-n	ind:lemma	mahasiswa asing
 80001731-n	ind:exe	Saya ingin memperkenalkan mahasiswa asing dari Jepang.
+77000031-n	ind:lemma	dia
+77000031-n	ind:exe	Dia orangnya seperti apa?
+77000031-n	ind:exe	Dia baik, ramah, tapi... terlalu serius.
+77000031-n	ind:lemma	mereka
+77000031-n	ind:exe	Mereka berangkat ke mana tadi?
 00934199-a	ind:lemma	murah
 00934199-a	ind:exe	Harga barang di negeri itu lebih murah daripada di negeri saya.
 00935103-a	ind:lemma	murah
@@ -622,13 +802,18 @@
 02747802-n	ind:lemma	asbak
 02747802-n	ind:exe	Boleh saya minta asbak? Saya mau merokok.
 15213115-n	ind:lemma	Oktober
+15213115-n	ind:exe	10月  Oktober
 15213115-n	ind:exe	Bulan Oktober ini saya dua puluh tahun.
 15203791-n	ind:lemma	tahun
 15203791-n	ind:exe	Sudah enam tahun saya tidak bertemu dengan adik saya.
 03619890-n	ind:lemma	dapur
 03619890-n	ind:exe	Ibu saya memasak di dapur.
+00273734-v	ind:lemma	mengajar
+00273734-v	ind:exe	Dulu kakak saya mengajar matematika.
 00273734-v	ind:lemma	mengajarkan
 00273734-v	ind:exe	Orang itu mengajarkan IPS di sekolah dasar.
+00829107-v	ind:lemma	mengajar
+00829107-v	ind:exe	Dulu kakak saya mengajar matematika.
 00829107-v	ind:lemma	mengajarkan
 00829107-v	ind:exe	Orang itu mengajarkan IPS di sekolah dasar.
 00963570-v	ind:lemma	berbicara
@@ -649,27 +834,47 @@
 06418901-n	ind:exe	Bolehkah saya meminjam kamus itu?
 15164570-n	ind:lemma	Sabtu
 15164570-n	ind:exe	Sabtu
+00284798-n	ind:lemma	jalan-jalan
+00284798-n	ind:exe	Jalan-jalan baik untuk kesehatan.
 00284798-n	ind:lemma	berjalan-jalan
 00284798-n	ind:exe	Ketika berjalan-jalan, saya menemukan toko baru.
+00284101-n	ind:lemma	jalan-jalan
+00284101-n	ind:exe	Jalan-jalan baik untuk kesehatan.
 00284101-n	ind:lemma	berjalan-jalan
 00284101-n	ind:exe	Ketika berjalan-jalan, saya menemukan toko baru.
+01712704-v	ind:lemma	mengerjakan
+01712704-v	ind:exe	Ayu sudah mengerjakan PR bahasa Inggris?
 01712704-v	ind:lemma	melakukan
 01712704-v	ind:exe	Sibuk melakukan apa?
 08277393-n	ind:lemma	sekolah
 08277393-n	ind:exe	Saya terlambat masuk sekolah karena kesiangan.
 08276720-n	ind:lemma	sekolah
 08276720-n	ind:exe	Saya terlambat masuk sekolah karena kesiangan.
+00161630-r	ind:lemma	perlahan-lahan
+00161630-r	ind:exe	Kami harus berbicara perlahan-lahan di hadapan orang yang tua.
 00161630-r	ind:lemma	pelan-pelan
 00161630-r	ind:exe	Tolong berbicara pelan-pelan.
 90000506-n	ind:lemma	minggu yang lalu
+90000506-n	ind:exe	Saya belum mengumpulkan tugas minggu yang lalu.
 90000506-n	ind:exe	Karena kakak saya menikah, minggu yang lalu saya pulang ke kampung.
+03057021-n	ind:lemma	jas
+03057021-n	ind:exe	Saya memakai jas karena merasa dingin.
+03057021-n	ind:lemma	jaket
+03057021-n	ind:exe	Saya menitipkan jaket saya kepada teman saya.
 03057021-n	ind:lemma	baju
+03057021-n	ind:exe	Tolong ambilkan baju yang digantung di situ.
 03057021-n	ind:exe	Baju yang mana, Mbak?
 03057021-n	ind:lemma	jas
 03057021-n	ind:exe	Hari ini ayah saya pergi ke kantor dengan memakai jas.
+03589791-n	ind:lemma	jas
+03589791-n	ind:exe	Saya memakai jas karena merasa dingin.
+03589791-n	ind:lemma	jaket
+03589791-n	ind:exe	Saya menitipkan jaket saya kepada teman saya.
 03589791-n	ind:lemma	baju
+03589791-n	ind:exe	Tolong ambilkan baju yang digantung di situ.
 03589791-n	ind:exe	Baju yang mana, Mbak?
 06929279-n	ind:lemma	bahasa Jepang
+06929279-n	ind:exe	Ria bisa berbicara bahasa Jepang.
 06929279-n	ind:exe	Anda mahasiswa jurusan bahasa Jepang, 'kan?
 03303965-n	ind:lemma	pintu keluar
 03303965-n	ind:exe	Di mana pintu keluar?
@@ -705,8 +910,12 @@
 00444519-a	ind:exe	Apakah rumah Anda dekat dari sekolah?
 00445169-a	ind:lemma	dekat
 00445169-a	ind:exe	Apakah rumah Anda dekat dari sekolah?
+00584367-n	ind:lemma	pekerjaan
+00584367-n	ind:exe	Dia harus menyelesaikan pekerjaan ini sampai besok.
 00584367-n	ind:lemma	tugas
 00584367-n	ind:exe	Saya belum mengumpulkan tugas minggu yang lalu.
+07574602-n	ind:lemma	makan pagi
+07574602-n	ind:exe	Kalau tidak makan pagi, mahasiswa tidak bisa belajar dengan baik.
 07574602-n	ind:lemma	sarapan
 07574602-n	ind:exe	Apakah ada menu sarapan khas Bandung?
 08078020-n	ind:lemma	keluarga
@@ -743,6 +952,8 @@
 07813107-n	ind:exe	Kalau sudah matang, baru dimasukkan nasinya dan ditambahkan garam, gula, sedikit kecap manis.
 07825972-n	ind:lemma	kecap asin
 07825972-n	ind:exe	Di Indonesia terdapat dua jenis kecap, yaitu kecap asin dan kecap manis.
+02005948-v	ind:lemma	sampai
+02005948-v	ind:exe	Pukul enam pagi kami akan sampai di situ.
 02005948-v	ind:lemma	tiba
 02005948-v	ind:exe	Kami tiba di Yogyakarta dengan selamat.
 02930766-n	ind:lemma	taksi
@@ -753,12 +964,25 @@
 00604617-a	ind:exe	Kalau mau membeli rumah, sebaiknya Anda memperhatikan kemudahan transportasi.
 15237250-n	ind:lemma	musim panas
 15237250-n	ind:exe	Pada musim panas udara di Tokyo terasa lebih panas daripada di Jakarta.
+03757138-n	ind:lemma	kereta bawah tanah
+03757138-n	ind:exe	Anda lebih baik pergi dengan kereta bawah tanah.
+04349306-n	ind:lemma	kereta bawah tanah
+04349306-n	ind:exe	Anda lebih baik pergi dengan kereta bawah tanah.
 77000090-n	ind:lemma	bagaimana
+77000090-n	ind:exe	Bagaimana keadaan Ayu?
+77000090-n	ind:exe	Bagaimana kalau kita mengerjakan bersama?
 77000090-n	ind:exe	Bagaimana rencana liburannya?
 80001331-x	ind:lemma	bagaimana
+80001331-x	ind:exe	Bagaimana keadaan Ayu?
+80001331-x	ind:exe	Bagaimana kalau kita mengerjakan bersama?
 80001331-x	ind:exe	Bagaimana rencana liburannya?
 77000104-n	ind:lemma	kapan
+77000104-n	ind:exe	Kapan Iwan pergi memancing?
 77000104-n	ind:exe	Kapan mau dipakai?
+04105893-n	ind:lemma	kamar
+04105893-n	ind:exe	Di mana kamar pasnya?
+04105893-n	ind:lemma	apartemen
+04105893-n	ind:exe	Dia menyewa apartemen selama dua tahun.
 04105893-n	ind:lemma	ruang
 04105893-n	ind:exe	Para penumpang dipersilakan untuk menunggu di ruang tunggu.
 06415419-n	ind:lemma	buku catatan
@@ -771,6 +995,8 @@
 00953216-v	ind:exe	Wanita karier itu bercerita tentang rahasia kesuksesannya.
 00962447-v	ind:lemma	bercerita
 00962447-v	ind:exe	Wanita karier itu bercerita tentang rahasia kesuksesannya.
+02935891-n	ind:lemma	kantin
+02935891-n	ind:exe	Mari kita makan siang di kantin.
 02935891-n	ind:lemma	warung
 02935891-n	ind:exe	Banyak warung yang buka sampai malam di daerah ini.
 01984902-v	ind:lemma	duduk
@@ -783,10 +1009,22 @@
 02386612-a	ind:exe	Saya mau yang lebih kecil.
 02386612-a	ind:lemma	pendek
 02386612-a	ind:exe	Wanita yang rambutnya pendek itu siapa?
+02345713-a	ind:lemma	buruk
+02345713-a	ind:exe	Nilai ujiannya buruk karena dia tidak belajar.
+02345713-a	ind:lemma	jelek
+02345713-a	ind:exe	Pelayanan hotel itu jelek sakali.
 02345713-a	ind:lemma	jahat
 02345713-a	ind:exe	Belakangan ini orang jahat bertambah banyak.
+00478311-a	ind:lemma	buruk
+00478311-a	ind:exe	Nilai ujiannya buruk karena dia tidak belajar.
+00478311-a	ind:lemma	jelek
+00478311-a	ind:exe	Pelayanan hotel itu jelek sakali.
 00478311-a	ind:lemma	jahat
 00478311-a	ind:exe	Belakangan ini orang jahat bertambah banyak.
+01174222-a	ind:lemma	buruk
+01174222-a	ind:exe	Nilai ujiannya buruk karena dia tidak belajar.
+01174222-a	ind:lemma	jelek
+01174222-a	ind:exe	Pelayanan hotel itu jelek sakali.
 01174222-a	ind:lemma	jahat
 01174222-a	ind:exe	Belakangan ini orang jahat bertambah banyak.
 03025755-n	ind:lemma	sumpit
@@ -794,7 +1032,10 @@
 80000080-n	ind:lemma	bulan ini
 80000080-n	ind:exe	PR ini harus dikumpulkan dalam bulan ini.
 06624161-n	ind:lemma	surat
+06624161-n	ind:exe	Ada surat keterangan dari dokter?
 06624161-n	ind:exe	Karena itu, saya mohon Bapak membuatkan surat rekomendasi untuk saya.
+01909812-v	ind:lemma	bengkok
+01909812-v	ind:exe	Tiang listrik itu bengkok karena tertabrak truk.
 01909812-v	ind:lemma	berbelok
 01909812-v	ind:exe	Mobil itu berbelok ke kiri.
 07929519-n	ind:lemma	kopi
@@ -803,15 +1044,24 @@
 01729431-v	ind:exe	Mereka suka menyanyi sambil nongkrong di pinggir jalan.
 11501381-n	ind:lemma	hujan
 11501381-n	ind:exe	Sudah mulai musim hujan?
+07749582-n	ind:lemma	sitrun
+07749582-n	ind:exe	Saya mau minum teh sitrun.
 07749582-n	ind:lemma	jeruk lemon
 07749582-n	ind:exe	Jeruk lemon ini segar sekali.
 90000511-n	ind:lemma	kemarin dulu
 90000511-n	ind:exe	Hariyanto sudah pulang ke Makassar kemarin dulu.
+00118032-r	ind:lemma	mari
+00118032-r	ind:exe	Mari, Bu.
 00118032-r	ind:lemma	jadi
 00118032-r	ind:exe	Jadi, kamu tidak datang?
 04468005-n	ind:lemma	kereta listrik
 04468005-n	ind:exe	Kereta listrik ini selalu penuh.
+77000002-n	ind:lemma	kita
+77000002-n	ind:exe	Bagaimana kalau kita mengerjakan bersama?
+77000002-n	ind:exe	Baiklah, kita bertemu di perpustakaan lantai satu.
+77000002-n	ind:exe	Mari kita pergi.
 77000002-n	ind:lemma	kami
+77000002-n	ind:exe	Kalau begitu, kami akan jemput Ria pada jam delapan pagi.
 77000002-n	ind:exe	Meskipun hujan, kami memutuskan tetap berangkat.
 15206296-n	ind:lemma	sebulan
 15206296-n	ind:exe	Sejak sebulan terakhir kakak saya sukses menghindari merokok.
@@ -828,8 +1078,10 @@
 00050454-v	ind:lemma	membuka
 00050454-v	ind:exe	Jangan membuka sepatu di sini.
 02649830-v	ind:lemma	tinggal
+02649830-v	ind:exe	Saya tinggal di Bali
 02649830-v	ind:exe	Anda tinggal di mana?
 15155891-n	ind:lemma	besok
+15155891-n	ind:exe	Kalau begitu, besok saya ke sana.
 15155891-n	ind:exe	Besok ada acara di unit gamelan.
 04208936-n	ind:lemma	shower
 04208936-n	ind:exe	Sekarang shower itu rusak.
@@ -850,22 +1102,39 @@
 07597365-n	ind:lemma	permen
 07597365-n	ind:exe	Permen jahe baik untuk kerongkongan.
 00024356-r	ind:lemma	tidak
+00024356-r	ind:exe	Tidak apa-apa.
+00024356-r	ind:exe	Bisa, tetapi tidak lebih dari satu bulan.
 00024356-r	ind:exe	Ria mau ikut, tidak?
+03176763-n	ind:lemma	toko serba ada
+03176763-n	ind:exe	Bermacam-macam barang dijual di toko serba ada.
+03176763-n	ind:lemma	toserba
 03176763-n	ind:lemma	toserba
 03176763-n	ind:exe	Di informasi ini ada lowongan sebagai pramuniaga di Toserba Matahari, lho.
 01725051-v	ind:lemma	bermain
 01725051-v	ind:exe	Saya suka bermain piano, sedangkan adik saya suka bermain biola.
 03388183-n	ind:lemma	pulpen
 03388183-n	ind:exe	Pulpen ini dibeli nenek saya sebagai hadiah ulang tahun saya.
+77000089-a	ind:lemma	begini
+77000089-a	ind:exe	Mengapa kamar ini masih kotor begini?
 77000089-a	ind:lemma	seperti ini
 77000089-a	ind:exe	Ayah saya tidak suka lagu seperti ini.
 15164354-n	ind:lemma	Kamis
+15164354-n	ind:exe	Tetapi batas terakhirnya hari Kamis minggu ini, Pak...
 15164354-n	ind:exe	Kamis
+00056916-r	ind:lemma	silakan
+00056916-r	ind:exe	Silakan masuk.
+00056916-r	ind:lemma	silakan
+00056916-r	ind:exe	Silakan dimakan!
+00056916-r	ind:exe	Kalau begitu, silakan datang dengan teman Ayu juga.
 00056916-r	ind:lemma	sama-sama
 00056916-r	ind:exe	Sama-sama. Saya juga berterima kasih atas kebaikan Anda.
 00816481-a	ind:lemma	lambat
+00816481-a	ind:exe	Sekali lagi, Bu, saya minta maaf karena saya terlambat menyerahkan tugas.
+00816481-a	ind:exe	Mengapa terlambat?
 00816481-a	ind:exe	Mobil yang lambat harap menggunakan jalur kiri.
 01901186-a	ind:lemma	lambat
+01901186-a	ind:exe	Sekali lagi, Bu, saya minta maaf karena saya terlambat menyerahkan tugas.
+01901186-a	ind:exe	Mengapa terlambat?
 01901186-a	ind:exe	Mobil yang lambat harap menggunakan jalur kiri.
 04956594-n	ind:lemma	warna
 04956594-n	ind:exe	Ada berapa warna dalam pelangi?
@@ -876,17 +1145,28 @@
 06282651-n	ind:lemma	kata
 06282651-n	ind:exe	Lima halaman, tapi kata dosen minimal delapan halaman.
 00121135-r	ind:lemma	begitu
+00121135-r	ind:exe	O begitu..., tetapi saya kira huruf Jepang itu lucu!
 00121135-r	ind:exe	Kalau begitu, silakan datang dengan teman Ayu juga.
 04962784-n	ind:lemma	merah
 04962784-n	ind:exe	Yang merah itu.
+03871083-n	ind:lemma	barang
+03871083-n	ind:exe	Mohon titipkan barang Anda di sini.
 03871083-n	ind:lemma	paket
 03871083-n	ind:exe	Aaah, ini surat pemberitahuan bahwa Iwan mendapat paket dari seseorang dan harus mengambilnya ke kantor pos sendiri.
+02774630-n	ind:lemma	barang
+02774630-n	ind:exe	Mohon titipkan barang Anda di sini.
 02774630-n	ind:lemma	paket
 02774630-n	ind:exe	Aaah, ini surat pemberitahuan bahwa Iwan mendapat paket dari seseorang dan harus mengambilnya ke kantor pos sendiri.
+07891726-n	ind:lemma	minuman keras
+07891726-n	ind:exe	Dia berhenti minum minuman keras setelah dinasihati dokter.
 07891726-n	ind:lemma	anggur
 07891726-n	ind:exe	Anda suka minum anggur?
+07884567-n	ind:lemma	minuman keras
+07884567-n	ind:exe	Dia berhenti minum minuman keras setelah dinasihati dokter.
 07884567-n	ind:lemma	anggur
 07884567-n	ind:exe	Anda suka minum anggur?
+07891433-n	ind:lemma	minuman keras
+07891433-n	ind:exe	Dia berhenti minum minuman keras setelah dinasihati dokter.
 07891433-n	ind:lemma	anggur
 07891433-n	ind:exe	Anda suka minum anggur?
 15164463-n	ind:lemma	Jumat
@@ -905,6 +1185,8 @@
 02529264-a	ind:exe	hangat
 01546111-v	ind:lemma	berdiri
 01546111-v	ind:exe	Anak itu sudah bisa berdiri.
+10142747-n	ind:lemma	nenek
+10142747-n	ind:exe	Bukan, saya akan mengunjungi nenek saya.
 07679356-n	ind:lemma	roti
 07679356-n	ind:exe	Toko roti itu buka pagi-pagi.
 03259505-n	ind:lemma	rumah
@@ -925,6 +1207,7 @@
 15155747-n	ind:exe	Selamat malam.
 15167027-n	ind:lemma	malam
 15167027-n	ind:exe	Selamat malam.
+15167027-n	ind:lemma	malam
 15167027-n	ind:lemma	tadi malam
 15167027-n	ind:exe	Tadi malam kamu pulang jam berapa?
 15167474-n	ind:lemma	malam
@@ -946,18 +1229,25 @@
 15212739-n	ind:lemma	September
 15212739-n	ind:exe	Sepanjang bulan September saya berlibur di Pulau Lombok.
 77000079-a	ind:lemma	itu
+77000079-a	ind:exe	Yang merah itu.
+77000079-a	ind:exe	Pada saat itu mahasiswa jurusan bahasa Jepang mengenalkan kebudayaan Jepang.
+77000079-a	ind:exe	Bolehkah saya meminjam kamus itu?
 77000079-a	ind:exe	Ah, itu sangat memakan waktu.
 14524198-n	ind:lemma	mendung
 14524198-n	ind:exe	Hari ini mendung, tetapi udaranya cukup panas.
 13828795-n	ind:lemma	panjang
 13828795-n	ind:exe	Gambarlah persegi panjang yang panjangnya 5cm dan lebarnya 10cm.
 00543233-n	ind:lemma	musik
+00543233-n	ind:exe	Ooo, saya lebih suka musik pop daripada dangdut.
 00543233-n	ind:exe	Ya, tapi kedua aliran musik itu sama bagusnya.
 05718556-n	ind:lemma	musik
+05718556-n	ind:exe	Ooo, saya lebih suka musik pop daripada dangdut.
 05718556-n	ind:exe	Ya, tapi kedua aliran musik itu sama bagusnya.
 05718935-n	ind:lemma	musik
+05718935-n	ind:exe	Ooo, saya lebih suka musik pop daripada dangdut.
 05718935-n	ind:exe	Ya, tapi kedua aliran musik itu sama bagusnya.
 07020895-n	ind:lemma	musik
+07020895-n	ind:exe	Ooo, saya lebih suka musik pop daripada dangdut.
 07020895-n	ind:exe	Ya, tapi kedua aliran musik itu sama bagusnya.
 00409709-r	ind:lemma	dekat
 00409709-r	ind:exe	Di dekat universitas kami akan segera dibuka restoran Korea.
@@ -968,6 +1258,7 @@
 03661043-n	ind:lemma	perpustakaan
 03661043-n	ind:exe	Perpustakaan ini buka mulai jam berapa?
 07840804-n	ind:lemma	telur
+07840804-n	ind:exe	Bagaimana telurnya?
 07840804-n	ind:exe	Telurnya diceplok lebih enak, diletakkan di atas nasi goreng akan terlihat lebih mengundang selera.
 90000502-n	ind:lemma	tahun ini
 90000502-n	ind:exe	Tahun ini saya tidak sempat mengujungi kota Bandung.
@@ -990,12 +1281,23 @@
 01029368-v	ind:lemma	bernama
 01029368-v	ind:exe	Orang yang datang dari Indonesia itu bernama Budi.
 77000084-n	ind:lemma	mana
+77000084-n	ind:exe	Iwan sudah mengerjakan sampai mana?
 77000084-n	ind:exe	Asramanya di mana?
+00220082-a	ind:lemma	bersih
+00220082-a	ind:exe	Kamar ini bersih.
+00220082-a	ind:lemma	indah
+00220082-a	ind:exe	Pemandangan dari sini sangat indah.
 00220082-a	ind:lemma	cantik
 00220082-a	ind:exe	Orang itu cantik.
+01586342-a	ind:lemma	bersih
+01586342-a	ind:exe	Kamar ini bersih.
+01586342-a	ind:lemma	indah
+01586342-a	ind:exe	Pemandangan dari sini sangat indah.
 01586342-a	ind:lemma	cantik
 01586342-a	ind:exe	Orang itu cantik.
 01586342-a	ind:lemma	baik
+01586342-a	ind:exe	Baik juga.
+01586342-a	ind:exe	Baiklah, kita bertemu di perpustakaan lantai satu.
 01586342-a	ind:exe	Dia baik, ramah, tapi... terlalu serius.
 01346003-v	ind:lemma	membuka
 01346003-v	ind:exe	Dia membuka jendela untuk memasukkan udara segar.
@@ -1003,16 +1305,30 @@
 09853467-n	ind:exe	Kakak laki-laki saya malas sekali sehingga tinggal kelas.
 09853467-n	ind:lemma	kakak
 09853467-n	ind:exe	Anak itu menangis karena merasa kehilangan kakaknya.
+03102654-n	ind:lemma	kulkas
+03102654-n	ind:exe	Saya mau kulkas baru.
 03102654-n	ind:lemma	lemari es
 03102654-n	ind:exe	Jangan biarkan pintu lemari es terbuka.
+03102654-n	ind:lemma	lemari es
+03102654-n	ind:exe	Teman saya tidak mempunyai lemari es.
+03102654-n	ind:exe	Jangan biarkan pintu lemari es terbuka.
+03273913-n	ind:lemma	kulkas
+03273913-n	ind:exe	Saya mau kulkas baru.
 03273913-n	ind:lemma	lemari es
+03273913-n	ind:exe	Jangan biarkan pintu lemari es terbuka.
+03273913-n	ind:lemma	lemari es
+03273913-n	ind:exe	Teman saya tidak mempunyai lemari es.
 03273913-n	ind:exe	Jangan biarkan pintu lemari es terbuka.
 02399595-a	ind:lemma	tidak enak
 02399595-a	ind:exe	Sayur ini tidak enak karena tidak segar.
 01716971-a	ind:lemma	tidak enak
 01716971-a	ind:exe	Sayur ini tidak enak karena tidak segar.
+07845335-n	ind:lemma	susu
+07845335-n	ind:exe	susu
 07845335-n	ind:lemma	susu sapi
 07845335-n	ind:exe	Saya pernah memerah susu sapi.
+07844042-n	ind:lemma	susu
+07844042-n	ind:exe	susu
 07844042-n	ind:lemma	susu sapi
 07844042-n	ind:exe	Saya pernah memerah susu sapi.
 10780632-n	ind:lemma	nyonya
@@ -1024,17 +1340,29 @@
 90000508-n	ind:lemma	minggu depan
 90000508-n	ind:exe	Minggu depan mulai libur panjang, ya?
 01848718-v	ind:lemma	pergi
+01848718-v	ind:exe	Saya akan pergi ke Lombok.
 01848718-v	ind:exe	Kapan Iwan pergi memancing?
+06518719-n	ind:lemma	karcis
+06518719-n	ind:exe	Apakah Anda sudah membeli karcis kereta?
 06518719-n	ind:lemma	tiket
+06518719-n	ind:exe	Berapa harga tiketnya?
 06518719-n	ind:exe	Ini ada dua tiket gratis untuk Ayu.
+01470670-v	ind:lemma	bertemu
+01470670-v	ind:exe	Baiklah, kita bertemu di perpustakaan lantai satu.
+01470670-v	ind:exe	Hari ini Iwan sempat bertemu dengan Rini?
 01470670-v	ind:lemma	berjumpa
 01470670-v	ind:exe	Saya berjumpa dengan teman saya di jalan.
+02428924-v	ind:lemma	bertemu
+02428924-v	ind:exe	Baiklah, kita bertemu di perpustakaan lantai satu.
+02428924-v	ind:exe	Hari ini Iwan sempat bertemu dengan Rini?
 02428924-v	ind:lemma	berjumpa
 02428924-v	ind:exe	Saya berjumpa dengan teman saya di jalan.
 10285313-n	ind:lemma	anak laki-laki
 10285313-n	ind:exe	Anak laki-laki suka bermain sepak bola.
 03542333-n	ind:lemma	hotel
 03542333-n	ind:exe	Dia memesan kamar hotel di Kyoto.
+02913152-n	ind:lemma	gedung
+02913152-n	ind:exe	Di belakang gedung itu.
 02913152-n	ind:lemma	bangunan
 02913152-n	ind:exe	Pada tahun ini bangunan itu akan selesai dibangun.
 07649854-n	ind:lemma	daging
@@ -1045,6 +1373,8 @@
 07935152-n	ind:exe	Misalnya, ada demo masak makanan Jepang, acara minum teh, dan juga pemutaran film Jepang.
 03082979-n	ind:lemma	komputer
 03082979-n	ind:exe	Pada saat ini komputer seolah menjadi sebuah kebutuhan pokok bagi siapa saja.
+00312553-n	ind:lemma	pariwisata
+00312553-n	ind:exe	Saya datang ke Indonesia dalam rangka pariwisata.
 00312553-n	ind:lemma	perjalanan
 00312553-n	ind:exe	Hobi saya adalah melakukan perjalanan ke luar negeri.
 04043733-n	ind:lemma	radio
@@ -1061,14 +1391,37 @@
 02808440-n	ind:exe	Kamar mandi ada di sebelah kamar kecil.
 02807731-n	ind:lemma	kamar mandi
 02807731-n	ind:exe	Kamar mandi ada di sebelah kamar kecil.
+15274074-n	ind:lemma	libur
+15274074-n	ind:exe	Minggu depan mulai libur panjang, ya?
+15274074-n	ind:lemma	istirahat
+15274074-n	ind:exe	Harus banyak istirahat.
+15274074-n	ind:exe	Tapi Anda harus istirahat yang cukup.
 15274074-n	ind:lemma	cuti
 15274074-n	ind:exe	Dia bisa mengambil cuti dari perusahaannya.
+15183428-n	ind:lemma	libur
+15183428-n	ind:exe	Minggu depan mulai libur panjang, ya?
+15183428-n	ind:lemma	istirahat
+15183428-n	ind:exe	Harus banyak istirahat.
+15183428-n	ind:exe	Tapi Anda harus istirahat yang cukup.
 15183428-n	ind:lemma	cuti
 15183428-n	ind:exe	Dia bisa mengambil cuti dari perusahaannya.
+15137890-n	ind:lemma	libur
+15137890-n	ind:exe	Minggu depan mulai libur panjang, ya?
+15137890-n	ind:lemma	istirahat
+15137890-n	ind:exe	Harus banyak istirahat.
+15137890-n	ind:exe	Tapi Anda harus istirahat yang cukup.
 15137890-n	ind:lemma	cuti
 15137890-n	ind:exe	Dia bisa mengambil cuti dari perusahaannya.
+00027918-r	ind:lemma	belum
+00027918-r	ind:exe	Ya, tapi belum selesai.
+00027918-r	ind:exe	Tapi, saya belum mahir.
+00027918-r	ind:exe	Saya masih belum tahu.
 00027918-r	ind:lemma	masih
 00027918-r	ind:exe	Masih terdapat banyak masalah mengenai program magang di Jepang.
+00031304-r	ind:lemma	belum
+00031304-r	ind:exe	Ya, tapi belum selesai.
+00031304-r	ind:exe	Tapi, saya belum mahir.
+00031304-r	ind:exe	Saya masih belum tahu.
 00031304-r	ind:lemma	masih
 00031304-r	ind:exe	Masih terdapat banyak masalah mengenai program magang di Jepang.
 03925226-n	ind:lemma	foto
@@ -1078,6 +1431,7 @@
 04248607-n	ind:lemma	foto
 04248607-n	ind:exe	Foto pesta pernikahan kami sudah jadi.
 15164233-n	ind:lemma	Rabu
+15164233-n	ind:exe	Kalau begitu, hari Rabu saja.
 15164233-n	ind:exe	Rabu
 11524662-n	ind:lemma	cuaca
 11524662-n	ind:exe	Bagaimana cuaca di Surabaya sekarang?
@@ -1113,12 +1467,22 @@
 01020934-v	ind:exe	Cara membaca dan cara menulisnya tidak sama.
 00993014-v	ind:lemma	menulis
 00993014-v	ind:exe	Cara membaca dan cara menulisnya tidak sama.
+03822171-n	ind:lemma	surat kabar
+03822171-n	ind:exe	Ayah saya membaca surat kabar setiap pagi.
 03822171-n	ind:lemma	koran
 03822171-n	ind:exe	Peristiwa kecelakan lalu lintas itu diberitakan dalam koran kemarin.
+06267145-n	ind:lemma	surat kabar
+06267145-n	ind:exe	Ayah saya membaca surat kabar setiap pagi.
 06267145-n	ind:lemma	koran
 06267145-n	ind:exe	Peristiwa kecelakan lalu lintas itu diberitakan dalam koran kemarin.
+14961722-n	ind:lemma	surat kabar
+14961722-n	ind:exe	Ayah saya membaca surat kabar setiap pagi.
 14961722-n	ind:lemma	koran
 14961722-n	ind:exe	Peristiwa kecelakan lalu lintas itu diberitakan dalam koran kemarin.
+07197021-n	ind:lemma	ujian
+07197021-n	ind:exe	Ujiannya sulit?
+07197021-n	ind:lemma	tes
+07197021-n	ind:exe	Kemarin ada tes fisik waktu kuliah olahraga.
 07197021-n	ind:lemma	tes
 07197021-n	ind:exe	Semua murid mendapat angka yang baik dalam tes kemarin.
 00158309-r	ind:lemma	tepat
@@ -1132,6 +1496,7 @@
 00119568-n	ind:lemma	melompat
 00119568-n	ind:exe	Kuda itu bisa melompat palang setinggi 1 meter.
 08145553-n	ind:lemma	kantor pos
+08145553-n	ind:exe	Iwan tahu, 'kan, kantor pos besar di sini?
 08145553-n	ind:exe	Lalu, tunjukkan surat ini, KTP, dan kartu mahasiswa kepada petugas kantor pos.
 15237044-n	ind:lemma	musim semi
 15237044-n	ind:exe	Musim semi adalah musim pertemuan dan perpisahan.
@@ -1140,17 +1505,30 @@
 06505517-n	ind:lemma	fotokopi
 06505517-n	ind:exe	Inilah fotokopi resep yang saya tulis.
 15166462-n	ind:lemma	sore
+15166462-n	ind:exe	Selamat sore, Bu.
 15166462-n	ind:exe	Dari pagi sampai sore saya memancing.
+15166462-n	ind:lemma	malam
 15166462-n	ind:lemma	tadi malam
 15166462-n	ind:exe	Tadi malam kamu pulang jam berapa?
+01343918-a	ind:lemma	lucu
+01343918-a	ind:exe	O begitu..., tetapi saya kira huruf Jepang itu lucu!
 01343918-a	ind:lemma	menarik
 01343918-a	ind:exe	Drama ini ceritanya menarik, hanya aktornya tidak begitu baik.
+01344344-a	ind:lemma	lucu
+01344344-a	ind:exe	O begitu..., tetapi saya kira huruf Jepang itu lucu!
 01344344-a	ind:lemma	menarik
 01344344-a	ind:exe	Drama ini ceritanya menarik, hanya aktornya tidak begitu baik.
+01344344-a	ind:lemma	senang
+01344344-a	ind:exe	menyenangka
+01344344-a	ind:exe	Saya merasa senang dapat bertemu dengan Anda.
 01344344-a	ind:lemma	menyenangkan
 01344344-a	ind:exe	Dia marah karena menerima jawaban yang kurang menyenangkan.
+01265308-a	ind:lemma	lucu
+01265308-a	ind:exe	O begitu..., tetapi saya kira huruf Jepang itu lucu!
 01265308-a	ind:lemma	menarik
 01265308-a	ind:exe	Drama ini ceritanya menarik, hanya aktornya tidak begitu baik.
+01344485-a	ind:lemma	lucu
+01344485-a	ind:exe	O begitu..., tetapi saya kira huruf Jepang itu lucu!
 01344485-a	ind:lemma	menarik
 01344485-a	ind:exe	Drama ini ceritanya menarik, hanya aktornya tidak begitu baik.
 00067045-r	ind:lemma	depan
@@ -1161,6 +1539,9 @@
 90000515-n	ind:exe	Hasil ujian ini akan diberitahukan besok atau lusa.
 01296462-v	ind:lemma	memasang
 01296462-v	ind:exe	Bapak mau memasang AC?
+01801029-a	ind:lemma	senang
+01801029-a	ind:exe	menyenangka
+01801029-a	ind:exe	Saya merasa senang dapat bertemu dengan Anda.
 01801029-a	ind:lemma	menyenangkan
 01801029-a	ind:exe	Dia marah karena menerima jawaban yang kurang menyenangkan.
 03906997-n	ind:lemma	pulpen
@@ -1168,6 +1549,7 @@
 77000095-n	ind:lemma	siapa
 77000095-n	ind:exe	Siapa nama Anda ?
 77000095-n	ind:lemma	siapa
+77000095-n	ind:exe	itu buku siapa?
 77000095-n	ind:exe	Siapa nama Anda?
 90000500-n	ind:lemma	dua tahun yang lalu
 90000500-n	ind:exe	Saya sudah menikah dua tahun yang lalu.
@@ -1176,15 +1558,23 @@
 03221720-n	ind:lemma	pintu
 03221720-n	ind:exe	Kalau Buka Pintu, Harap Tutup Lagi.
 77000012-n	ind:lemma	saya
+77000012-n	ind:exe	Saya pesan es jeruk juga.
+77000012-n	ind:exe	Saya tunggu di ruangan saya jam setengah sepuluh pagi.
 77000012-n	ind:exe	Tapi, besok teman saya akan datang.
 77000015-n	ind:lemma	saya
+77000015-n	ind:exe	Saya pesan es jeruk juga.
+77000015-n	ind:exe	Saya tunggu di ruangan saya jam setengah sepuluh pagi.
 77000015-n	ind:exe	Tapi, besok teman saya akan datang.
+01344963-a	ind:lemma	bosan
+01344963-a	ind:exe	Saya sudah bosan menonton film ini.
 01344963-a	ind:lemma	membosankan
 01344963-a	ind:exe	Menurut teman saya, buku komik ini membosankan.
 01170052-v	ind:lemma	minum
 01170052-v	ind:exe	Apa saya harus minum obat?
 03282295-n	ind:lemma	kedutaan besar
 03282295-n	ind:exe	Kami harus pergi ke Kedutaan Besar untuk mengambil visa.
+14145501-n	ind:lemma	flu
+14145501-n	ind:exe	Flu burung sedang merajalela di daerah itu.
 14145501-n	ind:lemma	angin
 14145501-n	ind:exe	Pohon itu tumbang karena angin ribut.
 06796119-n	ind:lemma	perangko
@@ -1194,33 +1584,63 @@
 02512053-n	ind:lemma	ikan
 02512053-n	ind:exe	Di Bogor banyak tempat pemancingan ikan.
 01586866-a	ind:lemma	baik
+01586866-a	ind:exe	Baik juga.
+01586866-a	ind:exe	Baiklah, kita bertemu di perpustakaan lantai satu.
 01586866-a	ind:exe	Dia baik, ramah, tapi... terlalu serius.
 01048762-a	ind:lemma	baik
+01048762-a	ind:exe	Baik juga.
+01048762-a	ind:exe	Baiklah, kita bertemu di perpustakaan lantai satu.
 01048762-a	ind:exe	Dia baik, ramah, tapi... terlalu serius.
 00067638-a	ind:lemma	baik
+00067638-a	ind:exe	Baik juga.
+00067638-a	ind:exe	Baiklah, kita bertemu di perpustakaan lantai satu.
 00067638-a	ind:exe	Dia baik, ramah, tapi... terlalu serius.
 01993408-a	ind:lemma	baik
+01993408-a	ind:exe	Baik juga.
+01993408-a	ind:exe	Baiklah, kita bertemu di perpustakaan lantai satu.
 01993408-a	ind:exe	Dia baik, ramah, tapi... terlalu serius.
 01171213-a	ind:lemma	baik
+01171213-a	ind:exe	Baik juga.
+01171213-a	ind:exe	Baiklah, kita bertemu di perpustakaan lantai satu.
 01171213-a	ind:exe	Dia baik, ramah, tapi... terlalu serius.
 01800349-a	ind:lemma	baik
+01800349-a	ind:exe	Baik juga.
+01800349-a	ind:exe	Baiklah, kita bertemu di perpustakaan lantai satu.
 01800349-a	ind:exe	Dia baik, ramah, tapi... terlalu serius.
 01123148-a	ind:lemma	baik
+01123148-a	ind:exe	Baik juga.
+01123148-a	ind:exe	Baiklah, kita bertemu di perpustakaan lantai satu.
 01123148-a	ind:exe	Dia baik, ramah, tapi... terlalu serius.
 00064787-a	ind:lemma	baik
+00064787-a	ind:exe	Baik juga.
+00064787-a	ind:exe	Baiklah, kita bertemu di perpustakaan lantai satu.
 00064787-a	ind:exe	Dia baik, ramah, tapi... terlalu serius.
 00850183-a	ind:lemma	baik
+00850183-a	ind:exe	Baik juga.
+00850183-a	ind:exe	Baiklah, kita bertemu di perpustakaan lantai satu.
 00850183-a	ind:exe	Dia baik, ramah, tapi... terlalu serius.
 01129977-a	ind:lemma	baik
+01129977-a	ind:exe	Baik juga.
+01129977-a	ind:exe	Baiklah, kita bertemu di perpustakaan lantai satu.
 01129977-a	ind:exe	Dia baik, ramah, tapi... terlalu serius.
 01586752-a	ind:lemma	baik
+01586752-a	ind:exe	Baik juga.
+01586752-a	ind:exe	Baiklah, kita bertemu di perpustakaan lantai satu.
 01586752-a	ind:exe	Dia baik, ramah, tapi... terlalu serius.
 04588365-n	ind:lemma	jendela
 04588365-n	ind:exe	Boleh saya membuka jendela?
 04587648-n	ind:lemma	jendela
 04587648-n	ind:exe	Boleh saya membuka jendela?
+05216365-n	ind:lemma	badan
+05216365-n	ind:exe	Lebih baik tidur cepat biar besok badannya enak.
 05216365-n	ind:lemma	tubuh
 05216365-n	ind:exe	Tubuh saya tidak kuat.
+76100002-x	ind:lemma	jilid
+76100002-x	ind:exe	Buku seri ini terdiri dari tiga jilid.
+76100002-x	ind:lemma	helai
+76100002-x	ind:exe	Anda mau berapa helai kertas?
+76100002-x	ind:lemma	buah
+76100002-x	ind:exe	Saya ingin meminjam beberapa buah buku.
 76100002-x	ind:lemma	lembar
 76100002-x	ind:exe	Bunga ini berdaun bunga lima lembar.
 04967191-n	ind:lemma	hijau
@@ -1229,13 +1649,24 @@
 80001047-v	ind:exe	Anjing kesayanganku mati kemarin.
 03497657-n	ind:lemma	topi
 03497657-n	ind:exe	Pakailah topi karena hari ini sangat panas.
+15129927-n	ind:lemma	jam
+15129927-n	ind:exe	Perpustakaan ini buka mulai jam berapa?
+15129927-n	ind:exe	Saya tunggu di ruangan saya jam setengah sepuluh pagi.
 15129927-n	ind:lemma	pukul
 15129927-n	ind:exe	Acara televisi itu mulai pukul 22.00 Waktu Indonesia Barat.
+06359877-n	ind:lemma	tulisan
+06359877-n	ind:exe	Tulisan tentang Jepang tidak jarang kita temukan dalam surat kabar ni.
 06359877-n	ind:lemma	kalimat
 06359877-n	ind:exe	Kalimat ini ambigu, ya.
+00546389-n	ind:lemma	nyanyian
+00546389-n	ind:exe	Nyanyian ini mengundang air mata.
 00546389-n	ind:lemma	lagu
+00546389-n	ind:exe	Ya, lagu-lagunya enak didengar.
 00546389-n	ind:exe	Tapi saya lebih suka lagu-lagu dangdut.
+07048000-n	ind:lemma	nyanyian
+07048000-n	ind:exe	Nyanyian ini mengundang air mata.
 07048000-n	ind:lemma	lagu
+07048000-n	ind:exe	Ya, lagu-lagunya enak didengar.
 07048000-n	ind:exe	Tapi saya lebih suka lagu-lagu dangdut.
 01754737-v	ind:lemma	memotong
 01754737-v	ind:exe	Kemarin saya memotong rambut saya sendiri.
@@ -1248,7 +1679,7 @@
 05301908-n	ind:lemma	mulut
 05301908-n	ind:exe	Manis di mulut, jahat di hati.
 02440250-n	ind:lemma	tangan
-02440250-n	ind:exe	tangan
+02440250-n	ind:exe	tanga
 09823502-n	ind:lemma	bibi
 09823502-n	ind:exe	Bibi saya pintar menari.
 10193967-n	ind:lemma	suami
@@ -1264,7 +1695,11 @@
 01712753-a	ind:lemma	sakit
 01712753-a	ind:exe	Sudah dua hari ini kepala dan tenggorokan saya sakit, Dok.
 05395690-n	ind:lemma	perut
+05395690-n	ind:exe	Saya sakit perut karena makan banyak.
+05395690-n	ind:lemma	perut
 05395690-n	ind:exe	Dia itu perutnya besar karena selalu kebanyakan makan.
+05556943-n	ind:lemma	perut
+05556943-n	ind:exe	Saya sakit perut karena makan banyak.
 05556943-n	ind:lemma	perut
 05556943-n	ind:exe	Dia itu perutnya besar karena selalu kebanyakan makan.
 02324478-v	ind:lemma	menambah
@@ -1273,6 +1708,8 @@
 00640828-v	ind:exe	Orang tua saya akan menambah uang saku saya tahun ini.
 00182406-v	ind:lemma	menambah
 00182406-v	ind:exe	Orang tua saya akan menambah uang saku saya tahun ini.
+00749230-a	ind:lemma	mudah
+00749230-a	ind:exe	Ujian hari ini mudah bagi saya.
 00749230-a	ind:lemma	gampang
 00749230-a	ind:exe	Gampang.
 14061805-n	ind:lemma	penyakit
@@ -1285,6 +1722,11 @@
 10399491-n	ind:exe	Mungkin itu kiriman dari orang tua saya di kampung.
 13833375-n	ind:lemma	selatan
 13833375-n	ind:exe	Dosen pembimbing saya berasal dari Sulawesi Selatan.
+02472293-n	ind:lemma	orang
+02472293-n	ind:exe	Selera orang memang berbeda, kan?
+02472293-n	ind:exe	Orang itu cantik.
+02472293-n	ind:lemma	orang
+02472293-n	ind:exe	Oh, ya? Berapa orang?
 02472293-n	ind:lemma	manusia
 02472293-n	ind:exe	Sebagai manusia, terkadang kita melakukan kesalahan.
 15212167-n	ind:lemma	Juli
@@ -1294,6 +1736,7 @@
 01421622-v	ind:lemma	memasukkan
 01421622-v	ind:exe	Dia tidak memasukkan gula ke dalam kopi.
 03398467-n	ind:lemma	depan
+03398467-n	ind:exe	Mulai dari mahasiswa paling depan.
 03398467-n	ind:exe	Di depan pintu masuk, ya.
 00964768-a	ind:lemma	lemah
 00964768-a	ind:exe	Dia itu tenaganya lemah, tetapi mentalnya sangat kuat.
@@ -1307,6 +1750,8 @@
 02040049-a	ind:exe	Dia itu tenaganya lemah, tetapi mentalnya sangat kuat.
 00254978-r	ind:lemma	setiap bulan
 00254978-r	ind:exe	Setiap bulan saya menabung 20,000 yen.
+77000091-n	ind:lemma	bagaimana
+77000091-n	ind:exe	Bagaimana rencana liburannya?
 77000091-n	ind:lemma	seperti apa
 77000091-n	ind:exe	Dia orangnya seperti apa?
 06605897-n	ind:lemma	arti
@@ -1335,18 +1780,27 @@
 04049098-n	ind:exe	Saya mau turun di Stasiun Shinjuku.
 03030663-n	ind:lemma	rokok
 03030663-n	ind:exe	Ayah saya menyukai rokok kretek.
+02230772-v	ind:lemma	memberi
+02230772-v	ind:exe	Dia memberi hadiah kepada pacarnya.
 02230772-v	ind:lemma	memberikan
 02230772-v	ind:exe	Guru memberikan daftar nilai pada akhir semester kepada murid-murid.
 90000504-n	ind:lemma	dua tahun lagi
 90000504-n	ind:exe	Dua tahun lagi, saya akan ditugaskan di Indonesia.
+00729108-n	ind:lemma	pekerjaan rumah
+00729108-n	ind:exe	Saya sudah menyelesaikan pekerjaan rumah.
 00729108-n	ind:lemma	PR
 00729108-n	ind:exe	Ayu sudah mengerjakan PR bahasa Inggris?
 03815615-n	ind:lemma	dasi
 03815615-n	ind:exe	Kakak saya memberikan dasi baru kepada ayahnya.
 07596684-n	ind:lemma	kue
+07596684-n	ind:exe	Kue apa ini?
 07596684-n	ind:exe	Rini pandai membuat kue, ya!
 05560787-n	ind:lemma	kaki
+05560787-n	ind:exe	Kaki saya sakit. Saya mau dipijat.
+05560787-n	ind:lemma	kaki
 05560787-n	ind:exe	Kaki Anda ukurannya berapa?
+05563266-n	ind:lemma	kaki
+05563266-n	ind:exe	Kaki saya sakit. Saya mau dipijat.
 05563266-n	ind:lemma	kaki
 05563266-n	ind:exe	Kaki Anda ukurannya berapa?
 15211189-n	ind:lemma	April
@@ -1375,6 +1829,8 @@
 00273082-a	ind:exe	Lebih baik tidak berjalan di jalan gelap.
 03291819-n	ind:lemma	amplop
 03291819-n	ind:exe	Tolong masukkan surat ke dalam amplop.
+80001545-n	ind:lemma	samping
+80001545-n	ind:exe	Asramanya berada di Jalan Merapi No.18, tepat di samping warung kopi.
 80001545-n	ind:lemma	sebelah
 80001545-n	ind:exe	Rumah Ibu Ani tepat di sebelahnya.
 09215315-n	ind:lemma	bawah
@@ -1396,20 +1852,31 @@
 08663354-n	ind:lemma	atas
 08663354-n	ind:exe	Telurnya diceplok lebih enak, diletakkan di atas nasi goreng akan terlihat lebih mengundang selera.
 07804323-n	ind:lemma	nasi
+07804323-n	ind:exe	Ayu, tahu cara masak nasi goreng yang enak, tidak?
 07804323-n	ind:exe	Kalau sudah matang, baru dimasukkan nasinya dan ditambahkan garam, gula, sedikit kecap manis.
 15245990-n	ind:lemma	nasi
+15245990-n	ind:exe	Ayu, tahu cara masak nasi goreng yang enak, tidak?
 15245990-n	ind:exe	Kalau sudah matang, baru dimasukkan nasinya dan ditambahkan garam, gula, sedikit kecap manis.
 90000417-n	ind:lemma	nasi
+90000417-n	ind:exe	Ayu, tahu cara masak nasi goreng yang enak, tidak?
 90000417-n	ind:exe	Kalau sudah matang, baru dimasukkan nasinya dan ditambahkan garam, gula, sedikit kecap manis.
 07575076-n	ind:lemma	makan siang
+07575076-n	ind:exe	Eh, sudah makan siang?
 07575076-n	ind:exe	Setelah makan siang saja, ya.
 15156001-n	ind:lemma	hari ini
 15156001-n	ind:exe	Hari ini Iwan sempat bertemu dengan Rini?
+09604981-n	ind:lemma	diri sendiri
+09604981-n	ind:exe	Cobalah bertanya kepada diri sendiri, apakah kita selalu benar.
 09604981-n	ind:lemma	diri
+09604981-n	ind:exe	Kalau tidak ada, tolong perkenalkan diri.
 09604981-n	ind:exe	Saya ingin mendaftarkan diri ke asrama mahasiswa. Di mana, ya?
 07557434-n	ind:lemma	masakan
 07557434-n	ind:exe	Kalau begitu, saya mau makan masakan Padang.
 02395115-a	ind:lemma	enak
+02395115-a	ind:exe	Enak saja!
+02395115-a	ind:exe	Ya, lagu-lagunya enak didengar.
 02395115-a	ind:exe	Ayu, tahu cara masak nasi goreng yang enak, tidak?
 02396720-a	ind:lemma	enak
+02396720-a	ind:exe	Enak saja!
+02396720-a	ind:exe	Ya, lagu-lagunya enak didengar.
 02396720-a	ind:exe	Ayu, tahu cara masak nasi goreng yang enak, tidak?

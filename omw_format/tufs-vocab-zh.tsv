@@ -1,1377 +1,1581 @@
 # TUFS Basic Mandarin Chinese Wordnet	cmn	http://www.coelang.tufs.ac.jp/mt/zh/	CC BY 4.0
-15210045-n	cmn:lemma	一月 (py:yīyuè)
-15210045-n	cmn:exe	今天一月一号星期一。\n
-05755883-n	cmn:lemma	学习 (py:xuéxí)
+15210045-n	cmn:lemma	一月 (orth:pīnyīn yīyuè)
+15210045-n	cmn:exe	今天一月一号星期一。
+05755883-n	cmn:lemma	学习 (orth:pīnyīn xuéxí)
 05755883-n	cmn:exe	她学习英语。
-15163797-n	cmn:lemma	星期天 (py:xīngqītiān)
+15163797-n	cmn:lemma	星期日 (orth:pīnyīn xīngqīrì)
+15163797-n	cmn:exe	星期天,星期日
+15163797-n	cmn:lemma	星期天 (orth:pīnyīn xīngqītiān)
 15163797-n	cmn:exe	星期天我们去看电影吧。
-15043763-n	cmn:lemma	雪 (py:xuě)
+15043763-n	cmn:lemma	雪 (orth:pīnyīn xuě)
 15043763-n	cmn:exe	下起雪来了。
-00251013-n	cmn:lemma	打扫 (py:dǎsǎo)
+00251013-n	cmn:lemma	打扫 (orth:pīnyīn dǎsǎo)
 00251013-n	cmn:exe	打扫得很彻底。
-08058098-n	cmn:lemma	公司 (py:gōngsī)
+08058098-n	cmn:lemma	公司 (orth:pīnyīn gōngsī)
 08058098-n	cmn:exe	昨天我去一家计算机公司面试了。
-01382086-a	cmn:lemma	大 (py:dà)
+01382086-a	cmn:lemma	大 (orth:pīnyīn dà)
 01382086-a	cmn:exe	这间屋子跟那间屋子一样大。
-01453084-a	cmn:lemma	大 (py:dà)
+01453084-a	cmn:lemma	大 (orth:pīnyīn dà)
 01453084-a	cmn:exe	这间屋子跟那间屋子一样大。
-00527870-a	cmn:lemma	大 (py:dà)
+00527870-a	cmn:lemma	大 (orth:pīnyīn dà)
 00527870-a	cmn:exe	这间屋子跟那间屋子一样大。
-01677433-a	cmn:lemma	大 (py:dà)
+01677433-a	cmn:lemma	大 (orth:pīnyīn dà)
 01677433-a	cmn:exe	这间屋子跟那间屋子一样大。
-10084295-n	cmn:lemma	女孩子 (py:nǚháizi)
+10084295-n	cmn:lemma	女孩子 (orth:pīnyīn nǚháizi)
 10084295-n	cmn:exe	他一和女孩子说话，脸就红。
-10129825-n	cmn:lemma	女孩子 (py:nǚháizi)
+10129825-n	cmn:lemma	女孩子 (orth:pīnyīn nǚháizi)
 10129825-n	cmn:exe	他一和女孩子说话，脸就红。
-10129825-n	cmn:lemma	姐姐 (py:jiějie)
+10129825-n	cmn:lemma	姐姐 (orth:pīnyīn jiějie)
 10129825-n	cmn:exe	你姐姐好吗？
-00065495-v	cmn:lemma	精神 (py:jīngshen)
+00065495-v	cmn:lemma	精神 (orth:pīnyīn jīngshen)
 00065495-v	cmn:exe	我一点儿精神都没有。
-80001734-n	cmn:lemma	上课 (py:shàngkè)
+80001734-n	cmn:lemma	上课 (orth:pīnyīn shàngkè)
+80001734-n	cmn:exe	李老师正在给同学们上课。
 80001734-n	cmn:exe	上课了，学生们走进教室来。
-00889472-n	cmn:lemma	上课 (py:shàngkè)
+00889472-n	cmn:lemma	上课 (orth:pīnyīn shàngkè)
+00889472-n	cmn:exe	李老师正在给同学们上课。
 00889472-n	cmn:exe	上课了，学生们走进教室来。
-02608347-v	cmn:lemma	开始 (py:kāishǐ)
+02608347-v	cmn:lemma	开始 (orth:pīnyīn kāishǐ)
 02608347-v	cmn:exe	电影要开始了，我们进去吧。
-07850329-n	cmn:lemma	干酪 (py:gānlào)
+07850329-n	cmn:lemma	干酪 (orth:pīnyīn gānlào)
 07850329-n	cmn:exe	我喜欢一边吃干酪,一边喝葡萄酒。
-03623556-n	cmn:lemma	刀子 (py:dāozi)
+03623556-n	cmn:lemma	刀子 (orth:pīnyīn dāozi)
 03623556-n	cmn:exe	这把刀子真快。
-03624134-n	cmn:lemma	刀子 (py:dāozi)
+03624134-n	cmn:lemma	刀子 (orth:pīnyīn dāozi)
 03624134-n	cmn:exe	这把刀子真快。
-01776727-v	cmn:lemma	讨厌 (py:tǎoyàn)
+01776727-v	cmn:lemma	讨厌 (orth:pīnyīn tǎoyàn)
 01776727-v	cmn:exe	他讨厌这个地方的风沙。
-01774136-v	cmn:lemma	讨厌 (py:tǎoyàn)
+01774136-v	cmn:lemma	讨厌 (orth:pīnyīn tǎoyàn)
 01774136-v	cmn:exe	他讨厌这个地方的风沙。
-02783161-n	cmn:lemma	圆珠笔 (py:yuánzhūbǐ)
+02783161-n	cmn:lemma	圆珠笔 (orth:pīnyīn yuánzhūbǐ)
 02783161-n	cmn:exe	这枝圆珠笔很好写。
-02632567-v	cmn:lemma	要 (py:yào)
+02632567-v	cmn:lemma	要 (orth:pīnyīn yào)
 02632567-v	cmn:exe	他要一个口琴。
-01579608-a	cmn:lemma	马上 (py:mǎshang)
+01579608-a	cmn:lemma	马上 (orth:pīnyīn mǎshang)
 01579608-a	cmn:exe	张老师叫你马上就去。
-03427296-n	cmn:lemma	门 (py:mén)
+03427296-n	cmn:lemma	门 (orth:pīnyīn mén)
 03427296-n	cmn:exe	大门朝南开。
-04026417-n	cmn:lemma	钱包 (py:qiánbāo)
+04026417-n	cmn:lemma	钱包 (orth:pīnyīn qiánbāo)
 04026417-n	cmn:exe	谢谢你帮我把钱包捡起来。
-11456462-n	cmn:lemma	晴天 (py:qíngtiān)
+11456462-n	cmn:lemma	晴天 (orth:pīnyīn qíngtiān)
 11456462-n	cmn:exe	明天是晴天。
-07848338-n	cmn:lemma	黄油 (py:huángyóu)
+07848338-n	cmn:lemma	黄油 (orth:pīnyīn huángyóu)
 07848338-n	cmn:exe	他爱吃黄油面包。
-90000501-n	cmn:lemma	去年 (py:qùnián)
-90000501-n	cmn:exe	我去年毕的业。\n
-15210870-n	cmn:lemma	三月 (py:sānyuè)
+90000501-n	cmn:lemma	去年 (orth:pīnyīn qùnián)
+90000501-n	cmn:exe	我去年毕的业。
+15210870-n	cmn:lemma	三月 (orth:pīnyīn sānyuè)
 15210870-n	cmn:exe	今天三月一号星期一。
-77000072-n	cmn:lemma	这儿 (py:zhèr)
+77000072-n	cmn:lemma	这儿 (orth:pīnyīn zhèr)
 77000072-n	cmn:exe	从这儿一直往前走，
-08489497-n	cmn:lemma	这儿 (py:zhèr)
+08489497-n	cmn:lemma	这儿 (orth:pīnyīn zhèr)
 08489497-n	cmn:exe	从这儿一直往前走，
-03561345-n	cmn:lemma	画 (py:huà)
+03561345-n	cmn:lemma	画 (orth:pīnyīn huà)
 03561345-n	cmn:exe	他的画不怎么样。
-03234306-n	cmn:lemma	画 (py:huà)
+03234306-n	cmn:lemma	画 (orth:pīnyīn huà)
 03234306-n	cmn:exe	他的画不怎么样。
-03876519-n	cmn:lemma	画 (py:huà)
+03876519-n	cmn:lemma	画 (orth:pīnyīn huà)
 03876519-n	cmn:exe	他的画不怎么样。
-07110615-n	cmn:lemma	声音 (py:shēngyīn)
+07110615-n	cmn:lemma	声音 (orth:pīnyīn shēngyīn)
 07110615-n	cmn:exe	声音大点儿。
-05202284-n	cmn:lemma	声音 (py:shēngyīn)
+05202284-n	cmn:lemma	声音 (orth:pīnyīn shēngyīn)
 05202284-n	cmn:exe	声音大点儿。
-09411430-n	cmn:lemma	河 (py:hé)
+09411430-n	cmn:lemma	河 (orth:pīnyīn hé)
 09411430-n	cmn:exe	我家前面有两条河。
-15236859-n	cmn:lemma	秋天 (py:qiūtiān)
+15236859-n	cmn:lemma	秋天 (orth:pīnyīn qiūtiān)
 15236859-n	cmn:exe	香山最好秋天去，
-02107442-v	cmn:lemma	听 (py:tīng)
+02107442-v	cmn:lemma	听 (orth:pīnyīn tīng)
+02107442-v	cmn:exe	你喜欢听音乐还是喜欢看电影?
 02107442-v	cmn:exe	我听懂了他的话。
-02169891-v	cmn:lemma	听 (py:tīng)
+02169891-v	cmn:lemma	听 (orth:pīnyīn tīng)
+02169891-v	cmn:exe	你喜欢听音乐还是喜欢看电影?
 02169891-v	cmn:exe	我听懂了他的话。
-02242464-v	cmn:lemma	卖 (py:mài)
+02242464-v	cmn:lemma	卖 (orth:pīnyīn mài)
 02242464-v	cmn:exe	鞋在哪儿卖？
-00271022-a	cmn:lemma	光亮 (py:guāngliàng)
+00271022-a	cmn:lemma	明亮 (orth:pīnyīn míngliàng)
+00271022-a	cmn:exe	那间屋子很明亮。
+00271022-a	cmn:lemma	光亮 (orth:pīnyīn guāngliàng)
 00271022-a	cmn:exe	光亮的颜色。
-00396523-a	cmn:lemma	光亮 (py:guāngliàng)
+00396523-a	cmn:lemma	明亮 (orth:pīnyīn míngliàng)
+00396523-a	cmn:exe	那间屋子很明亮。
+00396523-a	cmn:lemma	光亮 (orth:pīnyīn guāngliàng)
 00396523-a	cmn:exe	光亮的颜色。
-00269989-a	cmn:lemma	光亮 (py:guāngliàng)
+00269989-a	cmn:lemma	明亮 (orth:pīnyīn míngliàng)
+00269989-a	cmn:exe	那间屋子很明亮。
+00269989-a	cmn:lemma	光亮 (orth:pīnyīn guāngliàng)
 00269989-a	cmn:exe	光亮的颜色。
-00278551-a	cmn:lemma	光亮 (py:guāngliàng)
+00278551-a	cmn:lemma	明亮 (orth:pīnyīn míngliàng)
+00278551-a	cmn:exe	那间屋子很明亮。
+00278551-a	cmn:lemma	光亮 (orth:pīnyīn guāngliàng)
 00278551-a	cmn:exe	光亮的颜色。
-02924116-n	cmn:lemma	公共汽车 (py:gōnggòngqìchē)
+02924116-n	cmn:lemma	公共汽车 (orth:pīnyīn gōnggòngqìchē)
 02924116-n	cmn:exe	他坐公共汽车上班儿。
-01614426-v	cmn:lemma	贴 (py:tiē)
+01614426-v	cmn:lemma	贴 (orth:pīnyīn tiē)
 01614426-v	cmn:exe	邮票最好贴在信封正面。
-80001230-x	cmn:lemma	好 (py:hǎo)
+80001230-x	cmn:lemma	好 (orth:pīnyīn hǎo)
+80001230-x	cmn:exe	好吧。
+80001230-x	cmn:exe	好的，
 80001230-x	cmn:exe	好，
-01184932-a	cmn:lemma	重 (py:zhòng)
+01184932-a	cmn:lemma	重 (orth:pīnyīn zhòng)
 01184932-a	cmn:exe	会不会很重？
-07881800-n	cmn:lemma	饮料 (py:yǐnliào)
-07881800-n	cmn:exe	有什么饮料?\n
-01119192-a	cmn:lemma	拿手 (py:náshǒu)
+07881800-n	cmn:lemma	饮料 (orth:pīnyīn yǐnliào)
+07881800-n	cmn:exe	有什么饮料?
+01119192-a	cmn:lemma	拿手 (orth:pīnyīn náshǒu)
 01119192-a	cmn:exe	你的拿手菜是什么?
-02226162-a	cmn:lemma	拿手 (py:náshǒu)
+02226162-a	cmn:lemma	拿手 (orth:pīnyīn náshǒu)
 02226162-a	cmn:exe	你的拿手菜是什么?
-01838916-a	cmn:lemma	拿手 (py:náshǒu)
+01838916-a	cmn:lemma	拿手 (orth:pīnyīn náshǒu)
 01838916-a	cmn:exe	你的拿手菜是什么?
-03467517-n	cmn:lemma	吉他 (py:jítā)
-03467517-n	cmn:exe	他不会弹吉他。\n
-03613294-n	cmn:lemma	钥匙 (py:yàoshi)
+03467517-n	cmn:lemma	吉他 (orth:pīnyīn jítā)
+03467517-n	cmn:exe	他不会弹吉他。
+03613294-n	cmn:lemma	钥匙 (orth:pīnyīn yàoshi)
 03613294-n	cmn:exe	我的钥匙不见了，你帮我找找! 
-01553629-a	cmn:lemma	多 (py:duō)
+01553629-a	cmn:lemma	多 (orth:pīnyīn duō)
+01553629-a	cmn:exe	今天有点儿冷，你多穿点儿衣服吧。
+01553629-a	cmn:exe	很多书
+01553629-a	cmn:exe	弟弟比妹妹高得多。
+01553629-a	cmn:exe	生词太多了，记不住。
 01553629-a	cmn:exe	好多了。
-01551633-a	cmn:lemma	多 (py:duō)
+01551633-a	cmn:lemma	多 (orth:pīnyīn duō)
+01551633-a	cmn:exe	今天有点儿冷，你多穿点儿衣服吧。
+01551633-a	cmn:exe	很多书
+01551633-a	cmn:exe	弟弟比妹妹高得多。
+01551633-a	cmn:exe	生词太多了，记不住。
 01551633-a	cmn:exe	好多了。
-01552419-a	cmn:lemma	多 (py:duō)
+01552419-a	cmn:lemma	多 (orth:pīnyīn duō)
+01552419-a	cmn:exe	今天有点儿冷，你多穿点儿衣服吧。
+01552419-a	cmn:exe	很多书
+01552419-a	cmn:exe	弟弟比妹妹高得多。
+01552419-a	cmn:exe	生词太多了，记不住。
 01552419-a	cmn:exe	好多了。
-00127137-a	cmn:lemma	旧 (py:jiù)
+00127137-a	cmn:lemma	旧 (orth:pīnyīn jiù)
 00127137-a	cmn:exe	这件衣服太旧了。
-01638438-a	cmn:lemma	旧 (py:jiù)
+01638438-a	cmn:lemma	旧 (orth:pīnyīn jiù)
 01638438-a	cmn:exe	这件衣服太旧了。
-01729384-a	cmn:lemma	旧 (py:jiù)
+01729384-a	cmn:lemma	旧 (orth:pīnyīn jiù)
 01729384-a	cmn:exe	这件衣服太旧了。
-10694258-n	cmn:lemma	老师 (py:lǎoshī)
+10694258-n	cmn:lemma	老师 (orth:pīnyīn lǎoshī)
+10694258-n	cmn:exe	张老师叫你马上就去。
 10694258-n	cmn:exe	他们都是老师。
-07859284-n	cmn:lemma	糖 (py:táng)
+07859284-n	cmn:lemma	糖 (orth:pīnyīn táng)
 07859284-n	cmn:exe	要糖吗?
-09605289-n	cmn:lemma	成年人 (py:chéngniánrén)
-09605289-n	cmn:exe	 成年人应该承担一定的社会义务。
-04081281-n	cmn:lemma	餐厅 (py:cāntīng)
+09605289-n	cmn:lemma	成年人 (orth:pīnyīn chéngniánrén)
+09605289-n	cmn:exe	成年人应该承担一定的社会义务。
+04081281-n	cmn:lemma	餐厅 (orth:pīnyīn cāntīng)
 04081281-n	cmn:exe	在餐厅吃饭。
-04081281-n	cmn:lemma	食堂 (py:shítáng)
+04081281-n	cmn:lemma	食堂 (orth:pīnyīn shítáng)
 04081281-n	cmn:exe	我在学生食堂吃午饭。
-10448983-n	cmn:lemma	警察 (py:jǐngchá)
+10448983-n	cmn:lemma	警察 (orth:pīnyīn jǐngchá)
+10448983-n	cmn:lemma	警察 (orth:pīnyīn jǐngchá)
+10448983-n	cmn:lemma	警察 (orth:pīnyīn jǐngchá)
 10448983-n	cmn:exe	小偷儿被警察抓住了。
-10448983-n	cmn:lemma	警察 (py:jǐngchá)
+10448983-n	cmn:lemma	警察 (orth:pīnyīn jǐngchá)
 10448983-n	cmn:exe	小偷儿被警察抓住了。
-90000507-n	cmn:lemma	这个星期 (py:zhèigexīngqī)
+90000507-n	cmn:lemma	这个星期 (orth:pīnyīn zhèigexīngqī)
 90000507-n	cmn:exe	这个星期非常忙。
-02686568-n	cmn:lemma	飞机 (py:fēijī)
+02686568-n	cmn:lemma	飞机 (orth:pīnyīn fēijī)
 02686568-n	cmn:exe	他坐飞机去北京。
-02691156-n	cmn:lemma	飞机 (py:fēijī)
+02691156-n	cmn:lemma	飞机 (orth:pīnyīn fēijī)
 02691156-n	cmn:exe	他坐飞机去北京。
-08420278-n	cmn:lemma	银行 (py:yínháng)
+08420278-n	cmn:lemma	银行 (orth:pīnyīn yínháng)
 08420278-n	cmn:exe	我去银行取钱。
-02787772-n	cmn:lemma	银行 (py:yínháng)
+02787772-n	cmn:lemma	银行 (orth:pīnyīn yínháng)
 02787772-n	cmn:exe	我去银行取钱。
-02018049-v	cmn:lemma	坐 (py:zuò)
+02018049-v	cmn:lemma	坐 (orth:pīnyīn zuò)
 02018049-v	cmn:exe	我们是坐地铁来的。
-02324026-v	cmn:lemma	借 (py:jiè)
+02324026-v	cmn:lemma	借 (orth:pīnyīn jiè)
+02324026-v	cmn:exe	那本新小说已经借出去了。
 02324026-v	cmn:exe	能不能借给我一枝笔？
-01447257-v	cmn:lemma	推 (py:tuī)
+01447257-v	cmn:lemma	推 (orth:pīnyīn tuī)
 01447257-v	cmn:exe	他推着自行车去接孩子。
-02398378-a	cmn:lemma	辣 (py:là)
+02398378-a	cmn:lemma	辣 (orth:pīnyīn là)
 02398378-a	cmn:exe	这个菜辣死了。
-02397732-a	cmn:lemma	辣 (py:là)
+02397732-a	cmn:lemma	辣 (orth:pīnyīn là)
 02397732-a	cmn:exe	这个菜辣死了。
-06628228-n	cmn:lemma	明信片 (py:míngxìnpiàn)
-06628228-n	cmn:exe	他去邮局寄明信片了。\n
-06627938-n	cmn:lemma	明信片 (py:míngxìnpiàn)
-06627938-n	cmn:exe	他去邮局寄明信片了。\n
-03959485-n	cmn:lemma	碟子 (py:diézi)
+06628228-n	cmn:lemma	明信片 (orth:pīnyīn míngxìnpiàn)
+06628228-n	cmn:exe	他去邮局寄明信片了。
+06627938-n	cmn:lemma	明信片 (orth:pīnyīn míngxìnpiàn)
+06627938-n	cmn:exe	他去邮局寄明信片了。
+03959485-n	cmn:lemma	碟子 (orth:pīnyīn diézi)
 03959485-n	cmn:exe	请给我小碟子。
-00393105-a	cmn:lemma	白色 (py:báisè)
+00393105-a	cmn:lemma	白色 (orth:pīnyīn báisè)
 00393105-a	cmn:exe	她穿着一身白色的衣服。
-08625073-n	cmn:lemma	右边 (py:yòubian)
-08625073-n	cmn:exe	右边儿看到的是东京铁塔。\n
-03051540-n	cmn:lemma	衣服 (py:yīfu)
+08625073-n	cmn:lemma	右边 (orth:pīnyīn yòubian)
+08625073-n	cmn:exe	右边儿看到的是东京铁塔。
+03051540-n	cmn:lemma	衣服 (orth:pīnyīn yīfu)
 03051540-n	cmn:exe	这件衣服有点儿贵。
-02728440-n	cmn:lemma	衣服 (py:yīfu)
+02728440-n	cmn:lemma	衣服 (orth:pīnyīn yīfu)
 02728440-n	cmn:exe	这件衣服有点儿贵。
-03419014-n	cmn:lemma	衣服 (py:yīfu)
+03419014-n	cmn:lemma	衣服 (orth:pīnyīn yīfu)
 03419014-n	cmn:exe	这件衣服有点儿贵。
-15165289-n	cmn:lemma	早上 (py:zǎoshang)
+15165289-n	cmn:lemma	早上 (orth:pīnyīn zǎoshang)
 15165289-n	cmn:exe	明天早上第一节就交。
-15165289-n	cmn:lemma	上午 (py:shàngwǔ)
+15165289-n	cmn:lemma	上午 (orth:pīnyīn shàngwǔ)
 15165289-n	cmn:exe	后天上午十点参加口试。
-00109151-r	cmn:lemma	那儿 (py:nàr)
+00109151-r	cmn:lemma	那儿 (orth:pīnyīn nàr)
 00109151-r	cmn:exe	放在那儿吧。
-03720163-n	cmn:lemma	地图 (py:dìtú)
+03720163-n	cmn:lemma	地图 (orth:pīnyīn dìtú)
 03720163-n	cmn:exe	墙上有一张地图。
-00024996-a	cmn:lemma	新 (py:xīn)
+00024996-a	cmn:lemma	新 (orth:pīnyīn xīn)
 00024996-a	cmn:exe	我们宿舍来了一个新同学。
-01642477-a	cmn:lemma	新 (py:xīn)
+01642477-a	cmn:lemma	新 (orth:pīnyīn xīn)
 01642477-a	cmn:exe	我们宿舍来了一个新同学。
-01641648-a	cmn:lemma	新 (py:xīn)
+01641648-a	cmn:lemma	新 (orth:pīnyīn xīn)
 01641648-a	cmn:exe	我们宿舍来了一个新同学。
-01687167-a	cmn:lemma	新 (py:xīn)
+01687167-a	cmn:lemma	新 (orth:pīnyīn xīn)
 01687167-a	cmn:exe	我们宿舍来了一个新同学。
-02584699-a	cmn:lemma	新 (py:xīn)
+02584699-a	cmn:lemma	新 (orth:pīnyīn xīn)
 02584699-a	cmn:exe	我们宿舍来了一个新同学。
-01686439-a	cmn:lemma	新 (py:xīn)
+01686439-a	cmn:lemma	新 (orth:pīnyīn xīn)
 01686439-a	cmn:exe	我们宿舍来了一个新同学。
-02070491-a	cmn:lemma	新 (py:xīn)
+02070491-a	cmn:lemma	新 (orth:pīnyīn xīn)
 02070491-a	cmn:exe	我们宿舍来了一个新同学。
-02013758-a	cmn:lemma	新 (py:xīn)
+02013758-a	cmn:lemma	新 (orth:pīnyīn xīn)
 02013758-a	cmn:exe	我们宿舍来了一个新同学。
-01640850-a	cmn:lemma	新 (py:xīn)
+01640850-a	cmn:lemma	新 (orth:pīnyīn xīn)
 01640850-a	cmn:exe	我们宿舍来了一个新同学。
-00894552-n	cmn:lemma	练习 (py:liànxí)
+00894552-n	cmn:lemma	练习 (orth:pīnyīn liànxí)
 00894552-n	cmn:exe	他正在做练习。
-01292683-a	cmn:lemma	喜欢 (py:xǐhuan)
+01292683-a	cmn:lemma	喜欢 (orth:pīnyīn xǐhuan)
+01292683-a	cmn:exe	你喜欢哪个，我给你哪个。
+01292683-a	cmn:lemma	喜欢 (orth:pīnyīn xǐhuan)
 01292683-a	cmn:exe	你喜欢听音乐吗?
-01777210-v	cmn:lemma	喜欢 (py:xǐhuan)
+01777210-v	cmn:lemma	喜欢 (orth:pīnyīn xǐhuan)
+01777210-v	cmn:exe	你喜欢哪个，我给你哪个。
+01777210-v	cmn:lemma	喜欢 (orth:pīnyīn xǐhuan)
 01777210-v	cmn:exe	你喜欢听音乐吗?
-03038685-n	cmn:lemma	教室 (py:jiàoshì)
+03038685-n	cmn:lemma	教室 (orth:pīnyīn jiàoshì)
+03038685-n	cmn:exe	上课了，学生们走进教室来。
 03038685-n	cmn:exe	301教室在哪儿？
-00296131-r	cmn:lemma	大概 (py:dàgài)
+00296131-r	cmn:lemma	也许 (orth:pīnyīn yěxǔ)
+00296131-r	cmn:exe	她也许喜欢我,。
+00296131-r	cmn:lemma	大概 (orth:pīnyīn dàgài)
 00296131-r	cmn:exe	我想他大概会同意。
-00154449-r	cmn:lemma	大概 (py:dàgài)
+00154449-r	cmn:lemma	也许 (orth:pīnyīn yěxǔ)
+00154449-r	cmn:exe	她也许喜欢我,。
+00154449-r	cmn:lemma	大概 (orth:pīnyīn dàgài)
 00154449-r	cmn:exe	我想他大概会同意。
-03001627-n	cmn:lemma	椅子 (py:yǐzi)
+03001627-n	cmn:lemma	椅子 (orth:pīnyīn yǐzi)
 03001627-n	cmn:exe	他从房间里搬出一把椅子来。
-01734929-v	cmn:lemma	复印 (py:fùyìn)
+01734929-v	cmn:lemma	复印 (orth:pīnyīn fùyìn)
 01734929-v	cmn:exe	请帮我复印一下。
-01914947-v	cmn:lemma	跑 (py:pǎo)
+01914947-v	cmn:lemma	跑 (orth:pīnyīn pǎo)
 01914947-v	cmn:exe	他跑得快不快?
-01926311-v	cmn:lemma	跑 (py:pǎo)
+01926311-v	cmn:lemma	跑 (orth:pīnyīn pǎo)
 01926311-v	cmn:exe	他跑得快不快?
-02005496-v	cmn:lemma	回 (py:huí)
+02005496-v	cmn:lemma	回 (orth:pīnyīn huí)
+02005496-v	cmn:exe	李老师快回国了。
+02005496-v	cmn:exe	报刊阅读后，请放回原处。
 02005496-v	cmn:exe	他从中国回来了。
-04379243-n	cmn:lemma	桌子 (py:zhuōzi)
+04379243-n	cmn:lemma	桌子 (orth:pīnyīn zhuōzi)
 04379243-n	cmn:exe	这张桌子我一个人搬不动。
-04298308-n	cmn:lemma	楼梯 (py:lóutī)
+04298308-n	cmn:lemma	楼梯 (orth:pīnyīn lóutī)
 04298308-n	cmn:exe	楼梯在哪儿?
-00037919-v	cmn:lemma	洗澡 (py:xǐzǎo)
+00037919-v	cmn:lemma	洗澡 (orth:pīnyīn xǐzǎo)
 00037919-v	cmn:exe	赶快洗个澡,睡个好觉。
-01532589-v	cmn:lemma	打扫 (py:dǎsǎo)
+01532589-v	cmn:lemma	打扫 (orth:pīnyīn dǎsǎo)
 01532589-v	cmn:exe	妈妈常常叫我打扫屋子。
-01533442-v	cmn:lemma	打扫 (py:dǎsǎo)
+01533442-v	cmn:lemma	打扫 (orth:pīnyīn dǎsǎo)
 01533442-v	cmn:exe	妈妈常常叫我打扫屋子。
-07663592-n	cmn:lemma	牛肉 (py:niúròu)
-07663592-n	cmn:exe	我特别爱吃牛肉。\n
-08182962-n	cmn:lemma	众多 (py:zhòngduō)
-08182962-n	cmn:exe	众多的市民参加了她的婚礼。\n
-08182379-n	cmn:lemma	众多 (py:zhòngduō)
-08182379-n	cmn:exe	众多的市民参加了她的婚礼。\n
-80000079-n	cmn:lemma	上个月 (py:shànggeyuè)
+07663592-n	cmn:lemma	牛肉 (orth:pīnyīn niúròu)
+07663592-n	cmn:exe	我特别爱吃牛肉。
+08182962-n	cmn:lemma	众多 (orth:pīnyīn zhòngduō)
+08182962-n	cmn:exe	众多的市民参加了她的婚礼。
+08182379-n	cmn:lemma	众多 (orth:pīnyīn zhòngduō)
+08182379-n	cmn:exe	众多的市民参加了她的婚礼。
+80000079-n	cmn:lemma	上个月 (orth:pīnyīn shànggeyuè)
 80000079-n	cmn:exe	上个月我去过一次。
-10020890-n	cmn:lemma	大夫 (py:dàifu)
+10020890-n	cmn:lemma	大夫 (orth:pīnyīn dàifu)
 10020890-n	cmn:exe	他是大夫。
-10305802-n	cmn:lemma	大夫 (py:dàifu)
+10305802-n	cmn:lemma	大夫 (orth:pīnyīn dàifu)
 10305802-n	cmn:exe	他是大夫。
-03710193-n	cmn:lemma	邮筒 (py:yóutǒng)
+03710193-n	cmn:lemma	邮筒 (orth:pīnyīn yóutǒng)
 03710193-n	cmn:exe	请把信投入邮筒里。
-03989074-n	cmn:lemma	邮筒 (py:yóutǒng)
+03989074-n	cmn:lemma	邮筒 (orth:pīnyīn yóutǒng)
 03989074-n	cmn:exe	请把信投入邮筒里。
-15136147-n	cmn:lemma	一个星期 (py:yígexīngqī)
+15136147-n	cmn:lemma	一个星期 (orth:pīnyīn yígexīngqī)
+15136147-n	cmn:exe	一个星期
 15136147-n	cmn:exe	一共一个星期。
-15169873-n	cmn:lemma	一个星期 (py:yígexīngqī)
+15169873-n	cmn:lemma	一个星期 (orth:pīnyīn yígexīngqī)
+15169873-n	cmn:exe	一个星期
 15169873-n	cmn:exe	一共一个星期。
-15211806-n	cmn:lemma	六月 (py:liùyuè)
-15211806-n	cmn:exe	今天六月一号国际儿童节。\n
-04489008-n	cmn:lemma	裤子 (py:kùzì)
+15211806-n	cmn:lemma	六月 (orth:pīnyīn liùyuè)
+15211806-n	cmn:exe	今天六月一号国际儿童节。
+04489008-n	cmn:lemma	裤子 (orth:pīnyīn kùzì)
 04489008-n	cmn:exe	这裤子有点儿肥。
-04230808-n	cmn:lemma	裙子 (py:qúnzi)
+04230808-n	cmn:lemma	裙子 (orth:pīnyīn qúnzi)
 04230808-n	cmn:exe	她穿着一条红色裙子。
-08544813-n	cmn:lemma	国家 (py:guójiā)
+08544813-n	cmn:lemma	国家 (orth:pīnyīn guójiā)
 08544813-n	cmn:exe	他爸爸是国家干部。
-08490199-n	cmn:lemma	国家 (py:guójiā)
+08490199-n	cmn:lemma	国家 (orth:pīnyīn guójiā)
 08490199-n	cmn:exe	他爸爸是国家干部。
-00081737-r	cmn:lemma	每年 (py:měinián)
+00081737-r	cmn:lemma	每年 (orth:pīnyīn měinián)
 00081737-r	cmn:exe	我每年夏天都去中国旅行。
-00018158-v	cmn:lemma	起床 (py:qǐchuáng)
-00018158-v	cmn:exe	我每天早上五点起床。\n
-05538625-n	cmn:lemma	头 (py:tóu)
+00018158-v	cmn:lemma	起床 (orth:pīnyīn qǐchuáng)
+00018158-v	cmn:exe	我每天早上五点起床。
+05538625-n	cmn:lemma	头 (orth:pīnyīn tóu)
 05538625-n	cmn:exe	头疼。
-02418686-v	cmn:lemma	玩儿 (py:wánr)
+02418686-v	cmn:lemma	玩儿 (orth:pīnyīn wánr)
 02418686-v	cmn:exe	让他去玩儿吧，别管他。
-04965661-n	cmn:lemma	黄色 (py:huángsè)
+04965661-n	cmn:lemma	黄色 (orth:pīnyīn huángsè)
 04965661-n	cmn:exe	院子里晾着黄色手帕。
-02561888-a	cmn:lemma	窄 (py:zhǎi)
-02561888-a	cmn:exe	这条路很窄。\n
-00476663-a	cmn:lemma	窄 (py:zhǎi)
-00476663-a	cmn:exe	这条路很窄。\n
-05137165-n	cmn:lemma	高 (py:gāo)
+02561888-a	cmn:lemma	窄 (orth:pīnyīn zhǎi)
+02561888-a	cmn:exe	这条路很窄。
+00476663-a	cmn:lemma	窄 (orth:pīnyīn zhǎi)
+00476663-a	cmn:exe	这条路很窄。
+05137165-n	cmn:lemma	高 (orth:pīnyīn gāo)
 05137165-n	cmn:exe	这座大楼有多高?
-05131647-n	cmn:lemma	高 (py:gāo)
+05131647-n	cmn:lemma	高 (orth:pīnyīn gāo)
 05131647-n	cmn:exe	这座大楼有多高?
-00009966-r	cmn:lemma	请 (py:qǐng)
+00009966-r	cmn:lemma	请 (orth:pīnyīn qǐng)
+00009966-r	cmn:exe	请坐一会儿。
 00009966-r	cmn:exe	报刊阅读后，请放回原处。
-00009966-r	cmn:lemma	请 (py:qǐng)
+00009966-r	cmn:lemma	别客气 (orth:pīnyīn biékèqi)
+00009966-r	cmn:exe	谢谢。别客气。
+00009966-r	cmn:lemma	请 (orth:pīnyīn qǐng)
 00009966-r	cmn:exe	你先请。
-10103485-n	cmn:lemma	外国人 (py:wàiguórén)
+10103485-n	cmn:lemma	外国人 (orth:pīnyīn wàiguórén)
 10103485-n	cmn:exe	我不是外国人。
-02958343-n	cmn:lemma	汽车 (py:qìchē)
+02958343-n	cmn:lemma	汽车 (orth:pīnyīn qìchē)
 02958343-n	cmn:exe	门口停着一辆汽车。
-03924069-n	cmn:lemma	唱片 (py:chàngpiàn)
+03924069-n	cmn:lemma	唱片 (orth:pīnyīn chàngpiàn)
 03924069-n	cmn:exe	把唱片儿放在唱机上。
-10332385-n	cmn:lemma	妈妈 (py:māma)
+10332385-n	cmn:lemma	妈妈 (orth:pīnyīn māma)
 10332385-n	cmn:exe	大概是妈妈寄给我的。
-10332385-n	cmn:lemma	妈妈 (py:māma)
+10332385-n	cmn:lemma	妈妈 (orth:pīnyīn māma)
 10332385-n	cmn:exe	妈妈常常叫我打扫屋子。
-07668702-n	cmn:lemma	猪肉 (py:zhūròu)
+07668702-n	cmn:lemma	猪肉 (orth:pīnyīn zhūròu)
 07668702-n	cmn:exe	我不喜欢吃猪肉。
-00081836-n	cmn:lemma	买东西 (py:mǎidōngxi)
+00081836-n	cmn:lemma	买东西 (orth:pīnyīn mǎidōngxi)
 00081836-n	cmn:exe	那我们去王府井买东西吧。
-04203889-n	cmn:lemma	买东西 (py:mǎidōngxi)
+04203889-n	cmn:lemma	买东西 (orth:pīnyīn mǎidōngxi)
 04203889-n	cmn:exe	那我们去王府井买东西吧。
-13836136-n	cmn:lemma	西边 (py:xībian)
+13836136-n	cmn:lemma	西边 (orth:pīnyīn xībian)
 13836136-n	cmn:exe	图书馆的西边儿是教学楼。
-02368336-a	cmn:lemma	甜 (py:tián)
-02368336-a	cmn:exe	他爱吃甜的。\n
-04254777-n	cmn:lemma	袜子 (py:wàzi)
+02368336-a	cmn:lemma	甜 (orth:pīnyīn tián)
+02368336-a	cmn:exe	他爱吃甜的。
+04254777-n	cmn:lemma	袜子 (orth:pīnyīn wàzi)
 04254777-n	cmn:exe	不换拖鞋吗?穿着袜子进去吗?
-01845229-v	cmn:lemma	旅行 (py:lǚxíng)
+01845229-v	cmn:lemma	旅行 (orth:pīnyīn lǚxíng)
+01845229-v	cmn:exe	我打算今年暑假去中国旅行。
+01845229-v	cmn:lemma	旅行 (orth:pīnyīn lǚxíng)
 01845229-v	cmn:exe	我非常想去中国旅行。
-01846916-v	cmn:lemma	旅行 (py:lǚxíng)
+01846916-v	cmn:lemma	旅行 (orth:pīnyīn lǚxíng)
+01846916-v	cmn:exe	我打算今年暑假去中国旅行。
+01846916-v	cmn:lemma	旅行 (orth:pīnyīn lǚxíng)
 01846916-v	cmn:exe	我非常想去中国旅行。
-01845720-v	cmn:lemma	旅行 (py:lǚxíng)
+01845720-v	cmn:lemma	旅行 (orth:pīnyīn lǚxíng)
+01845720-v	cmn:exe	我打算今年暑假去中国旅行。
+01845720-v	cmn:lemma	旅行 (orth:pīnyīn lǚxíng)
 01845720-v	cmn:exe	我非常想去中国旅行。
-00061203-r	cmn:lemma	后面 (py:hòumian)
+00061203-r	cmn:lemma	后面 (orth:pīnyīn hòumian)
 00061203-r	cmn:exe	跟在队伍的后面。
-10112591-n	cmn:lemma	朋友 (py:péngyou)
+10112591-n	cmn:lemma	朋友 (orth:pīnyīn péngyou)
 10112591-n	cmn:exe	朋友给他的信，他连看也没看。
-08588294-n	cmn:lemma	里边 (py:lǐbian)
+08588294-n	cmn:lemma	里边 (orth:pīnyīn lǐbian)
 08588294-n	cmn:exe	里边儿没有人。
-08588152-n	cmn:lemma	里边 (py:lǐbian)
+08588152-n	cmn:lemma	里边 (orth:pīnyīn lǐbian)
 08588152-n	cmn:exe	里边儿没有人。
-77000021-n	cmn:lemma	你 (py:nǐ)
+77000021-n	cmn:lemma	你 (orth:pīnyīn nǐ)
+77000021-n	cmn:exe	你
 77000021-n	cmn:exe	你多大(了)?
-77000021-n	cmn:lemma	您 (py:nín)
+77000021-n	cmn:lemma	您 (orth:pīnyīn nín)
+77000021-n	cmn:exe	您
+77000021-n	cmn:exe	王老师，您休息休息吧!
 77000021-n	cmn:exe	老师，您好。
-02771169-v	cmn:lemma	晴 (py:qíng)
+02771169-v	cmn:lemma	晴 (orth:pīnyīn qíng)
 02771169-v	cmn:exe	天晴了。
-77000061-a	cmn:lemma	这个 (py:zhèige)
+77000061-a	cmn:lemma	这个 (orth:pīnyīn zhèige)
 77000061-a	cmn:exe	这个问题，我们也是很注意的。
-80001619-a	cmn:lemma	这个 (py:zhèige)
+80001619-a	cmn:lemma	这个 (orth:pīnyīn zhèige)
 80001619-a	cmn:exe	这个问题，我们也是很注意的。
-77000075-a	cmn:lemma	这个 (py:zhèige)
+77000075-a	cmn:lemma	这个 (orth:pīnyīn zhèige)
 77000075-a	cmn:exe	这个问题，我们也是很注意的。
-04018667-n	cmn:lemma	洗手间 (py:xǐshǒujiān)
+04018667-n	cmn:lemma	洗手间 (orth:pīnyīn xǐshǒujiān)
 04018667-n	cmn:exe	洗手间在哪儿?
-08649345-n	cmn:lemma	横 (py:héng)
+08649345-n	cmn:lemma	横 (orth:pīnyīn héng)
 08649345-n	cmn:exe	别横着放。
-08649345-n	cmn:lemma	旁边 (py:pángbiān)
+08649345-n	cmn:lemma	旁边 (orth:pīnyīn pángbiān)
 08649345-n	cmn:exe	学校旁边有一个邮局。
-08649345-n	cmn:lemma	旁边 (py:pángbiān)
+08649345-n	cmn:lemma	旁边 (orth:pīnyīn pángbiān)
 08649345-n	cmn:exe	就在301教室旁边儿。
-05136150-n	cmn:lemma	横 (py:héng)
+05136150-n	cmn:lemma	横 (orth:pīnyīn héng)
 05136150-n	cmn:exe	别横着放。
-15211484-n	cmn:lemma	五月 (py:wǔyuè)
+15211484-n	cmn:lemma	五月 (orth:pīnyīn wǔyuè)
 15211484-n	cmn:exe	今天五月一号星期一。
-05563770-n	cmn:lemma	胳膊 (py:gēbo)
+05563770-n	cmn:lemma	胳膊 (orth:pīnyīn gēbo)
 05563770-n	cmn:exe	胳膊酸了。
-15165490-n	cmn:lemma	白天 (py:báitiān)
+15165490-n	cmn:lemma	白天 (orth:pīnyīn báitiān)
 15165490-n	cmn:exe	从白天到晚上，写了一篇文章。
-04272054-n	cmn:lemma	眼镜 (py:yǎnjìng)
+04272054-n	cmn:lemma	眼镜 (orth:pīnyīn yǎnjìng)
 04272054-n	cmn:exe	我的眼镜在哪儿呢?
-80000746-n	cmn:lemma	汉字 (py:hànzì)
+80000746-n	cmn:lemma	汉字 (orth:pīnyīn hànzì)
 80000746-n	cmn:exe	这个汉字怎么念? 
-10287213-n	cmn:lemma	男的 (py:nánde)
+10287213-n	cmn:lemma	男的 (orth:pīnyīn nánde)
 10287213-n	cmn:exe	新来的老师是男的,还是女的?
-09624168-n	cmn:lemma	男的 (py:nánde)
+09624168-n	cmn:lemma	男的 (orth:pīnyīn nánde)
 09624168-n	cmn:exe	新来的老师是男的,还是女的?
-15164105-n	cmn:lemma	星期二 (py:xīngqīèr)
+15164105-n	cmn:lemma	星期二 (orth:pīnyīn xīngqīèr)
 15164105-n	cmn:exe	星期二
-77000099-n	cmn:lemma	大家 (py:dàjiā)
+77000099-n	cmn:lemma	大家 (orth:pīnyīn dàjiā)
 77000099-n	cmn:exe	他被大家选为代表了。
-00479391-v	cmn:lemma	擦掉 (py:cādiào)
+00479391-v	cmn:lemma	擦掉 (orth:pīnyīn cādiào)
 00479391-v	cmn:exe	用橡皮擦掉。
-03238879-n	cmn:lemma	衬衫 (py:chènshān)
+03238879-n	cmn:lemma	衬衫 (orth:pīnyīn chènshān)
 03238879-n	cmn:exe	今天她穿着一件很好看的衬衫。
-02412164-a	cmn:lemma	薄 (py:báo)
+02412164-a	cmn:lemma	薄 (orth:pīnyīn báo)
 02412164-a	cmn:exe	她穿的衣服太薄了。
-02414188-a	cmn:lemma	薄 (py:báo)
+02414188-a	cmn:lemma	薄 (orth:pīnyīn báo)
 02414188-a	cmn:exe	她穿的衣服太薄了。
-08489627-n	cmn:lemma	那儿 (py:nàr)
+08489627-n	cmn:lemma	那儿 (orth:pīnyīn nàr)
+08489627-n	cmn:exe	我的本子在老师那儿。
+08489627-n	cmn:exe	你说的是那儿吗？
 08489627-n	cmn:exe	一到那儿，天就冷了。
-01168468-v	cmn:lemma	吃 (py:chī)
+01168468-v	cmn:lemma	吃 (orth:pīnyīn chī)
+01168468-v	cmn:exe	你们吃什么?
+01168468-v	cmn:exe	我喜欢吃上海菜，你呢?
 01168468-v	cmn:exe	我吃过韩国菜。
-01166351-v	cmn:lemma	吃 (py:chī)
+01166351-v	cmn:lemma	吃 (orth:pīnyīn chī)
+01166351-v	cmn:exe	你们吃什么?
+01166351-v	cmn:exe	我喜欢吃上海菜，你呢?
 01166351-v	cmn:exe	我吃过韩国菜。
-01179865-v	cmn:lemma	吃 (py:chī)
+01179865-v	cmn:lemma	吃 (orth:pīnyīn chī)
+01179865-v	cmn:exe	你们吃什么?
+01179865-v	cmn:exe	我喜欢吃上海菜，你呢?
 01179865-v	cmn:exe	我吃过韩国菜。
-15122231-n	cmn:lemma	的时候 (py:deshíhou)
+15122231-n	cmn:lemma	的时候 (orth:pīnyīn deshíhou)
+15122231-n	cmn:exe	快到十一点的时候，他才回家。
+15122231-n	cmn:exe	我去的时候，发现门开着。
 15122231-n	cmn:exe	记汉字的时候，可以一边儿念，一边儿写。
-02818832-n	cmn:lemma	床 (py:chuáng)
+02818832-n	cmn:lemma	床 (orth:pīnyīn chuáng)
 02818832-n	cmn:exe	这间屋子可以放三张床。
-90000503-n	cmn:lemma	明年 (py:míngnián)
+90000503-n	cmn:lemma	明年 (orth:pīnyīn míngnián)
 90000503-n	cmn:exe	明年二○○五年。
-08168367-n	cmn:lemma	外国 (py:wàiguó)
+08168367-n	cmn:lemma	外国 (orth:pīnyīn wàiguó)
 08168367-n	cmn:exe	你去过外国吗？
-02560548-a	cmn:lemma	宽 (py:kuān)
+02560548-a	cmn:lemma	宽 (orth:pīnyīn kuān)
 02560548-a	cmn:exe	这条河有多宽?
-01384212-a	cmn:lemma	宽 (py:kuān)
+01384212-a	cmn:lemma	宽 (orth:pīnyīn kuān)
 01384212-a	cmn:exe	这条河有多宽?
-01031256-v	cmn:lemma	寄 (py:jì)
+01031256-v	cmn:lemma	寄 (orth:pīnyīn jì)
 01031256-v	cmn:exe	大概是妈妈寄给我的。
-01995211-v	cmn:lemma	寄 (py:jì)
+01995211-v	cmn:lemma	寄 (orth:pīnyīn jì)
 01995211-v	cmn:exe	大概是妈妈寄给我的。
-07110457-n	cmn:lemma	话 (py:huà)
+07110457-n	cmn:lemma	话 (orth:pīnyīn huà)
 07110457-n	cmn:exe	我听懂了他的话。
-00893243-n	cmn:lemma	话 (py:huà)
+00893243-n	cmn:lemma	话 (orth:pīnyīn huà)
 00893243-n	cmn:exe	我听懂了他的话。
-07221094-n	cmn:lemma	话 (py:huà)
+07221094-n	cmn:lemma	话 (orth:pīnyīn huà)
 07221094-n	cmn:exe	我听懂了他的话。
-07139316-n	cmn:lemma	话 (py:huà)
+07139316-n	cmn:lemma	话 (orth:pīnyīn huà)
 07139316-n	cmn:exe	我听懂了他的话。
-00031798-r	cmn:lemma	已经 (py:yǐjing)
+00031798-r	cmn:lemma	已经 (orth:pīnyīn yǐjing)
 00031798-r	cmn:exe	已经十二点了，你快睡觉吧。
-07555863-n	cmn:lemma	吃的 (py:chīde)
+07555863-n	cmn:lemma	吃的 (orth:pīnyīn chīde)
 07555863-n	cmn:exe	有没有什么吃的？
-07560652-n	cmn:lemma	吃的 (py:chīde)
+07560652-n	cmn:lemma	吃的 (orth:pīnyīn chīde)
 07560652-n	cmn:exe	有没有什么吃的？
-00157412-r	cmn:lemma	有时 (py:yǒushí)
+00157412-r	cmn:lemma	有时 (orth:pīnyīn yǒushí)
 00157412-r	cmn:exe	她有时发脾气。
-00021212-r	cmn:lemma	有时 (py:yǒushí)
+00157412-r	cmn:lemma	有时 (orth:pīnyīn yǒushí)
+00157412-r	cmn:exe	她有时发脾气。
+00021212-r	cmn:lemma	有时 (orth:pīnyīn yǒushí)
 00021212-r	cmn:exe	她有时发脾气。
-03740161-n	cmn:lemma	药 (py:yào)
+00021212-r	cmn:lemma	有时 (orth:pīnyīn yǒushí)
+00021212-r	cmn:exe	她有时发脾气。
+03740161-n	cmn:lemma	药 (orth:pīnyīn yào)
 03740161-n	cmn:exe	我不想吃药。
-02318272-a	cmn:lemma	一直 (py:yìzhí)
+02318272-a	cmn:lemma	一直 (orth:pīnyīn yìzhí)
 02318272-a	cmn:exe	一直往南走吧。
-02310895-a	cmn:lemma	一直 (py:yìzhí)
+02310895-a	cmn:lemma	一直 (orth:pīnyīn yìzhí)
 02310895-a	cmn:exe	一直往南走吧。
-02314584-a	cmn:lemma	一直 (py:yìzhí)
+02314584-a	cmn:lemma	一直 (orth:pīnyīn yìzhí)
 02314584-a	cmn:exe	一直往南走吧。
-10787470-n	cmn:lemma	女的 (py:nǚde)
-10787470-n	cmn:exe	新来的老师是男的,还是女的?\n
-10736091-n	cmn:lemma	姨夫 (py:yífu)
+10787470-n	cmn:lemma	女的 (orth:pīnyīn nǚde)
+10787470-n	cmn:exe	新来的老师是男的,还是女的?
+10736091-n	cmn:lemma	伯父 (orth:pīnyīn bófù)
+10736091-n	cmn:exe	他是我伯父。
+10736091-n	cmn:lemma	叔父 (orth:pīnyīn shūfù)
+10736091-n	cmn:exe	他是我叔父。
+10736091-n	cmn:lemma	姑夫 (orth:pīnyīn gūfu)
+10736091-n	cmn:exe	他是我姑夫。
+10736091-n	cmn:lemma	舅父 (orth:pīnyīn jiùfù)
+10736091-n	cmn:exe	他是我舅父。
+10736091-n	cmn:lemma	姨夫 (orth:pīnyīn yífu)
 10736091-n	cmn:exe	他是我姨夫。
-04404997-n	cmn:lemma	照相机 (py:zhàoxiàngjī)
+04404997-n	cmn:lemma	照相机 (orth:pīnyīn zhàoxiàngjī)
 04404997-n	cmn:exe	别忘了带上照相机。
-02942699-n	cmn:lemma	照相机 (py:zhàoxiàngjī)
+02942699-n	cmn:lemma	照相机 (orth:pīnyīn zhàoxiàngjī)
 02942699-n	cmn:exe	别忘了带上照相机。
-04370048-n	cmn:lemma	毛衣 (py:máoyī)
+04370048-n	cmn:lemma	毛衣 (orth:pīnyīn máoyī)
 04370048-n	cmn:exe	她喜欢边看电视边织毛衣。
-04398497-n	cmn:lemma	咖啡厅 (py:kāfēitīng)
+04398497-n	cmn:lemma	咖啡厅 (orth:pīnyīn kāfēitīng)
 04398497-n	cmn:exe	前面有一家咖啡厅。
-00081591-r	cmn:lemma	每个星期 (py:měigexīngqī)
+00081591-r	cmn:lemma	每个星期 (orth:pīnyīn měigexīngqī)
 00081591-r	cmn:exe	我每个星期去一次中国。
-01535246-v	cmn:lemma	洗 (py:xǐ)
+00081591-r	cmn:lemma	每个星期 (orth:pīnyīn měigexīngqī)
+00081591-r	cmn:exe	每个星期开一次会。
+00081591-r	cmn:exe	我每个星期去一次中国。
+01535246-v	cmn:lemma	洗 (orth:pīnyīn xǐ)
 01535246-v	cmn:exe	衣服脏了，要洗。
-01535246-v	cmn:lemma	洗衣服 (py:xǐyīfu)
+01535246-v	cmn:lemma	洗衣服 (orth:pīnyīn xǐyīfu)
 01535246-v	cmn:exe	快洗衣服吧。
-00036362-v	cmn:lemma	洗 (py:xǐ)
+00036362-v	cmn:lemma	洗 (orth:pīnyīn xǐ)
 00036362-v	cmn:exe	衣服脏了，要洗。
-01536168-v	cmn:lemma	洗 (py:xǐ)
+01536168-v	cmn:lemma	洗 (orth:pīnyīn xǐ)
 01536168-v	cmn:exe	衣服脏了，要洗。
-00606093-v	cmn:lemma	练习 (py:liànxí)
+00606093-v	cmn:lemma	练习 (orth:pīnyīn liànxí)
 00606093-v	cmn:exe	要每天练习。
-01723224-v	cmn:lemma	练习 (py:liànxí)
+01723224-v	cmn:lemma	练习 (orth:pīnyīn liànxí)
 01723224-v	cmn:exe	要每天练习。
-15156187-n	cmn:lemma	昨天 (py:zuótiān)
+15156187-n	cmn:lemma	昨天 (orth:pīnyīn zuótiān)
 15156187-n	cmn:exe	我昨天买了一本词典。
-01919428-a	cmn:lemma	安静 (py:ānjìng)
+01919428-a	cmn:lemma	安静 (orth:pīnyīn ānjìng)
 01919428-a	cmn:exe	安静点儿,行吗?
-01918984-a	cmn:lemma	安静 (py:ānjìng)
+01918984-a	cmn:lemma	安静 (orth:pīnyīn ānjìng)
 01918984-a	cmn:exe	安静点儿,行吗?
-04437953-n	cmn:lemma	钟表 (py:zhōngbiǎo)
+04437953-n	cmn:lemma	钟表 (orth:pīnyīn zhōngbiǎo)
 04437953-n	cmn:exe	闹钟、手表、电钟都是钟表。
-03046257-n	cmn:lemma	钟表 (py:zhōngbiǎo)
+03046257-n	cmn:lemma	钟表 (orth:pīnyīn zhōngbiǎo)
 03046257-n	cmn:exe	闹钟、手表、电钟都是钟表。
-04350905-n	cmn:lemma	西装 (py:xīzhuāng)
-04350905-n	cmn:exe	他穿着一身笔挺的西装。\n
-00409440-a	cmn:lemma	深 (py:shēn)
+04350905-n	cmn:lemma	西装 (orth:pīnyīn xīzhuāng)
+04350905-n	cmn:exe	他穿着一身笔挺的西装。
+00409440-a	cmn:lemma	深 (orth:pīnyīn shēn)
 00409440-a	cmn:exe	颜色太深。
-00842199-a	cmn:lemma	强 (py:qiáng)
+00842199-a	cmn:lemma	强 (orth:pīnyīn qiáng)
 00842199-a	cmn:exe	国力很强。
-15163979-n	cmn:lemma	星期一 (py:xīngqīyī)
+15163979-n	cmn:lemma	星期一 (orth:pīnyīn xīngqīyī)
 15163979-n	cmn:exe	星期一
-00059413-r	cmn:lemma	常常 (py:chángcháng)
+00059413-r	cmn:lemma	常常 (orth:pīnyīn chángcháng)
 00059413-r	cmn:exe	妈妈常常叫我打扫屋子。
-00035058-r	cmn:lemma	常常 (py:chángcháng)
+00035058-r	cmn:lemma	常常 (orth:pīnyīn chángcháng)
 00035058-r	cmn:exe	妈妈常常叫我打扫屋子。
-05687338-n	cmn:lemma	问题 (py:wèntí)
+05687338-n	cmn:lemma	问题 (orth:pīnyīn wèntí)
 05687338-n	cmn:exe	这个问题太难。
-06784003-n	cmn:lemma	问题 (py:wèntí)
+06784003-n	cmn:lemma	问题 (orth:pīnyīn wèntí)
 06784003-n	cmn:exe	这个问题太难。
-03281145-n	cmn:lemma	电梯 (py:diàntī)
+03281145-n	cmn:lemma	电梯 (orth:pīnyīn diàntī)
 03281145-n	cmn:exe	电梯坏了，我们走上去吧。
-05320899-n	cmn:lemma	耳朵 (py:ěrduo)
+05320899-n	cmn:lemma	耳朵 (orth:pīnyīn ěrduo)
 05320899-n	cmn:exe	他耳朵很尖。
-00007846-n	cmn:lemma	有人 (py:yǒurén)
+00007846-n	cmn:lemma	有人 (orth:pīnyīn yǒurén)
 00007846-n	cmn:exe	好像有人来了。
-03436182-n	cmn:lemma	收录机 (py:shōulùjī)
+03436182-n	cmn:lemma	收录机 (orth:pīnyīn shōulùjī)
 03436182-n	cmn:exe	我没有收录机。
-04284002-n	cmn:lemma	勺子 (py:sháozi)
+04284002-n	cmn:lemma	勺子 (orth:pīnyīn sháozi)
 04284002-n	cmn:exe	用勺子吃。
-13134947-n	cmn:lemma	水果 (py:shuǐguǒ)
+13134947-n	cmn:lemma	水果 (orth:pīnyīn shuǐguǒ)
 13134947-n	cmn:exe	黄瓜不是水果。
-11683989-n	cmn:lemma	水果 (py:shuǐguǒ)
+11683989-n	cmn:lemma	水果 (orth:pīnyīn shuǐguǒ)
 11683989-n	cmn:exe	黄瓜不是水果。
-02730813-v	cmn:lemma	说 (py:shuō)
+02730813-v	cmn:lemma	说 (orth:pīnyīn shuō)
+02730813-v	cmn:exe	感动地说
 02730813-v	cmn:exe	她想了想说:“还是你去吧!”
-01009240-v	cmn:lemma	说 (py:shuō)
+01009240-v	cmn:lemma	说 (orth:pīnyīn shuō)
+01009240-v	cmn:exe	感动地说
 01009240-v	cmn:exe	她想了想说:“还是你去吧!”
-00941990-v	cmn:lemma	说 (py:shuō)
+00941990-v	cmn:lemma	说 (orth:pīnyīn shuō)
+00941990-v	cmn:exe	感动地说
 00941990-v	cmn:exe	她想了想说:“还是你去吧!”
-00979870-v	cmn:lemma	说 (py:shuō)
+00979870-v	cmn:lemma	说 (orth:pīnyīn shuō)
+00979870-v	cmn:exe	感动地说
 00979870-v	cmn:exe	她想了想说:“还是你去吧!”
-09854218-n	cmn:lemma	姐妹 (py:jiěmèi)
-09854218-n	cmn:exe	她们姐妹都已经出嫁了。\n
-04507155-n	cmn:lemma	雨伞 (py:yǔsǎn)
+09854218-n	cmn:lemma	姐妹 (orth:pīnyīn jiěmèi)
+09854218-n	cmn:exe	她们姐妹都已经出嫁了。
+04507155-n	cmn:lemma	雨伞 (orth:pīnyīn yǔsǎn)
 04507155-n	cmn:exe	王刚，把你的雨伞带上吧。
-15270431-n	cmn:lemma	小时 (py:xiǎoshí)
+15270431-n	cmn:lemma	小时 (orth:pīnyīn xiǎoshí)
+15270431-n	cmn:exe	一个小时
 15270431-n	cmn:exe	看两个小时
-15227846-n	cmn:lemma	小时 (py:xiǎoshí)
+15227846-n	cmn:lemma	小时 (orth:pīnyīn xiǎoshí)
+15227846-n	cmn:exe	一个小时
 15227846-n	cmn:exe	看两个小时
-15269513-n	cmn:lemma	小时 (py:xiǎoshí)
+15269513-n	cmn:lemma	小时 (orth:pīnyīn xiǎoshí)
+15269513-n	cmn:exe	一个小时
 15269513-n	cmn:exe	看两个小时
-00744916-a	cmn:lemma	难 (py:nán)
+00744916-a	cmn:lemma	难 (orth:pīnyīn nán)
+00744916-a	cmn:exe	汉语难吗?
 00744916-a	cmn:exe	汉语难不难?
-04401088-n	cmn:lemma	电话 (py:diànhuà)
+04401088-n	cmn:lemma	电话 (orth:pīnyīn diànhuà)
+04401088-n	cmn:exe	我打电话告诉他。
+04401088-n	cmn:exe	一会儿给你打电话。
 04401088-n	cmn:exe	她留下电话号码了吗？
-06272803-n	cmn:lemma	电话 (py:diànhuà)
+06272803-n	cmn:lemma	电话 (orth:pīnyīn diànhuà)
+06272803-n	cmn:exe	我打电话告诉他。
+06272803-n	cmn:exe	一会儿给你打电话。
 06272803-n	cmn:exe	她留下电话号码了吗？
-14974264-n	cmn:lemma	纸 (py:zhǐ)
+14974264-n	cmn:lemma	纸 (orth:pīnyīn zhǐ)
 14974264-n	cmn:exe	纸箱子
-80000677-n	cmn:lemma	纸 (py:zhǐ)
+80000677-n	cmn:lemma	纸 (orth:pīnyīn zhǐ)
 80000677-n	cmn:exe	纸箱子
-06255777-n	cmn:lemma	纸 (py:zhǐ)
+06255777-n	cmn:lemma	纸 (orth:pīnyīn zhǐ)
 06255777-n	cmn:exe	纸箱子
-04960277-n	cmn:lemma	黑色 (py:hēisè)
-04960277-n	cmn:exe	他买了一个黑色的书包。\n
-02529945-a	cmn:lemma	凉快 (py:liángkuai)
+04960277-n	cmn:lemma	黑色 (orth:pīnyīn hēisè)
+04960277-n	cmn:exe	他买了一个黑色的书包。
+02529945-a	cmn:lemma	凉快 (orth:pīnyīn liángkuai)
 02529945-a	cmn:exe	开着窗户睡觉很凉快。
-02207206-v	cmn:lemma	买 (py:mǎi)
+02207206-v	cmn:lemma	买东西 (orth:pīnyīn mǎidōngxi)
+02207206-v	cmn:exe	我去商店买东西。
+02207206-v	cmn:lemma	买 (orth:pīnyīn mǎi)
+02207206-v	cmn:exe	我昨天买了一本词典。
 02207206-v	cmn:exe	这本词典太贵了，买不起。
-02208265-v	cmn:lemma	买 (py:mǎi)
+02208265-v	cmn:lemma	买东西 (orth:pīnyīn mǎidōngxi)
+02208265-v	cmn:exe	我去商店买东西。
+02208265-v	cmn:lemma	买 (orth:pīnyīn mǎi)
+02208265-v	cmn:exe	我昨天买了一本词典。
 02208265-v	cmn:exe	这本词典太贵了，买不起。
-00422620-a	cmn:lemma	脏 (py:zāng)
+00422620-a	cmn:lemma	脏 (orth:pīnyīn zāng)
 00422620-a	cmn:exe	衣服脏了，要洗。
-01908889-a	cmn:lemma	脏 (py:zāng)
+01908889-a	cmn:lemma	脏 (orth:pīnyīn zāng)
 01908889-a	cmn:exe	衣服脏了，要洗。
-00419289-a	cmn:lemma	脏 (py:zāng)
+00419289-a	cmn:lemma	脏 (orth:pīnyīn zāng)
 00419289-a	cmn:exe	衣服脏了，要洗。
-01345109-v	cmn:lemma	关 (py:guān)
+01345109-v	cmn:lemma	关 (orth:pīnyīn guān)
 01345109-v	cmn:exe	把门关上。
-01960911-v	cmn:lemma	游泳 (py:yóuyǒng)
+01960911-v	cmn:lemma	游泳 (orth:pīnyīn yóuyǒng)
 01960911-v	cmn:exe	他会游泳。
-00933154-a	cmn:lemma	高 (py:gāo)
+00933154-a	cmn:lemma	高 (orth:pīnyīn gāo)
+00933154-a	cmn:exe	他的汉语水平比我高。
+00933154-a	cmn:exe	这座楼没有那座楼高。
+00933154-a	cmn:exe	小李比你高吧？
 00933154-a	cmn:exe	个子高的学生
-04199027-n	cmn:lemma	鞋 (py:xié)
+04199027-n	cmn:lemma	鞋 (orth:pīnyīn xié)
 04199027-n	cmn:exe	请在这儿脱了鞋再进去。
-04330340-n	cmn:lemma	炉子 (py:lúzi)
+04330340-n	cmn:lemma	炉子 (orth:pīnyīn lúzi)
+04330340-n	cmn:exe	生炉子。
 04330340-n	cmn:exe	冬天早上要到教室去生炉子。
-07823951-n	cmn:lemma	咖喱饭 (py:gālífàn)
-07823951-n	cmn:exe	我做的咖哩饭怎么样？\n
-05598147-n	cmn:lemma	鼻子 (py:bízi)
+07823951-n	cmn:lemma	咖喱饭 (orth:pīnyīn gālífàn)
+07823951-n	cmn:exe	我做的咖哩饭怎么样？
+05598147-n	cmn:lemma	鼻子 (orth:pīnyīn bízi)
 05598147-n	cmn:exe	大象的鼻子很长。
-05658826-n	cmn:lemma	鼻子 (py:bízi)
+05658826-n	cmn:lemma	鼻子 (orth:pīnyīn bízi)
 05658826-n	cmn:exe	大象的鼻子很长。
-06947032-n	cmn:lemma	英语 (py:yīngyǔ)
+06947032-n	cmn:lemma	英语 (orth:pīnyīn yīngyǔ)
 06947032-n	cmn:exe	她学习英语。
-07575726-n	cmn:lemma	晚饭 (py:wǎnfàn)
+07575726-n	cmn:lemma	晚饭 (orth:pīnyīn wǎnfàn)
 07575726-n	cmn:exe	明天你吃过晚饭来一趟。
-07575726-n	cmn:lemma	晚饭 (py:wǎnfàn)
+07575726-n	cmn:lemma	晚饭 (orth:pīnyīn wǎnfàn)
 07575726-n	cmn:exe	明天你吃过晚饭来一趟。
-03485794-n	cmn:lemma	手绢 (py:shǒujuàn)
+03485794-n	cmn:lemma	手绢 (orth:pīnyīn shǒujuàn)
 03485794-n	cmn:exe	挺贵的手绢儿
-01198101-v	cmn:lemma	抽 (py:chōu)
+01198101-v	cmn:lemma	抽 (orth:pīnyīn chōu)
 01198101-v	cmn:exe	我不会抽烟。
-02741003-v	cmn:lemma	挂 (py:guà)
+02741003-v	cmn:lemma	挂 (orth:pīnyīn guà)
 02741003-v	cmn:exe	他把地图挂在墙上了。
-01206474-a	cmn:lemma	低 (py:dī)
+01206474-a	cmn:lemma	低 (orth:pīnyīn dī)
 01206474-a	cmn:exe	这桌子太低。
-13832355-n	cmn:lemma	东边 (py:dōngbian)
+13832355-n	cmn:lemma	东边 (orth:pīnyīn dōngbian)
 13832355-n	cmn:exe	学校东边儿有一家饭馆。
-11525955-n	cmn:lemma	风 (py:fēng)
+11525955-n	cmn:lemma	风 (orth:pīnyīn fēng)
 11525955-n	cmn:exe	桌子上的资料被风刮乱了。
-02324182-v	cmn:lemma	借给 (py:jiègěi)
+02324182-v	cmn:lemma	借给 (orth:pīnyīn jiègěi)
 02324182-v	cmn:exe	要先借给别人，
-01437963-a	cmn:lemma	长 (py:cháng)
+01437963-a	cmn:lemma	长 (orth:pīnyīn cháng)
+01437963-a	cmn:exe	不过，要是学的时间长了，就会觉得越来越有意思。
+01437963-a	cmn:exe	你知道长城有多长吗？
 01437963-a	cmn:exe	这条路很长。
-01433493-a	cmn:lemma	长 (py:cháng)
+01433493-a	cmn:lemma	长 (orth:pīnyīn cháng)
+01433493-a	cmn:exe	不过，要是学的时间长了，就会觉得越来越有意思。
+01433493-a	cmn:exe	你知道长城有多长吗？
 01433493-a	cmn:exe	这条路很长。
-01444022-a	cmn:lemma	长 (py:cháng)
+01444022-a	cmn:lemma	长 (orth:pīnyīn cháng)
+01444022-a	cmn:exe	不过，要是学的时间长了，就会觉得越来越有意思。
+01444022-a	cmn:exe	你知道长城有多长吗？
 01444022-a	cmn:exe	这条路很长。
-80001077-n	cmn:lemma	几 (py:jǐ)
+80001077-n	cmn:lemma	几 (orth:pīnyīn jǐ)
 80001077-n	cmn:exe	这儿有几封信，你们拿去吧。
-80001077-n	cmn:lemma	多少 (py:duōshao)
+80001077-n	cmn:lemma	多少 (orth:pīnyīn duōshao)
+80001077-n	cmn:exe	这个多少钱?
 80001077-n	cmn:exe	你的电话是多少？
-10665698-n	cmn:lemma	学生 (py:xuésheng)
+10665698-n	cmn:lemma	学生 (orth:pīnyīn xuésheng)
 10665698-n	cmn:exe	她是我的学生。
-10665698-n	cmn:lemma	学生 (py:xuésheng)
+10665698-n	cmn:lemma	学生 (orth:pīnyīn xuésheng)
 10665698-n	cmn:exe	我是学生。
-10251779-n	cmn:lemma	学生 (py:xuésheng)
+10251779-n	cmn:lemma	学生 (orth:pīnyīn xuésheng)
 10251779-n	cmn:exe	她是我的学生。
-08615374-n	cmn:lemma	公园 (py:gōngyuán)
+08615374-n	cmn:lemma	公园 (orth:pīnyīn gōngyuán)
 08615374-n	cmn:exe	我们是在公园照的相。
-77000064-n	cmn:lemma	哪个 (py:něige)
+77000064-n	cmn:lemma	哪个 (orth:pīnyīn něige)
+77000064-n	cmn:exe	哪个是你的?
+77000064-n	cmn:exe	哪个
 77000064-n	cmn:exe	你要哪个?
-03290771-n	cmn:lemma	正门 (py:zhèngmén)
+03290771-n	cmn:lemma	正门 (orth:pīnyīn zhèngmén)
 03290771-n	cmn:exe	这儿是家的正门。
-03290771-n	cmn:lemma	入口 (py:rùkǒu)
+03290771-n	cmn:lemma	入口 (orth:pīnyīn rùkǒu)
 03290771-n	cmn:exe	车站入口在哪儿?
-06409752-n	cmn:lemma	作文 (py:zuòwén)
+06409752-n	cmn:lemma	作文 (orth:pīnyīn zuòwén)
 06409752-n	cmn:exe	快把作文写完。
-10286084-n	cmn:lemma	兄弟 (py:xiōngdì)
-10286084-n	cmn:exe	你有兄弟姐妹吗?\n
-09876454-n	cmn:lemma	兄弟 (py:xiōngdì)
-09876454-n	cmn:exe	你有兄弟姐妹吗?\n
-80001731-n	cmn:lemma	留学生 (py:liúxuéshēng)
+10286084-n	cmn:lemma	兄弟 (orth:pīnyīn xiōngdì)
+10286084-n	cmn:exe	你有兄弟姐妹吗?
+09876454-n	cmn:lemma	兄弟 (orth:pīnyīn xiōngdì)
+09876454-n	cmn:exe	你有兄弟姐妹吗?
+80001731-n	cmn:lemma	留学生 (orth:pīnyīn liúxuéshēng)
+80001731-n	cmn:exe	他也是留学生。
 80001731-n	cmn:exe	她是不是留学生? 
-77000031-n	cmn:lemma	他们 (py:tāmen)
+77000031-n	cmn:lemma	他 (orth:pīnyīn tā)
+77000031-n	cmn:exe	他来。
+77000031-n	cmn:exe	他 / 她
+77000031-n	cmn:lemma	他们 (orth:pīnyīn tāmen)
+77000031-n	cmn:exe	他们看电影。
 77000031-n	cmn:exe	他们 / 她们
-00934199-a	cmn:lemma	便宜 (py:piányi)
+00934199-a	cmn:lemma	便宜 (orth:pīnyīn piányi)
 00934199-a	cmn:exe	又便宜又结实。
-00935103-a	cmn:lemma	便宜 (py:piányi)
+00935103-a	cmn:lemma	便宜 (orth:pīnyīn piányi)
 00935103-a	cmn:exe	又便宜又结实。
-02747802-n	cmn:lemma	烟灰缸 (py:yānhuīgāng)
+02747802-n	cmn:lemma	烟灰缸 (orth:pīnyīn yānhuīgāng)
 02747802-n	cmn:exe	给我烟灰缸。
-15213115-n	cmn:lemma	十月 (py:shíyuè)
+15213115-n	cmn:lemma	十月 (orth:pīnyīn shíyuè)
 15213115-n	cmn:exe	今天十月二十号。
-15203791-n	cmn:lemma	年 (py:nián)
+15203791-n	cmn:lemma	年 (orth:pīnyīn nián)
 15203791-n	cmn:exe	明年二○○五年。
-03619890-n	cmn:lemma	厨房 (py:chúfáng)
+03619890-n	cmn:lemma	厨房 (orth:pīnyīn chúfáng)
 03619890-n	cmn:exe	在厨房做菜。
-00273734-v	cmn:lemma	教 (py:jiāo)
+00273734-v	cmn:lemma	教 (orth:pīnyīn jiāo)
 00273734-v	cmn:exe	李老师教我们汉语。
-00829107-v	cmn:lemma	教 (py:jiāo)
+00829107-v	cmn:lemma	教 (orth:pīnyīn jiāo)
 00829107-v	cmn:exe	李老师教我们汉语。
-00963570-v	cmn:lemma	说话 (py:shuōhuà)
+00963570-v	cmn:lemma	说话 (orth:pīnyīn shuōhuà)
 00963570-v	cmn:exe	他一边儿说话，一边儿收拾工具。
-00815686-v	cmn:lemma	回答 (py:huídá)
+00815686-v	cmn:lemma	回答 (orth:pīnyīn huídá)
 00815686-v	cmn:exe	回答正确！
-00635523-v	cmn:lemma	回答 (py:huídá)
+00635523-v	cmn:lemma	回答 (orth:pīnyīn huídá)
 00635523-v	cmn:exe	回答正确！
-03417345-n	cmn:lemma	院子 (py:yuànzi)
+03417345-n	cmn:lemma	院子 (orth:pīnyīn yuànzi)
 03417345-n	cmn:exe	我家没有院子。
-03417749-n	cmn:lemma	院子 (py:yuànzi)
+03417749-n	cmn:lemma	院子 (orth:pīnyīn yuànzi)
 03417749-n	cmn:exe	我家没有院子。
-06418901-n	cmn:lemma	词典 (py:cídiǎn)
+06418901-n	cmn:lemma	词典 (orth:pīnyīn cídiǎn)
 06418901-n	cmn:exe	这是词典。
-15164570-n	cmn:lemma	星期六 (py:xīngqīliù)
+15164570-n	cmn:lemma	星期六 (orth:pīnyīn xīngqīliù)
+15164570-n	cmn:exe	星期六
 15164570-n	cmn:exe	上星期六我们看了一个外国电影。
-00284798-n	cmn:lemma	散步 (py:sànbù)
+00284798-n	cmn:lemma	散步 (orth:pīnyīn sànbù)
 00284798-n	cmn:exe	咱们去散散步吧。
-00284101-n	cmn:lemma	散步 (py:sànbù)
+00284101-n	cmn:lemma	散步 (orth:pīnyīn sànbù)
 00284101-n	cmn:exe	咱们去散散步吧。
-01712704-v	cmn:lemma	干 (py:gàn)
+01712704-v	cmn:lemma	干 (orth:pīnyīn gàn)
+01712704-v	cmn:exe	能干多少干多少，不要勉强。
+01712704-v	cmn:exe	你在干什么？
 01712704-v	cmn:exe	工人们一到工地就干了起来。
-08277393-n	cmn:lemma	学校 (py:xuéxiào)
+08277393-n	cmn:lemma	学校 (orth:pīnyīn xuéxiào)
+08277393-n	cmn:exe	我们学校
 08277393-n	cmn:exe	学校旁边有一个邮局。
-08276720-n	cmn:lemma	学校 (py:xuéxiào)
+08276720-n	cmn:lemma	学校 (orth:pīnyīn xuéxiào)
+08276720-n	cmn:exe	我们学校
 08276720-n	cmn:exe	学校旁边有一个邮局。
-00161630-r	cmn:lemma	慢慢儿 (py:mànmānr)
+00161630-r	cmn:lemma	慢慢儿 (orth:pīnyīn mànmānr)
 00161630-r	cmn:exe	慢慢儿地看
-03057021-n	cmn:lemma	外衣 (py:wàiyī)
+03057021-n	cmn:lemma	外衣 (orth:pīnyīn wàiyī)
 03057021-n	cmn:exe	你怎么不脱外衣。
-03057021-n	cmn:lemma	大衣 (py:dàyī)
+03057021-n	cmn:lemma	大衣 (orth:pīnyīn dàyī)
 03057021-n	cmn:exe	我的大衣
-03589791-n	cmn:lemma	外衣 (py:wàiyī)
+03589791-n	cmn:lemma	外衣 (orth:pīnyīn wàiyī)
 03589791-n	cmn:exe	你怎么不脱外衣。
-06929279-n	cmn:lemma	日语 (py:Rìyǔ)
+06929279-n	cmn:lemma	日语 (orth:pīnyīn Rìyǔ)
+06929279-n	cmn:exe	我本来希望能有机会继续学日语。
 06929279-n	cmn:exe	你日语说得真好。
-03303965-n	cmn:lemma	出口 (py:chūkǒu)
+03303965-n	cmn:lemma	出口 (orth:pīnyīn chūkǒu)
 03303965-n	cmn:exe	出口在哪儿?
-10142391-n	cmn:lemma	爷爷 (py:yéye)
+10142391-n	cmn:lemma	爷爷 (orth:pīnyīn yéye)
 10142391-n	cmn:exe	我爷爷会说英语。
-07934530-n	cmn:lemma	红茶 (py:hóngchá)
+07934530-n	cmn:lemma	红茶 (orth:pīnyīn hóngchá)
 07934530-n	cmn:exe	我爱喝红茶。
-07933274-n	cmn:lemma	红茶 (py:hóngchá)
+07933274-n	cmn:lemma	红茶 (orth:pīnyīn hóngchá)
 07933274-n	cmn:exe	我爱喝红茶。
-07933274-n	cmn:lemma	茶 (py:chá)
+07933274-n	cmn:lemma	茶 (orth:pīnyīn chá)
 07933274-n	cmn:exe	请喝茶。
-07989373-n	cmn:lemma	夫妻 (py:fūqī)
+07989373-n	cmn:lemma	夫妻 (orth:pīnyīn fūqī)
 07989373-n	cmn:exe	夫妻关系很好。
-10146559-n	cmn:lemma	菜铺 (py:càipù)
+10146559-n	cmn:lemma	菜铺 (orth:pīnyīn càipù)
 10146559-n	cmn:exe	他去菜铺买蔬菜了。
-03457686-n	cmn:lemma	菜铺 (py:càipù)
+03457686-n	cmn:lemma	菜铺 (orth:pīnyīn càipù)
 03457686-n	cmn:exe	他去菜铺买蔬菜了。
-03147509-n	cmn:lemma	杯子 (py:bēizi)
+03147509-n	cmn:lemma	杯子 (orth:pīnyīn bēizi)
 03147509-n	cmn:exe	你把杯子拿过来。
-03972524-n	cmn:lemma	口袋 (py:kǒudài)
+03972524-n	cmn:lemma	口袋 (orth:pīnyīn kǒudài)
 03972524-n	cmn:exe	他从口袋里掏出钱来。
-04968895-n	cmn:lemma	蓝色 (py:lánsè)
+04968895-n	cmn:lemma	蓝色 (orth:pīnyīn lánsè)
 04968895-n	cmn:exe	她系着蓝色的领带。
-01555416-a	cmn:lemma	少 (py:shǎo)
+01555416-a	cmn:lemma	少 (orth:pīnyīn shǎo)
+01555416-a	cmn:exe	电影院很少。
 01555416-a	cmn:exe	不少书
-01552885-a	cmn:lemma	少 (py:shǎo)
+01552885-a	cmn:lemma	少 (orth:pīnyīn shǎo)
+01552885-a	cmn:exe	电影院很少。
 01552885-a	cmn:exe	不少书
-00017865-v	cmn:lemma	睡觉 (py:shuìjiào)
+00017865-v	cmn:lemma	睡觉 (orth:pīnyīn shuìjiào)
 00017865-v	cmn:exe	已经十二点了，你快睡觉吧。
-00450147-a	cmn:lemma	近 (py:jìn)
+00450147-a	cmn:lemma	近 (orth:pīnyīn jìn)
 00450147-a	cmn:exe	我家离学校很近。
-00444519-a	cmn:lemma	近 (py:jìn)
+00444519-a	cmn:lemma	近 (orth:pīnyīn jìn)
 00444519-a	cmn:exe	我家离学校很近。
-00445169-a	cmn:lemma	近 (py:jìn)
+00445169-a	cmn:lemma	近 (orth:pīnyīn jìn)
 00445169-a	cmn:exe	我家离学校很近。
-00584367-n	cmn:lemma	工作 (py:gōngzuò)
+00584367-n	cmn:lemma	工作 (orth:pīnyīn gōngzuò)
 00584367-n	cmn:exe	工作找着了没有?
-07574602-n	cmn:lemma	早饭 (py:zǎofàn)
+07574602-n	cmn:lemma	早饭 (orth:pīnyīn zǎofàn)
 07574602-n	cmn:exe	早饭还没吃呢。
-08078020-n	cmn:lemma	家人 (py:jiārén)
+08078020-n	cmn:lemma	家人 (orth:pīnyīn jiārén)
 08078020-n	cmn:exe	向您家人问好。
-10236304-n	cmn:lemma	家人 (py:jiārén)
+10236304-n	cmn:lemma	家人 (orth:pīnyīn jiārén)
 10236304-n	cmn:exe	向您家人问好。
-07970406-n	cmn:lemma	家人 (py:jiārén)
+07970406-n	cmn:lemma	家人 (orth:pīnyīn jiārén)
 07970406-n	cmn:exe	向您家人问好。
-07970406-n	cmn:lemma	家庭 (py:jiātíng)
+07970406-n	cmn:lemma	家庭 (orth:pīnyīn jiātíng)
 07970406-n	cmn:exe	几十年前, 我成长在贫困家庭。
-04197391-n	cmn:lemma	汗衫 (py:hànshān)
+04197391-n	cmn:lemma	汗衫 (orth:pīnyīn hànshān)
 04197391-n	cmn:exe	这件汗衫太脏。
-09918248-n	cmn:lemma	孩子 (py:háizi)
+09918248-n	cmn:lemma	孩子 (orth:pīnyīn háizi)
+09918248-n	cmn:exe	你有几个孩子?
 09918248-n	cmn:exe	孩子们排着队走出了校门。
-12212361-n	cmn:lemma	蔬菜 (py:shūcài)
+12212361-n	cmn:lemma	蔬菜 (orth:pīnyīn shūcài)
 12212361-n	cmn:exe	他买菜去了。
-07707451-n	cmn:lemma	蔬菜 (py:shūcài)
+07707451-n	cmn:lemma	蔬菜 (orth:pīnyīn shūcài)
 07707451-n	cmn:exe	他买菜去了。
-03365991-n	cmn:lemma	楼 (py:lóu)
+03365991-n	cmn:lemma	楼 (orth:pīnyīn lóu)
 03365991-n	cmn:exe	我住在八楼,他住在九楼。
-00976508-a	cmn:lemma	快 (py:kuài)
+00976508-a	cmn:lemma	快 (orth:pīnyīn kuài)
 00976508-a	cmn:exe	他跑得快不快?
-00981818-a	cmn:lemma	快 (py:kuài)
+00981818-a	cmn:lemma	快 (orth:pīnyīn kuài)
 00981818-a	cmn:exe	他跑得快不快?
-00979862-a	cmn:lemma	快 (py:kuài)
+00979862-a	cmn:lemma	快 (orth:pīnyīn kuài)
 00979862-a	cmn:exe	他跑得快不快?
-01367431-a	cmn:lemma	热闹 (py:rènao)
+01367431-a	cmn:lemma	热闹 (orth:pīnyīn rènao)
+01367431-a	cmn:exe	星期天, 家里就热闹了。
 01367431-a	cmn:exe	热热闹闹（地）过个生日
-07644382-n	cmn:lemma	鸡肉 (py:jīròu)
+07644382-n	cmn:lemma	鸡肉 (orth:pīnyīn jīròu)
 07644382-n	cmn:exe	我爱吃鸡肉。
-07644967-n	cmn:lemma	鸡肉 (py:jīròu)
+07644967-n	cmn:lemma	鸡肉 (orth:pīnyīn jīròu)
 07644967-n	cmn:exe	我爱吃鸡肉。
-07813107-n	cmn:lemma	盐 (py:yán)
+07813107-n	cmn:lemma	盐 (orth:pīnyīn yán)
 07813107-n	cmn:exe	放点儿盐。
-07825972-n	cmn:lemma	酱油 (py:jiàngyóu)
+07825972-n	cmn:lemma	酱油 (orth:pīnyīn jiàngyóu)
 07825972-n	cmn:exe	加点儿酱油。
-02005948-v	cmn:lemma	到 (py:dào)
+02005948-v	cmn:lemma	到 (orth:pīnyīn dào)
+02005948-v	cmn:exe	火车快要到站了。
+02005948-v	cmn:exe	一到那儿，天就冷了。
 02005948-v	cmn:exe	你又迟到了。
-02930766-n	cmn:lemma	出租车 (py:chūzūchē)
+02930766-n	cmn:lemma	出租车 (orth:pīnyīn chūzūchē)
 02930766-n	cmn:exe	咱们坐出租车去吧。
-04371225-n	cmn:lemma	游泳池 (py:yóuyǒngchí)
+04371225-n	cmn:lemma	游泳池 (orth:pīnyīn yóuyǒngchí)
 04371225-n	cmn:exe	她到游泳池游泳去了。
-00604617-a	cmn:lemma	方便 (py:fāngbiàn)
+00604617-a	cmn:lemma	方便 (orth:pīnyīn fāngbiàn)
 00604617-a	cmn:exe	这枝笔用起来很方便。
-15237250-n	cmn:lemma	夏天 (py:xiàtiān)
+15237250-n	cmn:lemma	夏天 (orth:pīnyīn xiàtiān)
 15237250-n	cmn:exe	那个地方夏天热得不得了。
-03757138-n	cmn:lemma	地铁 (py:dìtiě)
+03757138-n	cmn:lemma	地铁 (orth:pīnyīn dìtiě)
 03757138-n	cmn:exe	我们是坐地铁来的。
-04349306-n	cmn:lemma	地铁 (py:dìtiě)
+04349306-n	cmn:lemma	地铁 (orth:pīnyīn dìtiě)
 04349306-n	cmn:exe	我们是坐地铁来的。
-77000090-n	cmn:lemma	怎么 (py:zěnme)
+77000090-n	cmn:lemma	怎么 (orth:pīnyīn zěnme)
 77000090-n	cmn:exe	最近怎么样？
-80001331-x	cmn:lemma	怎么 (py:zěnme)
+80001331-x	cmn:lemma	怎么 (orth:pīnyīn zěnme)
 80001331-x	cmn:exe	最近怎么样？
-77000104-n	cmn:lemma	什么时候 (py:shénmeshíhou)
+77000104-n	cmn:lemma	什么时候 (orth:pīnyīn shénmeshíhou)
 77000104-n	cmn:exe	你什么时候回来?
-04105893-n	cmn:lemma	公寓 (py:gōngyù)
+04105893-n	cmn:lemma	房间 (orth:pīnyīn fángjiān)
+04105893-n	cmn:exe	房间里没有人，门都锁着呢。
+04105893-n	cmn:exe	房间号码是4512。
+04105893-n	cmn:lemma	公寓 (orth:pīnyīn gōngyù)
 04105893-n	cmn:exe	我们公寓是三室一厅的。
-06415419-n	cmn:lemma	笔记本 (py:bǐjìběn)
+06415419-n	cmn:lemma	笔记本 (orth:pīnyīn bǐjìběn)
 06415419-n	cmn:exe	他公司的电话号码写在笔记本上。
-01376705-a	cmn:lemma	有名 (py:yǒumíng)
+01376705-a	cmn:lemma	有名 (orth:pīnyīn yǒumíng)
 01376705-a	cmn:exe	她是有名的音乐家。
-01375831-a	cmn:lemma	有名 (py:yǒumíng)
+01375831-a	cmn:lemma	有名 (orth:pīnyīn yǒumíng)
 01375831-a	cmn:exe	她是有名的音乐家。
-00953216-v	cmn:lemma	聊天 (py:liáotiān)
+00953216-v	cmn:lemma	聊天 (orth:pīnyīn liáotiān)
 00953216-v	cmn:exe	你要是有空,到我家来玩儿玩儿,咱们聊聊天。
-00962447-v	cmn:lemma	聊天 (py:liáotiān)
+00962447-v	cmn:lemma	聊天 (orth:pīnyīn liáotiān)
 00962447-v	cmn:exe	你要是有空,到我家来玩儿玩儿,咱们聊聊天。
-02935891-n	cmn:lemma	食堂 (py:shítáng)
+02935891-n	cmn:lemma	食堂 (orth:pīnyīn shítáng)
 02935891-n	cmn:exe	我在学生食堂吃午饭。
-01984902-v	cmn:lemma	坐 (py:zuò)
+01984902-v	cmn:lemma	坐 (orth:pīnyīn zuò)
 01984902-v	cmn:exe	他在沙发上坐着。
-00120223-r	cmn:lemma	一边 (py:yìbiān)
+00120223-r	cmn:lemma	一边 (orth:pīnyīn yìbiān)
 00120223-r	cmn:exe	他一边说话，一边收拾工具。
-00120095-r	cmn:lemma	一边 (py:yìbiān)
+00120095-r	cmn:lemma	一边 (orth:pīnyīn yìbiān)
 00120095-r	cmn:exe	他一边说话，一边收拾工具。
-02386612-a	cmn:lemma	小 (py:xiǎo)
+02386612-a	cmn:lemma	小 (orth:pīnyīn xiǎo)
 02386612-a	cmn:exe	这个孩子小时候胖过，后来瘦下来了。
-02386612-a	cmn:lemma	短 (py:duǎn)
+02386612-a	cmn:lemma	短 (orth:pīnyīn duǎn)
 02386612-a	cmn:exe	这条裙子太短了。
-02345713-a	cmn:lemma	坏 (py:huài)
+02345713-a	cmn:lemma	坏 (orth:pīnyīn huài)
 02345713-a	cmn:exe	我反对用演员漂亮不漂亮来评价一部电影的好坏。
-00478311-a	cmn:lemma	坏 (py:huài)
+00478311-a	cmn:lemma	坏 (orth:pīnyīn huài)
 00478311-a	cmn:exe	我反对用演员漂亮不漂亮来评价一部电影的好坏。
-01174222-a	cmn:lemma	坏 (py:huài)
+01174222-a	cmn:lemma	坏 (orth:pīnyīn huài)
 01174222-a	cmn:exe	我反对用演员漂亮不漂亮来评价一部电影的好坏。
-03025755-n	cmn:lemma	筷子 (py:kuàizi)
-03025755-n	cmn:exe	中国人一般用筷子吃饭。\n
-15166191-n	cmn:lemma	下午 (py:xiàwǔ)
+03025755-n	cmn:lemma	筷子 (orth:pīnyīn kuàizi)
+03025755-n	cmn:exe	中国人一般用筷子吃饭。
+15166191-n	cmn:lemma	下午 (orth:pīnyīn xiàwǔ)
 15166191-n	cmn:exe	你上午值班，下午呢?
-80000080-n	cmn:lemma	这个月 (py:zhèigeyuè)
+80000080-n	cmn:lemma	这个月 (orth:pīnyīn zhèigeyuè)
 80000080-n	cmn:exe	这个月的工资怎么样了?
-06624161-n	cmn:lemma	信 (py:xìn)
+06624161-n	cmn:lemma	信 (orth:pīnyīn xìn)
 06624161-n	cmn:exe	他叫我替他寄一封信。
-07929519-n	cmn:lemma	咖啡 (py:kāfēi)
+07929519-n	cmn:lemma	咖啡 (orth:pīnyīn kāfēi)
 07929519-n	cmn:exe	我要喝咖啡。
-01729431-v	cmn:lemma	唱歌 (py:chànggē)
+01729431-v	cmn:lemma	唱歌 (orth:pīnyīn chànggē)
 01729431-v	cmn:exe	她唱歌儿唱得很好听。
-11501381-n	cmn:lemma	雨 (py:yǔ)
+11501381-n	cmn:lemma	雨 (orth:pīnyīn yǔ)
+11501381-n	cmn:exe	这雨看来大不了。
 11501381-n	cmn:exe	天气预报说，今天晚上有小雨。
-07749582-n	cmn:lemma	柠檬 (py:níngméng)
+07749582-n	cmn:lemma	柠檬 (orth:pīnyīn níngméng)
 07749582-n	cmn:exe	红茶里放入一片柠檬。
-90000511-n	cmn:lemma	前天 (py:qiántiān)
+90000511-n	cmn:lemma	前天 (orth:pīnyīn qiántiān)
 90000511-n	cmn:exe	他从前天起一直躺在床上。
-00118032-r	cmn:lemma	那 (py:nà)
+00118032-r	cmn:lemma	那 (orth:pīnyīn nà)
 00118032-r	cmn:exe	那我要这双。
-00118032-r	cmn:lemma	那 (py:nà)
+00118032-r	cmn:lemma	那 (orth:pīnyīn nà)
+00118032-r	cmn:exe	那你喝过德国啤酒吧？
 00118032-r	cmn:exe	那咱们走吧。
-04468005-n	cmn:lemma	火车 (py:huǒchē)
+04468005-n	cmn:lemma	火车 (orth:pīnyīn huǒchē)
 04468005-n	cmn:exe	坐这趟火车已经来不及了。
-77000002-n	cmn:lemma	我们 (py:wǒmen)
+77000002-n	cmn:lemma	我们 (orth:pīnyīn wǒmen)
+77000002-n	cmn:exe	我们去。
 77000002-n	cmn:exe	我们
-15206296-n	cmn:lemma	一个月 (py:yígeyuè)
+15206296-n	cmn:lemma	一个月 (orth:pīnyīn yígeyuè)
 15206296-n	cmn:exe	一个月
-02834778-n	cmn:lemma	自行车 (py:zìxíngchē)
+02834778-n	cmn:lemma	自行车 (orth:pīnyīn zìxíngchē)
 02834778-n	cmn:exe	我骑自行车去。
-06597466-n	cmn:lemma	杂志 (py:zázhì)
+06597466-n	cmn:lemma	杂志 (orth:pīnyīn zázhì)
+06597466-n	cmn:exe	图书馆的杂志
 06597466-n	cmn:exe	中文杂志在上边儿，外文杂志在下边儿。
-06595351-n	cmn:lemma	杂志 (py:zázhì)
+06595351-n	cmn:lemma	杂志 (orth:pīnyīn zázhì)
+06595351-n	cmn:exe	图书馆的杂志
 06595351-n	cmn:exe	中文杂志在上边儿，外文杂志在下边儿。
-03704210-n	cmn:lemma	杂志 (py:zázhì)
+03704210-n	cmn:lemma	杂志 (orth:pīnyīn zázhì)
+03704210-n	cmn:exe	图书馆的杂志
 03704210-n	cmn:exe	中文杂志在上边儿，外文杂志在下边儿。
-08238463-n	cmn:lemma	班 (py:bān)
+08238463-n	cmn:lemma	班 (orth:pīnyīn bān)
 08238463-n	cmn:exe	他们班的学生比我们班少两个。
-00050454-v	cmn:lemma	脱 (py:tuō)
+00050454-v	cmn:lemma	脱 (orth:pīnyīn tuō)
 00050454-v	cmn:exe	快脱衣服。
-02649830-v	cmn:lemma	住 (py:zhù)
+02649830-v	cmn:lemma	住 (orth:pīnyīn zhù)
 02649830-v	cmn:exe	你住几号楼？
-15155891-n	cmn:lemma	明天 (py:míngtiān)
+15155891-n	cmn:lemma	明天 (orth:pīnyīn míngtiān)
 15155891-n	cmn:exe	明天星期天。
-04208936-n	cmn:lemma	淋浴 (py:línyù)
+04208936-n	cmn:lemma	淋浴 (orth:pīnyīn línyù)
 04208936-n	cmn:exe	她正在洗淋浴。
-15213774-n	cmn:lemma	十二月 (py:shíèryuè)
+15213774-n	cmn:lemma	十二月 (orth:pīnyīn shíèryuè)
 15213774-n	cmn:exe	十二月二十五号是圣诞节。
-00625119-v	cmn:lemma	看 (py:kàn)
+00625119-v	cmn:lemma	看 (orth:pīnyīn kàn)
 00625119-v	cmn:exe	这本书我看过了，你拿走吧。
-02774152-n	cmn:lemma	书包 (py:shūbāo)
+02774152-n	cmn:lemma	书包 (orth:pīnyīn shūbāo)
 02774152-n	cmn:exe	我的书包不见了。
-02773037-n	cmn:lemma	书包 (py:shūbāo)
+02773037-n	cmn:lemma	书包 (orth:pīnyīn shūbāo)
 02773037-n	cmn:exe	我的书包不见了。
-13250542-n	cmn:lemma	钱 (py:qián)
+13250542-n	cmn:lemma	钱 (orth:pīnyīn qián)
 13250542-n	cmn:exe	我去银行取钱去。
-13384557-n	cmn:lemma	钱 (py:qián)
+13384557-n	cmn:lemma	钱 (orth:pīnyīn qián)
 13384557-n	cmn:exe	我去银行取钱去。
-05600637-n	cmn:lemma	脸 (py:liǎn)
+05600637-n	cmn:lemma	脸 (orth:pīnyīn liǎn)
 05600637-n	cmn:exe	他一和女孩子说话，脸就红。
-07597365-n	cmn:lemma	糖 (py:táng)
+07597365-n	cmn:lemma	糖 (orth:pīnyīn táng)
 07597365-n	cmn:exe	我爱吃糖。
-00024356-r	cmn:lemma	不 (py:bù)
+00024356-r	cmn:lemma	不 (orth:pīnyīn bù)
+00024356-r	cmn:exe	他不让我看他的照片。
+00024356-r	cmn:exe	她也不是老师。
+00024356-r	cmn:exe	不，这是我的。
+00024356-r	cmn:exe	你哥哥工作不工作? 
+00024356-r	cmn:exe	今天一点儿也不冷。
+00024356-r	cmn:exe	我什么也听不见。
+00024356-r	cmn:exe	这件事谁都不知道。
+00024356-r	cmn:exe	今天想休息，哪儿也不去。
+00024356-r	cmn:exe	他病了，上不了课了。
 00024356-r	cmn:exe	这是杀虫剂，吃不得。
-03176763-n	cmn:lemma	百货公司 (py:bǎihuògōngsī)
+03176763-n	cmn:lemma	百货公司 (orth:pīnyīn bǎihuògōngsī)
 03176763-n	cmn:exe	我到百货公司去买东西。
-01725051-v	cmn:lemma	弹 (py:tán)
+01725051-v	cmn:lemma	弹 (orth:pīnyīn tán)
 01725051-v	cmn:exe	她会弹钢琴。
-03388183-n	cmn:lemma	钢笔 (py:gāngbǐ)
+03388183-n	cmn:lemma	钢笔 (orth:pīnyīn gāngbǐ)
 03388183-n	cmn:exe	这枝钢笔很好写。
-77000089-a	cmn:lemma	这么 (py:zhème)
+77000089-a	cmn:lemma	这么 (orth:pīnyīn zhème)
+77000089-a	cmn:exe	这么大的事，你怎么连问都不问?
 77000089-a	cmn:exe	你给我买这么多礼物，
-15164354-n	cmn:lemma	星期四 (py:xīngqīsì)
+15164354-n	cmn:lemma	星期四 (orth:pīnyīn xīngqīsì)
 15164354-n	cmn:exe	星期四
-00056916-r	cmn:lemma	请 (py:qǐng)
+00056916-r	cmn:lemma	别客气 (orth:pīnyīn biékèqi)
+00056916-r	cmn:exe	谢谢。别客气。
+00056916-r	cmn:lemma	请 (orth:pīnyīn qǐng)
 00056916-r	cmn:exe	你先请。
-00816481-a	cmn:lemma	慢 (py:màn)
+00816481-a	cmn:lemma	慢 (orth:pīnyīn màn)
 00816481-a	cmn:exe	开慢点儿,行吗?
-01901186-a	cmn:lemma	慢 (py:màn)
+01901186-a	cmn:lemma	慢 (orth:pīnyīn màn)
 01901186-a	cmn:exe	开慢点儿,行吗?
-04956594-n	cmn:lemma	颜色 (py:yánsè)
+04956594-n	cmn:lemma	颜色 (orth:pīnyīn yánsè)
 04956594-n	cmn:exe	颜色太艳了。
-04674968-n	cmn:lemma	颜色 (py:yánsè)
+04674968-n	cmn:lemma	颜色 (orth:pīnyīn yánsè)
 04674968-n	cmn:exe	颜色太艳了。
-07109730-n	cmn:lemma	语言 (py:yǔyán)
-07109730-n	cmn:exe	研究语言是特别难的。\n
-06282651-n	cmn:lemma	语言 (py:yǔyán)
-06282651-n	cmn:exe	研究语言是特别难的。\n
-00121135-r	cmn:lemma	这样 (py:zhèiyang)
+07109730-n	cmn:lemma	语言 (orth:pīnyīn yǔyán)
+07109730-n	cmn:exe	研究语言是特别难的。
+06282651-n	cmn:lemma	语言 (orth:pīnyīn yǔyán)
+06282651-n	cmn:exe	研究语言是特别难的。
+00121135-r	cmn:lemma	这样 (orth:pīnyīn zhèiyang)
 00121135-r	cmn:exe	那就这样吧。
-04962784-n	cmn:lemma	红色 (py:hóngsè)
-04962784-n	cmn:exe	带着红色彩条的是翻译人员。\n
-03871083-n	cmn:lemma	包裹 (py:bāoguǒ)
+04962784-n	cmn:lemma	红色 (orth:pīnyīn hóngsè)
+04962784-n	cmn:exe	带着红色彩条的是翻译人员。
+03871083-n	cmn:lemma	包裹 (orth:pīnyīn bāoguǒ)
 03871083-n	cmn:exe	把包裹寄给他。
-02774630-n	cmn:lemma	包裹 (py:bāoguǒ)
+02774630-n	cmn:lemma	包裹 (orth:pīnyīn bāoguǒ)
 02774630-n	cmn:exe	把包裹寄给他。
-07891726-n	cmn:lemma	葡萄酒 (py:pútaojiǔ)
+07891726-n	cmn:lemma	酒 (orth:pīnyīn jiǔ)
+07891726-n	cmn:exe	他越来越爱喝酒了。
+07891726-n	cmn:lemma	葡萄酒 (orth:pīnyīn pútaojiǔ)
 07891726-n	cmn:exe	我喜欢喝葡萄酒。
-07884567-n	cmn:lemma	葡萄酒 (py:pútaojiǔ)
+07884567-n	cmn:lemma	酒 (orth:pīnyīn jiǔ)
+07884567-n	cmn:exe	他越来越爱喝酒了。
+07884567-n	cmn:lemma	葡萄酒 (orth:pīnyīn pútaojiǔ)
 07884567-n	cmn:exe	我喜欢喝葡萄酒。
-07891433-n	cmn:lemma	葡萄酒 (py:pútaojiǔ)
+07891433-n	cmn:lemma	酒 (orth:pīnyīn jiǔ)
+07891433-n	cmn:exe	他越来越爱喝酒了。
+07891433-n	cmn:lemma	葡萄酒 (orth:pīnyīn pútaojiǔ)
 07891433-n	cmn:exe	我喜欢喝葡萄酒。
-15164463-n	cmn:lemma	星期五 (py:xīngqīwǔ)
+15164463-n	cmn:lemma	星期五 (orth:pīnyīn xīngqīwǔ)
 15164463-n	cmn:exe	星期五
-03581125-n	cmn:lemma	十字路口 (py:shízìlùkǒu)
+03581125-n	cmn:lemma	十字路口 (orth:pīnyīn shízìlùkǒu)
 03581125-n	cmn:exe	走到十字路口,往右拐,就是车站。
-02410393-a	cmn:lemma	厚 (py:hòu)
+02410393-a	cmn:lemma	厚 (orth:pīnyīn hòu)
 02410393-a	cmn:exe	厚厚的地毯
-02410393-a	cmn:lemma	粗 (py:cū)
+02410393-a	cmn:lemma	粗 (orth:pīnyīn cū)
 02410393-a	cmn:exe	她的腰粗起来了。
-02415390-a	cmn:lemma	厚 (py:hòu)
+02415390-a	cmn:lemma	厚 (orth:pīnyīn hòu)
 02415390-a	cmn:exe	厚厚的地毯
-02756821-v	cmn:lemma	下雨 (py:xiàyǔ)
+02756821-v	cmn:lemma	下雨 (orth:pīnyīn xiàyǔ)
 02756821-v	cmn:exe	今天下雨，去不了动物园了。
-02529264-a	cmn:lemma	暖和 (py:nuǎnhuo)
+02529264-a	cmn:lemma	暖和 (orth:pīnyīn nuǎnhuo)
 02529264-a	cmn:exe	春天到了，天气暖和了。
-01546111-v	cmn:lemma	站 (py:zhàn)
+01546111-v	cmn:lemma	站 (orth:pīnyīn zhàn)
 01546111-v	cmn:exe	他一听就站起来了。
-10142747-n	cmn:lemma	姥姥 (py:lǎolao)
+10142747-n	cmn:lemma	奶奶 (orth:pīnyīn nǎinai)
+10142747-n	cmn:exe	她是我奶奶。
+10142747-n	cmn:lemma	姥姥 (orth:pīnyīn lǎolao)
 10142747-n	cmn:exe	你姥姥身体好吗?
-07679356-n	cmn:lemma	面包 (py:miànbāo)
+07679356-n	cmn:lemma	面包 (orth:pīnyīn miànbāo)
 07679356-n	cmn:exe	你们吃面包吗?
-03259505-n	cmn:lemma	房子 (py:fángzi)
+03259505-n	cmn:lemma	房子 (orth:pīnyīn fángzi)
 03259505-n	cmn:exe	我没有房子住。
-03544360-n	cmn:lemma	房子 (py:fángzi)
+03544360-n	cmn:lemma	房子 (orth:pīnyīn fángzi)
 03544360-n	cmn:exe	我没有房子住。
-03544360-n	cmn:lemma	家 (py:jiā)
+03544360-n	cmn:lemma	家 (orth:pīnyīn jiā)
 03544360-n	cmn:exe	明天星期天，我妈让你到我家去玩儿。
-08559508-n	cmn:lemma	房子 (py:fángzi)
+08559508-n	cmn:lemma	房子 (orth:pīnyīn fángzi)
 08559508-n	cmn:exe	我没有房子住。
-08559508-n	cmn:lemma	家 (py:jiā)
+08559508-n	cmn:lemma	家 (orth:pīnyīn jiā)
 08559508-n	cmn:exe	明天星期天，我妈让你到我家去玩儿。
-15210486-n	cmn:lemma	二月 (py:èryuè)
+15210486-n	cmn:lemma	二月 (orth:pīnyīn èryuè)
 15210486-n	cmn:exe	今天二月一号。
-15167349-n	cmn:lemma	晚上 (py:wǎnshang)
+15167349-n	cmn:lemma	晚上 (orth:pīnyīn wǎnshang)
 15167349-n	cmn:exe	天气预报说，今天晚上有小雨。
-15155747-n	cmn:lemma	晚上 (py:wǎnshang)
+15155747-n	cmn:lemma	晚上 (orth:pīnyīn wǎnshang)
 15155747-n	cmn:exe	天气预报说，今天晚上有小雨。
-15167027-n	cmn:lemma	晚上 (py:wǎnshang)
+15167027-n	cmn:lemma	晚上 (orth:pīnyīn wǎnshang)
 15167027-n	cmn:exe	天气预报说，今天晚上有小雨。
-15167027-n	cmn:lemma	昨夜 (py:zuóyè)
+15167027-n	cmn:lemma	傍晚 (orth:pīnyīn bàngwǎn)
+15167027-n	cmn:lemma	昨夜 (orth:pīnyīn zuóyè)
 15167027-n	cmn:exe	从昨夜开始下的雨好容易停了。
-15167474-n	cmn:lemma	晚上 (py:wǎnshang)
+15167474-n	cmn:lemma	晚上 (orth:pīnyīn wǎnshang)
 15167474-n	cmn:exe	天气预报说，今天晚上有小雨。
-03438257-n	cmn:lemma	杯子 (py:bēizi)
+03438257-n	cmn:lemma	杯子 (orth:pīnyīn bēizi)
 03438257-n	cmn:exe	你把杯子拿过来。
-08613593-n	cmn:lemma	外面 (py:wàimian)
+08613593-n	cmn:lemma	外面 (orth:pīnyīn wàimian)
 08613593-n	cmn:exe	外面冷,里面暖和。
-03338821-n	cmn:lemma	胶卷 (py:jiāojuǎn)
+03338821-n	cmn:lemma	胶卷 (orth:pīnyīn jiāojuǎn)
 03338821-n	cmn:exe	把胶卷装到相机里。
-06613686-n	cmn:lemma	胶卷 (py:jiāojuǎn)
+06613686-n	cmn:lemma	胶卷 (orth:pīnyīn jiāojuǎn)
 06613686-n	cmn:exe	把胶卷装到相机里。
-06613686-n	cmn:lemma	电影 (py:diànyǐng)
+06613686-n	cmn:lemma	电影 (orth:pīnyīn diànyǐng)
+06613686-n	cmn:exe	你喜欢听音乐还是喜欢看电影?
+06613686-n	cmn:exe	上星期六我们看了一个外国电影。
 06613686-n	cmn:exe	他们看电影。
-06262567-n	cmn:lemma	胶卷 (py:jiāojuǎn)
+06262567-n	cmn:lemma	胶卷 (orth:pīnyīn jiāojuǎn)
 06262567-n	cmn:exe	把胶卷装到相机里。
-04096066-n	cmn:lemma	路 (py:lù)
+04096066-n	cmn:lemma	路 (orth:pīnyīn lù)
 04096066-n	cmn:exe	大路上走过来两个人。
-15212739-n	cmn:lemma	九月 (py:jiǔyuè)
+15212739-n	cmn:lemma	九月 (orth:pīnyīn jiǔyuè)
 15212739-n	cmn:exe	农历九月九日是重阳节。
-77000079-a	cmn:lemma	那个 (py:nèige)
+77000079-a	cmn:lemma	那个 (orth:pīnyīn nèige)
+77000079-a	cmn:exe	那个问题，我们讨论过两次，还准备再讨论一次。
 77000079-a	cmn:exe	那个地方夏天热得不得了。
-14524198-n	cmn:lemma	阴天 (py:yīntiān)
+14524198-n	cmn:lemma	阴天 (orth:pīnyīn yīntiān)
 14524198-n	cmn:exe	明天是阴天。
-13828795-n	cmn:lemma	竖 (py:shù)
+13828795-n	cmn:lemma	竖 (orth:pīnyīn shù)
 13828795-n	cmn:exe	这件行李别竖着放。
-00543233-n	cmn:lemma	音乐 (py:yīnyuè)
+00543233-n	cmn:lemma	音乐 (orth:pīnyīn yīnyuè)
 00543233-n	cmn:exe	我对音乐有兴趣，
-05718556-n	cmn:lemma	音乐 (py:yīnyuè)
+05718556-n	cmn:lemma	音乐 (orth:pīnyīn yīnyuè)
 05718556-n	cmn:exe	我对音乐有兴趣，
-05718935-n	cmn:lemma	音乐 (py:yīnyuè)
+05718935-n	cmn:lemma	音乐 (orth:pīnyīn yīnyuè)
 05718935-n	cmn:exe	我对音乐有兴趣，
-07020895-n	cmn:lemma	音乐 (py:yīnyuè)
+07020895-n	cmn:lemma	音乐 (orth:pīnyīn yīnyuè)
 07020895-n	cmn:exe	我对音乐有兴趣，
-00409709-r	cmn:lemma	附近 (py:fùjìn)
+00409709-r	cmn:lemma	附近 (orth:pīnyīn fùjìn)
 00409709-r	cmn:exe	附近有没有派出所?
-08641113-n	cmn:lemma	附近 (py:fùjìn)
+08641113-n	cmn:lemma	附近 (orth:pīnyīn fùjìn)
 08641113-n	cmn:exe	附近有没有派出所?
-03112099-n	cmn:lemma	走廊 (py:zǒuláng)
+03112099-n	cmn:lemma	走廊 (orth:pīnyīn zǒuláng)
 03112099-n	cmn:exe	他的房间在走廊的尽头。
-03661043-n	cmn:lemma	图书馆 (py:túshūguǎn)
+03661043-n	cmn:lemma	图书馆 (orth:pīnyīn túshūguǎn)
+03661043-n	cmn:exe	图书馆的杂志
 03661043-n	cmn:exe	我在图书馆看书。
-07840804-n	cmn:lemma	鸡蛋 (py:jīdàn)
+07840804-n	cmn:lemma	鸡蛋 (orth:pīnyīn jīdàn)
 07840804-n	cmn:exe	一个鸡蛋
-90000502-n	cmn:lemma	今年 (py:jīnnián)
+90000502-n	cmn:lemma	今年 (orth:pīnyīn jīnnián)
 90000502-n	cmn:exe	你妹妹今年多大了?
-03908204-n	cmn:lemma	铅笔 (py:qiānbǐ)
+03908204-n	cmn:lemma	铅笔 (orth:pīnyīn qiānbǐ)
 03908204-n	cmn:exe	请你把铅笔借给我用用,好吗?
-14796748-n	cmn:lemma	铅笔 (py:qiānbǐ)
+14796748-n	cmn:lemma	铅笔 (orth:pīnyīn qiānbǐ)
 14796748-n	cmn:exe	请你把铅笔借给我用用,好吗?
-05282433-n	cmn:lemma	牙齿 (py:yáchǐ)
+05282433-n	cmn:lemma	牙齿 (orth:pīnyīn yáchǐ)
 05282433-n	cmn:exe	我每天花十分种刷牙, 牙齿很干净。
-05282746-n	cmn:lemma	牙齿 (py:yáchǐ)
+05282746-n	cmn:lemma	牙齿 (orth:pīnyīn yáchǐ)
 05282746-n	cmn:exe	我每天花十分种刷牙, 牙齿很干净。
-01649720-a	cmn:lemma	年轻 (py:niánqīng)
-01649720-a	cmn:exe	她显得很年轻,其实…\n
-01646941-a	cmn:lemma	年轻 (py:niánqīng)
-01646941-a	cmn:exe	她显得很年轻,其实…\n
-00514884-a	cmn:lemma	整 (py:zhěng)
+01649720-a	cmn:lemma	年轻 (orth:pīnyīn niánqīng)
+01649720-a	cmn:exe	她显得很年轻,其实…
+01646941-a	cmn:lemma	年轻 (orth:pīnyīn niánqīng)
+01646941-a	cmn:exe	她显得很年轻,其实…
+00514884-a	cmn:lemma	整 (orth:pīnyīn zhěng)
 00514884-a	cmn:exe	我干了一整天活儿。
-00988232-a	cmn:lemma	细 (py:xì)
+00988232-a	cmn:lemma	细 (orth:pīnyīn xì)
 00988232-a	cmn:exe	她眉毛细细的。
-01029368-v	cmn:lemma	姓 (py:xìng)
+01029368-v	cmn:lemma	姓 (orth:pīnyīn xìng)
+01029368-v	cmn:exe	你姓什么？
 01029368-v	cmn:exe	我姓李，
-77000084-n	cmn:lemma	哪儿 (py:nǎr)
+77000084-n	cmn:lemma	哪儿 (orth:pīnyīn nǎr)
+77000084-n	cmn:exe	今天想休息，哪儿也不去。
 77000084-n	cmn:exe	你去哪儿?
-00220082-a	cmn:lemma	漂亮 (py:piàoliang)
+00220082-a	cmn:lemma	漂亮 (orth:pīnyīn piàoliang)
+00220082-a	cmn:exe	她不很漂亮。
 00220082-a	cmn:exe	很漂亮的衣服
-01586342-a	cmn:lemma	漂亮 (py:piàoliang)
+01586342-a	cmn:lemma	漂亮 (orth:pīnyīn piàoliang)
+01586342-a	cmn:exe	她不很漂亮。
 01586342-a	cmn:exe	很漂亮的衣服
-01346003-v	cmn:lemma	打开 (py:dǎkāi)
+01346003-v	cmn:lemma	打开 (orth:pīnyīn dǎkāi)
 01346003-v	cmn:exe	把窗户打开。
-09853467-n	cmn:lemma	哥哥 (py:gēge)
+09853467-n	cmn:lemma	哥哥 (orth:pīnyīn gēge)
 09853467-n	cmn:exe	哥哥十八岁，我十五岁。
-09853467-n	cmn:lemma	哥哥 (py:gēge)
+09853467-n	cmn:lemma	哥哥 (orth:pīnyīn gēge)
 09853467-n	cmn:exe	你哥哥今年多大了?
-03102654-n	cmn:lemma	冰箱 (py:bīngxiāng)
+03102654-n	cmn:lemma	冰箱 (orth:pīnyīn bīngxiāng)
 03102654-n	cmn:exe	可乐在冰箱里。
-03273913-n	cmn:lemma	冰箱 (py:bīngxiāng)
+03273913-n	cmn:lemma	冰箱 (orth:pīnyīn bīngxiāng)
 03273913-n	cmn:exe	可乐在冰箱里。
-02399595-a	cmn:lemma	难吃 (py:nánchī)
-02399595-a	cmn:exe	这个菜难吃死了。\n
-01716971-a	cmn:lemma	难吃 (py:nánchī)
-01716971-a	cmn:exe	这个菜难吃死了。\n
-07845335-n	cmn:lemma	牛奶 (py:niúnǎi)
+02399595-a	cmn:lemma	难吃 (orth:pīnyīn nánchī)
+02399595-a	cmn:exe	这个菜难吃死了。
+01716971-a	cmn:lemma	难吃 (orth:pīnyīn nánchī)
+01716971-a	cmn:exe	这个菜难吃死了。
+07845335-n	cmn:lemma	牛奶 (orth:pīnyīn niúnǎi)
 07845335-n	cmn:exe	我想喝新鲜的牛奶。
-07844042-n	cmn:lemma	牛奶 (py:niúnǎi)
+07844042-n	cmn:lemma	牛奶 (orth:pīnyīn niúnǎi)
 07844042-n	cmn:exe	我想喝新鲜的牛奶。
-10780632-n	cmn:lemma	老婆 (py:lǎopo)
+10780632-n	cmn:lemma	老婆 (orth:pīnyīn lǎopo)
+10780632-n	cmn:exe	他终于娶了个老婆。
+10780632-n	cmn:lemma	老婆 (orth:pīnyīn lǎopo)
 10780632-n	cmn:exe	他也总算娶上了个老婆。
-10780632-n	cmn:lemma	妻子 (py:qīzi)
+10780632-n	cmn:lemma	妻子 (orth:pīnyīn qīzi)
 10780632-n	cmn:exe	这是我妻子。
-08625462-n	cmn:lemma	左边 (py:zuǒbian)
+08625462-n	cmn:lemma	左边 (orth:pīnyīn zuǒbian)
 08625462-n	cmn:exe	左边儿看到的是什么呢?
-90000508-n	cmn:lemma	下个星期 (py:xiàgexīngqī)
+90000508-n	cmn:lemma	下个星期 (orth:pīnyīn xiàgexīngqī)
+90000508-n	cmn:exe	我们下星期就要考试了。
 90000508-n	cmn:exe	下星期三我去不了了。
-01848718-v	cmn:lemma	去 (py:qù)
+01848718-v	cmn:lemma	去 (orth:pīnyīn qù)
+01848718-v	cmn:exe	我去比你来更方便。
 01848718-v	cmn:exe	我去过北京。
-06518719-n	cmn:lemma	车票 (py:chēpiào)
+06518719-n	cmn:lemma	车票 (orth:pīnyīn chēpiào)
 06518719-n	cmn:exe	车票丢了。
-01470670-v	cmn:lemma	见面 (py:jiàn)
+01470670-v	cmn:lemma	见面 (orth:pīnyīn jiàn)
+01470670-v	cmn:exe	咱们什么时候见面？
 01470670-v	cmn:exe	咱们在哪儿见面？
-02428924-v	cmn:lemma	见面 (py:jiàn)
+02428924-v	cmn:lemma	见面 (orth:pīnyīn jiàn)
+02428924-v	cmn:exe	咱们什么时候见面？
 02428924-v	cmn:exe	咱们在哪儿见面？
-10285313-n	cmn:lemma	男孩子 (py:nánháizi)
+10285313-n	cmn:lemma	男孩子 (orth:pīnyīn nánháizi)
 10285313-n	cmn:exe	我家男孩子都喜欢喝牛奶。
-03542333-n	cmn:lemma	饭店 (py:fàndiàn)
-03542333-n	cmn:exe	到北京游玩时，在北京饭店住了三天。\n
-02913152-n	cmn:lemma	建筑物 (py:jiànzhùwù)
+03542333-n	cmn:lemma	饭店 (orth:pīnyīn fàndiàn)
+03542333-n	cmn:exe	到北京游玩时，在北京饭店住了三天。
+02913152-n	cmn:lemma	建筑物 (orth:pīnyīn jiànzhùwù)
 02913152-n	cmn:exe	前面儿的建筑物是什么呢?
-07649854-n	cmn:lemma	肉 (py:ròu)
+07649854-n	cmn:lemma	肉 (orth:pīnyīn ròu)
 07649854-n	cmn:exe	小王喜欢吃蔬菜, 小李喜欢吃肉。
-09397391-n	cmn:lemma	池子 (py:chízi)
+09397391-n	cmn:lemma	池子 (orth:pīnyīn chízi)
 09397391-n	cmn:exe	前面有个池子。
-07935152-n	cmn:lemma	茶 (py:chá)
+07935152-n	cmn:lemma	茶 (orth:pīnyīn chá)
 07935152-n	cmn:exe	请喝茶。
-03082979-n	cmn:lemma	电脑 (py:diànnǎo)
+03082979-n	cmn:lemma	电脑 (orth:pīnyīn diànnǎo)
+03082979-n	cmn:exe	我的电脑有点儿毛病，
 03082979-n	cmn:exe	我的电脑坏了，
-00312553-n	cmn:lemma	旅行 (py:lǚxíng)
+00312553-n	cmn:lemma	旅行 (orth:pīnyīn lǚxíng)
 00312553-n	cmn:exe	我一个人不敢去旅行。
-04043733-n	cmn:lemma	收音机 (py:shōuyīnjī)
+04043733-n	cmn:lemma	收音机 (orth:pīnyīn shōuyīnjī)
 04043733-n	cmn:exe	这个收音机坏了，不信你听听。
-01442186-a	cmn:lemma	短 (py:duǎn)
+01442186-a	cmn:lemma	短 (orth:pīnyīn duǎn)
 01442186-a	cmn:exe	这条裙子太短了。
-01436003-a	cmn:lemma	短 (py:duǎn)
+01436003-a	cmn:lemma	短 (orth:pīnyīn duǎn)
 01436003-a	cmn:exe	这条裙子太短了。
-01442826-a	cmn:lemma	短 (py:duǎn)
+01442826-a	cmn:lemma	短 (orth:pīnyīn duǎn)
 01442826-a	cmn:exe	这条裙子太短了。
-14513694-n	cmn:lemma	家庭 (py:jiātíng)
+14513694-n	cmn:lemma	家庭 (orth:pīnyīn jiātíng)
 14513694-n	cmn:exe	几十年前, 我成长在贫困家庭。
-15274074-n	cmn:lemma	假 (py:jià)
+15274074-n	cmn:lemma	假 (orth:pīnyīn jià)
 15274074-n	cmn:exe	我打算今年暑假去中国旅行。
-15183428-n	cmn:lemma	假 (py:jià)
+15183428-n	cmn:lemma	假 (orth:pīnyīn jià)
 15183428-n	cmn:exe	我打算今年暑假去中国旅行。
-15137890-n	cmn:lemma	假 (py:jià)
+15137890-n	cmn:lemma	假 (orth:pīnyīn jià)
 15137890-n	cmn:exe	我打算今年暑假去中国旅行。
-00027918-r	cmn:lemma	还 (py:hái)
+00027918-r	cmn:lemma	还 (orth:pīnyīn hái)
 00027918-r	cmn:exe	我叫你休息，你怎么还在这儿？
-00031304-r	cmn:lemma	还 (py:hái)
+00031304-r	cmn:lemma	还 (orth:pīnyīn hái)
 00031304-r	cmn:exe	我叫你休息，你怎么还在这儿？
-03925226-n	cmn:lemma	照片 (py:zhàopiān)
+03925226-n	cmn:lemma	照片 (orth:pīnyīn zhàopiān)
 03925226-n	cmn:exe	这张照片是谁照的?
-03931044-n	cmn:lemma	照片 (py:zhàopiān)
+03931044-n	cmn:lemma	照片 (orth:pīnyīn zhàopiān)
 03931044-n	cmn:exe	这张照片是谁照的?
-04248607-n	cmn:lemma	照片 (py:zhàopiān)
+04248607-n	cmn:lemma	照片 (orth:pīnyīn zhàopiān)
 04248607-n	cmn:exe	这张照片是谁照的?
-15164233-n	cmn:lemma	星期三 (py:xīngqīsān)
+15164233-n	cmn:lemma	星期三 (orth:pīnyīn xīngqīsān)
 15164233-n	cmn:exe	星期三
-11524662-n	cmn:lemma	天气 (py:tiānqì)
+11524662-n	cmn:lemma	天气 (orth:pīnyīn tiānqì)
+11524662-n	cmn:exe	春天到了，天气暖和了。
 11524662-n	cmn:exe	天气预报说，今天晚上有小雨。
-07193184-n	cmn:lemma	问题 (py:wèntí)
+07193184-n	cmn:lemma	问题 (orth:pīnyīn wèntí)
 07193184-n	cmn:exe	我有些问题。
-07196682-n	cmn:lemma	问题 (py:wèntí)
+07196682-n	cmn:lemma	问题 (orth:pīnyīn wèntí)
 07196682-n	cmn:exe	我有些问题。
-05797597-n	cmn:lemma	问题 (py:wèntí)
+05797597-n	cmn:lemma	问题 (orth:pīnyīn wèntí)
 05797597-n	cmn:exe	我有些问题。
-07193596-n	cmn:lemma	问题 (py:wèntí)
+07193596-n	cmn:lemma	问题 (orth:pīnyīn wèntí)
 07193596-n	cmn:exe	我有些问题。
-01904930-v	cmn:lemma	走 (py:zǒu)
+01904930-v	cmn:lemma	走 (orth:pīnyīn zǒu)
 01904930-v	cmn:exe	大路上走过来两个人。
-03383948-n	cmn:lemma	叉子 (py:chāzi)
+03383948-n	cmn:lemma	叉子 (orth:pīnyīn chāzi)
 03383948-n	cmn:exe	西方人用叉子吃饭。
-08286569-n	cmn:lemma	大学 (py:dàxué)
+08286569-n	cmn:lemma	大学 (orth:pīnyīn dàxué)
 08286569-n	cmn:exe	四年的大学生活就要结束了。
-08286163-n	cmn:lemma	大学 (py:dàxué)
+08286163-n	cmn:lemma	大学 (orth:pīnyīn dàxué)
 08286163-n	cmn:exe	四年的大学生活就要结束了。
-08278169-n	cmn:lemma	大学 (py:dàxué)
+08278169-n	cmn:lemma	大学 (orth:pīnyīn dàxué)
 08278169-n	cmn:exe	四年的大学生活就要结束了。
-01000214-v	cmn:lemma	写 (py:xiě)
+01000214-v	cmn:lemma	写 (orth:pīnyīn xiě)
 01000214-v	cmn:exe	我回家后给他写了一封信。
-02471690-v	cmn:lemma	写 (py:xiě)
+02471690-v	cmn:lemma	写 (orth:pīnyīn xiě)
 02471690-v	cmn:exe	我回家后给他写了一封信。
-01020356-v	cmn:lemma	写 (py:xiě)
+01020356-v	cmn:lemma	写 (orth:pīnyīn xiě)
 01020356-v	cmn:exe	我回家后给他写了一封信。
-01691057-v	cmn:lemma	写 (py:xiě)
+01691057-v	cmn:lemma	写 (orth:pīnyīn xiě)
 01691057-v	cmn:exe	我回家后给他写了一封信。
-01698271-v	cmn:lemma	写 (py:xiě)
+01698271-v	cmn:lemma	写 (orth:pīnyīn xiě)
 01698271-v	cmn:exe	我回家后给他写了一封信。
-01020934-v	cmn:lemma	写 (py:xiě)
+01020934-v	cmn:lemma	写 (orth:pīnyīn xiě)
 01020934-v	cmn:exe	我回家后给他写了一封信。
-00993014-v	cmn:lemma	写 (py:xiě)
+00993014-v	cmn:lemma	写 (orth:pīnyīn xiě)
 00993014-v	cmn:exe	我回家后给他写了一封信。
-03822171-n	cmn:lemma	报纸 (py:bàozhǐ)
+03822171-n	cmn:lemma	报纸 (orth:pīnyīn bàozhǐ)
 03822171-n	cmn:exe	我家订了三份报纸。
-06267145-n	cmn:lemma	报纸 (py:bàozhǐ)
+06267145-n	cmn:lemma	报纸 (orth:pīnyīn bàozhǐ)
 06267145-n	cmn:exe	我家订了三份报纸。
-14961722-n	cmn:lemma	报纸 (py:bàozhǐ)
+14961722-n	cmn:lemma	报纸 (orth:pīnyīn bàozhǐ)
 14961722-n	cmn:exe	我家订了三份报纸。
-07197021-n	cmn:lemma	考试 (py:kǎoshì)
+07197021-n	cmn:lemma	考试 (orth:pīnyīn kǎoshì)
 07197021-n	cmn:exe	我们下星期就要考试了。
-00158309-r	cmn:lemma	正好 (py:zhènghǎo)
+00158309-r	cmn:lemma	正好 (orth:pīnyīn zhènghǎo)
 00158309-r	cmn:exe	正好五个人。
-00002621-r	cmn:lemma	正好 (py:zhènghǎo)
+00002621-r	cmn:lemma	正好 (orth:pīnyīn zhènghǎo)
 00002621-r	cmn:exe	正好五个人。
-00002950-r	cmn:lemma	正好 (py:zhènghǎo)
+00002950-r	cmn:lemma	正好 (orth:pīnyīn zhènghǎo)
 00002950-r	cmn:exe	正好五个人。
-13714184-n	cmn:lemma	度 (py:dù)
+13714184-n	cmn:lemma	度 (orth:pīnyīn dù)
 13714184-n	cmn:exe	发烧都三十八度了。
-00119568-n	cmn:lemma	跳 (py:tiào)
+00119568-n	cmn:lemma	跳 (orth:pīnyīn tiào)
 00119568-n	cmn:exe	她突然站起来要往湖里跳。
-08145553-n	cmn:lemma	邮局 (py:yóujú)
+08145553-n	cmn:lemma	邮局 (orth:pīnyīn yóujú)
 08145553-n	cmn:exe	我去邮局买邮票。
-15237044-n	cmn:lemma	春天 (py:chūntiān)
+15237044-n	cmn:lemma	春天 (orth:pīnyīn chūntiān)
 15237044-n	cmn:exe	春天到了，天气暖和了。
-01270199-v	cmn:lemma	洗衣服 (py:xǐyīfu)
+01270199-v	cmn:lemma	洗衣服 (orth:pīnyīn xǐyīfu)
 01270199-v	cmn:exe	快洗衣服吧。
-06505517-n	cmn:lemma	复印 (py:fùyìn)
+06505517-n	cmn:lemma	复印 (orth:pīnyīn fùyìn)
 06505517-n	cmn:exe	复印机叫人修好了。
-15166462-n	cmn:lemma	傍晚 (py:bàngwǎn)
+15166462-n	cmn:lemma	傍晚 (orth:pīnyīn bàngwǎn)
 15166462-n	cmn:exe	她昨天傍晚才回来。
-15166462-n	cmn:lemma	昨夜 (py:zuóyè)
+15166462-n	cmn:lemma	傍晚 (orth:pīnyīn bàngwǎn)
+15166462-n	cmn:lemma	昨夜 (orth:pīnyīn zuóyè)
 15166462-n	cmn:exe	从昨夜开始下的雨好容易停了。
-01343918-a	cmn:lemma	有意思 (py:yǒuyìsi)
+01343918-a	cmn:lemma	有意思 (orth:pīnyīn yǒuyìsi)
 01343918-a	cmn:exe	我觉得网球比什么运动都有意思。
-01344344-a	cmn:lemma	有意思 (py:yǒuyìsi)
+01344344-a	cmn:lemma	有意思 (orth:pīnyīn yǒuyìsi)
 01344344-a	cmn:exe	我觉得网球比什么运动都有意思。
-01344344-a	cmn:lemma	愉快 (py:yúkuài)
+01344344-a	cmn:lemma	愉快 (orth:pīnyīn yúkuài)
 01344344-a	cmn:exe	祝你在日本逗留期间过得愉快。
-01265308-a	cmn:lemma	有意思 (py:yǒuyìsi)
+01265308-a	cmn:lemma	有意思 (orth:pīnyīn yǒuyìsi)
 01265308-a	cmn:exe	我觉得网球比什么运动都有意思。
-01344485-a	cmn:lemma	有意思 (py:yǒuyìsi)
+01344485-a	cmn:lemma	有意思 (orth:pīnyīn yǒuyìsi)
 01344485-a	cmn:exe	我觉得网球比什么运动都有意思。
-00067045-r	cmn:lemma	前面 (py:qiánmian)
+00067045-r	cmn:lemma	前面 (orth:pīnyīn qiánmian)
 00067045-r	cmn:exe	前面可能发生了交通事故。
-00067265-r	cmn:lemma	前面 (py:qiánmian)
+00067265-r	cmn:lemma	前面 (orth:pīnyīn qiánmian)
 00067265-r	cmn:exe	前面可能发生了交通事故。
-90000515-n	cmn:lemma	后天 (py:hòutiān)
+90000515-n	cmn:lemma	后天 (orth:pīnyīn hòutiān)
 90000515-n	cmn:exe	后天上午十点参加口试。
-01296462-v	cmn:lemma	安 (py:ān)
+01296462-v	cmn:lemma	安 (orth:pīnyīn ān)
 01296462-v	cmn:exe	因为屋子太暗,安了扇窗户。
-01801029-a	cmn:lemma	愉快 (py:yúkuài)
+01801029-a	cmn:lemma	愉快 (orth:pīnyīn yúkuài)
 01801029-a	cmn:exe	祝你在日本逗留期间过得愉快。
-03906997-n	cmn:lemma	笔 (py:bǐ)
+03906997-n	cmn:lemma	笔 (orth:pīnyīn bǐ)
 03906997-n	cmn:exe	这枝笔用起来很方便。
-77000095-n	cmn:lemma	哪位 (py:něiwèi)
+77000095-n	cmn:lemma	谁 (orth:pīnyīn shéi)
+77000095-n	cmn:lemma	哪位 (orth:pīnyīn něiwèi)
 77000095-n	cmn:exe	您是哪位呀?
-77000095-n	cmn:lemma	谁 (py:shéi)
+77000095-n	cmn:lemma	谁 (orth:pīnyīn shéi)
 77000095-n	cmn:exe	这件事谁都不知道。
-90000500-n	cmn:lemma	前年 (py:qiánnián)
+90000500-n	cmn:lemma	前年 (orth:pīnyīn qiánnián)
+90000500-n	cmn:exe	我们前年结的婚。
+90000500-n	cmn:lemma	前年 (orth:pīnyīn qiánnián)
 90000500-n	cmn:exe	我们是前年结的婚。
-03221720-n	cmn:lemma	门 (py:mén)
+03221720-n	cmn:lemma	门 (orth:pīnyīn mén)
 03221720-n	cmn:exe	他出去开门了。
-03221720-n	cmn:lemma	门 (py:mén)
+03221720-n	cmn:lemma	门 (orth:pīnyīn mén)
 03221720-n	cmn:exe	把门关上。
-00050681-r	cmn:lemma	没有 (py:méiyǒu)
+00050681-r	cmn:lemma	没有 (orth:pīnyīn méiyǒu)
 00050681-r	cmn:exe	我没有电脑。
-00024587-r	cmn:lemma	没有 (py:méiyǒu)
+00024587-r	cmn:lemma	没有 (orth:pīnyīn méiyǒu)
 00024587-r	cmn:exe	我没有电脑。
-77000012-n	cmn:lemma	我 (py:wǒ)
+77000012-n	cmn:lemma	我 (orth:pīnyīn wǒ)
 77000012-n	cmn:exe	我要这个。
-77000015-n	cmn:lemma	我 (py:wǒ)
+77000015-n	cmn:lemma	我 (orth:pīnyīn wǒ)
 77000015-n	cmn:exe	我要这个。
-01344963-a	cmn:lemma	无聊 (py:wúliáo)
+01344963-a	cmn:lemma	无聊 (orth:pīnyīn wúliáo)
 01344963-a	cmn:exe	真无聊。
-01170052-v	cmn:lemma	喝 (py:hē)
+01170052-v	cmn:lemma	喝 (orth:pīnyīn hē)
+01170052-v	cmn:exe	我渴得要命，快给我一点儿水喝。
 01170052-v	cmn:exe	他也不喝啤酒。
-03282295-n	cmn:lemma	大使馆 (py:dàshǐguǎn)
+03282295-n	cmn:lemma	大使馆 (orth:pīnyīn dàshǐguǎn)
 03282295-n	cmn:exe	日本大使馆在哪儿？
-14145501-n	cmn:lemma	感冒 (py:gǎnmào)
+14145501-n	cmn:lemma	感冒 (orth:pīnyīn gǎnmào)
 14145501-n	cmn:exe	感冒了。
-06796119-n	cmn:lemma	邮票 (py:yóupiào)
+06796119-n	cmn:lemma	邮票 (orth:pīnyīn yóupiào)
 06796119-n	cmn:exe	我去邮局买邮票。
-07775375-n	cmn:lemma	鱼 (py:yú)
+07775375-n	cmn:lemma	鱼 (orth:pīnyīn yú)
 07775375-n	cmn:exe	我不爱吃鱼。
-02512053-n	cmn:lemma	鱼 (py:yú)
+02512053-n	cmn:lemma	鱼 (orth:pīnyīn yú)
 02512053-n	cmn:exe	我不爱吃鱼。
-04588365-n	cmn:lemma	窗户 (py:chuānghu)
+04588365-n	cmn:lemma	窗户 (orth:pīnyīn chuānghu)
 04588365-n	cmn:exe	窗户前边儿有一盆花。
-04587648-n	cmn:lemma	窗户 (py:chuānghu)
+04587648-n	cmn:lemma	窗户 (orth:pīnyīn chuānghu)
 04587648-n	cmn:exe	窗户前边儿有一盆花。
-05216365-n	cmn:lemma	身体 (py:shēntǐ)
+05216365-n	cmn:lemma	身体 (orth:pīnyīn shēntǐ)
 05216365-n	cmn:exe	现在身体怎么样了？
-76100002-x	cmn:lemma	张 (py:zhāng)
+76100002-x	cmn:lemma	本 (orth:pīnyīn běn)
+76100002-x	cmn:exe	这本书八十块钱。
+76100002-x	cmn:lemma	张 (orth:pīnyīn zhāng)
 76100002-x	cmn:exe	墙上有一张地图。
-04967191-n	cmn:lemma	绿色 (py:lǜsè)
+04967191-n	cmn:lemma	绿色 (orth:pīnyīn lǜsè)
 04967191-n	cmn:exe	他带着一顶绿色的军帽。
-80001047-v	cmn:lemma	死 (py:sǐ)
+80001047-v	cmn:lemma	死 (orth:pīnyīn sǐ)
+80001047-v	cmn:exe	邻居家死了一只猫。
 80001047-v	cmn:exe	他死了五年了。
-03497657-n	cmn:lemma	帽子 (py:màozi)
+03497657-n	cmn:lemma	帽子 (orth:pīnyīn màozi)
 03497657-n	cmn:exe	他戴着绿色的帽子。
-15129927-n	cmn:lemma	点 (py:diǎn)
+15129927-n	cmn:lemma	点 (orth:pīnyīn diǎn)
+15129927-n	cmn:exe	两点(钟)
+15129927-n	cmn:exe	十点十三分
+15129927-n	cmn:exe	七点钟，好吗？
 15129927-n	cmn:exe	七点一刻吧。
-06359877-n	cmn:lemma	文章 (py:wénzhāng)
+06359877-n	cmn:lemma	文章 (orth:pīnyīn wénzhāng)
+06359877-n	cmn:exe	他写的文章有点儿那个…
 06359877-n	cmn:exe	我写好了三篇文章。
-00546389-n	cmn:lemma	歌 (py:gē)
+00546389-n	cmn:lemma	歌 (orth:pīnyīn gē)
 00546389-n	cmn:exe	流行歌曲也喜欢。
-07048000-n	cmn:lemma	歌 (py:gē)
+07048000-n	cmn:lemma	歌 (orth:pīnyīn gē)
 07048000-n	cmn:exe	流行歌曲也喜欢。
-01754737-v	cmn:lemma	剪 (py:jiǎn)
-01754737-v	cmn:exe	请再把前面的头发剪短一点儿。\n
-07447641-n	cmn:lemma	晚会 (py:wǎnhuì)
+01754737-v	cmn:lemma	剪 (orth:pīnyīn jiǎn)
+01754737-v	cmn:exe	请再把前面的头发剪短一点儿。
+07447641-n	cmn:lemma	晚会 (orth:pīnyīn wǎnhuì)
 07447641-n	cmn:exe	徐强的生日晚会是今天晚上吧？
-01842204-v	cmn:lemma	出去 (py:chūqù)
+01842204-v	cmn:lemma	出去 (orth:pīnyīn chūqù)
 01842204-v	cmn:exe	我出去一下。
-04241394-n	cmn:lemma	拖鞋 (py:tuōxié)
+04241394-n	cmn:lemma	拖鞋 (orth:pīnyīn tuōxié)
 04241394-n	cmn:exe	进和室时不必穿拖鞋。
-05301908-n	cmn:lemma	嘴 (py:zuǐ)
+05301908-n	cmn:lemma	嘴 (orth:pīnyīn zuǐ)
 05301908-n	cmn:exe	闭嘴!
-02440250-n	cmn:lemma	手 (py:shǒu)
+02440250-n	cmn:lemma	手 (orth:pīnyīn shǒu)
 02440250-n	cmn:exe	他紧握朋友的手不放。
-09823502-n	cmn:lemma	姨母 (py:yímǔ)
+09823502-n	cmn:lemma	婶母 (orth:pīnyīn shěnmǔ)
+09823502-n	cmn:exe	她是我婶母。
+09823502-n	cmn:lemma	姨母 (orth:pīnyīn yímǔ)
 09823502-n	cmn:exe	她是我姨母。
-10193967-n	cmn:lemma	丈夫 (py:zhàngfu)
+10193967-n	cmn:lemma	丈夫 (orth:pīnyīn zhàngfu)
 10193967-n	cmn:exe	她已经有丈夫了。
-15213406-n	cmn:lemma	十一月 (py:shíyīyuè)
+15213406-n	cmn:lemma	十一月 (orth:pīnyīn shíyīyuè)
 15213406-n	cmn:exe	十一月二十三号
-06277280-n	cmn:lemma	电视 (py:diànshì)
+06277280-n	cmn:lemma	电视 (orth:pīnyīn diànshì)
 06277280-n	cmn:exe	昨天晚上他看了两个小时电视。
-13831176-n	cmn:lemma	北边 (py:běibian)
+13831176-n	cmn:lemma	北边 (orth:pīnyīn běibian)
 13831176-n	cmn:exe	剧场北边儿有一个家具店。
-06964901-n	cmn:lemma	汉语 (py:hànyǔ)
+06964901-n	cmn:lemma	汉语 (orth:pīnyīn hànyǔ)
+06964901-n	cmn:exe	我学汉语学了两年。
+06964901-n	cmn:exe	我学汉语学了两年了。
 06964901-n	cmn:exe	汉语难吗?
-01318741-a	cmn:lemma	疼 (py:téng)
+01318741-a	cmn:lemma	疼 (orth:pīnyīn téng)
 01318741-a	cmn:exe	哎哟!疼死了!
-01712753-a	cmn:lemma	疼 (py:téng)
+01712753-a	cmn:lemma	疼 (orth:pīnyīn téng)
 01712753-a	cmn:exe	哎哟!疼死了!
-05395690-n	cmn:lemma	肚子 (py:dùzi)
-05556943-n	cmn:lemma	肚子 (py:dùzi)
-02324478-v	cmn:lemma	加 (py:jiā)
+05395690-n	cmn:lemma	肚子 (orth:pīnyīn dùzi)
+05395690-n	cmn:exe	肚子疼得厉害。
+05395690-n	cmn:lemma	肚子 (orth:pīnyīn dùzi)
+05556943-n	cmn:lemma	肚子 (orth:pīnyīn dùzi)
+05556943-n	cmn:exe	肚子疼得厉害。
+05556943-n	cmn:lemma	肚子 (orth:pīnyīn dùzi)
+02324478-v	cmn:lemma	加 (orth:pīnyīn jiā)
 02324478-v	cmn:exe	加点儿水。
-00640828-v	cmn:lemma	加 (py:jiā)
+00640828-v	cmn:lemma	加 (orth:pīnyīn jiā)
 00640828-v	cmn:exe	加点儿水。
-00182406-v	cmn:lemma	加 (py:jiā)
+00182406-v	cmn:lemma	加 (orth:pīnyīn jiā)
 00182406-v	cmn:exe	加点儿水。
-00749230-a	cmn:lemma	容易 (py:róngyì)
+00749230-a	cmn:lemma	容易 (orth:pīnyīn róngyì)
 00749230-a	cmn:exe	学汉语容易吗?
-14061805-n	cmn:lemma	病 (py:bìng)
+14061805-n	cmn:lemma	病 (orth:pīnyīn bìng)
 14061805-n	cmn:exe	他的病怎么样?
-14055408-n	cmn:lemma	病 (py:bìng)
+14055408-n	cmn:lemma	病 (orth:pīnyīn bìng)
 14055408-n	cmn:exe	他的病怎么样?
-14473054-n	cmn:lemma	病 (py:bìng)
+14473054-n	cmn:lemma	病 (orth:pīnyīn bìng)
 14473054-n	cmn:exe	他的病怎么样?
-10399491-n	cmn:lemma	父母 (py:fùmǔ)
+10399491-n	cmn:lemma	父母 (orth:pīnyīn fùmǔ)
 10399491-n	cmn:exe	你父母好吗？
-13833375-n	cmn:lemma	南边 (py:nánbian)
+13833375-n	cmn:lemma	南边 (orth:pīnyīn nánbian)
 13833375-n	cmn:exe	百货大楼南边儿有一个家具店。
-02472293-n	cmn:lemma	人 (py:rén)
+02472293-n	cmn:lemma	人 (orth:pīnyīn rén)
+02472293-n	cmn:exe	屋子里没有人。
+02472293-n	cmn:lemma	人 (orth:pīnyīn rén)
 02472293-n	cmn:exe	他不是美国人。
-15212167-n	cmn:lemma	七月 (py:qīyuè)
+15212167-n	cmn:lemma	七月 (orth:pīnyīn qīyuè)
 15212167-n	cmn:exe	农历七月初七是七夕。
-00442917-a	cmn:lemma	远 (py:yuǎn)
+00442917-a	cmn:lemma	远 (orth:pīnyīn yuǎn)
 00442917-a	cmn:exe	她家比我家远一点儿。
-01421622-v	cmn:lemma	放 (py:fàng)
+01421622-v	cmn:lemma	放 (orth:pīnyīn fàng)
 01421622-v	cmn:exe	他把信放进抽屉里。
-03398467-n	cmn:lemma	前面 (py:qiánmian)
+03398467-n	cmn:lemma	前面 (orth:pīnyīn qiánmian)
 03398467-n	cmn:exe	房子前面有一棵树。
-00964768-a	cmn:lemma	软弱 (py:ruǎnruò)
+00964768-a	cmn:lemma	软弱 (orth:pīnyīn ruǎnruò)
 00964768-a	cmn:exe	她病后身体软弱。
-02324397-a	cmn:lemma	软弱 (py:ruǎnruò)
+02324397-a	cmn:lemma	软弱 (orth:pīnyīn ruǎnruò)
 02324397-a	cmn:exe	她病后身体软弱。
-00709215-a	cmn:lemma	软弱 (py:ruǎnruò)
+00709215-a	cmn:lemma	软弱 (orth:pīnyīn ruǎnruò)
 00709215-a	cmn:exe	她病后身体软弱。
-02040233-a	cmn:lemma	软弱 (py:ruǎnruò)
+02040233-a	cmn:lemma	软弱 (orth:pīnyīn ruǎnruò)
 02040233-a	cmn:exe	她病后身体软弱。
-02040049-a	cmn:lemma	软弱 (py:ruǎnruò)
+02040049-a	cmn:lemma	软弱 (orth:pīnyīn ruǎnruò)
 02040049-a	cmn:exe	她病后身体软弱。
-00254978-r	cmn:lemma	每个月 (py:měigeyuè)
-00254978-r	cmn:exe	每个月开两次会。\n
-77000091-n	cmn:lemma	什么 (py:shénme)
+00254978-r	cmn:lemma	每个月 (orth:pīnyīn měigeyuè)
+00254978-r	cmn:exe	每个月开两次会。
+77000091-n	cmn:lemma	什么 (orth:pīnyīn shénme)
 77000091-n	cmn:exe	喜欢什么音乐？
-06605897-n	cmn:lemma	意思 (py:yìsi)
+06605897-n	cmn:lemma	意思 (orth:pīnyīn yìsi)
 06605897-n	cmn:exe	“双赢”是什么意思?
-05919866-n	cmn:lemma	意思 (py:yìsi)
+05919866-n	cmn:lemma	意思 (orth:pīnyīn yìsi)
 05919866-n	cmn:exe	“双赢”是什么意思?
-06601327-n	cmn:lemma	意思 (py:yìsi)
+06601327-n	cmn:lemma	意思 (orth:pīnyīn yìsi)
 06601327-n	cmn:exe	“双赢”是什么意思?
-04059701-n	cmn:lemma	后面 (py:hòumian)
+04059701-n	cmn:lemma	后面 (orth:pīnyīn hòumian)
 04059701-n	cmn:exe	请再把后面的头发剪短一点儿。
-02767665-n	cmn:lemma	后面 (py:hòumian)
+02767665-n	cmn:lemma	后面 (orth:pīnyīn hòumian)
 02767665-n	cmn:exe	请再把后面的头发剪短一点儿。
-03540595-n	cmn:lemma	医院 (py:yīyuàn)
+03540595-n	cmn:lemma	医院 (orth:pīnyīn yīyuàn)
 03540595-n	cmn:exe	因为我要去医院。
-08054417-n	cmn:lemma	医院 (py:yīyuàn)
+08054417-n	cmn:lemma	医院 (orth:pīnyīn yīyuàn)
 08054417-n	cmn:exe	因为我要去医院。
-05311054-n	cmn:lemma	眼睛 (py:yǎnjing)
+05311054-n	cmn:lemma	眼睛 (orth:pīnyīn yǎnjing)
 05311054-n	cmn:exe	躺着看书对眼睛不好。
-05316025-n	cmn:lemma	眼睛 (py:yǎnjing)
+05316025-n	cmn:lemma	眼睛 (orth:pīnyīn yǎnjing)
 05316025-n	cmn:exe	躺着看书对眼睛不好。
-02871439-n	cmn:lemma	书架 (py:shūjià)
+02871439-n	cmn:lemma	书架 (orth:pīnyīn shūjià)
 02871439-n	cmn:exe	书架上有很多书。
-01186408-a	cmn:lemma	轻 (py:qīng)
+01186408-a	cmn:lemma	轻 (orth:pīnyīn qīng)
 01186408-a	cmn:exe	这件行李轻不了。
-04049098-n	cmn:lemma	车站 (py:chēzhàn)
+04049098-n	cmn:lemma	车站 (orth:pīnyīn chēzhàn)
 04049098-n	cmn:exe	到火车站怎么走?
-03030663-n	cmn:lemma	烟 (py:yān)
+03030663-n	cmn:lemma	烟 (orth:pīnyīn yān)
 03030663-n	cmn:exe	休息室里可以吸烟。
-02230772-v	cmn:lemma	交 (py:jiāo)
-02230772-v	cmn:exe	他交给我一本书。\n
-90000504-n	cmn:lemma	后年 (py:hòunián)
+02230772-v	cmn:lemma	交 (orth:pīnyīn jiāo)
+02230772-v	cmn:exe	他交给我一本书。
+90000504-n	cmn:lemma	后年 (orth:pīnyīn hòunián)
 90000504-n	cmn:exe	我打算后年到中国去留学。
-00729108-n	cmn:lemma	作业 (py:zuòyè)
+00729108-n	cmn:lemma	作业 (orth:pīnyīn zuòyè)
 00729108-n	cmn:exe	这些作业今天晚上做得完做不完?
-03815615-n	cmn:lemma	领带 (py:lǐngdài)
+03815615-n	cmn:lemma	领带 (orth:pīnyīn lǐngdài)
 03815615-n	cmn:exe	每天早上我爱人都给我系领带。
-07596684-n	cmn:lemma	点心 (py:diǎnxin)
+07596684-n	cmn:lemma	点心 (orth:pīnyīn diǎnxin)
 07596684-n	cmn:exe	请吃点儿点心。
-05560787-n	cmn:lemma	腿 (py:tuǐ)
+05560787-n	cmn:lemma	腿 (orth:pīnyīn tuǐ)
+05560787-n	cmn:exe	医生发现她的右腿骨折了。
+05560787-n	cmn:lemma	腿 (orth:pīnyīn tuǐ)
 05560787-n	cmn:exe	他腿太短。
-05563266-n	cmn:lemma	腿 (py:tuǐ)
+05563266-n	cmn:lemma	腿 (orth:pīnyīn tuǐ)
+05563266-n	cmn:exe	医生发现她的右腿骨折了。
+05563266-n	cmn:lemma	腿 (orth:pīnyīn tuǐ)
 05563266-n	cmn:exe	他腿太短。
-15211189-n	cmn:lemma	四月 (py:sìyuè)
+15211189-n	cmn:lemma	四月 (orth:pīnyīn sìyuè)
 15211189-n	cmn:exe	今天四月十七号。
-02310007-v	cmn:lemma	还 (py:huán)
+02310007-v	cmn:lemma	还 (orth:pīnyīn huán)
 02310007-v	cmn:exe	请把这本小说还给小王。
-01308381-v	cmn:lemma	还 (py:huán)
+01308381-v	cmn:lemma	还 (orth:pīnyīn huán)
 01308381-v	cmn:exe	请把这本小说还给小王。
-80001595-v	cmn:lemma	还 (py:huán)
+80001595-v	cmn:lemma	还 (orth:pīnyīn huán)
 80001595-v	cmn:exe	请把这本小说还给小王。
-10080869-n	cmn:lemma	爸爸 (py:bàba)
+10080869-n	cmn:lemma	爸爸 (orth:pīnyīn bàba)
+10080869-n	cmn:exe	我爸爸
 10080869-n	cmn:exe	我爸爸会说日语。
-10080869-n	cmn:lemma	父亲 (py:fùqin)
+10080869-n	cmn:lemma	父亲 (orth:pīnyīn fùqin)
 10080869-n	cmn:exe	您父亲好吗？
-02411224-a	cmn:lemma	粗 (py:cū)
+02411224-a	cmn:lemma	粗 (orth:pīnyīn cū)
 02411224-a	cmn:exe	她的腰粗起来了。
-04446276-n	cmn:lemma	厕所 (py:cèsuǒ)
+04446276-n	cmn:lemma	厕所 (orth:pīnyīn cèsuǒ)
 04446276-n	cmn:exe	厕所在哪儿？
-04555291-n	cmn:lemma	厕所 (py:cèsuǒ)
+04555291-n	cmn:lemma	厕所 (orth:pīnyīn cèsuǒ)
 04555291-n	cmn:exe	厕所在哪儿？
-15212455-n	cmn:lemma	八月 (py:bāyuè)
+15212455-n	cmn:lemma	八月 (orth:pīnyīn bāyuè)
 15212455-n	cmn:exe	八月底回来。
-00292937-a	cmn:lemma	忙 (py:máng)
+00292937-a	cmn:lemma	忙 (orth:pīnyīn máng)
 00292937-a	cmn:exe	无论工作怎么忙，他都抽时间来看我。
-00273082-a	cmn:lemma	黑 (py:hēi)
+00273082-a	cmn:lemma	黑 (orth:pīnyīn hēi)
 00273082-a	cmn:exe	屋里怎么这么黑? 
-03291819-n	cmn:lemma	信封 (py:xìnfēng)
+03291819-n	cmn:lemma	信封 (orth:pīnyīn xìnfēng)
 03291819-n	cmn:exe	邮票最好贴在信封正面。
-80001545-n	cmn:lemma	旁边 (py:pángbiān)
+80001545-n	cmn:lemma	旁边 (orth:pīnyīn pángbiān)
 80001545-n	cmn:exe	就在301教室旁边儿。
-09215315-n	cmn:lemma	下面 (py:xiàmian)
+09215315-n	cmn:lemma	下面 (orth:pīnyīn xiàmian)
 09215315-n	cmn:exe	从山顶上往下面看。
-80001661-n	cmn:lemma	下面 (py:xiàmian)
+80001661-n	cmn:lemma	下面 (orth:pīnyīn xiàmian)
 80001661-n	cmn:exe	从山顶上往下面看。
-00523513-n	cmn:lemma	运动 (py:yùndòng)
+00523513-n	cmn:lemma	运动 (orth:pīnyīn yùndòng)
 00523513-n	cmn:exe	你喜欢什么运动？
-03179701-n	cmn:lemma	桌子 (py:zhuōzi)
+03179701-n	cmn:lemma	桌子 (orth:pīnyīn zhuōzi)
 03179701-n	cmn:exe	他们把书放在桌子上就走了。
-04202417-n	cmn:lemma	商店 (py:shāngdiàn)
+04202417-n	cmn:lemma	商店 (orth:pīnyīn shāngdiàn)
 04202417-n	cmn:exe	我去商店买东西。
-02016062-v	cmn:lemma	下 (py:xià)
+02016062-v	cmn:lemma	下 (orth:pīnyīn xià)
 02016062-v	cmn:exe	他准备在天津站下车。
-15237782-n	cmn:lemma	冬天 (py:dōngtiān)
+15237782-n	cmn:lemma	冬天 (orth:pīnyīn dōngtiān)
 15237782-n	cmn:exe	冬天到了。
-80001691-n	cmn:lemma	上 (py:shang)
+80001691-n	cmn:lemma	上 (orth:pīnyīn shang)
 80001691-n	cmn:exe	桌子上有一本词典。
-08663354-n	cmn:lemma	上 (py:shang)
+08663354-n	cmn:lemma	上 (orth:pīnyīn shang)
 08663354-n	cmn:exe	桌子上有一本词典。
-07804323-n	cmn:lemma	饭 (py:fàn)
+07804323-n	cmn:lemma	饭 (orth:pīnyīn fàn)
 07804323-n	cmn:exe	那么你来我家吃饭怎么样？
-15245990-n	cmn:lemma	饭 (py:fàn)
+15245990-n	cmn:lemma	饭 (orth:pīnyīn fàn)
 15245990-n	cmn:exe	那么你来我家吃饭怎么样？
-90000417-n	cmn:lemma	饭 (py:fàn)
+90000417-n	cmn:lemma	饭 (orth:pīnyīn fàn)
 90000417-n	cmn:exe	那么你来我家吃饭怎么样？
-07575076-n	cmn:lemma	午饭 (py:wǔfàn)
+07575076-n	cmn:lemma	午饭 (orth:pīnyīn wǔfàn)
 07575076-n	cmn:exe	他们吃午饭呢。
-15156001-n	cmn:lemma	今天 (py:jīntiān)
+15156001-n	cmn:lemma	今天 (orth:pīnyīn jīntiān)
 15156001-n	cmn:exe	今天没有昨天冷。
-09604981-n	cmn:lemma	自己 (py:zìjǐ)
+09604981-n	cmn:lemma	自己 (orth:pīnyīn zìjǐ)
 09604981-n	cmn:exe	他看不起别人，只觉得他自己最了不起。
-07557434-n	cmn:lemma	菜 (py:cài)
+07557434-n	cmn:lemma	菜 (orth:pīnyīn cài)
+07557434-n	cmn:exe	这个菜怎么样，尝尝就知道了。
 07557434-n	cmn:exe	你吃过日本菜吗？
-02395115-a	cmn:lemma	好吃 (py:hǎochī)
+02395115-a	cmn:lemma	好吃 (orth:pīnyīn hǎochī)
 02395115-a	cmn:exe	你做的菜好吃极了。
-02396720-a	cmn:lemma	好吃 (py:hǎochī)
+02396720-a	cmn:lemma	好吃 (orth:pīnyīn hǎochī)
 02396720-a	cmn:exe	你做的菜好吃极了。

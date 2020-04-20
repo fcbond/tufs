@@ -2,24 +2,51 @@
 15210045-n	fra:lemma	janvier
 15210045-n	fra:exe	En janvier, il neige quelquefois à Tokyo. 
 05755883-n	fra:lemma	étude
+05755883-n	fra:exe	Et vous êtes à Paris pour vos études ?
+05755883-n	fra:exe	Si je le réussis, je poursuivrai mes études.
 05755883-n	fra:exe	Vous êtes satisfait de vos études dans cette université ?  -Oui, j'en suis satisfait.
+04971928-n	fra:lemma	brun
+04971928-n	fra:exe	Il a les yeux bruns.
+04971928-n	fra:exe	La majorité des Français sont bruns.
 04971928-n	fra:lemma	marron
 04971928-n	fra:exe	Les feuilles d'automne sont jaunes, oranges, marron..
 15163797-n	fra:lemma	dimanche
+15163797-n	fra:exe	- Je vous invite chez moi dimanche.
 15163797-n	fra:exe	 Le dimanche à Paris, les magasins sont fermés, vous voyez ?
 15043763-n	fra:lemma	neige
 15043763-n	fra:exe	Hier, on circulait mal à cause de la neige.
 00251013-n	fra:lemma	ménage
+00251013-n	fra:exe	Le ménage est un travail pénible.
 00251013-n	fra:exe	Dans cette salle, le ménage n'a pas été fait.
+08058098-n	fra:lemma	entreprise
+08058098-n	fra:exe	Je me suis fait payer mon voyage par mon entreprise.
+08058098-n	fra:lemma	société
+08058098-n	fra:exe	Il existe plusieurs types de sociétés.
+08058098-n	fra:lemma	compagnie
+08058098-n	fra:exe	Paul travaille dans une compagnie d'assurance.
 08058098-n	fra:lemma	firme
+08058098-n	fra:exe	Aujourd'hui, les grandes firmes sont de plus en plus puissantes.
+08058098-n	fra:exe	Sa société a été rachetée par une grande firme.
 08058098-n	fra:exe	Pour les grandes firmes, il n'y a pas de frontières.
 01382086-a	fra:lemma	grand
+01382086-a	fra:exe	Il est grand.
+01382086-a	fra:exe	Elle est grande.
+01382086-a	fra:exe	 C'est une grande blonde aux yeux verts.
 01382086-a	fra:exe	Dis-donc, elle est plus grande que la mienne !
 01453084-a	fra:lemma	grand
+01453084-a	fra:exe	Il est grand.
+01453084-a	fra:exe	Elle est grande.
+01453084-a	fra:exe	 C'est une grande blonde aux yeux verts.
 01453084-a	fra:exe	Dis-donc, elle est plus grande que la mienne !
 00527870-a	fra:lemma	grand
+00527870-a	fra:exe	Il est grand.
+00527870-a	fra:exe	Elle est grande.
+00527870-a	fra:exe	 C'est une grande blonde aux yeux verts.
 00527870-a	fra:exe	Dis-donc, elle est plus grande que la mienne !
 01677433-a	fra:lemma	grand
+01677433-a	fra:exe	Il est grand.
+01677433-a	fra:exe	Elle est grande.
+01677433-a	fra:exe	 C'est une grande blonde aux yeux verts.
 01677433-a	fra:exe	Dis-donc, elle est plus grande que la mienne !
 10084295-n	fra:lemma	jeune fille
 10084295-n	fra:exe	Elle a seize ans, c'est déjà une jeune fille.
@@ -28,18 +55,23 @@
 10129825-n	fra:lemma	sœur
 10129825-n	fra:exe	J'ai un grand frère et une petite soeur.
 00065495-v	fra:lemma	aller bien
+00065495-v	fra:exe	Vous allez bien?
+00065495-v	fra:exe	Ça va? – Oui, ça va bien.
 00065495-v	fra:exe	Si tout va bien, j'essaierai d'obtenir une bourse de recherches.
 80001734-n	fra:lemma	classe
-80001734-n	fra:exe	 Le professeur utilise rarement ce livre de classe.
+80001734-n	fra:exe	Le professeur utilise rarement ce livre de classe.
 00889472-n	fra:lemma	classe
-00889472-n	fra:exe	 Le professeur utilise rarement ce livre de classe.
+00889472-n	fra:exe	Le professeur utilise rarement ce livre de classe.
 02608347-v	fra:lemma	commencer
+02608347-v	fra:exe	Pour commencer tu ouvres " mon PC "...
 02608347-v	fra:exe	La séance commence à quelle heure déjà ?
 07850329-n	fra:lemma	fromage
 07850329-n	fra:exe	La France est célèbre pour ses fromages et ses vins.
 03623556-n	fra:lemma	couteau
+03623556-n	fra:lemma	couteaux (morph:pl)
 03623556-n	fra:exe	Je n'ai pas de couteau pour couper ma viande.
 03624134-n	fra:lemma	couteau
+03624134-n	fra:lemma	couteaux (morph:pl)
 03624134-n	fra:exe	Je n'ai pas de couteau pour couper ma viande.
 01776727-v	fra:lemma	détester
 01776727-v	fra:exe	Tu aimes les oignons, tandis que moi je déteste ça.
@@ -55,43 +87,85 @@
 04026417-n	fra:lemma	portefeuille
 04026417-n	fra:exe	Dans mon portefeuille, il n'y a que 10 euros.
 11456462-n	fra:lemma	beau
+11456462-n	fra:exe	Il fait beau.
+11456462-n	fra:exe	Quel beau temps !
 11456462-n	fra:exe	Il ne fait pas beau.
 07848338-n	fra:lemma	beurre
-07848338-n	fra:exe	 Dans le Nord, on cuisine au beurre, dans le Sud, on cuisine à l'huile.
+07848338-n	fra:exe	Dans le Nord, on cuisine au beurre, dans le Sud, on cuisine à l'huile.
 90000501-n	fra:lemma	l'année dernière
 90000501-n	fra:exe	C'est l'année dernière qu'elle est allée en France.
 15210870-n	fra:lemma	mars
 15210870-n	fra:exe	Nous sommes le 21 mars.
 77000072-n	fra:lemma	ici
+77000072-n	fra:exe	Qu'est-ce qui vous a amené ici ?
+77000072-n	fra:exe	Monsieur, il est interdit de fumer ici !
 77000072-n	fra:exe	Pardon, Monsieur, est-ce qu'il y a un poste de police près d'ici ?
 08489497-n	fra:lemma	ici
+08489497-n	fra:exe	Qu'est-ce qui vous a amené ici ?
+08489497-n	fra:exe	Monsieur, il est interdit de fumer ici !
 08489497-n	fra:exe	Pardon, Monsieur, est-ce qu'il y a un poste de police près d'ici ?
+03561345-n	fra:lemma	peinture
+03561345-n	fra:exe	Votre sœur s'intéresse à la peinture? - Oui, elle s'y intéresse beaucoup.
 03561345-n	fra:lemma	tableau
+03561345-n	fra:lemma	tableaux (morph:pl)
 03561345-n	fra:exe	Le tableau «Les Glaneuses» a été peint par Jean-François Millet.
+03234306-n	fra:lemma	peinture
+03234306-n	fra:exe	Votre sœur s'intéresse à la peinture? - Oui, elle s'y intéresse beaucoup.
 03234306-n	fra:lemma	tableau
+03234306-n	fra:lemma	tableaux (morph:pl)
 03234306-n	fra:exe	Le tableau «Les Glaneuses» a été peint par Jean-François Millet.
+03876519-n	fra:lemma	peinture
+03876519-n	fra:exe	Votre sœur s'intéresse à la peinture? - Oui, elle s'y intéresse beaucoup.
 03876519-n	fra:lemma	tableau
+03876519-n	fra:lemma	tableaux (morph:pl)
 03876519-n	fra:exe	Le tableau «Les Glaneuses» a été peint par Jean-François Millet.
 07110615-n	fra:lemma	voix
+07110615-n	fra:exe	J'aime la voix de ce chanteur. 
 07110615-n	fra:exe	Il parla aux enfants avec une grosse voix.
 05202284-n	fra:lemma	voix
+05202284-n	fra:exe	J'aime la voix de ce chanteur. 
 05202284-n	fra:exe	Il parla aux enfants avec une grosse voix.
+09411430-n	fra:lemma	rivière
+09411430-n	fra:exe	Avant, il allait souvent se promener au bord de la rivière. 
 09411430-n	fra:lemma	fleuve
-09411430-n	fra:exe	 Je sais nager, mais je ne peux pas nager dans ce fleuve : il y a trop de courant.
+09411430-n	fra:exe	Je sais nager, mais je ne peux pas nager dans ce fleuve : il y a trop de courant.
 15236859-n	fra:lemma	automne
+15236859-n	fra:exe	L'automne est la saison des champignons.
 15236859-n	fra:exe	En automne, il fait quel temps à Kyoto ?
+02107442-v	fra:lemma	écouter
+02107442-v	fra:exe	Gérard fait ses devoirs en écoutant son CD préféré.
+02107442-v	fra:exe	Elle aime tellement le jazz qu'elle en écoute toute la journée.
 02107442-v	fra:lemma	entendre
+02107442-v	fra:exe	entendre→entendu
+02107442-v	fra:exe	Je n'entends plus rien !
+02107442-v	fra:exe	Parlez plus fort pour qu'on puisse vous entendre.
 02107442-v	fra:exe	Hier soir, j'ai entendu un chien aboyer.
+02169891-v	fra:lemma	écouter
+02169891-v	fra:exe	Gérard fait ses devoirs en écoutant son CD préféré.
+02169891-v	fra:exe	Elle aime tellement le jazz qu'elle en écoute toute la journée.
 02169891-v	fra:lemma	entendre
+02169891-v	fra:exe	entendre→entendu
+02169891-v	fra:exe	Je n'entends plus rien !
+02169891-v	fra:exe	Parlez plus fort pour qu'on puisse vous entendre.
 02169891-v	fra:exe	Hier soir, j'ai entendu un chien aboyer.
 02242464-v	fra:lemma	vendre
+02242464-v	fra:exe	Ou alors, les vendre en pharmacie.
+02242464-v	fra:exe	Si c'est vrai, pourquoi ils vendent ça !
 02242464-v	fra:exe	Ce livre se vend très bien.
+00271022-a	fra:lemma	clair
+00271022-a	fra:exe	Il a fait un exposé dans un français très clair.
 00271022-a	fra:lemma	clair
 00271022-a	fra:exe	En Provence, le ciel est très clair.
 00396523-a	fra:lemma	clair
+00396523-a	fra:exe	Il a fait un exposé dans un français très clair.
+00396523-a	fra:lemma	clair
 00396523-a	fra:exe	En Provence, le ciel est très clair.
 00269989-a	fra:lemma	clair
+00269989-a	fra:exe	Il a fait un exposé dans un français très clair.
+00269989-a	fra:lemma	clair
 00269989-a	fra:exe	En Provence, le ciel est très clair.
+00278551-a	fra:lemma	clair
+00278551-a	fra:exe	Il a fait un exposé dans un français très clair.
 00278551-a	fra:lemma	clair
 00278551-a	fra:exe	En Provence, le ciel est très clair.
 02924116-n	fra:lemma	autobus
@@ -99,39 +173,102 @@
 01614426-v	fra:lemma	coller
 01614426-v	fra:exe	Collez un timbre sur l'enveloppe.
 80001230-x	fra:lemma	oui
+80001230-x	fra:exe	Oui ?
+80001230-x	fra:exe	 Oui, c'est ça ! 
+80001230-x	fra:exe	Oui, vous pouvez.
+80001230-x	fra:exe	 Oui, c'est obligatoire.
+80001230-x	fra:exe	Oui oui, sans problème.
+80001230-x	fra:exe	Oui, la saison est finie...
 80001230-x	fra:exe	Oui, nous partons dans deux minutes.
 01184932-a	fra:lemma	lourd
 01184932-a	fra:exe	Ce colis-ci est aussi lourd que celui-là.
 07881800-n	fra:lemma	boisson
+07881800-n	fra:exe	Bon, alors, si vous voulez, apportez une boisson.
+07881800-n	fra:lemma	boisson
 07881800-n	fra:exe	Et comme boisson ?
 01119192-a	fra:lemma	bien
+01119192-a	fra:exe	Elle chante très bien.
+01119192-a	fra:exe	 Elle joue bien aux échecs.
+01119192-a	fra:exe	Comme il nage bien !
+01119192-a	fra:exe	Et vous êtes bien rentré ?
+01119192-a	fra:exe	Je maîtrise bien Word...
 01119192-a	fra:exe	Je parle français moins bien qu'anglais. 
 02226162-a	fra:lemma	bien
+02226162-a	fra:exe	Elle chante très bien.
+02226162-a	fra:exe	 Elle joue bien aux échecs.
+02226162-a	fra:exe	Comme il nage bien !
+02226162-a	fra:exe	Et vous êtes bien rentré ?
+02226162-a	fra:exe	Je maîtrise bien Word...
 02226162-a	fra:exe	Je parle français moins bien qu'anglais. 
 01838916-a	fra:lemma	bien
+01838916-a	fra:exe	Elle chante très bien.
+01838916-a	fra:exe	 Elle joue bien aux échecs.
+01838916-a	fra:exe	Comme il nage bien !
+01838916-a	fra:exe	Et vous êtes bien rentré ?
+01838916-a	fra:exe	Je maîtrise bien Word...
 01838916-a	fra:exe	Je parle français moins bien qu'anglais. 
 03467517-n	fra:lemma	guitare
 03467517-n	fra:exe	Tu joues de la guitare ?
+03613294-n	fra:lemma	clé
+03613294-n	fra:exe	C'est toi qui a la clé de la maison ?
+01553629-a	fra:lemma	nombreux
+01553629-a	fra:lemma	nombreuse (morph:f)
+01553629-a	fra:exe	Les accidents sont de plus en plus nombreux.
 01553629-a	fra:lemma	un grand nombre de
 01553629-a	fra:exe	Il n'a pas plu depuis des mois et un grand nombre de gens sont déjà morts de soif.
+01551633-a	fra:lemma	nombreux
+01551633-a	fra:lemma	nombreuse (morph:f)
+01551633-a	fra:exe	Les accidents sont de plus en plus nombreux.
 01551633-a	fra:lemma	un grand nombre de
 01551633-a	fra:exe	Il n'a pas plu depuis des mois et un grand nombre de gens sont déjà morts de soif.
+01552419-a	fra:lemma	nombreux
+01552419-a	fra:lemma	nombreuse (morph:f)
+01552419-a	fra:exe	Les accidents sont de plus en plus nombreux.
 01552419-a	fra:lemma	un grand nombre de
 01552419-a	fra:exe	Il n'a pas plu depuis des mois et un grand nombre de gens sont déjà morts de soif.
+00127137-a	fra:lemma	vieux
+00127137-a	fra:lemma	vieille (morph:f)
+00127137-a	fra:exe	vieux → vieil → vieille(s)
+00127137-a	fra:exe	 Ce camembert est amer, il doit être trop vieux.
+00127137-a	fra:exe	Guillaume, je te présente Patrick, un vieil ami de lycée.
 00127137-a	fra:lemma	ancien
-00127137-a	fra:exe	une ancienne adresse ←→ un château ancien
+00127137-a	fra:exe	ancien → ancienne
+00127137-a	fra:exe	une ancienne adresse ←→ un château ancie
+01638438-a	fra:lemma	vieux
+01638438-a	fra:lemma	vieille (morph:f)
+01638438-a	fra:exe	vieux → vieil → vieille(s)
+01638438-a	fra:exe	 Ce camembert est amer, il doit être trop vieux.
+01638438-a	fra:exe	Guillaume, je te présente Patrick, un vieil ami de lycée.
 01638438-a	fra:lemma	ancien
-01638438-a	fra:exe	une ancienne adresse ←→ un château ancien
+01638438-a	fra:exe	ancien → ancienne
+01638438-a	fra:exe	une ancienne adresse ←→ un château ancie
+01729384-a	fra:lemma	vieux
+01729384-a	fra:lemma	vieille (morph:f)
+01729384-a	fra:exe	vieux → vieil → vieille(s)
+01729384-a	fra:exe	 Ce camembert est amer, il doit être trop vieux.
+01729384-a	fra:exe	Guillaume, je te présente Patrick, un vieil ami de lycée.
 01729384-a	fra:lemma	ancien
-01729384-a	fra:exe	une ancienne adresse ←→ un château ancien
+01729384-a	fra:exe	ancien → ancienne
+01729384-a	fra:exe	une ancienne adresse ←→ un château ancie
+10694258-n	fra:lemma	instituteur
+10694258-n	fra:lemma	institutrice (morph:f)
+10694258-n	fra:exe	Le directeur de l'école a présenté le nouvel instituteur aux enfants.
+10694258-n	fra:lemma	professeur
+10694258-n	fra:exe	Ce professeur laisse dormir ses étudiants.
+10694258-n	fra:exe	 Moi, je suis professeur, et vous, qu'est-ce que vous faites dans la vie ?
 10694258-n	fra:lemma	enseignant
 10694258-n	fra:exe	Martine veut deveniｒ enseignante.
 07859284-n	fra:lemma	sucre
 07859284-n	fra:exe	Le sucre lui est interdit.
 09605289-n	fra:lemma	adulte
+09605289-n	fra:exe	Les adultes sont un modèle pour les enfants.
+09605289-n	fra:exe	(Au cinéma) Quatre places s'il vous plaît. Deux adultes et deux enfants.
 09605289-n	fra:exe	Vous ne pouvez pas entrer, ce film est réservé aux plus de dix-huit ans.
 04081281-n	fra:lemma	restaurant
+04081281-n	fra:exe	C'est le restaurant le moins cher de Paris.
 04081281-n	fra:exe	 Vous êtes déjà allé dans un grand restaurant ?
+04081281-n	fra:lemma	cantine
+04081281-n	fra:exe	Les enfants mangent à la cantine.
 04081281-n	fra:lemma	salle à manger
 04081281-n	fra:exe	La salle à manger est à côté de la salle de bain.
 10448983-n	fra:lemma	policier
@@ -141,105 +278,243 @@
 90000507-n	fra:lemma	cette semaine
 90000507-n	fra:exe	Je n'ai pas de temps cette semaine.
 02686568-n	fra:lemma	avion
+02686568-n	fra:exe	Un billet d'avion pour le Japon ? 
+02686568-n	fra:exe	Elle est venue en TGV, pas en avion.
 02686568-n	fra:exe	L'avion décollera à seize heures.
 02691156-n	fra:lemma	avion
+02691156-n	fra:exe	Un billet d'avion pour le Japon ? 
+02691156-n	fra:exe	Elle est venue en TGV, pas en avion.
 02691156-n	fra:exe	L'avion décollera à seize heures.
 08420278-n	fra:lemma	banque
 08420278-n	fra:exe	Je dois passer à la banque parce que je n'ai plus d'argent.
 02787772-n	fra:lemma	banque
 02787772-n	fra:exe	Je dois passer à la banque parce que je n'ai plus d'argent.
 02018049-v	fra:lemma	monter
+02324026-v	fra:lemma	louer
+02324026-v	fra:exe	J'ai l'intention de louer un cheval.
 02324026-v	fra:lemma	emprunter
 02324026-v	fra:exe	Je ne sais plus à qui j'ai emprunté ce livre.
 01447257-v	fra:lemma	pousser
+01447257-v	fra:exe	Ne poussez pas, il y a de la place pour tout le monde.
 01447257-v	fra:exe	Poussez sur ce bouton pour démarrer.
+02398378-a	fra:lemma	piquant
+02398378-a	fra:exe	Vous savez que la cuisine indienne est une cuisine très piquante? - Oui, je le sais.
 02398378-a	fra:lemma	épicé
+02398378-a	fra:exe	Je n'aime pas trop les choses épicées.
+02398378-a	fra:exe	 Tu préférerais peut-être quelque chose de plus épicé ?
 02398378-a	fra:exe	La cuisine indienne est très épicée.
+02397732-a	fra:lemma	piquant
+02397732-a	fra:exe	Vous savez que la cuisine indienne est une cuisine très piquante? - Oui, je le sais.
 02397732-a	fra:lemma	épicé
+02397732-a	fra:exe	Je n'aime pas trop les choses épicées.
+02397732-a	fra:exe	 Tu préférerais peut-être quelque chose de plus épicé ?
 02397732-a	fra:exe	La cuisine indienne est très épicée.
 06628228-n	fra:lemma	carte postale
 06628228-n	fra:exe	Envoie-nous au moins une carte postale pendant les vacances.
 06627938-n	fra:lemma	carte postale
 06627938-n	fra:exe	Envoie-nous au moins une carte postale pendant les vacances.
+03959485-n	fra:lemma	assiette
+03959485-n	fra:exe	Elle a cassé une assiette.
 03959485-n	fra:lemma	plat
+03959485-n	fra:exe	Qu'est-ce que vous choisissez comme plat principal?
 03959485-n	fra:exe	Et comme plat principal ?
 00393105-a	fra:lemma	blanc
+00393105-a	fra:lemma	blanche (morph:f)
+00393105-a	fra:exe	blanc → blanche
 00393105-a	fra:exe	On boit du vin blanc en mangeant du poisson.
 08625073-n	fra:lemma	droit
 08625073-n	fra:exe	Tu regarderas à droite et à gauche avant de traverser.
 03051540-n	fra:lemma	vêtement
-03051540-n	fra:exe	 L'odeur de tabac tient longtemps sur les vêtements.
+03051540-n	fra:exe	L'odeur de tabac tient longtemps sur les vêtements.
 02728440-n	fra:lemma	vêtement
-02728440-n	fra:exe	 L'odeur de tabac tient longtemps sur les vêtements.
+02728440-n	fra:exe	L'odeur de tabac tient longtemps sur les vêtements.
 02728440-n	fra:lemma	vêtement
 03419014-n	fra:lemma	vêtement
-03419014-n	fra:exe	 L'odeur de tabac tient longtemps sur les vêtements.
+03419014-n	fra:exe	L'odeur de tabac tient longtemps sur les vêtements.
 15165289-n	fra:lemma	matin
 15165289-n	fra:exe	Amélie se lève très tôt tous les matins.
+15165289-n	fra:lemma	matin
+15165289-n	fra:exe	Il était quatre heures du matin au Japon, c'est pour ça que je n'ai eu personne au téléphone.
 15165289-n	fra:lemma	matinée
 15165289-n	fra:exe	Je voudrais prendre un rendez-vous dans la matinée.
 00109151-r	fra:lemma	là
+00109151-r	fra:exe	Dans ce cas-là, d'accord...
 00109151-r	fra:exe	Ils sont marrants, ces gens-là !
+03720163-n	fra:lemma	carte
+03720163-n	fra:exe	Pardon, j'ai perdu ma carte Visa ici.
 03720163-n	fra:lemma	plan
+03720163-n	fra:exe	un plan de Paris
 03720163-n	fra:exe	Vous avez un plan de Paris ? - Oui, Madame. Voilà.
+00024996-a	fra:lemma	nouveau
+00024996-a	fra:lemma	nouveaux (morph:pl)
+00024996-a	fra:lemma	nouvelle (morph:f)
+00024996-a	fra:exe	Le nouveau locataire du 5ème.
 00024996-a	fra:lemma	neuf
+00024996-a	fra:lemma	neuve (morph:f)
 00024996-a	fra:exe	Vous voulez acheter une voiture neuve ou d'occasion ?
+01642477-a	fra:lemma	nouveau
+01642477-a	fra:lemma	nouveaux (morph:pl)
+01642477-a	fra:lemma	nouvelle (morph:f)
+01642477-a	fra:exe	Le nouveau locataire du 5ème.
 01642477-a	fra:lemma	neuf
+01642477-a	fra:lemma	neuve (morph:f)
 01642477-a	fra:exe	Vous voulez acheter une voiture neuve ou d'occasion ?
+01641648-a	fra:lemma	nouveau
+01641648-a	fra:lemma	nouveaux (morph:pl)
+01641648-a	fra:lemma	nouvelle (morph:f)
+01641648-a	fra:exe	Le nouveau locataire du 5ème.
 01641648-a	fra:lemma	neuf
+01641648-a	fra:lemma	neuve (morph:f)
 01641648-a	fra:exe	Vous voulez acheter une voiture neuve ou d'occasion ?
+01687167-a	fra:lemma	nouveau
+01687167-a	fra:lemma	nouveaux (morph:pl)
+01687167-a	fra:lemma	nouvelle (morph:f)
+01687167-a	fra:exe	Le nouveau locataire du 5ème.
 01687167-a	fra:lemma	neuf
+01687167-a	fra:lemma	neuve (morph:f)
 01687167-a	fra:exe	Vous voulez acheter une voiture neuve ou d'occasion ?
+02584699-a	fra:lemma	nouveau
+02584699-a	fra:lemma	nouveaux (morph:pl)
+02584699-a	fra:lemma	nouvelle (morph:f)
+02584699-a	fra:exe	Le nouveau locataire du 5ème.
 02584699-a	fra:lemma	neuf
+02584699-a	fra:lemma	neuve (morph:f)
 02584699-a	fra:exe	Vous voulez acheter une voiture neuve ou d'occasion ?
+01686439-a	fra:lemma	nouveau
+01686439-a	fra:lemma	nouveaux (morph:pl)
+01686439-a	fra:lemma	nouvelle (morph:f)
+01686439-a	fra:exe	Le nouveau locataire du 5ème.
 01686439-a	fra:lemma	neuf
+01686439-a	fra:lemma	neuve (morph:f)
 01686439-a	fra:exe	Vous voulez acheter une voiture neuve ou d'occasion ?
+02070491-a	fra:lemma	nouveau
+02070491-a	fra:lemma	nouveaux (morph:pl)
+02070491-a	fra:lemma	nouvelle (morph:f)
+02070491-a	fra:exe	Le nouveau locataire du 5ème.
 02070491-a	fra:lemma	neuf
+02070491-a	fra:lemma	neuve (morph:f)
 02070491-a	fra:exe	Vous voulez acheter une voiture neuve ou d'occasion ?
+02013758-a	fra:lemma	nouveau
+02013758-a	fra:lemma	nouveaux (morph:pl)
+02013758-a	fra:lemma	nouvelle (morph:f)
+02013758-a	fra:exe	Le nouveau locataire du 5ème.
 02013758-a	fra:lemma	neuf
+02013758-a	fra:lemma	neuve (morph:f)
 02013758-a	fra:exe	Vous voulez acheter une voiture neuve ou d'occasion ?
+01640850-a	fra:lemma	nouveau
+01640850-a	fra:lemma	nouveaux (morph:pl)
+01640850-a	fra:lemma	nouvelle (morph:f)
+01640850-a	fra:exe	Le nouveau locataire du 5ème.
 01640850-a	fra:lemma	neuf
+01640850-a	fra:lemma	neuve (morph:f)
 01640850-a	fra:exe	Vous voulez acheter une voiture neuve ou d'occasion ?
 00894552-n	fra:lemma	exercice
 00894552-n	fra:exe	Tu as fini ton exercice de français ?
+01292683-a	fra:lemma	aimer
+01292683-a	fra:exe	Je l'aime bien.
+01292683-a	fra:exe	 Oh oui, j'aime bien.
+01292683-a	fra:exe	J'aime bien ce quartier.
+01292683-a	fra:exe	 Je n'aime pas tellement ça.
+01292683-a	fra:exe	Je n'aime pas les oranges.
+01292683-a	fra:exe	 Tu aimes ça ?
+01292683-a	fra:exe	 Tu aimes la cuisine japonaise ?
+01292683-a	fra:exe	 Qu'est-ce que vous aimez faire comme activités ?
+01292683-a	fra:exe	Vous aimez le melon?
+01292683-a	fra:exe	Vous aimez les oranges?
+01292683-a	fra:lemma	préférer
+01292683-a	fra:exe	Mon plat préféré ?
+01292683-a	fra:exe	 Tu préférerais peut-être quelque chose de plus épicé ?
 01292683-a	fra:lemma	plaire
+01292683-a	fra:exe	Quelqu'un qui me plaît !
 01292683-a	fra:exe	Ce qui me plaît le plus, dans le sport, c'est le football.
+01777210-v	fra:lemma	aimer
+01777210-v	fra:exe	Je l'aime bien.
+01777210-v	fra:exe	 Oh oui, j'aime bien.
+01777210-v	fra:exe	J'aime bien ce quartier.
+01777210-v	fra:exe	 Je n'aime pas tellement ça.
+01777210-v	fra:exe	Je n'aime pas les oranges.
+01777210-v	fra:exe	 Tu aimes ça ?
+01777210-v	fra:exe	 Tu aimes la cuisine japonaise ?
+01777210-v	fra:exe	 Qu'est-ce que vous aimez faire comme activités ?
+01777210-v	fra:exe	Vous aimez le melon?
+01777210-v	fra:exe	Vous aimez les oranges?
+01777210-v	fra:lemma	préférer
+01777210-v	fra:exe	Mon plat préféré ?
+01777210-v	fra:exe	 Tu préférerais peut-être quelque chose de plus épicé ?
 01777210-v	fra:lemma	plaire
+01777210-v	fra:exe	Quelqu'un qui me plaît !
 01777210-v	fra:exe	Ce qui me plaît le plus, dans le sport, c'est le football.
 03038685-n	fra:lemma	classe
 00296131-r	fra:lemma	peut-être
+00296131-r	fra:exe	Peut-être le lapin aux olives.
 00296131-r	fra:exe	 Tu préférerais peut-être quelque chose de plus épicé ?
 00154449-r	fra:lemma	peut-être
+00154449-r	fra:exe	Peut-être le lapin aux olives.
 00154449-r	fra:exe	 Tu préférerais peut-être quelque chose de plus épicé ?
+03001627-n	fra:lemma	chaise
+03001627-n	fra:exe	la chaise
+03001627-n	fra:exe	les chaises
+03001627-n	fra:exe	Apportez d'autres chaises pour que tout le monde puisse s'asseoir.
 03001627-n	fra:lemma	fauteuil
 03001627-n	fra:exe	Ce fauteuil n'est pas très confortable.
 01914947-v	fra:lemma	courir
+01914947-v	fra:exe	Ma fille court le plus vite de la famille.
 01914947-v	fra:exe	Ma fille court beaucoup plus vite que moi.
 01926311-v	fra:lemma	courir
+01926311-v	fra:exe	Ma fille court le plus vite de la famille.
 01926311-v	fra:exe	Ma fille court beaucoup plus vite que moi.
 02005496-v	fra:lemma	rentrer
 02005496-v	fra:exe	Il n'a pas bu. Ainsi il a pu conduire pour rentrer chez lui.
 04379243-n	fra:lemma	table
+04379243-n	fra:exe	une table ronde
 04379243-n	fra:exe	Passez-moi le poivre qui est sur la table.
 04298308-n	fra:lemma	escalier
 04298308-n	fra:exe	Vous montez l'escalier jusqu'au deuxième étage, et c'est la deuxième porte à droite.
 00037919-v	fra:lemma	prendre
+00037919-v	fra:exe	Tu es vraiment sale, tu devrais prendre une douche.
 00037919-v	fra:exe	 Oui, mais juste pour prendre l'air...
+01532589-v	fra:lemma	faire le ménage
+01532589-v	fra:exe	François fait le ménage et la cuisine.
 01532589-v	fra:lemma	nettoyer
+01532589-v	fra:exe	La chambre est très sale, je vais la nettoyer.
+01532589-v	fra:exe	Il faut nettoyer le frigo de temps en temps.
 01532589-v	fra:exe	Avant un entretien d'embauche, nettoyez bien vos ongles. 
+01533442-v	fra:lemma	faire le ménage
+01533442-v	fra:exe	François fait le ménage et la cuisine.
 01533442-v	fra:lemma	nettoyer
+01533442-v	fra:exe	La chambre est très sale, je vais la nettoyer.
+01533442-v	fra:exe	Il faut nettoyer le frigo de temps en temps.
 01533442-v	fra:exe	Avant un entretien d'embauche, nettoyez bien vos ongles. 
 07663592-n	fra:lemma	bœuf
+07663592-n	fra:exe	Mais je le souhaiterais sans viande de bœuf .
 07663592-n	fra:exe	bœuf → bœufs
+08182962-n	fra:lemma	beaucoup de gens
+08182962-n	fra:exe	Dans le monde, un grand nombre de gens parlent l'anglais.
+08182962-n	fra:exe	Il n'a pas plu depuis des mois et beaucoup de gens sont déjà morts de soif.
 08182962-n	fra:lemma	un grand nombre de
 08182962-n	fra:exe	Dans le monde, un grand nombre de gens parlent le français.
+08182379-n	fra:lemma	beaucoup de gens
+08182379-n	fra:exe	Dans le monde, un grand nombre de gens parlent l'anglais.
+08182379-n	fra:exe	Il n'a pas plu depuis des mois et beaucoup de gens sont déjà morts de soif.
 08182379-n	fra:lemma	un grand nombre de
 08182379-n	fra:exe	Dans le monde, un grand nombre de gens parlent le français.
 80000079-n	fra:lemma	le mois dernier
 80000079-n	fra:exe	J'ai vu Valérie le mois dernier.
+10020890-n	fra:lemma	médecin
+10020890-n	fra:lemma	ない (morph:f)
+10020890-n	fra:exe	Tu vas chez le médecin.
+10020890-n	fra:exe	Vous êtes médecin?
+10020890-n	fra:exe	Je me suis fait examiner par le médecin.
 10020890-n	fra:lemma	docteur
+10020890-n	fra:exe	Bonjour, Docteur !
 10020890-n	fra:exe	En effet, ça a été très efficace, Docteur !
+10305802-n	fra:lemma	médecin
+10305802-n	fra:lemma	ない (morph:f)
+10305802-n	fra:exe	Tu vas chez le médecin.
+10305802-n	fra:exe	Vous êtes médecin?
+10305802-n	fra:exe	Je me suis fait examiner par le médecin.
 10305802-n	fra:lemma	docteur
+10305802-n	fra:exe	Bonjour, Docteur !
 10305802-n	fra:exe	En effet, ça a été très efficace, Docteur !
 03710193-n	fra:lemma	boîte à lettre
 03710193-n	fra:exe	J'ai oublié de mettre la clef dans la boîte à lettre.
@@ -248,8 +523,9 @@
 15136147-n	fra:lemma	semaine
 15169873-n	fra:lemma	semaine
 15211806-n	fra:lemma	juin
-15211806-n	fra:exe	La saison des pluies commence en juin
+15211806-n	fra:exe	La saison des pluies commence en jui
 04489008-n	fra:lemma	pantalon
+04489008-n	fra:exe	Je cherche un pantalon.
 04489008-n	fra:exe	 Je voudrais échanger ce pantalon, s'il vous plaît. Il est trop petit.
 04230808-n	fra:lemma	jupe
 04230808-n	fra:exe	C'est combien, cette jupe?
@@ -257,43 +533,70 @@
 08544813-n	fra:exe	un pays très chaud
 08490199-n	fra:lemma	pays
 08490199-n	fra:exe	un pays très chaud
+00081737-r	fra:lemma	tous les ans
+00081737-r	fra:exe	Elle va en France tous les ans.
 00081737-r	fra:lemma	chaque année
 00081737-r	fra:exe	Elle va en France chaque année.
 05538625-n	fra:lemma	tête
+05538625-n	fra:exe	J'ai mal à la tête.
+05538625-n	fra:exe	Tu as mal à la tête?
+05538625-n	fra:exe	Vous avez mal à la tête?
 05538625-n	fra:exe	Mais, pourquoi tu me prends la tête comme ça ?
 02418686-v	fra:lemma	jouer
+02418686-v	fra:exe	Vous jouez au tennis ?
+02418686-v	fra:exe	S'il n'avait pas plu, on aurait joué au tennis.
 02418686-v	fra:exe	Les échecs japonais ? Oui, je connais. Je sais jouer.
 04965661-n	fra:lemma	jaune
+04965661-n	fra:exe	Du jaune avec du bleu, cela fait du vert.
 04965661-n	fra:exe	Si tu mélanges du jaune et du bleu, tu as du vert.
 02561888-a	fra:lemma	étroit
 02561888-a	fra:exe	Je crois que j'ai acheté des chaussures trop étroites.
 00476663-a	fra:lemma	étroit
 00476663-a	fra:exe	Je crois que j'ai acheté des chaussures trop étroites.
 00009966-r	fra:lemma	s'il vous plaît
+00009966-r	fra:exe	Un peu de silence, s'il vous plaît !
+00009966-r	fra:exe	Monsieur, parlez plus fort, s'il vous plaît !
 00009966-r	fra:exe	Tu peux répéter, s'il te plaît ?
+00009966-r	fra:lemma	s'il vous plaît
+00009966-r	fra:exe	Je voudrais un kilo de fraises, s'il vous plaît.
+00009966-r	fra:exe	Donnez-moi un croissant s'il vous plaît.
 00009966-r	fra:lemma	je vous en prie
 00009966-r	fra:exe	Mais je vous en prie !
 10103485-n	fra:lemma	étranger
+10103485-n	fra:lemma	étrangère (morph:f)
 10103485-n	fra:exe	étranger → étrangère
 02958343-n	fra:lemma	voiture
+02958343-n	fra:exe	Ta voiture est la meilleure du monde.
+02958343-n	fra:exe	 Une panne de voiture m'a empêché de partir.
 02958343-n	fra:exe	Vous pouvez me prêter votre voiture? La mienne est en panne.
 03924069-n	fra:lemma	disque
 03924069-n	fra:exe	Je viens de m'acheter un CD de musique classique.
 10332385-n	fra:lemma	mère
-10332385-n	fra:exe	 Elle a été une bonne mère et une bonne épouse.
+10332385-n	fra:exe	Elle a été une bonne mère et une bonne épouse.
 10332385-n	fra:lemma	mère
 10332385-n	fra:exe	Je suis la mère de Monique.
 02410855-v	fra:lemma	travailler
+02410855-v	fra:exe	Dites-moi, vous travaillez vraiment beaucoup ?
+02410855-v	fra:exe	 Travaillez moins, et ça ira beaucoup mieux.
+02410855-v	fra:exe	Monsieur Dupic, je travaille ici depuis 20 ans !
+02410855-v	fra:exe	Il y a deux ans qu'il travaille dans ce bureau.
+02410855-v	fra:exe	Oui, tu sais, maintenant je travaille chez Nissan !
 02410855-v	fra:exe	Tu travailles le samedi? -Mais non, je ne travaille jamais le samedi.
 07668702-n	fra:lemma	porc
 07668702-n	fra:exe	Une tranche de rôti de porc, s'il vous plaît.
+00081836-n	fra:lemma	courses
+00081836-n	fra:exe	Moi, je fais les courses et la cuisine...
 00081836-n	fra:lemma	achat
 00081836-n	fra:exe	Attends-moi un moment, j'ai un petit achat à faire.
+04203889-n	fra:lemma	courses
+04203889-n	fra:exe	Moi, je fais les courses et la cuisine...
 04203889-n	fra:lemma	achat
 04203889-n	fra:exe	Attends-moi un moment, j'ai un petit achat à faire.
 13836136-n	fra:lemma	ouest
 13836136-n	fra:exe	La France est à l'ouest de l'Allemagne.
 02368336-a	fra:lemma	doux
+02368336-a	fra:lemma	douce (morph:f)
+02368336-a	fra:exe	doux → douce
 02368336-a	fra:exe	Cette musique est très douce.
 04254777-n	fra:lemma	chaussette
 04254777-n	fra:exe	J'ai perdu une paire de chaussettes.
@@ -303,53 +606,118 @@
 01846916-v	fra:exe	Tu voyageras comment, une fois sur place ?
 01845720-v	fra:lemma	voyager
 01845720-v	fra:exe	Tu voyageras comment, une fois sur place ?
+00061203-r	fra:lemma	derrière
 00061203-r	fra:lemma	après
+00061203-r	fra:exe	Il veut partir après Noël.
+00061203-r	fra:exe	La lumière est belle après l'orage.
+00061203-r	fra:exe	Et le film, 15 minutes après.
 00061203-r	fra:exe	Après mon examen, je partirai en voyage.
+10112591-n	fra:lemma	ami
+10112591-n	fra:exe	ami → amie
+10112591-n	fra:exe	les amis
+10112591-n	fra:exe	 C'est un ami à moi.
+10112591-n	fra:exe	C'est pour l'anniversaire d'une amie.
+10112591-n	fra:exe	Guillaume, je te présente Patrick, un vieil ami de lycée.
+10112591-n	fra:exe	Et après, j'ai rencontré par hasard une amie très bavarde, et alors...
 10112591-n	fra:lemma	copain
-10112591-n	fra:exe	 Il a fini de manger, quand son copain est venu le voir.
+10112591-n	fra:lemma	copine (morph:f)
+10112591-n	fra:exe	Il a fini de manger, quand son copain est venu le voir.
 08588294-n	fra:lemma	dedans
 08588294-n	fra:exe	Comment on va entrer dedans ? 
 08588152-n	fra:lemma	dedans
 08588152-n	fra:exe	Comment on va entrer dedans ? 
 77000021-n	fra:lemma	tu
+77000021-n	fra:exe	Tu es prise?
+77000021-n	fra:exe	Tu plaisantes ?
 77000021-n	fra:exe	 Toi aussi, tu aimes le tennis?
 77000021-n	fra:lemma	vous
+77000021-n	fra:exe	Où est-ce que vous habitez?
+77000021-n	fra:exe	Tiens tiens, vous êtes Français ?
 77000021-n	fra:exe	 Vous avez parfaitement raison.
 02771169-v	fra:lemma	il fait beau
+02771169-v	fra:exe	Il fait beau.
 02771169-v	fra:exe	Il ne fait pas beau.
+77000061-a	fra:lemma	ce
+77000061-a	fra:exe	C'est à vous?
+77000061-a	fra:exe	À cette heure-ci ?
+77000061-a	fra:exe	 Ce chapeau me plaît beaucoup.
+77000061-a	fra:exe	 Ce film commence à six heures et finit à huit heures et demie.
+77000061-a	fra:exe	 Ce livre vient juste de sortir.
+77000061-a	fra:exe	 Vous devez finir ce travail avant lundi.
+77000061-a	fra:exe	Bon, je prends ce pantalon.
+77000061-a	fra:exe	Ces cahiers coûtent trois euros chaque.
+77000061-a	fra:exe	 Dans cet ordre !
 77000061-a	fra:lemma	ce ...-ci
-77000061-a	fra:exe	À cette heure-ci ?　C'est bizarre!
+77000061-a	fra:exe	Mais ce manteau-ci est pour femme?
+77000061-a	fra:exe	Je prends ce sac-ci.
+77000061-a	fra:exe	À cette heure-ci ? C'est bizarre!
+80001619-a	fra:lemma	ce
+80001619-a	fra:exe	C'est à vous?
+80001619-a	fra:exe	À cette heure-ci ?
+80001619-a	fra:exe	 Ce chapeau me plaît beaucoup.
+80001619-a	fra:exe	 Ce film commence à six heures et finit à huit heures et demie.
+80001619-a	fra:exe	 Ce livre vient juste de sortir.
+80001619-a	fra:exe	 Vous devez finir ce travail avant lundi.
+80001619-a	fra:exe	Bon, je prends ce pantalon.
+80001619-a	fra:exe	Ces cahiers coûtent trois euros chaque.
+80001619-a	fra:exe	 Dans cet ordre !
 80001619-a	fra:lemma	ce ...-ci
-80001619-a	fra:exe	À cette heure-ci ?　C'est bizarre!
+80001619-a	fra:exe	Mais ce manteau-ci est pour femme?
+80001619-a	fra:exe	Je prends ce sac-ci.
+80001619-a	fra:exe	À cette heure-ci ? C'est bizarre!
+77000075-a	fra:lemma	ce
+77000075-a	fra:exe	C'est à vous?
+77000075-a	fra:exe	À cette heure-ci ?
+77000075-a	fra:exe	 Ce chapeau me plaît beaucoup.
+77000075-a	fra:exe	 Ce film commence à six heures et finit à huit heures et demie.
+77000075-a	fra:exe	 Ce livre vient juste de sortir.
+77000075-a	fra:exe	 Vous devez finir ce travail avant lundi.
+77000075-a	fra:exe	Bon, je prends ce pantalon.
+77000075-a	fra:exe	Ces cahiers coûtent trois euros chaque.
+77000075-a	fra:exe	 Dans cet ordre !
 77000075-a	fra:lemma	ce ...-ci
-77000075-a	fra:exe	À cette heure-ci ?　C'est bizarre!
+77000075-a	fra:exe	Mais ce manteau-ci est pour femme?
+77000075-a	fra:exe	Je prends ce sac-ci.
+77000075-a	fra:exe	À cette heure-ci ? C'est bizarre!
 04018667-n	fra:lemma	toilettes
 04018667-n	fra:exe	Où sont les toilettes s'il vous plaît ?
 08649345-n	fra:lemma	largeur
 08649345-n	fra:exe	L’allée principale, conduisant à la maison, a une largeur de 150 cm.
 08649345-n	fra:lemma	près de
+08649345-n	fra:lemma	voisin
+08649345-n	fra:exe	L'appartement voisin est libre.
+08649345-n	fra:exe	Il y a deux enfants qui jouent dans la pièce voisine.
 08649345-n	fra:lemma	côté
+08649345-n	fra:exe	À côté du Centre Pompidou, nous avons écouté un musicien jouer un morceau de Mozart.
 08649345-n	fra:exe	Ce que nous pouvons vous proposer, c'est un grand appartement. Juste à côté du parc.
 05136150-n	fra:lemma	largeur
 05136150-n	fra:exe	L’allée principale, conduisant à la maison, a une largeur de 150 cm.
 15211484-n	fra:lemma	mai
+15211484-n	fra:exe	Mai est le mois des révolutions.
 15211484-n	fra:exe	Le 1er mai, c'est la fête du Travail.
 05563770-n	fra:lemma	bras
+05563770-n	fra:exe	le bras
+05563770-n	fra:exe	les bras
 05563770-n	fra:exe	Il a mal aux bras.
 15165490-n	fra:lemma	midi
 15165490-n	fra:exe	Il est midi, on va aller déjeuner.
 04272054-n	fra:lemma	lunettes
 04272054-n	fra:exe	Vous préférez mettre des lunettes ou des lentilles ?
 80000746-n	fra:lemma	charactère chinois
+80000746-n	fra:exe	Pour lire le japonais, il faut apprendre les caractères chinois. 
 80000746-n	fra:exe	Comment s'écrit votre prénom en caractères chinois?
 10287213-n	fra:lemma	homme
 10287213-n	fra:exe	un homme
 09624168-n	fra:lemma	homme
 09624168-n	fra:exe	un homme
 15164105-n	fra:lemma	mardi
+15164105-n	fra:exe	Tu peux venir chez moi mardi prochain?
 15164105-n	fra:exe	Dites à Mireille qu'elle aille le voir mardi prochain.
 77000099-n	fra:lemma	tout le monde
+77000099-n	fra:exe	Tout le monde fait comme ça.
 77000099-n	fra:exe	Cette actrice est connue de tout le monde.
+00479391-v	fra:lemma	éteindre
+00479391-v	fra:exe	Les pompiers ont réussi à éteindre l'incendie.
 00479391-v	fra:lemma	effacer
 00479391-v	fra:exe	Efface ces mots.
 03238879-n	fra:lemma	chemise
@@ -358,45 +726,80 @@
 08489627-n	fra:lemma	là-bas
 08489627-n	fra:exe	Vous voyez la maison là-bas?
 01168468-v	fra:lemma	manger
+01168468-v	fra:exe	je mange, tu manges, il mange, nous mangeons, vous mangez, ils mangent
+01168468-v	fra:exe	Eh bien, ils ne mangent que de la viande, et ils se portent très bien.
+01168468-v	fra:exe	 - Qu'est-ce que tu as mangé ce matin ? - Un pamplemousse et des tartines.
 01168468-v	fra:exe	Vous avez déjà mangé du tôfu ? -Oui, j'en ai déjà mangé.
 01166351-v	fra:lemma	manger
+01166351-v	fra:exe	je mange, tu manges, il mange, nous mangeons, vous mangez, ils mangent
+01166351-v	fra:exe	Eh bien, ils ne mangent que de la viande, et ils se portent très bien.
+01166351-v	fra:exe	 - Qu'est-ce que tu as mangé ce matin ? - Un pamplemousse et des tartines.
 01166351-v	fra:exe	Vous avez déjà mangé du tôfu ? -Oui, j'en ai déjà mangé.
 01179865-v	fra:lemma	manger
+01179865-v	fra:exe	je mange, tu manges, il mange, nous mangeons, vous mangez, ils mangent
+01179865-v	fra:exe	Eh bien, ils ne mangent que de la viande, et ils se portent très bien.
+01179865-v	fra:exe	 - Qu'est-ce que tu as mangé ce matin ? - Un pamplemousse et des tartines.
 01179865-v	fra:exe	Vous avez déjà mangé du tôfu ? -Oui, j'en ai déjà mangé.
 15122231-n	fra:lemma	quand
+15122231-n	fra:exe	Et vous, quand vous y êtes allé, ça s'est passé comment ?
 15122231-n	fra:exe	Quand vous m'avez téléphoné, j'étais sorti.
 02818832-n	fra:lemma	lit
 02818832-n	fra:exe	Au lit.
 90000503-n	fra:lemma	l'année prochaine
 90000503-n	fra:exe	Je ne serai plus en France l'année prochaine.
 08168367-n	fra:lemma	étranger
+08168367-n	fra:exe	Parlez-vous des langues étrangères ?
 08168367-n	fra:exe	 J'ai vu par hasard l'équipe nationale de foot qui revenait de l'une tournée à l'étranger.
 02560548-a	fra:lemma	large
 02560548-a	fra:exe	Les Champs-Elysées sont une avenue très large.
 01384212-a	fra:lemma	large
 01384212-a	fra:exe	Les Champs-Elysées sont une avenue très large.
 01031256-v	fra:lemma	sortir
-01031256-v	fra:exe	 Elle a sorti un petit carnet de son sac.
+01031256-v	fra:exe	Elle a sorti un petit carnet de son sac.
 01995211-v	fra:lemma	sortir
-01995211-v	fra:exe	 Elle a sorti un petit carnet de son sac.
+01995211-v	fra:exe	Elle a sorti un petit carnet de son sac.
 00255710-n	fra:lemma	lessive
+00255710-n	fra:exe	La lessive me prend beaucoup de temps.
 00255710-n	fra:exe	La lessive est une tâche ménagère importante.
+07110457-n	fra:lemma	conversation
+07110457-n	fra:exe	Le cours de conversation est-il vraiment obligatoire ?
 07110457-n	fra:lemma	histoire
+07110457-n	fra:exe	une vraie histoire
 07110457-n	fra:exe	J'ai son mari en histoire de l'art.
+00893243-n	fra:lemma	conversation
+00893243-n	fra:exe	Le cours de conversation est-il vraiment obligatoire ?
 00893243-n	fra:lemma	histoire
+00893243-n	fra:exe	une vraie histoire
 00893243-n	fra:exe	J'ai son mari en histoire de l'art.
+07221094-n	fra:lemma	conversation
+07221094-n	fra:exe	Le cours de conversation est-il vraiment obligatoire ?
 07221094-n	fra:lemma	histoire
+07221094-n	fra:exe	une vraie histoire
 07221094-n	fra:exe	J'ai son mari en histoire de l'art.
+07139316-n	fra:lemma	conversation
+07139316-n	fra:exe	Le cours de conversation est-il vraiment obligatoire ?
 07139316-n	fra:lemma	histoire
+07139316-n	fra:exe	une vraie histoire
 07139316-n	fra:exe	J'ai son mari en histoire de l'art.
 00031798-r	fra:lemma	déjà
+00031798-r	fra:exe	Déjà ?
+00031798-r	fra:exe	Il dort déjà.
+00031798-r	fra:exe	J'ai déjà vu ça quelque part.
+00031798-r	fra:exe	 Vous êtes déjà allé en Afrique ?
+00031798-r	fra:exe	Tu les as déjà finis, tes devoirs?
 00031798-r	fra:exe	 Vous êtes déjà allé dans un grand restaurant ?
 07555863-n	fra:lemma	aliment
+07555863-n	fra:exe	Le soja est un aliment très complet.
 07555863-n	fra:exe	Le médecin lui a interdit certains aliments.
 07560652-n	fra:lemma	aliment
+07560652-n	fra:exe	Le soja est un aliment très complet.
 07560652-n	fra:exe	Le médecin lui a interdit certains aliments.
+00157412-r	fra:lemma	de temps en temps
+00157412-r	fra:exe	Vous parlez bien le japonais, mais de temps en temps vous faites des fautes.
 00157412-r	fra:lemma	quelquefois
 00157412-r	fra:exe	En janvier, il neige quelquefois à Tokyo. 
+00021212-r	fra:lemma	de temps en temps
+00021212-r	fra:exe	Vous parlez bien le japonais, mais de temps en temps vous faites des fautes.
 00021212-r	fra:lemma	quelquefois
 00021212-r	fra:exe	En janvier, il neige quelquefois à Tokyo. 
 03740161-n	fra:lemma	médicament
@@ -408,6 +811,7 @@
 02314584-a	fra:lemma	droite
 02314584-a	fra:exe	La route est toute droite.
 10787470-n	fra:lemma	femme
+10787470-n	fra:exe	des femmes
 10787470-n	fra:exe	La femme porte un panlaton rouge.
 10736091-n	fra:lemma	oncle
 10736091-n	fra:exe	oncle → tante
@@ -416,6 +820,7 @@
 02942699-n	fra:lemma	appareil
 02942699-n	fra:exe	C'est dommage, j'ai oublié mon appareil photo !
 04370048-n	fra:lemma	pull-over
+04370048-n	fra:lemma	pull (morph:pl)
 04370048-n	fra:exe	Je prends ce pull-over.
 02626604-v	fra:lemma	devenir
 02626604-v	fra:exe	Dis-moi, qu'est-ce que tu deviens depuis tout ce temps ?
@@ -423,6 +828,8 @@
 02623529-v	fra:exe	Dis-moi, qu'est-ce que tu deviens depuis tout ce temps ?
 04398497-n	fra:lemma	café
 04398497-n	fra:exe	Tiens, là, c'est mon café préféré.
+00081591-r	fra:lemma	toutes les semaines
+00081591-r	fra:exe	Cette revue paraît toutes les semaines.
 00081591-r	fra:lemma	chaque semaine
 00081591-r	fra:exe	Cette revue paraît chaque semaine.
 01535246-v	fra:lemma	laver
@@ -438,102 +845,222 @@
 01723224-v	fra:lemma	faire des exercices
 01723224-v	fra:exe	Tu as fait des exercices de français ?
 15156187-n	fra:lemma	hier
+15156187-n	fra:exe	Hier, on circulait mal à cause de la neige.
+15156187-n	fra:exe	 Hier je ne suis pas allé travailler, parce que j'avais de la fièvre.
 15156187-n	fra:exe	 - Elle est venue chez toi hier? - Non, elle est partie pour les États-Unis depuis une semaine. 
+01919428-a	fra:lemma	calme
+01919428-a	fra:exe	La nuit est calme. On n'entend aucun bruit.
 01919428-a	fra:lemma	tranquille
 01919428-a	fra:exe	Je voudrais passer des vacances tranquilles.
+01918984-a	fra:lemma	calme
+01918984-a	fra:exe	La nuit est calme. On n'entend aucun bruit.
 01918984-a	fra:lemma	tranquille
 01918984-a	fra:exe	Je voudrais passer des vacances tranquilles.
+04437953-n	fra:lemma	montre
+04437953-n	fra:exe	On porte de moins en moins de montres.
+04437953-n	fra:exe	Je ne peux pas te donner l'heure, je n'ai pas de montre.
 04437953-n	fra:lemma	horloge
+04437953-n	fra:exe	Il était 5 heures à l'horloge de la gare.
 04437953-n	fra:exe	Il paraît que les horloges de gare avancent de cinq minutes.
+03046257-n	fra:lemma	montre
+03046257-n	fra:exe	On porte de moins en moins de montres.
+03046257-n	fra:exe	Je ne peux pas te donner l'heure, je n'ai pas de montre.
 03046257-n	fra:lemma	horloge
+03046257-n	fra:exe	Il était 5 heures à l'horloge de la gare.
 03046257-n	fra:exe	Il paraît que les horloges de gare avancent de cinq minutes.
 04350905-n	fra:lemma	complet
 04350905-n	fra:exe	Ce complet te va bien.
 00409440-a	fra:lemma	foncé
+00409440-a	fra:exe	Elle a les cheveux bruns foncés.
 00409440-a	fra:exe	Aux enterrements, on porte des vêtements de couleur foncée.
 00842199-a	fra:lemma	fort
+00842199-a	fra:exe	Monsieur, parlez plus fort, s'il vous plaît !
 00842199-a	fra:exe	Parlez plus fort pour qu'on puisse vous entendre.
 15163979-n	fra:lemma	lundi
 15163979-n	fra:exe	Nous sommes lundi. あるいは C'est jeudi.
 00059413-r	fra:lemma	souvent
-00059413-r	fra:exe	 Elle est souvent malade en voiture.
+00059413-r	fra:exe	Elle est souvent malade en voiture.
 00035058-r	fra:lemma	souvent
-00035058-r	fra:exe	 Elle est souvent malade en voiture.
+00035058-r	fra:exe	Elle est souvent malade en voiture.
+05687338-n	fra:lemma	problème
+05687338-n	fra:exe	Pas de problème.
+05687338-n	fra:exe	Quel est votre problème ?
+05687338-n	fra:exe	 Vous avez un problème, Mademoiselle ?
+05687338-n	fra:exe	 Il y aurait d'autres problèmes.
+05687338-n	fra:exe	Nous devons bien réfléchir au problème des centrales nucléaires.
+05687338-n	fra:exe	Pas de problème avec mon assurance.
+05687338-n	fra:exe	 Aucun problème ! ...haricots verts pas trop cuits.
 05687338-n	fra:lemma	question
+05687338-n	fra:exe	Pas question !
 05687338-n	fra:exe	 Non, pas question. 
+06784003-n	fra:lemma	problème
+06784003-n	fra:exe	Pas de problème.
+06784003-n	fra:exe	Quel est votre problème ?
+06784003-n	fra:exe	 Vous avez un problème, Mademoiselle ?
+06784003-n	fra:exe	 Il y aurait d'autres problèmes.
+06784003-n	fra:exe	Nous devons bien réfléchir au problème des centrales nucléaires.
+06784003-n	fra:exe	Pas de problème avec mon assurance.
+06784003-n	fra:exe	 Aucun problème ! ...haricots verts pas trop cuits.
 06784003-n	fra:lemma	question
+06784003-n	fra:exe	Pas question !
 06784003-n	fra:exe	 Non, pas question. 
 03281145-n	fra:lemma	ascenseur
 03281145-n	fra:exe	Cet ascenseur est en panne toutes les semaines !
 05320899-n	fra:lemma	oreille
 05320899-n	fra:exe	Elle a de petites oreilles vraiment charmantes.
 00007846-n	fra:lemma	quelqu'un
+00007846-n	fra:exe	Quelqu'un vient de vous téléphoner.
 00007846-n	fra:exe	Vous êtes vraiment quelqu'un de très motivé.
 03436182-n	fra:lemma	radiocassette
+03436182-n	fra:exe	Mon professeur apportait toujours une radiocassette dans la classe. 
 03436182-n	fra:exe	Aujourd'hui, la radiocassette est remplacé par le lecteur de CD.
+04284002-n	fra:lemma	cuiller
+04284002-n	fra:exe	Ajouter trois cuillers de sucre…
 13134947-n	fra:lemma	fruit
 13134947-n	fra:exe	La pomme est le fruit que je préfère.
 11683989-n	fra:lemma	fruit
 11683989-n	fra:exe	La pomme est le fruit que je préfère.
+02730813-v	fra:lemma	dire
+02730813-v	fra:exe	Qui a dit ça?
+02730813-v	fra:exe	Dites-lui bonjour de ma part.
+02730813-v	fra:exe	 Alors, dis-moi quel est ton plat préféré ?
+02730813-v	fra:exe	Dites-moi, qu'est-ce que j'apporte?
+02730813-v	fra:exe	Il faut que je te dise : Guillaume, en fait, c'est mon ex.
+02730813-v	fra:exe	 Je vais vous dire, j'ai horreur qu'on me pose trop de questions !
+02730813-v	fra:lemma	parler
+02730813-v	fra:exe	Je vous défends de me parler sur ce ton.
 02730813-v	fra:lemma	entendre
-02730813-v	fra:exe	 Qu'est-ce que vous entendez par là ?
+02730813-v	fra:exe	Qu'est-ce que vous entendez par là ?
+01009240-v	fra:lemma	dire
+01009240-v	fra:exe	Qui a dit ça?
+01009240-v	fra:exe	Dites-lui bonjour de ma part.
+01009240-v	fra:exe	 Alors, dis-moi quel est ton plat préféré ?
+01009240-v	fra:exe	Dites-moi, qu'est-ce que j'apporte?
+01009240-v	fra:exe	Il faut que je te dise : Guillaume, en fait, c'est mon ex.
+01009240-v	fra:exe	 Je vais vous dire, j'ai horreur qu'on me pose trop de questions !
+01009240-v	fra:lemma	parler
+01009240-v	fra:exe	Je vous défends de me parler sur ce ton.
 01009240-v	fra:lemma	entendre
-01009240-v	fra:exe	 Qu'est-ce que vous entendez par là ?
+01009240-v	fra:exe	Qu'est-ce que vous entendez par là ?
+00941990-v	fra:lemma	dire
+00941990-v	fra:exe	Qui a dit ça?
+00941990-v	fra:exe	Dites-lui bonjour de ma part.
+00941990-v	fra:exe	 Alors, dis-moi quel est ton plat préféré ?
+00941990-v	fra:exe	Dites-moi, qu'est-ce que j'apporte?
+00941990-v	fra:exe	Il faut que je te dise : Guillaume, en fait, c'est mon ex.
+00941990-v	fra:exe	 Je vais vous dire, j'ai horreur qu'on me pose trop de questions !
+00941990-v	fra:lemma	parler
+00941990-v	fra:exe	Je vous défends de me parler sur ce ton.
 00941990-v	fra:lemma	entendre
-00941990-v	fra:exe	 Qu'est-ce que vous entendez par là ?
+00941990-v	fra:exe	Qu'est-ce que vous entendez par là ?
+00979870-v	fra:lemma	dire
+00979870-v	fra:exe	Qui a dit ça?
+00979870-v	fra:exe	Dites-lui bonjour de ma part.
+00979870-v	fra:exe	 Alors, dis-moi quel est ton plat préféré ?
+00979870-v	fra:exe	Dites-moi, qu'est-ce que j'apporte?
+00979870-v	fra:exe	Il faut que je te dise : Guillaume, en fait, c'est mon ex.
+00979870-v	fra:exe	 Je vais vous dire, j'ai horreur qu'on me pose trop de questions !
+00979870-v	fra:lemma	parler
+00979870-v	fra:exe	Je vous défends de me parler sur ce ton.
 00979870-v	fra:lemma	entendre
-00979870-v	fra:exe	 Qu'est-ce que vous entendez par là ?
+00979870-v	fra:exe	Qu'est-ce que vous entendez par là ?
 09854218-n	fra:lemma	sœur
+09854218-n	fra:exe	Jeanne a-t-elle des sœurs?
 09854218-n	fra:exe	Vous êtes la sœur de Jeanne?
 04507155-n	fra:lemma	parapluie
 04507155-n	fra:exe	Zut ! Il va pleuvoir et j'ai oublié de prendre mon parapluie.
+02229324-a	fra:lemma	maladroit
+02229324-a	fra:exe	Il a tout renversé, quel maladroit !
 02229324-a	fra:lemma	mal
 02229324-a	fra:exe	J'aurai donc mal compris.
+01870636-a	fra:lemma	maladroit
+01870636-a	fra:exe	Il a tout renversé, quel maladroit !
 01870636-a	fra:lemma	mal
 01870636-a	fra:exe	J'aurai donc mal compris.
+01128103-a	fra:lemma	maladroit
+01128103-a	fra:exe	Il a tout renversé, quel maladroit !
 01128103-a	fra:lemma	mal
 01128103-a	fra:exe	J'aurai donc mal compris.
+02229000-a	fra:lemma	maladroit
+02229000-a	fra:exe	Il a tout renversé, quel maladroit !
 02229000-a	fra:lemma	mal
 02229000-a	fra:exe	J'aurai donc mal compris.
 15270431-n	fra:lemma	heure
+15270431-n	fra:exe	Monsieur, c'est l'heure !
 15270431-n	fra:exe	Il est parti il y a une heure.
 15227846-n	fra:lemma	heure
+15227846-n	fra:exe	Monsieur, c'est l'heure !
 15227846-n	fra:exe	Il est parti il y a une heure.
 15269513-n	fra:lemma	heure
+15269513-n	fra:exe	Monsieur, c'est l'heure !
 15269513-n	fra:exe	Il est parti il y a une heure.
 00744916-a	fra:lemma	difficile
+00744916-a	fra:exe	un livre très difficile
 00744916-a	fra:exe	C'est une question très difficile.
 04401088-n	fra:lemma	téléphone
+04401088-n	fra:exe	On vous demande au téléphone.
+04401088-n	fra:exe	Quel est le numéro de téléphone?
 04401088-n	fra:exe	Patrick, on te demande au téléphone.
 06272803-n	fra:lemma	téléphone
+06272803-n	fra:exe	On vous demande au téléphone.
+06272803-n	fra:exe	Quel est le numéro de téléphone?
 06272803-n	fra:exe	Patrick, on te demande au téléphone.
 02870092-n	fra:lemma	livre
+02870092-n	fra:exe	J'ai autant de livres que lui.
+02870092-n	fra:exe	Ce livre se vend très bien.
 02870092-n	fra:exe	Ce livre n'était pas très intéressant, mais je l'ai quand même lu.
 06410904-n	fra:lemma	livre
+06410904-n	fra:exe	J'ai autant de livres que lui.
+06410904-n	fra:exe	Ce livre se vend très bien.
 06410904-n	fra:exe	Ce livre n'était pas très intéressant, mais je l'ai quand même lu.
 09972010-n	fra:lemma	cousin
 09972010-n	fra:exe	cousin → cousine
 14974264-n	fra:lemma	papier
+14974264-n	fra:exe	Vos papiers !
 14974264-n	fra:exe	C'est des papiers qu'il faut signer.
 80000677-n	fra:lemma	papier
+80000677-n	fra:exe	Vos papiers !
 80000677-n	fra:exe	C'est des papiers qu'il faut signer.
 06255777-n	fra:lemma	papier
+06255777-n	fra:exe	Vos papiers !
 06255777-n	fra:exe	C'est des papiers qu'il faut signer.
 04960277-n	fra:lemma	noir
 04960277-n	fra:exe	un pantalon noir → des pantalons noirs
 02770717-v	fra:lemma	se couvrir
 02770717-v	fra:exe	Le ciel se couvre, prenez un parapluie.
 02529945-a	fra:lemma	frais
+02529945-a	fra:lemma	fraiche (morph:f)
 02529945-a	fra:exe	frais → fraîche
+02207206-v	fra:lemma	acheter
+02207206-v	fra:exe	Vous allez acheter du pain?
+02207206-v	fra:exe	 Tu vas acheter ça ? Pour quoi faire ?
+02207206-v	fra:exe	Je voudrais acheter des chaussures à talons hauts.
+02207206-v	fra:exe	Elle va au supermarché pour acheter des légumes.
+02207206-v	fra:exe	C'est un boucher chez qui je vais souvent acheter de la viande.
+02207206-v	fra:exe	Tu as acheté des fraises? -Oui, j'en ai acheté.
+02207206-v	fra:exe	Elle a acheté des étagères sur lesquelles elle rangera ses souvenirs.
 02207206-v	fra:lemma	faire des courses
+02207206-v	fra:exe	Moi, je fais les courses et la cuisine...
 02207206-v	fra:exe	J'ai vu tes parents faire leurs courses à Carrefour. 
+02208265-v	fra:lemma	acheter
+02208265-v	fra:exe	Vous allez acheter du pain?
+02208265-v	fra:exe	 Tu vas acheter ça ? Pour quoi faire ?
+02208265-v	fra:exe	Je voudrais acheter des chaussures à talons hauts.
+02208265-v	fra:exe	Elle va au supermarché pour acheter des légumes.
+02208265-v	fra:exe	C'est un boucher chez qui je vais souvent acheter de la viande.
+02208265-v	fra:exe	Tu as acheté des fraises? -Oui, j'en ai acheté.
+02208265-v	fra:exe	Elle a acheté des étagères sur lesquelles elle rangera ses souvenirs.
 02208265-v	fra:lemma	faire des courses
+02208265-v	fra:exe	Moi, je fais les courses et la cuisine...
 02208265-v	fra:exe	J'ai vu tes parents faire leurs courses à Carrefour. 
 00422620-a	fra:lemma	sale
+00422620-a	fra:exe	Tu as les mains sales, lave-les avant de manger.
 00422620-a	fra:exe	Tu as le visage sale, va te laver.
 01908889-a	fra:lemma	sale
+01908889-a	fra:exe	Tu as les mains sales, lave-les avant de manger.
 01908889-a	fra:exe	Tu as le visage sale, va te laver.
 00419289-a	fra:lemma	sale
+00419289-a	fra:exe	Tu as les mains sales, lave-les avant de manger.
 00419289-a	fra:exe	Tu as le visage sale, va te laver.
 01345109-v	fra:lemma	fermer
 01345109-v	fra:exe	Fermez la fenêtre, car il y a trop de poussières.
@@ -542,63 +1069,117 @@
 00933154-a	fra:lemma	haut
 00933154-a	fra:exe	Je voudrais acheter des chaussures à talons hauts.
 04199027-n	fra:lemma	chaussure
+04199027-n	fra:exe	La chaussure gauche me serre.
 04199027-n	fra:exe	Je voudrais acheter des chaussures à talons hauts.
 04330340-n	fra:lemma	chauffage
 04330340-n	fra:exe	Dans notre immeuble, le chauffage est arrêté au mois d'avril.
 07823951-n	fra:lemma	curry
 07823951-n	fra:exe	A midi, j'ai mangé du riz au curry.
 05598147-n	fra:lemma	nez
+05598147-n	fra:exe	Il existe beaucoup de formes de nez. 
 05598147-n	fra:exe	Le nez de Cléopâtre est très célèbre.
 05658826-n	fra:lemma	nez
+05658826-n	fra:exe	Il existe beaucoup de formes de nez. 
 05658826-n	fra:exe	Le nez de Cléopâtre est très célèbre.
 06947032-n	fra:lemma	anglais
+06947032-n	fra:exe	Je parle anglais.
+06947032-n	fra:exe	Il sait l'anglais.
+06947032-n	fra:exe	Vous parlez anglais?
+06947032-n	fra:exe	Vous parlez anglais et français?
 06947032-n	fra:exe	 Je parle couramment l'anglais, et un peu le japonais.
 07575726-n	fra:lemma	dîner
 07575726-n	fra:exe	Si on se promenait après le dîner ?
 07575726-n	fra:lemma	dîner
 03485794-n	fra:lemma	mouchoir
 03485794-n	fra:exe	Les mouchoirs en papier, c'est très pratique.
+01198101-v	fra:lemma	aspirer
+01198101-v	fra:exe	Il a ouvert la fenêtre pour aspirer un peu d'air frais.
 01198101-v	fra:lemma	respirer
 01198101-v	fra:exe	Si vous êtes nerveux, respirez profondément.
 02741003-v	fra:lemma	mettre
 01206474-a	fra:lemma	bas
+01206474-a	fra:lemma	basse (morph:f)
+01206474-a	fra:exe	Le ciel est bas, il va pleuvoir.
+01206474-a	fra:exe	Attention, la porte est très basse.
 01206474-a	fra:exe	Dans cette société, les salaires sont très bas.
 13832355-n	fra:lemma	est
+13832355-n	fra:exe	La Suisse est à l'est de la France.
 13832355-n	fra:exe	Le soleil se lève à l'est.
 11525955-n	fra:lemma	vent
+11525955-n	fra:exe	Il fait du vent. / Il y a du vent.
 11525955-n	fra:exe	Le vent fait avancer le voilier.
 02324182-v	fra:lemma	louer
 02324182-v	fra:exe	Bonjour. Nous cherchons un appartement meublé à louer
 01437963-a	fra:lemma	long
+01437963-a	fra:lemma	longue (morph:f)
+01437963-a	fra:exe	un long voyage
+01437963-a	fra:exe	J'ai les cheveux longs.
 01437963-a	fra:exe	 C'est parce que je ne savais pas que ce serait si long.
 01433493-a	fra:lemma	long
+01433493-a	fra:lemma	longue (morph:f)
+01433493-a	fra:exe	un long voyage
+01433493-a	fra:exe	J'ai les cheveux longs.
 01433493-a	fra:exe	 C'est parce que je ne savais pas que ce serait si long.
 01444022-a	fra:lemma	long
+01444022-a	fra:lemma	longue (morph:f)
+01444022-a	fra:exe	un long voyage
+01444022-a	fra:exe	J'ai les cheveux longs.
 01444022-a	fra:exe	 C'est parce que je ne savais pas que ce serait si long.
 80001077-n	fra:lemma	combien
+80001077-n	fra:exe	Combien de fois avez-vous été aux États-Unis ?
+80001077-n	fra:exe	Elle part pour combien de jours ? Pour trois jours ?
+80001077-n	fra:exe	 Et il y a combien d'habitants ?
+80001077-n	fra:exe	C'est combien le kilo ?
+80001077-n	fra:exe	Combien mesurez-vous? あるいは Quelle est votre taille?
 80001077-n	fra:exe	 Vous restez ici pour combien de jours ?
 80001077-n	fra:lemma	combien
+80001077-n	fra:exe	C'est combien? 
+80001077-n	fra:exe	 Je vous dois combien?
+80001077-n	fra:exe	C'est combien, cette jupe?
 80001077-n	fra:exe	Bon, je la prends aussi. Ça fait combien?
+10665698-n	fra:lemma	élève
+10665698-n	fra:exe	un bon élève
+10665698-n	fra:exe	Cet élève a des difficultés en grammaire.
 10665698-n	fra:lemma	étudiant
+10665698-n	fra:exe	Ce professeur fait dormir ses étudiants.
 10665698-n	fra:exe	Le professeur fait faire des exposés aux étudiants.
 10665698-n	fra:lemma	étudiant
+10665698-n	fra:exe	étudiant → étudiante
+10665698-n	fra:exe	Je suis étudiant.
+10665698-n	fra:exe	Je suis étudiante aussi.
 10665698-n	fra:exe	Oui, mais il faut être très jeune, ou étudiant...
+10251779-n	fra:lemma	élève
+10251779-n	fra:exe	un bon élève
+10251779-n	fra:exe	Cet élève a des difficultés en grammaire.
 10251779-n	fra:lemma	étudiant
+10251779-n	fra:exe	Ce professeur fait dormir ses étudiants.
 10251779-n	fra:exe	Le professeur fait faire des exposés aux étudiants.
+08615374-n	fra:lemma	parc
+08615374-n	fra:exe	Si on allait au parc de Sceaux ?
+08615374-n	fra:exe	S'il ne pleut pas, on ira au parc Montsouris.
 08615374-n	fra:lemma	jardin
 77000064-n	fra:lemma	lequel
 77000064-n	fra:exe	Lequel te semble le mieux, le voyage gastronomique en Suisse, ou le voyage culturel en Belgique ?
 03290771-n	fra:lemma	entrée
 03290771-n	fra:exe	Au Japon, on se déchausse dans l'entrée.
 03290771-n	fra:lemma	entrée
+03290771-n	fra:exe	On a rendez-vous à l'entrée du cinéma.
 03290771-n	fra:exe	L'entrée du cinéma se trouve au troisième étage.
 06409752-n	fra:lemma	thème
+06409752-n	fra:exe	Quand on traduit de sa langue maternelle vers une langue étrangère, on fait un thème. 
 06409752-n	fra:exe	Le thème est plus difficile que la version.
 10286084-n	fra:lemma	frère
 09876454-n	fra:lemma	frère
 80001731-n	fra:lemma	étudiant étranger
+80001731-n	fra:lemma	étudiante étrangère (morph:f)
 80001731-n	fra:exe	Voici la résidence pour les étudiants étrangers.
+77000031-n	fra:lemma	elle
+77000031-n	fra:exe	Elle est beaucoup plus grande que moi.
+77000031-n	fra:exe	Comme prof, on dit qu'elle est sévère, mais moi, je l'aime bien...
+77000031-n	fra:exe	Elle a des sœurs.
+77000031-n	fra:exe	Elle a la trentaine...
 77000031-n	fra:lemma	elles
+77000031-n	fra:exe	Elles ont un chien.
 77000031-n	fra:exe	Elles sont Américaines.
 00934199-a	fra:lemma	bon marché
 00934199-a	fra:exe	Il y a même un billet spécial vacances, très, très bon marché.
@@ -607,70 +1188,118 @@
 02747802-n	fra:lemma	cendrier
 02747802-n	fra:exe	Vous fumez ? Je vous donne un cendrier.
 15213115-n	fra:lemma	octobre
+15213115-n	fra:exe	La rentrée des universités est en octobre.
 15213115-n	fra:exe	En octobre, c'est la saison des feuilles mortes.
+15203791-n	fra:lemma	an
+15203791-n	fra:exe	Il a quarante-six ans.
+15203791-n	fra:exe	J'ai dix-huit ans.
+15203791-n	fra:exe	J'ai vécu sept ans en France.
+15203791-n	fra:exe	J'ai toujours le même salaire depuis 20 ans !
+15203791-n	fra:exe	Je partirai un an ou deux au Japon.
+15203791-n	fra:exe	L'an prochain, je passerai mon permis.
 15203791-n	fra:lemma	année
+15203791-n	fra:exe	Mais Monsieur, nous, on est en première année !
 15203791-n	fra:exe	Voilà, je viens de m'inscrire en première année de français...
 03619890-n	fra:lemma	cuisine
+03619890-n	fra:exe	Dans sa cuisine, elle a toujours de l'ail et des herbes de Provence.
 03619890-n	fra:exe	Avoir une grande cuisine, c'est pratique pour toute la famille.
 00273734-v	fra:lemma	enseigner
+00273734-v	fra:exe	On a recruté un professeur d'anglais qui peut enseigner aussi le français.
 00273734-v	fra:exe	On voudrait trouver un professeur d'anglais qui puisse enseigner aussi le français.
 00829107-v	fra:lemma	enseigner
+00829107-v	fra:exe	On a recruté un professeur d'anglais qui peut enseigner aussi le français.
 00829107-v	fra:exe	On voudrait trouver un professeur d'anglais qui puisse enseigner aussi le français.
 00963570-v	fra:lemma	parler
+00963570-v	fra:exe	Il peut parler français.
+00963570-v	fra:exe	L'occasion de vous parler ...
+00963570-v	fra:exe	Vous devriez leur parler !
 00963570-v	fra:exe	 Je voudrais parler à Antoine, s'il vous plaît.
 00815686-v	fra:lemma	répondre
+00815686-v	fra:exe	Répondez à mes questions s'il vous plaît.
 00815686-v	fra:exe	Pour répondre à un courriel, il suffit de cliquer le bouton "répondre".
 00635523-v	fra:lemma	répondre
+00635523-v	fra:exe	Répondez à mes questions s'il vous plaît.
 00635523-v	fra:exe	Pour répondre à un courriel, il suffit de cliquer le bouton "répondre".
 03417345-n	fra:lemma	jardin
+03417345-n	fra:exe	Derrière ma maison, il y a un petit jardin.
 03417345-n	fra:exe	 On mangeait tous les jours les légumes du jardin.
 03417749-n	fra:lemma	jardin
+03417749-n	fra:exe	Derrière ma maison, il y a un petit jardin.
 03417749-n	fra:exe	 On mangeait tous les jours les légumes du jardin.
 01775164-v	fra:lemma	adorer
+01775164-v	fra:exe	J'adore !
+01775164-v	fra:exe	J'adore ça !
+01775164-v	fra:exe	Une fondue ? J'adore ça. Je peux venir ?
+01775164-v	fra:exe	 Elle adore ça.
+01775164-v	fra:exe	 Elle adore les tartes aux fraises...
 01775164-v	fra:exe	 Je l'aime beaucoup.
 01828736-v	fra:lemma	adorer
+01828736-v	fra:exe	J'adore !
+01828736-v	fra:exe	J'adore ça !
+01828736-v	fra:exe	Une fondue ? J'adore ça. Je peux venir ?
+01828736-v	fra:exe	 Elle adore ça.
+01828736-v	fra:exe	 Elle adore les tartes aux fraises...
 01828736-v	fra:exe	 Je l'aime beaucoup.
 06418901-n	fra:lemma	dictionnaire
 06418901-n	fra:exe	Tu as un dictionnaire ?
 15164570-n	fra:lemma	samedi
+15164570-n	fra:exe	Samedi, je suis sorti avec des amis.
 15164570-n	fra:exe	Tu travailles le samedi? -Mais non, je ne travaille jamais le samedi.
+00284798-n	fra:lemma	promenade
+00284798-n	fra:exe	Oh oui, la promenade du chien, c'est sacré ! 
 00284798-n	fra:lemma	se promener
 00284798-n	fra:exe	Vous me permettez aussi de me promener un peu ?
+00284101-n	fra:lemma	promenade
+00284101-n	fra:exe	Oh oui, la promenade du chien, c'est sacré ! 
 00284101-n	fra:lemma	se promener
 00284101-n	fra:exe	Vous me permettez aussi de me promener un peu ?
 01712704-v	fra:lemma	faire
+01712704-v	fra:exe	Faites comme chez vous. 
+01712704-v	fra:exe	 Alors, qu'est-ce que vous savez faire ?
 01712704-v	fra:exe	Je fais de la physique à Jussieu.
 08277393-n	fra:lemma	école
-08277393-n	fra:exe	 Quand il était petit, il allait à la plage tous les jours après l'école.
+08277393-n	fra:exe	Quand il était petit, il allait à la plage tous les jours après l'école.
 08276720-n	fra:lemma	école
-08276720-n	fra:exe	 Quand il était petit, il allait à la plage tous les jours après l'école.
+08276720-n	fra:exe	Quand il était petit, il allait à la plage tous les jours après l'école.
 00161630-r	fra:lemma	lentement
-00161630-r	fra:exe	Mangez lentement pour vivre longtemps.\n
+00161630-r	fra:exe	Il marche lentement.
+00161630-r	fra:exe	Mangez lentement pour vivre longtemps.
 90000506-n	fra:lemma	la semaine dernière
 90000506-n	fra:exe	J'ai vu Valérie la semaine dernière.
 03057021-n	fra:lemma	veste
 03057021-n	fra:exe	La veste va très bien à Nicolas.
 03057021-n	fra:lemma	manteau
+03057021-n	fra:lemma	manteaux (morph:pl)
+03057021-n	fra:exe	manteau → manteaux
+03057021-n	fra:exe	Mais ce manteau-ci est pour femme?
+03057021-n	fra:exe	Ce manteau, je peux l'essayer ?
 03057021-n	fra:exe	Il vous va très bien, ce manteau.
 03589791-n	fra:lemma	veste
 03589791-n	fra:exe	La veste va très bien à Nicolas.
 06929279-n	fra:lemma	japonais
+06929279-n	fra:exe	Elle se met à parler japonais.
+06929279-n	fra:exe	Vous parlez japonais ou coréen?
 06929279-n	fra:exe	Vous parlez beaucoup de langues? -Non, je ne parle que le japonais.
 03303965-n	fra:lemma	sortie
 03303965-n	fra:exe	Je t'attendrai à la sortie.
 10142391-n	fra:lemma	grand-père
-10142391-n	fra:exe	 Son grand-père serait Elvis Presley.
+10142391-n	fra:exe	Son grand-père serait Elvis Presley.
 07934530-n	fra:lemma	thé
+07934530-n	fra:exe	du thé
 07934530-n	fra:exe	J'aime le thé.
 07933274-n	fra:lemma	thé
+07933274-n	fra:exe	du thé
 07933274-n	fra:exe	J'aime le thé.
 07933274-n	fra:lemma	thé
 07989373-n	fra:lemma	couple
+07989373-n	fra:exe	Un couple, c'est deux personnes.
 07989373-n	fra:exe	Ma fille élève un couple de tortues vertes.
 10146559-n	fra:lemma	marchand de légumes
 10146559-n	fra:exe	Je ne vais pas chez le marchand de légumes.
 03457686-n	fra:lemma	marchand de légumes
 03457686-n	fra:exe	Je ne vais pas chez le marchand de légumes.
+03147509-n	fra:lemma	tasse
+03147509-n	fra:exe	Je n'ai pas de tasses à café.
 03147509-n	fra:lemma	coupe
 03147509-n	fra:exe	Buvons une coupe de champagne pour fêter ça.
 03972524-n	fra:lemma	poche
@@ -678,8 +1307,12 @@
 04968895-n	fra:lemma	bleu
 04968895-n	fra:exe	La mer est bleue.
 01555416-a	fra:lemma	peu nombreux
+01555416-a	fra:lemma	peu nombreuse (morph:f)
+01555416-a	fra:exe	Les occasions de rire sont peu nombreuses au bureau.
 01555416-a	fra:exe	Les femmes ministres sont encore peu nombreuses.
 01552885-a	fra:lemma	peu nombreux
+01552885-a	fra:lemma	peu nombreuse (morph:f)
+01552885-a	fra:exe	Les occasions de rire sont peu nombreuses au bureau.
 01552885-a	fra:exe	Les femmes ministres sont encore peu nombreuses.
 00017865-v	fra:lemma	se coucher
 00017865-v	fra:exe	Il est minuit, je vais me coucher.
@@ -690,31 +1323,59 @@
 00445169-a	fra:lemma	proche
 00445169-a	fra:exe	Les vacances sont proches.
 00584367-n	fra:lemma	travail
+00584367-n	fra:exe	travail → travaux
+00584367-n	fra:exe	Je cherche du travail.
 00584367-n	fra:exe	À une condition : on en rediscute dès que ton travail sera fini.
 07574602-n	fra:lemma	petit-déjeuner
+07574602-n	fra:lemma	petits (morph:pl)
 07574602-n	fra:exe	Au petit-déjeuner, beaucoup de Français boivent du café au lait.
 08078020-n	fra:lemma	famille
+08078020-n	fra:exe	Mon fils est le plus grand de la famille.
 08078020-n	fra:exe	Parlez-vous beaucoup avec votre famille et avec vos amis ?
 10236304-n	fra:lemma	famille
+10236304-n	fra:exe	Mon fils est le plus grand de la famille.
 10236304-n	fra:exe	Parlez-vous beaucoup avec votre famille et avec vos amis ?
 07970406-n	fra:lemma	famille
+07970406-n	fra:exe	Mon fils est le plus grand de la famille.
 07970406-n	fra:exe	Parlez-vous beaucoup avec votre famille et avec vos amis ?
 07970406-n	fra:lemma	famille
 04197391-n	fra:lemma	chemise
 04197391-n	fra:exe	Beaucoup d'employés de bureau portent une chemise blanche.
 09918248-n	fra:lemma	enfant
+09918248-n	fra:exe	J'ai vu des enfants monter aux arbres.
 09918248-n	fra:exe	Vous avez des enfants? - Non, je n'ai pas d'enfants.
 12212361-n	fra:lemma	légume
+12212361-n	fra:exe	On mangeait tous les jours les légumes du jardin.
 12212361-n	fra:exe	Le marchand de légumes est en face de la poissonnerie.
 07707451-n	fra:lemma	légume
+07707451-n	fra:exe	On mangeait tous les jours les légumes du jardin.
 07707451-n	fra:exe	Le marchand de légumes est en face de la poissonnerie.
 03365991-n	fra:lemma	étage
+03365991-n	fra:exe	J'habite au 4ème étage.
 03365991-n	fra:exe	Ce sont de petits immeubles de cinq étages.
+00976508-a	fra:lemma	vite
+00976508-a	fra:exe	Le Shinkansen va très vite.
+00976508-a	fra:exe	Elle parle trop vite. Je ne comprends rien.
+00976508-a	fra:exe	Si vous prenez un taxi, vous arriverez plus vite.
+00976508-a	fra:exe	Nous souhaitons que tu puisses trouver vite du travail.
 00976508-a	fra:lemma	rapide
+00976508-a	fra:exe	Rien ne t'oblige à voyager en train rapide.
 00976508-a	fra:exe	Elle est aussi sans doute plus solide, plus rapide...
+00981818-a	fra:lemma	vite
+00981818-a	fra:exe	Le Shinkansen va très vite.
+00981818-a	fra:exe	Elle parle trop vite. Je ne comprends rien.
+00981818-a	fra:exe	Si vous prenez un taxi, vous arriverez plus vite.
+00981818-a	fra:exe	Nous souhaitons que tu puisses trouver vite du travail.
 00981818-a	fra:lemma	rapide
+00981818-a	fra:exe	Rien ne t'oblige à voyager en train rapide.
 00981818-a	fra:exe	Elle est aussi sans doute plus solide, plus rapide...
+00979862-a	fra:lemma	vite
+00979862-a	fra:exe	Le Shinkansen va très vite.
+00979862-a	fra:exe	Elle parle trop vite. Je ne comprends rien.
+00979862-a	fra:exe	Si vous prenez un taxi, vous arriverez plus vite.
+00979862-a	fra:exe	Nous souhaitons que tu puisses trouver vite du travail.
 00979862-a	fra:lemma	rapide
+00979862-a	fra:exe	Rien ne t'oblige à voyager en train rapide.
 00979862-a	fra:exe	Elle est aussi sans doute plus solide, plus rapide...
 01367431-a	fra:lemma	animé
 01367431-a	fra:exe	Dans la journée, les rues sont très animées.
@@ -727,85 +1388,264 @@
 07825972-n	fra:lemma	sauce de soja
 07825972-n	fra:exe	Tu peux me passer la sauce de soja ?
 02005948-v	fra:lemma	arriver
+02005948-v	fra:exe	Je viens d'arriver.
+02005948-v	fra:exe	Quand vont-ils arriver?
+02005948-v	fra:exe	 Et il faut arriver à quelle heure ?
 02005948-v	fra:exe	Et David, il doit arriver à quelle heure ?
 02930766-n	fra:lemma	taxi
+02930766-n	fra:exe	Si vous prenez un taxi, vous arriverez plus vite.
 02930766-n	fra:exe	Le taxi a refusé de la prendre. - Pourquoi? - Parce qu'elle avait un chien.
 04371225-n	fra:lemma	piscine
 04371225-n	fra:exe	Tous les dimanches, nous allons à la piscine.
 00604617-a	fra:lemma	commode
 00604617-a	fra:exe	Ce sac est vraiment commode pour faire des courses.
 15237250-n	fra:lemma	été
+15237250-n	fra:exe	À Tokyo, quel temps fait-il en été?
 15237250-n	fra:exe	10. Comme c'est l'été, il fait très humide.
 03757138-n	fra:lemma	métro
+03757138-n	fra:exe	Tu rentres en métro ?
+03757138-n	fra:exe	Ah bon, le métro est tombé en panne ?
 03757138-n	fra:exe	En sortant du métro, j'ai rencontré Monique.
 04349306-n	fra:lemma	métro
+04349306-n	fra:exe	Tu rentres en métro ?
+04349306-n	fra:exe	Ah bon, le métro est tombé en panne ?
 04349306-n	fra:exe	En sortant du métro, j'ai rencontré Monique.
 77000090-n	fra:lemma	comment
+77000090-n	fra:exe	Comment allez-vous ?
 77000090-n	fra:exe	Comment allez-vous?  - Je vais bien, merci. Et vous?
 80001331-x	fra:lemma	comment
+80001331-x	fra:exe	Comment allez-vous ?
 80001331-x	fra:exe	Comment allez-vous?  - Je vais bien, merci. Et vous?
 77000104-n	fra:lemma	quand
 77000104-n	fra:exe	Quand allez-vous au Japon?
+04105893-n	fra:lemma	chambre
+04105893-n	fra:exe	Cette chambre est aussi grande que l'autre.
+04105893-n	fra:lemma	pièce
+04105893-n	fra:exe	Il y a deux enfants qui jouent dans la pièce voisine.
+04105893-n	fra:exe	On n'a pas pu prendre de photos à l'intérieur parce que la pièce était trop sombre.
 04105893-n	fra:lemma	salle
 04105893-n	fra:exe	Il y a vingt-cinq étudiants dans la salle.
 06415419-n	fra:lemma	cahier
 06415419-n	fra:exe	Ces cahiers coûtent trois euros chacun.
+01376705-a	fra:lemma	célèbre
+01376705-a	fra:exe	La France est célèbre pour ses fromages et ses vins.
 01376705-a	fra:lemma	connu
 01376705-a	fra:exe	C'est un acteur très connu que j'ai vu hier.
+01375831-a	fra:lemma	célèbre
+01375831-a	fra:exe	La France est célèbre pour ses fromages et ses vins.
 01375831-a	fra:lemma	connu
 01375831-a	fra:exe	C'est un acteur très connu que j'ai vu hier.
 00953216-v	fra:lemma	raconter
 00953216-v	fra:exe	Ce que j'ai vu alors, je vous le raconterai un peu plus tard.
 00962447-v	fra:lemma	raconter
 00962447-v	fra:exe	Ce que j'ai vu alors, je vous le raconterai un peu plus tard.
+02935891-n	fra:lemma	cantine
+02935891-n	fra:exe	Les enfants mangent à la cantine.
 02935891-n	fra:lemma	salle à manger
 02935891-n	fra:exe	La salle à manger est à côté de la salle de bain.
 01984902-v	fra:lemma	s'asseoir
 01984902-v	fra:exe	Ne restez pas debout, asseyez-vous.
 00120223-r	fra:lemma	en＋現在分詞( -ant)
+00120223-r	fra:exe	En prenant le petit déjeuner, François et Marianne écoutent les informations à la radio.
 00120223-r	fra:exe	 En enlevant le couvercle.
 00120095-r	fra:lemma	en＋現在分詞( -ant)
+00120095-r	fra:exe	En prenant le petit déjeuner, François et Marianne écoutent les informations à la radio.
 00120095-r	fra:exe	 En enlevant le couvercle.
 02386612-a	fra:lemma	petit
+02386612-a	fra:exe	Un petit coup de rouge ?
 02386612-a	fra:exe	 J'organise une petite soirée chez moi.
 02386612-a	fra:lemma	court
 02386612-a	fra:exe	Tu as les cheveux courts maintenant ?
+02345713-a	fra:lemma	mauvais
+02345713-a	fra:exe	Il fait mauvais.
+02345713-a	fra:exe	Ça m'étonnerait qu'il fasse mauvais demain.
+02345713-a	fra:exe	Aux dernières nouvelles, on aurait reporté le match en raison du mauvais temps.
+02345713-a	fra:lemma	travailler
+02345713-a	fra:exe	Travaillez bien et vous allez réussir à votre examen.
+02345713-a	fra:lemma	ami
+02345713-a	fra:exe	Il a entendu son amie jouer du piano.
+02345713-a	fra:exe	Je vous présente mon amie. Elle est musicienne.
+02345713-a	fra:exe	 Comme ami, il est parfait, mais comme mari, je ne sais pas.
+02345713-a	fra:lemma	exercice
+02345713-a	fra:exe	Oui, mais eux, au moins, ils font de l'exercice.
+02345713-a	fra:lemma	prendre
+02345713-a	fra:exe	En prenant le taxi, il ne sera pas en retard.
+02345713-a	fra:exe	Il a pris un taxi de sorte qu'il est arrivé à l'heure.
+02345713-a	fra:exe	Prenant souvent l'avion, il connaît parfaitement l'aéroport.
+02345713-a	fra:exe	Vous prenez le bus ou un taxi ?
+02345713-a	fra:lemma	prendre
+02345713-a	fra:exe	Qu'est-ce que vous prenez comme dessert ?
+02345713-a	fra:exe	Vous prenez quelque chose comme dessert?
+02345713-a	fra:lemma	descendre
+02345713-a	fra:exe	Qui descend la poubelle ?
+02345713-a	fra:lemma	bon
+02345713-a	fra:exe	Ah bon ?
+02345713-a	fra:exe	 Bon d'accord.
+02345713-a	fra:exe	Bon, je te laisse.
+02345713-a	fra:exe	Bon je raccroche.
+02345713-a	fra:exe	 C'est bon, on vous prend.
+02345713-a	fra:exe	Bon, ça va pour cette fois.
+02345713-a	fra:exe	 Ah bon, vous ne préférez pas que je vous aide ?
+02345713-a	fra:exe	Bon, on se retrouve à 7 heures ou à 8 heures ?
+02345713-a	fra:lemma	arriver
+02345713-a	fra:exe	Ça m'est arrivé...
+02345713-a	fra:exe	Ça arrive à tout le monde...
+02345713-a	fra:lemma	passer
+02345713-a	fra:exe	J'ai passé mes vacances au Canada.
+02345713-a	fra:exe	 Elle a passé son enfance aux États-Unis.
+02345713-a	fra:lemma	passer
+02345713-a	fra:exe	Je passerai un test dans quelques jours.
+02345713-a	fra:lemma	sac
 02345713-a	fra:lemma	ils
+02345713-a	fra:exe	Ils sont Anglais.
+02345713-a	fra:exe	Ils vont aux Etats-Unis.
 02345713-a	fra:exe	 Ils ont roulé de Tokyo à Nara.
+00478311-a	fra:lemma	mauvais
+00478311-a	fra:exe	Il fait mauvais.
+00478311-a	fra:exe	Ça m'étonnerait qu'il fasse mauvais demain.
+00478311-a	fra:exe	Aux dernières nouvelles, on aurait reporté le match en raison du mauvais temps.
+00478311-a	fra:lemma	travailler
+00478311-a	fra:exe	Travaillez bien et vous allez réussir à votre examen.
+00478311-a	fra:lemma	ami
+00478311-a	fra:exe	Il a entendu son amie jouer du piano.
+00478311-a	fra:exe	Je vous présente mon amie. Elle est musicienne.
+00478311-a	fra:exe	 Comme ami, il est parfait, mais comme mari, je ne sais pas.
+00478311-a	fra:lemma	exercice
+00478311-a	fra:exe	Oui, mais eux, au moins, ils font de l'exercice.
+00478311-a	fra:lemma	prendre
+00478311-a	fra:exe	En prenant le taxi, il ne sera pas en retard.
+00478311-a	fra:exe	Il a pris un taxi de sorte qu'il est arrivé à l'heure.
+00478311-a	fra:exe	Prenant souvent l'avion, il connaît parfaitement l'aéroport.
+00478311-a	fra:exe	Vous prenez le bus ou un taxi ?
+00478311-a	fra:lemma	prendre
+00478311-a	fra:exe	Qu'est-ce que vous prenez comme dessert ?
+00478311-a	fra:exe	Vous prenez quelque chose comme dessert?
+00478311-a	fra:lemma	descendre
+00478311-a	fra:exe	Qui descend la poubelle ?
+00478311-a	fra:lemma	bon
+00478311-a	fra:exe	Ah bon ?
+00478311-a	fra:exe	 Bon d'accord.
+00478311-a	fra:exe	Bon, je te laisse.
+00478311-a	fra:exe	Bon je raccroche.
+00478311-a	fra:exe	 C'est bon, on vous prend.
+00478311-a	fra:exe	Bon, ça va pour cette fois.
+00478311-a	fra:exe	 Ah bon, vous ne préférez pas que je vous aide ?
+00478311-a	fra:exe	Bon, on se retrouve à 7 heures ou à 8 heures ?
+00478311-a	fra:lemma	arriver
+00478311-a	fra:exe	Ça m'est arrivé...
+00478311-a	fra:exe	Ça arrive à tout le monde...
+00478311-a	fra:lemma	passer
+00478311-a	fra:exe	J'ai passé mes vacances au Canada.
+00478311-a	fra:exe	 Elle a passé son enfance aux États-Unis.
+00478311-a	fra:lemma	passer
+00478311-a	fra:exe	Je passerai un test dans quelques jours.
+00478311-a	fra:lemma	sac
 00478311-a	fra:lemma	ils
+00478311-a	fra:exe	Ils sont Anglais.
+00478311-a	fra:exe	Ils vont aux Etats-Unis.
 00478311-a	fra:exe	 Ils ont roulé de Tokyo à Nara.
+01174222-a	fra:lemma	mauvais
+01174222-a	fra:exe	Il fait mauvais.
+01174222-a	fra:exe	Ça m'étonnerait qu'il fasse mauvais demain.
+01174222-a	fra:exe	Aux dernières nouvelles, on aurait reporté le match en raison du mauvais temps.
+01174222-a	fra:lemma	travailler
+01174222-a	fra:exe	Travaillez bien et vous allez réussir à votre examen.
+01174222-a	fra:lemma	ami
+01174222-a	fra:exe	Il a entendu son amie jouer du piano.
+01174222-a	fra:exe	Je vous présente mon amie. Elle est musicienne.
+01174222-a	fra:exe	 Comme ami, il est parfait, mais comme mari, je ne sais pas.
+01174222-a	fra:lemma	exercice
+01174222-a	fra:exe	Oui, mais eux, au moins, ils font de l'exercice.
+01174222-a	fra:lemma	prendre
+01174222-a	fra:exe	En prenant le taxi, il ne sera pas en retard.
+01174222-a	fra:exe	Il a pris un taxi de sorte qu'il est arrivé à l'heure.
+01174222-a	fra:exe	Prenant souvent l'avion, il connaît parfaitement l'aéroport.
+01174222-a	fra:exe	Vous prenez le bus ou un taxi ?
+01174222-a	fra:lemma	prendre
+01174222-a	fra:exe	Qu'est-ce que vous prenez comme dessert ?
+01174222-a	fra:exe	Vous prenez quelque chose comme dessert?
+01174222-a	fra:lemma	descendre
+01174222-a	fra:exe	Qui descend la poubelle ?
+01174222-a	fra:lemma	bon
+01174222-a	fra:exe	Ah bon ?
+01174222-a	fra:exe	 Bon d'accord.
+01174222-a	fra:exe	Bon, je te laisse.
+01174222-a	fra:exe	Bon je raccroche.
+01174222-a	fra:exe	 C'est bon, on vous prend.
+01174222-a	fra:exe	Bon, ça va pour cette fois.
+01174222-a	fra:exe	 Ah bon, vous ne préférez pas que je vous aide ?
+01174222-a	fra:exe	Bon, on se retrouve à 7 heures ou à 8 heures ?
+01174222-a	fra:lemma	arriver
+01174222-a	fra:exe	Ça m'est arrivé...
+01174222-a	fra:exe	Ça arrive à tout le monde...
+01174222-a	fra:lemma	passer
+01174222-a	fra:exe	J'ai passé mes vacances au Canada.
+01174222-a	fra:exe	 Elle a passé son enfance aux États-Unis.
+01174222-a	fra:lemma	passer
+01174222-a	fra:exe	Je passerai un test dans quelques jours.
+01174222-a	fra:lemma	sac
 01174222-a	fra:lemma	ils
+01174222-a	fra:exe	Ils sont Anglais.
+01174222-a	fra:exe	Ils vont aux Etats-Unis.
 01174222-a	fra:exe	 Ils ont roulé de Tokyo à Nara.
 03025755-n	fra:lemma	baguettes
 03025755-n	fra:exe	Les Japonais mangent avec des baguettes.
 15166191-n	fra:lemma	après-midi
+15166191-n	fra:exe	Il sort tous les après-midi.
 15166191-n	fra:exe	Mais, tu sais bien qu'il y a la finale à la télé cet après-midi.
 80000080-n	fra:lemma	ce mois
 80000080-n	fra:exe	Je suis occupé ce mois-ci.
 06624161-n	fra:lemma	lettre
+06624161-n	fra:exe	Il faut mettre la lettre à la poste.
 06624161-n	fra:exe	Avez-vous écrit une lettre à Christian? - Oui, je lui ai déjà écrit.
 01909812-v	fra:lemma	tourner
 01909812-v	fra:exe	Au premier feu rouge, vous tournerez à gauche.
 07929519-n	fra:lemma	café
+07929519-n	fra:exe	Donnez-moi du café.
 07929519-n	fra:exe	J'aime le café.
 01729431-v	fra:lemma	chanter
-01729431-v	fra:exe	 Dans la forêt, les oiseaux chantaient.
+01729431-v	fra:exe	Dans la forêt, les oiseaux chantaient.
 11501381-n	fra:lemma	pluie
+11501381-n	fra:exe	Il tombe une pluie fine.
+11501381-n	fra:exe	Il est sorti malgré la pluie.
 11501381-n	fra:exe	La saison des pluies commence en juin.
 07749582-n	fra:lemma	citron
+07749582-n	fra:exe	Le citron pressé est une boisson parfaite l'été.
 07749582-n	fra:exe	Dans toutes les pâtisseries, on trouve des tartes au citron.
 90000511-n	fra:lemma	avant-hier
 90000511-n	fra:exe	Nous sommes partis avant-hier.
 00118032-r	fra:lemma	alors
+00118032-r	fra:exe	Alors, au revoir.
+00118032-r	fra:exe	Oui, et alors ?
+00118032-r	fra:exe	 Ou alors, un week-end à Las Vegas ? 
+00118032-r	fra:exe	C'est la première fois alors...
 00118032-r	fra:exe	Un tartare végétarien alors.
 00118032-r	fra:lemma	alors
+00118032-r	fra:exe	Alors mettez m'en deux kilos.
+00118032-r	fra:exe	 Alors, c'est facile.
+00118032-r	fra:exe	Ah...alors vous êtes notre prochain Prix Nobel!
+00118032-r	fra:exe	 Alors je compte sur vous ?
+00118032-r	fra:exe	Alors, qu'est-ce que je dois faire ?
+00118032-r	fra:exe	Alors... pourquoi pas sur les quais ?
 00118032-r	fra:exe	 Ou alors, les vendre en pharmacie.
 04468005-n	fra:lemma	train
+04468005-n	fra:exe	Et pour les trains ?
 04468005-n	fra:exe	 Rien ne t'oblige à voyager en train rapide.
+77000002-n	fra:lemma	nous
+77000002-n	fra:exe	Nous vous attendions.
+77000002-n	fra:exe	Ça nous a fait plaisir.
+77000002-n	fra:exe	 Nous avons interviewé une vedette qui arrivait juste de Paris.
+77000002-n	fra:exe	 Nous avons un stage de plongée au Maroc en formule " club ". 
 77000002-n	fra:lemma	on
+77000002-n	fra:exe	On est en retard.
+77000002-n	fra:exe	On lui téléphone ?
+77000002-n	fra:exe	On peut s'arranger!
 77000002-n	fra:exe	Mais, on rentre pour le match !
 15206296-n	fra:lemma	un mois
 15206296-n	fra:exe	Ça fait un mois que je ne l'ai pas vu.
+02834778-n	fra:lemma	vélo
+02834778-n	fra:exe	Si tu veux, je peux te prêter mon vélo.
+02834778-n	fra:exe	 Vas-y à vélo, ce sera plus rapide, je crois.
 02834778-n	fra:lemma	bicyclette
 02834778-n	fra:exe	Elle sait monter à bicyclette ?
 06597466-n	fra:lemma	revue
@@ -815,42 +1655,74 @@
 03704210-n	fra:lemma	revue
 03704210-n	fra:exe	Cette revue paraît toutes les semaines.
 08238463-n	fra:lemma	classe
-08238463-n	fra:exe	 Elle voyage en première classe : elle doit être très riche.
+08238463-n	fra:exe	Elle voyage en première classe : elle doit être très riche.
 00050454-v	fra:lemma	enlever
-00050454-v	fra:exe	 En enlevant le couvercle.
+00050454-v	fra:exe	En enlevant le couvercle.
 02649830-v	fra:lemma	habiter
+02649830-v	fra:exe	Où habitez-vous?
+02649830-v	fra:exe	Nous, on habite dans ce quartier.
 02649830-v	fra:exe	Vous habitez à Lyon? -Non, je n'habite plus à Lyon.
 15155891-n	fra:lemma	demain
+15155891-n	fra:exe	Au revoir, à demain.
+15155891-n	fra:exe	Demain, il fera beau.
+15155891-n	fra:exe	Heureusement, demain, c'est vendredi.
+15155891-n	fra:exe	Demain, je ne pourrai pas t'accompagner à l'hôpital.
 15155891-n	fra:exe	Il est malade, il ne pourra donc pas venir demain.
 04208936-n	fra:lemma	douche
+04208936-n	fra:exe	Je prends une douche tous les matins.
 04208936-n	fra:exe	 - Tu as besoin de la salle de bains ? - Non, ça va : j'ai déjà pris ma douche.
 15213774-n	fra:lemma	décembre
 15213774-n	fra:exe	La fin du mois de décembre est une période de fêtes dans beaucoup de pays.
 00625119-v	fra:lemma	lire
 00625119-v	fra:exe	lire→lu
+02774152-n	fra:lemma	sac
+02774152-n	fra:exe	Elle a sorti un petit carnet de son sac.
+02774152-n	fra:lemma	serviette
+02774152-n	fra:exe	En sortant du bain, essuie-toi avec cette serviette.
 02774152-n	fra:lemma	valise
 02774152-n	fra:exe	Tu mets toutes tes affaires dans cette petite valise?
+02773037-n	fra:lemma	sac
+02773037-n	fra:exe	Elle a sorti un petit carnet de son sac.
+02773037-n	fra:lemma	serviette
+02773037-n	fra:exe	En sortant du bain, essuie-toi avec cette serviette.
 02773037-n	fra:lemma	valise
 02773037-n	fra:exe	Tu mets toutes tes affaires dans cette petite valise?
 13250542-n	fra:lemma	argent
+13250542-n	fra:exe	C'est elle qui a le plus d'argent.
+13250542-n	fra:exe	Elle a plus d'argent que moi.
 13250542-n	fra:exe	Et pour l'argent, qu'est-ce que vous me conseillez ?
 13384557-n	fra:lemma	argent
+13384557-n	fra:exe	C'est elle qui a le plus d'argent.
+13384557-n	fra:exe	Elle a plus d'argent que moi.
 13384557-n	fra:exe	Et pour l'argent, qu'est-ce que vous me conseillez ?
+05600637-n	fra:lemma	visage
+05600637-n	fra:exe	Sa mère a un très beau visage.
 05600637-n	fra:lemma	figure
+05600637-n	fra:exe	Lave-toi la figure, elle est toute noire. 
 05600637-n	fra:exe	Le nez est au milieu de la figure.
 07597365-n	fra:lemma	bonbon
 07597365-n	fra:exe	Ne mange pas trop de bonbons !
 00024356-r	fra:lemma	non
+00024356-r	fra:exe	Non, non.
+00024356-r	fra:exe	 Non, pas du tout. 
+00024356-r	fra:exe	 Non merci !
+00024356-r	fra:exe	Non, Élodie.
+00024356-r	fra:exe	Non, j'ai ma voiture.
 00024356-r	fra:exe	 Non, je ne vois pas...
 03176763-n	fra:lemma	grand magasin
 03176763-n	fra:exe	On trouve tout, dans les grands magasins.
 01725051-v	fra:lemma	jouer
+01725051-v	fra:exe	Il joue du piano depuis l'âge de six ans.
 01725051-v	fra:exe	Il a entendu son amie jouer du piano.
 03388183-n	fra:lemma	stylo
 77000089-a	fra:lemma	tel
+77000089-a	fra:lemma	telle (morph:f)
 77000089-a	fra:exe	de tels livres
 15164354-n	fra:lemma	jeudi
 15164354-n	fra:exe	Nous sommes lundi. あるいは C'est jeudi.
+00056916-r	fra:lemma	s'il vous plaît
+00056916-r	fra:exe	Je voudrais un kilo de fraises, s'il vous plaît.
+00056916-r	fra:exe	Donnez-moi un croissant s'il vous plaît.
 00056916-r	fra:lemma	je vous en prie
 00056916-r	fra:exe	Mais je vous en prie !
 00816481-a	fra:lemma	lent
@@ -858,14 +1730,25 @@
 01901186-a	fra:lemma	lent
 01901186-a	fra:exe	Le paresseux est un animal très lent.
 04956594-n	fra:lemma	couleur
+04956594-n	fra:exe	Quelle est la couleur?
 04956594-n	fra:exe	un plan de Paris détaillé en couleur
 04674968-n	fra:lemma	couleur
+04674968-n	fra:exe	Quelle est la couleur?
 04674968-n	fra:exe	un plan de Paris détaillé en couleur
+07109730-n	fra:lemma	langage
+07109730-n	fra:exe	Les animaux ont-ils un langage?
 07109730-n	fra:lemma	parole
+07109730-n	fra:exe	Même si elle me donnait sa parole, je ne pourrais la croire.
 07109730-n	fra:exe	 Un ami tient toujours parole.
+06282651-n	fra:lemma	langage
+06282651-n	fra:exe	Les animaux ont-ils un langage?
 06282651-n	fra:lemma	parole
+06282651-n	fra:exe	Même si elle me donnait sa parole, je ne pourrais la croire.
 06282651-n	fra:exe	 Un ami tient toujours parole.
 00121135-r	fra:lemma	oui
+00121135-r	fra:exe	Eh oui! 
+00121135-r	fra:exe	Oui.
+00121135-r	fra:exe	Oui, voilà.
 00121135-r	fra:exe	Oui, c'est le plus pratique.
 04962784-n	fra:lemma	rouge
 04962784-n	fra:exe	Le feu va passer au rouge.
@@ -873,55 +1756,89 @@
 03871083-n	fra:exe	Je n'ai qu'un petit bagage à main.
 02774630-n	fra:lemma	bagage
 02774630-n	fra:exe	Je n'ai qu'un petit bagage à main.
+07891726-n	fra:lemma	saké
+07891726-n	fra:exe	Vous voulez goûter à ce saké ?
 07891726-n	fra:lemma	vin
+07891726-n	fra:exe	du vi
+07891726-n	fra:exe	Du vin, s'il vous plaît.
+07891726-n	fra:exe	C'est le meilleur vin de la région.
 07891726-n	fra:exe	Voulez-vous du vin ou de la bière?
+07884567-n	fra:lemma	saké
+07884567-n	fra:exe	Vous voulez goûter à ce saké ?
 07884567-n	fra:lemma	vin
+07884567-n	fra:exe	du vi
+07884567-n	fra:exe	Du vin, s'il vous plaît.
+07884567-n	fra:exe	C'est le meilleur vin de la région.
 07884567-n	fra:exe	Voulez-vous du vin ou de la bière?
+07891433-n	fra:lemma	saké
+07891433-n	fra:exe	Vous voulez goûter à ce saké ?
 07891433-n	fra:lemma	vin
+07891433-n	fra:exe	du vi
+07891433-n	fra:exe	Du vin, s'il vous plaît.
+07891433-n	fra:exe	C'est le meilleur vin de la région.
 07891433-n	fra:exe	Voulez-vous du vin ou de la bière?
 15164463-n	fra:lemma	vendredi
 15164463-n	fra:exe	Excusez-moi, je suis prise. Le vendredi, je dois aller à mon cours de natation.
 03581125-n	fra:lemma	carrefour
 03581125-n	fra:exe	Il y aurait encore eu un accident à ce carrefour.
 02410393-a	fra:lemma	épais
+02410393-a	fra:exe	Il a écrit un rapport très épais.
 02410393-a	fra:exe	Le brouillard était si épais qu'on ne voyait plus la montagne.
 02410393-a	fra:lemma	gros
+02410393-a	fra:lemma	grosse (morph:f)
+02410393-a	fra:exe	gros → grosse
 02410393-a	fra:exe	Monsieur, vous pourriez écrire plus gros, s'il vous plaît ?
 02415390-a	fra:lemma	épais
+02415390-a	fra:exe	Il a écrit un rapport très épais.
 02415390-a	fra:exe	Le brouillard était si épais qu'on ne voyait plus la montagne.
+02756821-v	fra:lemma	pleuvoir
+02756821-v	fra:exe	Il pleut.
+02756821-v	fra:exe	Qu'est-ce qu'on va faire ce week-end ? - S'il ne pleut pas, on ira au parc de Montsouris.
 02756821-v	fra:lemma	neiger
 02756821-v	fra:exe	Il neige.
 02529264-a	fra:lemma	tiède
 02529264-a	fra:exe	Le foie gras tiède, c'est excellent.
+01546111-v	fra:lemma	se lever
+01546111-v	fra:exe	je me lève, tu te lèves, il se lève, nous nous levons, vous vous levez, ils se lèvent
 01546111-v	fra:lemma	être debout
 01546111-v	fra:exe	Ne restez pas debout, asseyez-vous.
 10142747-n	fra:lemma	grand-mère
 10142747-n	fra:exe	Je n'ai plus qu'une grand-mère, la mère de ma mère, mais j'ai encore mes deux grands-pères.
 07679356-n	fra:lemma	pain
+07679356-n	fra:exe	du pai
 07679356-n	fra:exe	Vous allez acheter du pain?
 03259505-n	fra:lemma	maison
 03259505-n	fra:exe	Cette maison, ça a été construit il y a un an.
 03544360-n	fra:lemma	maison
 03544360-n	fra:exe	Cette maison, ça a été construit il y a un an.
 03544360-n	fra:lemma	maison
-03544360-n	fra:exe	 On sent de bonnes odeurs de cuisine dans toute la maison.
+03544360-n	fra:exe	On sent de bonnes odeurs de cuisine dans toute la maison.
 08559508-n	fra:lemma	maison
 08559508-n	fra:exe	Cette maison, ça a été construit il y a un an.
 08559508-n	fra:lemma	maison
-08559508-n	fra:exe	 On sent de bonnes odeurs de cuisine dans toute la maison.
+08559508-n	fra:exe	On sent de bonnes odeurs de cuisine dans toute la maison.
 15210486-n	fra:lemma	février
+15210486-n	fra:exe	Février est le mois le plus froid.
 15210486-n	fra:exe	Il neige souvent en février.
 15167349-n	fra:lemma	nuit
+15167349-n	fra:exe	Il fait nuit.
 15167349-n	fra:exe	Dormez-vous suffisamment la nuit ?
 15155747-n	fra:lemma	nuit
+15155747-n	fra:exe	Il fait nuit.
 15155747-n	fra:exe	Dormez-vous suffisamment la nuit ?
 15167027-n	fra:lemma	nuit
+15167027-n	fra:exe	Il fait nuit.
 15167027-n	fra:exe	Dormez-vous suffisamment la nuit ?
 15167027-n	fra:lemma	hier soir
+15167027-n	fra:exe	T'as pas fait la vaisselle d'hier soir ?
+15167027-n	fra:exe	Hier soir, j'ai entendu aboyer un chien.
+15167027-n	fra:exe	Pourquoi ne m'as-tu pas appelée hier soir ?
 15167027-n	fra:exe	Écoutez, je voulais vraiment vous remercier pour hier soir.
 15167474-n	fra:lemma	nuit
+15167474-n	fra:exe	Il fait nuit.
 15167474-n	fra:exe	Dormez-vous suffisamment la nuit ?
 03438257-n	fra:lemma	verre
+03438257-n	fra:exe	Un verre de rouge, puis un demi, puis un kir.
 03438257-n	fra:exe	Euh...je pourrais peut-être prendre un verre de vin ?
 08613593-n	fra:lemma	dehors
 08613593-n	fra:exe	Mais, nous sommes dehors, dans la rue !
@@ -929,16 +1846,33 @@
 03338821-n	fra:exe	C'est une pellicule couleur ou noir et blanc?
 06613686-n	fra:lemma	pellicule
 06613686-n	fra:exe	C'est une pellicule couleur ou noir et blanc?
+06613686-n	fra:lemma	cinéma
+06613686-n	fra:exe	Mon père tient ce cinéma.
 06613686-n	fra:lemma	film
+06613686-n	fra:exe	Ce film est meilleur que celui d'hier.
+06613686-n	fra:exe	On parle beaucoup de ce film.
 06613686-n	fra:exe	Il faut que vous voyiez ce film.
 06262567-n	fra:lemma	pellicule
 06262567-n	fra:exe	C'est une pellicule couleur ou noir et blanc?
+04096066-n	fra:lemma	rue
+04096066-n	fra:exe	Que de voitures dans cette rue !
+04096066-n	fra:exe	Mais Monsieur, ça vient de la rue : c'est une manifestation.
+04096066-n	fra:exe	 Désolé, mais il est défendu de fumer dans la rue ici.
 04096066-n	fra:lemma	chemin
-04096066-n	fra:exe	 Vous pouvez m'indiquer le chemin pour y aller ?
+04096066-n	fra:exe	Vous pouvez m'indiquer le chemin pour y aller ?
 15212739-n	fra:lemma	septembre
 15212739-n	fra:exe	Pour le cours intensif de français, il faut s'inscrire avant le 30 septembre.
+77000079-a	fra:lemma	ce
+77000079-a	fra:exe	Et comment s'appelle ce garçon ?
+77000079-a	fra:exe	Je ne connais pas le nom de cette personne.
+77000079-a	fra:exe	Regarde cette dame ! – Laquelle ? – Celle qui lit Elle.
+77000079-a	fra:exe	Vous voulez visiter ce musée ?
+77000079-a	fra:exe	Pourrais-tu me faxer l'adresse de ce restau de sushi...
 77000079-a	fra:lemma	ce ...-là
 77000079-a	fra:exe	Nous sommes occupés ces jours-là.
+14524198-n	fra:lemma	nuageux
+14524198-n	fra:lemma	nuageuse (morph:f)
+14524198-n	fra:exe	Le ciel est nuageux aujourd'hui.
 14524198-n	fra:lemma	être couvert
 14524198-n	fra:exe	Le temps est couvert, il risque de pleuvoir.
 00543233-n	fra:lemma	musique
@@ -954,6 +1888,7 @@
 08641113-n	fra:lemma	près de
 08641113-n	fra:exe	Pardon, Monsieur, est-ce qu'il y a un poste de police près d'ici ?
 03112099-n	fra:lemma	couloir
+03112099-n	fra:exe	Les toilettes sont au fond du couloir.
 03112099-n	fra:exe	Vous prenez le premier couloir à gauche.
 03661043-n	fra:lemma	bibliothèque
 03661043-n	fra:exe	La bibliothèque est fermée le dimanche.
@@ -970,26 +1905,61 @@
 05282746-n	fra:lemma	dent
 05282746-n	fra:exe	Elle a mal aux dents.
 01649720-a	fra:lemma	jeune
+01649720-a	fra:exe	Elle est jeune ?
 01649720-a	fra:exe	Je connais la jeune fille dont le père est médecin.
 01646941-a	fra:lemma	jeune
+01646941-a	fra:exe	Elle est jeune ?
 01646941-a	fra:exe	Je connais la jeune fille dont le père est médecin.
+00514884-a	fra:lemma	pendant
+00514884-a	fra:exe	Ils sont restés ensemble pendant cinq ans.
 00514884-a	fra:lemma	tout
+00514884-a	fra:exe	On sent de bonnes odeurs de cuisine dans toute la maison.
 00514884-a	fra:exe	Elle aime tellement le jazz qu'elle en écoute toute la journée.
+00988232-a	fra:lemma	fin
+00988232-a	fra:exe	Il n'est pas très fin, tu sais.
 00988232-a	fra:lemma	mince
 00988232-a	fra:exe	Christine reste mince tout en adorant les desserts.
 01029368-v	fra:lemma	s'appeler
+01029368-v	fra:exe	je m'appelle, tu t'appelles, il s'appelle, nous nous appelons, vous vous appelez, ils s'appellent
 01029368-v	fra:exe	Vous vous appelez comment ?
 77000084-n	fra:lemma	où
+77000084-n	fra:exe	Où est-ce que tu veux aller ?
+77000084-n	fra:exe	 Je ne sais pas où je suis.
 77000084-n	fra:exe	Où me conseillez-vous d'aller ?
+00220082-a	fra:lemma	beau
+00220082-a	fra:lemma	beaux (morph:pl)
+00220082-a	fra:lemma	belle (morph:f)
+00220082-a	fra:exe	beau(x) → bel → belle(s)
+00220082-a	fra:exe	Quelle belle maison ! 
+00220082-a	fra:exe	J'hésite entre ces deux pulls : celui-ci est beau, mais celui-là est beau aussi.
 00220082-a	fra:lemma	joli
+00220082-a	fra:exe	Passez par la plage, c'est plus joli.
 00220082-a	fra:exe	Quelles jolies fleurs ! ― Ce sont celles qu'elle m'a achetées hier.
+01586342-a	fra:lemma	beau
+01586342-a	fra:lemma	beaux (morph:pl)
+01586342-a	fra:lemma	belle (morph:f)
+01586342-a	fra:exe	beau(x) → bel → belle(s)
+01586342-a	fra:exe	Quelle belle maison ! 
+01586342-a	fra:exe	J'hésite entre ces deux pulls : celui-ci est beau, mais celui-là est beau aussi.
 01586342-a	fra:lemma	joli
+01586342-a	fra:exe	Passez par la plage, c'est plus joli.
 01586342-a	fra:exe	Quelles jolies fleurs ! ― Ce sont celles qu'elle m'a achetées hier.
 01586342-a	fra:lemma	bon
+01586342-a	fra:lemma	bonne (morph:f)
+01586342-a	fra:exe	un bon élève
+01586342-a	fra:exe	 C'était le bon temps !
+01586342-a	fra:exe	Oui, c'est une bonne idée.
+01586342-a	fra:exe	Bonne journée vous aussi !
+01586342-a	fra:exe	Bonne soirée... et à demain !
 01586342-a	fra:exe	Il donne toujours de bons conseils.
+01346003-v	fra:lemma	ouvrir
+01346003-v	fra:exe	Ouvre-le !
+01346003-v	fra:exe	 Il n'a pas réussi à ouvrir les documents attachés.
 01346003-v	fra:lemma	tirer
 01346003-v	fra:exe	Tirez les rideaux s'il vous plaît.
 09853467-n	fra:lemma	frère
+09853467-n	fra:exe	J'ai des frères.
+09853467-n	fra:exe	Il a des frères.
 09853467-n	fra:exe	Vous avez des frères?
 09853467-n	fra:lemma	frère
 09853467-n	fra:exe	Vous avez des frères et des sœurs ?
@@ -998,28 +1968,53 @@
 03273913-n	fra:lemma	frigo
 03273913-n	fra:exe	Mélanie n'a pas encore de frigo.
 02399595-a	fra:lemma	mauvais
+02399595-a	fra:exe	Ce plat est mauvais : qui l'a préparé ?
 02399595-a	fra:exe	Dans ce restaurant, tout est mauvais.
 01716971-a	fra:lemma	mauvais
+01716971-a	fra:exe	Ce plat est mauvais : qui l'a préparé ?
 01716971-a	fra:exe	Dans ce restaurant, tout est mauvais.
 07845335-n	fra:lemma	lait
+07845335-n	fra:exe	du lait
+07845335-n	fra:exe	Voulez-vous du lait ? - Non, pas de lait, merci.
 07845335-n	fra:exe	D'abord, tu choisis un camembert " au lait cru ".
 07844042-n	fra:lemma	lait
+07844042-n	fra:exe	du lait
+07844042-n	fra:exe	Voulez-vous du lait ? - Non, pas de lait, merci.
 07844042-n	fra:exe	D'abord, tu choisis un camembert " au lait cru ".
 10780632-n	fra:lemma	madame
 10780632-n	fra:exe	Alors Madame, qu'est-ce qui vous ferait plaisir ?
 10780632-n	fra:lemma	femme
+10780632-n	fra:exe	Voilà Marianne, ma femme.
 10780632-n	fra:exe	Ma femme se lève aussi tôt que moi.
 08625462-n	fra:lemma	gauche
+08625462-n	fra:exe	La chaussure gauche me serre.
+08625462-n	fra:exe	La deuxième à gauche ?
+08625462-n	fra:exe	 Prenez la deuxième rue à gauche.
+08625462-n	fra:exe	Tu regarderas à droite et à gauche avant de traverser.
 08625462-n	fra:exe	Prenez la deuxième à gauche, et vous y serez.
 90000508-n	fra:lemma	la semaine prochaine
 90000508-n	fra:exe	Il y a des devoirs pour la semaine prochaine ?
 01848718-v	fra:lemma	aller
+01848718-v	fra:exe	On va au cinéma ?
+01848718-v	fra:exe	 Je compte aller en Mongolie. 
+01848718-v	fra:exe	Cet été, ils vont aller en Australie.
 01848718-v	fra:exe	En fait, je pense y aller en voyage organisé.
+06518719-n	fra:lemma	ticket
+06518719-n	fra:exe	Tu peux me donner un ticket de métro ?
 06518719-n	fra:lemma	billet
+06518719-n	fra:exe	Le billet " 18 " ?
 06518719-n	fra:exe	Il y a même un billet spécial vacances, très, très bon marché.
+01470670-v	fra:lemma	voir
+01470670-v	fra:exe	Je vais bientôt voir mes parents.
+01470670-v	fra:exe	Patrick, je vais te présenter un mec super, tu vas voir.
 01470670-v	fra:lemma	rencontrer
+01470670-v	fra:exe	Ah, mais... si je ne vous avais pas rencontré...
 01470670-v	fra:exe	Ils se rencontrent souvent par hasard au centre-ville.
+02428924-v	fra:lemma	voir
+02428924-v	fra:exe	Je vais bientôt voir mes parents.
+02428924-v	fra:exe	Patrick, je vais te présenter un mec super, tu vas voir.
 02428924-v	fra:lemma	rencontrer
+02428924-v	fra:exe	Ah, mais... si je ne vous avais pas rencontré...
 02428924-v	fra:exe	Ils se rencontrent souvent par hasard au centre-ville.
 10285313-n	fra:lemma	garçon
 10285313-n	fra:exe	un petit garçon → une petite fille
@@ -1028,13 +2023,16 @@
 02913152-n	fra:lemma	bâtiment
 02913152-n	fra:exe	Quelle est la longueur de ce bâtiment?
 07649854-n	fra:lemma	viande
+07649854-n	fra:exe	de la viande
 07649854-n	fra:exe	Vivre 100 ans sans manger de viande ?
 09397391-n	fra:lemma	étang
 09397391-n	fra:exe	Il aime pêcher au bord de l'étang.
 07935152-n	fra:lemma	thé
 03082979-n	fra:lemma	ordinateur
+03082979-n	fra:exe	Vous pouvez utiliser cet ordinateur.
 03082979-n	fra:exe	Comment faire pour écrire avec les accents sur l'ordinateur ?
 00312553-n	fra:lemma	voyage
+00312553-n	fra:exe	J'ai fait payer mon voyage par mon entreprise.
 00312553-n	fra:exe	Le voyage a été agréable, bien qu'il ne fasse pas beau.
 04043733-n	fra:lemma	radio
 04043733-n	fra:exe	En prenant le petit déjeuner, François et Marianne écoutent les informations à la radio.
@@ -1046,9 +2044,9 @@
 01442826-a	fra:exe	Tu as les cheveux courts maintenant ?
 14513694-n	fra:lemma	famille
 02808440-n	fra:lemma	bain
-02808440-n	fra:exe	 Quand tu as téléphoné hier soir, j'étais dans mon bain. 
+02808440-n	fra:exe	Quand tu as téléphoné hier soir, j'étais dans mon bain. 
 02807731-n	fra:lemma	bain
-02807731-n	fra:exe	 Quand tu as téléphoné hier soir, j'étais dans mon bain. 
+02807731-n	fra:exe	Quand tu as téléphoné hier soir, j'étais dans mon bain. 
 15274074-n	fra:lemma	repos
 15274074-n	fra:exe	Tu aurais besoin d'un peu de repos.
 15183428-n	fra:lemma	repos
@@ -1056,28 +2054,53 @@
 15137890-n	fra:lemma	repos
 15137890-n	fra:exe	Tu aurais besoin d'un peu de repos.
 00027918-r	fra:lemma	encore
+00027918-r	fra:exe	Je ne sais pas encore.
 00027918-r	fra:exe	 Le facteur n'est pas encore passé.
 00031304-r	fra:lemma	encore
+00031304-r	fra:exe	Je ne sais pas encore.
 00031304-r	fra:exe	 Le facteur n'est pas encore passé.
+03925226-n	fra:lemma	photographie
+03925226-n	fra:exe	La photographie numérique est maintenant très populaire.
 03925226-n	fra:lemma	photo
 03925226-n	fra:exe	Tu as une photo ?
+03931044-n	fra:lemma	photographie
+03931044-n	fra:exe	La photographie numérique est maintenant très populaire.
 03931044-n	fra:lemma	photo
 03931044-n	fra:exe	Tu as une photo ?
+04248607-n	fra:lemma	photographie
+04248607-n	fra:exe	La photographie numérique est maintenant très populaire.
 04248607-n	fra:lemma	photo
 04248607-n	fra:exe	Tu as une photo ?
 15164233-n	fra:lemma	mercredi
 15164233-n	fra:exe	C'est mercredi que vous devez venir chez moi.
+11524662-n	fra:lemma	temps
+11524662-n	fra:exe	Quel beau temps !
+11524662-n	fra:exe	À Tokyo, quel temps fait-il en été?
+11524662-n	fra:exe	L'hiver à Paris, quel temps fait-il ?
 11524662-n	fra:lemma	faire
+11524662-n	fra:exe	Il fait froid (chaud).
+11524662-n	fra:exe	Il fait jour.
+11524662-n	fra:exe	Il fait très froid.
 11524662-n	fra:exe	Qu'il fait froid !
 07193184-n	fra:lemma	question
+07193184-n	fra:exe	Mais... tu as une autre question ?
+07193184-n	fra:exe	Quelles sont les questions?
 07193184-n	fra:exe	Tu as des questions sur le Japon ?
 07196682-n	fra:lemma	question
+07196682-n	fra:exe	Mais... tu as une autre question ?
+07196682-n	fra:exe	Quelles sont les questions?
 07196682-n	fra:exe	Tu as des questions sur le Japon ?
 05797597-n	fra:lemma	question
+05797597-n	fra:exe	Mais... tu as une autre question ?
+05797597-n	fra:exe	Quelles sont les questions?
 05797597-n	fra:exe	Tu as des questions sur le Japon ?
 07193596-n	fra:lemma	question
+07193596-n	fra:exe	Mais... tu as une autre question ?
+07193596-n	fra:exe	Quelles sont les questions?
 07193596-n	fra:exe	Tu as des questions sur le Japon ?
 01904930-v	fra:lemma	marcher
+01904930-v	fra:exe	Tu dois marcher plus vite.
+01904930-v	fra:exe	Il faut marcher combien de temps ?
 01904930-v	fra:exe	 Ce qui me plaît, c'est de marcher dans la nature, de respirer le bon air...
 03383948-n	fra:lemma	fourchette
 03383948-n	fra:exe	La fourchette se met à gauche de l'assiette.
@@ -1088,59 +2111,135 @@
 08278169-n	fra:lemma	université
 08278169-n	fra:exe	Je vais à l'université.
 01000214-v	fra:lemma	écrire
+01000214-v	fra:exe	J'ai mis une heure pour écrire cette lettre.
+01000214-v	fra:exe	Comment faire pour écrire avec les accents sur l'ordinateur ?
+01000214-v	fra:exe	Monsieur, vous pourriez écrire plus gros, s'il vous plaît ?
+01000214-v	fra:exe	 C'est écrit sur l'étiquette ?
 01000214-v	fra:exe	 C'est écrit " le tabac tue ", maintenant, sur les paquets ?
 02471690-v	fra:lemma	écrire
+02471690-v	fra:exe	J'ai mis une heure pour écrire cette lettre.
+02471690-v	fra:exe	Comment faire pour écrire avec les accents sur l'ordinateur ?
+02471690-v	fra:exe	Monsieur, vous pourriez écrire plus gros, s'il vous plaît ?
+02471690-v	fra:exe	 C'est écrit sur l'étiquette ?
 02471690-v	fra:exe	 C'est écrit " le tabac tue ", maintenant, sur les paquets ?
 01020356-v	fra:lemma	écrire
+01020356-v	fra:exe	J'ai mis une heure pour écrire cette lettre.
+01020356-v	fra:exe	Comment faire pour écrire avec les accents sur l'ordinateur ?
+01020356-v	fra:exe	Monsieur, vous pourriez écrire plus gros, s'il vous plaît ?
+01020356-v	fra:exe	 C'est écrit sur l'étiquette ?
 01020356-v	fra:exe	 C'est écrit " le tabac tue ", maintenant, sur les paquets ?
 01691057-v	fra:lemma	écrire
+01691057-v	fra:exe	J'ai mis une heure pour écrire cette lettre.
+01691057-v	fra:exe	Comment faire pour écrire avec les accents sur l'ordinateur ?
+01691057-v	fra:exe	Monsieur, vous pourriez écrire plus gros, s'il vous plaît ?
+01691057-v	fra:exe	 C'est écrit sur l'étiquette ?
 01691057-v	fra:exe	 C'est écrit " le tabac tue ", maintenant, sur les paquets ?
 01698271-v	fra:lemma	écrire
+01698271-v	fra:exe	J'ai mis une heure pour écrire cette lettre.
+01698271-v	fra:exe	Comment faire pour écrire avec les accents sur l'ordinateur ?
+01698271-v	fra:exe	Monsieur, vous pourriez écrire plus gros, s'il vous plaît ?
+01698271-v	fra:exe	 C'est écrit sur l'étiquette ?
 01698271-v	fra:exe	 C'est écrit " le tabac tue ", maintenant, sur les paquets ?
 01020934-v	fra:lemma	écrire
+01020934-v	fra:exe	J'ai mis une heure pour écrire cette lettre.
+01020934-v	fra:exe	Comment faire pour écrire avec les accents sur l'ordinateur ?
+01020934-v	fra:exe	Monsieur, vous pourriez écrire plus gros, s'il vous plaît ?
+01020934-v	fra:exe	 C'est écrit sur l'étiquette ?
 01020934-v	fra:exe	 C'est écrit " le tabac tue ", maintenant, sur les paquets ?
 00993014-v	fra:lemma	écrire
+00993014-v	fra:exe	J'ai mis une heure pour écrire cette lettre.
+00993014-v	fra:exe	Comment faire pour écrire avec les accents sur l'ordinateur ?
+00993014-v	fra:exe	Monsieur, vous pourriez écrire plus gros, s'il vous plaît ?
+00993014-v	fra:exe	 C'est écrit sur l'étiquette ?
 00993014-v	fra:exe	 C'est écrit " le tabac tue ", maintenant, sur les paquets ?
 03822171-n	fra:lemma	journal
+03822171-n	fra:lemma	journaux (morph:pl)
 03822171-n	fra:exe	journal → journaux
 06267145-n	fra:lemma	journal
+06267145-n	fra:lemma	journaux (morph:pl)
 06267145-n	fra:exe	journal → journaux
 14961722-n	fra:lemma	journal
+14961722-n	fra:lemma	journaux (morph:pl)
 14961722-n	fra:exe	journal → journaux
 07197021-n	fra:lemma	examen
+07197021-n	fra:exe	Elle a réussi son examen de français.
+07197021-n	fra:exe	Mais, cet examen, si vous le ratiez ?
 07197021-n	fra:exe	Et que comptez-vous faire, si vous réussissez cet examen ?
 00158309-r	fra:lemma	juste
+00158309-r	fra:exe	Juste sous ton pied !
+00158309-r	fra:exe	Je viens juste de rentrer.
 00158309-r	fra:exe	 Le bus vient juste de partir.
 00002621-r	fra:lemma	juste
+00002621-r	fra:exe	Juste sous ton pied !
+00002621-r	fra:exe	Je viens juste de rentrer.
 00002621-r	fra:exe	 Le bus vient juste de partir.
 00002950-r	fra:lemma	juste
+00002950-r	fra:exe	Juste sous ton pied !
+00002950-r	fra:exe	Je viens juste de rentrer.
 00002950-r	fra:exe	 Le bus vient juste de partir.
 13714184-n	fra:lemma	degré
 13714184-n	fra:exe	Le climatiseur se met en marche automatiquement à partir de 30 degrés.
 00119568-n	fra:lemma	voler
+00119568-n	fra:exe	Depuis toujours l'homme rêve de voler.
 00119568-n	fra:exe	Les oiseaux volent.
 08145553-n	fra:lemma	poste
 08145553-n	fra:exe	Il y a un bureau de poste près d'ici?
 15237044-n	fra:lemma	printemps
+15237044-n	fra:exe	Il y a du printemps dans l'air.
 15237044-n	fra:exe	Le printemps à New York, c'est toujours comme ça?
 01270199-v	fra:lemma	faire la lessive
 01270199-v	fra:exe	Mon père ne fait jamais la lessive.
+15166462-n	fra:lemma	soir
 15166462-n	fra:lemma	soirée
+15166462-n	fra:exe	Je t'appellerai dans la soirée.
 15166462-n	fra:exe	 Bonne soirée à toi aussi, et tu fais la bise à tout le monde !
 15166462-n	fra:lemma	hier soir
+15166462-n	fra:exe	T'as pas fait la vaisselle d'hier soir ?
+15166462-n	fra:exe	Hier soir, j'ai entendu aboyer un chien.
+15166462-n	fra:exe	Pourquoi ne m'as-tu pas appelée hier soir ?
 15166462-n	fra:exe	Écoutez, je voulais vraiment vous remercier pour hier soir.
+01343918-a	fra:lemma	intéressant
+01343918-a	fra:exe	Ce livre n'était pas très intéressant, mais je l'ai quand même lu.
+01343918-a	fra:lemma	amusant
+01343918-a	fra:exe	Ce jeu est très amusant.
 01343918-a	fra:lemma	drôle
 01343918-a	fra:exe	Il raconte toujours des histoires très drôles.
+01344344-a	fra:lemma	intéressant
+01344344-a	fra:exe	Ce livre n'était pas très intéressant, mais je l'ai quand même lu.
+01344344-a	fra:lemma	amusant
+01344344-a	fra:exe	Ce jeu est très amusant.
 01344344-a	fra:lemma	drôle
 01344344-a	fra:exe	Il raconte toujours des histoires très drôles.
 01344344-a	fra:lemma	joyeux
+01344344-a	fra:lemma	joyeuse (morph:f)
+01344344-a	fra:exe	Tu es bien joyeux aujourd'hui. Qu'est-ce qui se passe ?
 01344344-a	fra:exe	Joyeux Noël !
+01265308-a	fra:lemma	intéressant
+01265308-a	fra:exe	Ce livre n'était pas très intéressant, mais je l'ai quand même lu.
+01265308-a	fra:lemma	amusant
+01265308-a	fra:exe	Ce jeu est très amusant.
 01265308-a	fra:lemma	drôle
 01265308-a	fra:exe	Il raconte toujours des histoires très drôles.
+01344485-a	fra:lemma	intéressant
+01344485-a	fra:exe	Ce livre n'était pas très intéressant, mais je l'ai quand même lu.
+01344485-a	fra:lemma	amusant
+01344485-a	fra:exe	Ce jeu est très amusant.
 01344485-a	fra:lemma	drôle
 01344485-a	fra:exe	Il raconte toujours des histoires très drôles.
+00067045-r	fra:lemma	avenir
+00067045-r	fra:exe	Je m'inquiète beaucoup de son avenir.
+00067045-r	fra:exe	Vous pensez à votre avenir? -Oui, j'y pense souvent.
+00067045-r	fra:lemma	avant
+00067045-r	fra:exe	Descendez une station avant le terminus.
+00067045-r	fra:exe	Mais monsieur, j'étais avant vous.
 00067045-r	fra:lemma	à l'avance
 00067045-r	fra:exe	Si vous avez besoin de moi, prévenez-moi à l'avance.
+00067265-r	fra:lemma	avenir
+00067265-r	fra:exe	Je m'inquiète beaucoup de son avenir.
+00067265-r	fra:exe	Vous pensez à votre avenir? -Oui, j'y pense souvent.
+00067265-r	fra:lemma	avant
+00067265-r	fra:exe	Descendez une station avant le terminus.
+00067265-r	fra:exe	Mais monsieur, j'étais avant vous.
 00067265-r	fra:lemma	à l'avance
 00067265-r	fra:exe	Si vous avez besoin de moi, prévenez-moi à l'avance.
 90000515-n	fra:lemma	après-demain
@@ -1148,26 +2247,47 @@
 01296462-v	fra:lemma	allumer
 01296462-v	fra:exe	Il fait trop sombre ici, tu devrais allumer la lumière.
 01801029-a	fra:lemma	joyeux
+01801029-a	fra:lemma	joyeuse (morph:f)
+01801029-a	fra:exe	Tu es bien joyeux aujourd'hui. Qu'est-ce qui se passe ?
 01801029-a	fra:exe	Joyeux Noël !
 03906997-n	fra:lemma	stylo
 03906997-n	fra:exe	Passe-moi un stylo, je n'ai rien pour écrire.
 77000095-n	fra:lemma	qui
+77000095-n	fra:lemma	qui
+77000095-n	fra:exe	Qui est-ce ?
+77000095-n	fra:exe	 Qui peut croire aux promesses de ce président ?
 77000095-n	fra:lemma	personne
 77000095-n	fra:exe	Personne ne sait la vérité.
 90000500-n	fra:lemma	il y a deux ans
 90000500-n	fra:exe	Nous avons acheté cet appartement il y a deux ans.
 03221720-n	fra:lemma	porte
-03221720-n	fra:exe	 On frappe à la porte.
+03221720-n	fra:exe	On frappe à la porte.
 03221720-n	fra:lemma	porte
 00050681-r	fra:lemma	il n'y a pas
+00050681-r	fra:exe	Oh, il n'y a pas de quoi.
+00050681-r	fra:exe	Il n'y a pas de problème !
 00050681-r	fra:exe	Il n'y a pas de bureau de poste dans cette ville.
 00024587-r	fra:lemma	il n'y a pas
+00024587-r	fra:exe	Oh, il n'y a pas de quoi.
+00024587-r	fra:exe	Il n'y a pas de problème !
 00024587-r	fra:exe	Il n'y a pas de bureau de poste dans cette ville.
+77000012-n	fra:lemma	je
+77000012-n	fra:exe	Bon, j'y vais.
+77000012-n	fra:exe	À bientôt j'espère !
+77000012-n	fra:exe	 Je ne sais pas, moi.
+77000012-n	fra:exe	Bon, je vais réfléchir.
 77000012-n	fra:lemma	moi
+77000015-n	fra:lemma	je
+77000015-n	fra:exe	Bon, j'y vais.
+77000015-n	fra:exe	À bientôt j'espère !
+77000015-n	fra:exe	 Je ne sais pas, moi.
+77000015-n	fra:exe	Bon, je vais réfléchir.
 77000015-n	fra:lemma	moi
 01344963-a	fra:lemma	ennuyeux
+01344963-a	fra:lemma	ennuyeuse (morph:f)
 01344963-a	fra:exe	J'ai trouvé ce film complètement ennuyeux.
 01170052-v	fra:lemma	boire
+01170052-v	fra:exe	Dans mon cas, je bois du vin rouge.
 01170052-v	fra:exe	Vous avez 20 ans, alors vous pouvez boire du vin.
 03282295-n	fra:lemma	ambassade
 03282295-n	fra:exe	L'ambassade du Japon en France est près du parc Monceau.
@@ -1176,58 +2296,144 @@
 06796119-n	fra:lemma	timbre
 06796119-n	fra:exe	Collez un timbre sur l'enveloppe.
 07775375-n	fra:lemma	poisson
+07775375-n	fra:exe	Du poisson, s'il vous plaît.
+07775375-n	fra:exe	Les Japonais, par exemple, ils mangent surtout du poisson...
 07775375-n	fra:exe	Madame, voulez-vous de la viande ou du poisson?
 02512053-n	fra:lemma	poisson
+02512053-n	fra:exe	Du poisson, s'il vous plaît.
+02512053-n	fra:exe	Les Japonais, par exemple, ils mangent surtout du poisson...
 02512053-n	fra:exe	Madame, voulez-vous de la viande ou du poisson?
 01586866-a	fra:lemma	bon
+01586866-a	fra:lemma	bonne (morph:f)
+01586866-a	fra:exe	un bon élève
+01586866-a	fra:exe	 C'était le bon temps !
+01586866-a	fra:exe	Oui, c'est une bonne idée.
+01586866-a	fra:exe	Bonne journée vous aussi !
+01586866-a	fra:exe	Bonne soirée... et à demain !
 01586866-a	fra:exe	Il donne toujours de bons conseils.
 01048762-a	fra:lemma	bon
+01048762-a	fra:lemma	bonne (morph:f)
+01048762-a	fra:exe	un bon élève
+01048762-a	fra:exe	 C'était le bon temps !
+01048762-a	fra:exe	Oui, c'est une bonne idée.
+01048762-a	fra:exe	Bonne journée vous aussi !
+01048762-a	fra:exe	Bonne soirée... et à demain !
 01048762-a	fra:exe	Il donne toujours de bons conseils.
 00067638-a	fra:lemma	bon
+00067638-a	fra:lemma	bonne (morph:f)
+00067638-a	fra:exe	un bon élève
+00067638-a	fra:exe	 C'était le bon temps !
+00067638-a	fra:exe	Oui, c'est une bonne idée.
+00067638-a	fra:exe	Bonne journée vous aussi !
+00067638-a	fra:exe	Bonne soirée... et à demain !
 00067638-a	fra:exe	Il donne toujours de bons conseils.
 01993408-a	fra:lemma	bon
+01993408-a	fra:lemma	bonne (morph:f)
+01993408-a	fra:exe	un bon élève
+01993408-a	fra:exe	 C'était le bon temps !
+01993408-a	fra:exe	Oui, c'est une bonne idée.
+01993408-a	fra:exe	Bonne journée vous aussi !
+01993408-a	fra:exe	Bonne soirée... et à demain !
 01993408-a	fra:exe	Il donne toujours de bons conseils.
 01171213-a	fra:lemma	bon
+01171213-a	fra:lemma	bonne (morph:f)
+01171213-a	fra:exe	un bon élève
+01171213-a	fra:exe	 C'était le bon temps !
+01171213-a	fra:exe	Oui, c'est une bonne idée.
+01171213-a	fra:exe	Bonne journée vous aussi !
+01171213-a	fra:exe	Bonne soirée... et à demain !
 01171213-a	fra:exe	Il donne toujours de bons conseils.
 01800349-a	fra:lemma	bon
+01800349-a	fra:lemma	bonne (morph:f)
+01800349-a	fra:exe	un bon élève
+01800349-a	fra:exe	 C'était le bon temps !
+01800349-a	fra:exe	Oui, c'est une bonne idée.
+01800349-a	fra:exe	Bonne journée vous aussi !
+01800349-a	fra:exe	Bonne soirée... et à demain !
 01800349-a	fra:exe	Il donne toujours de bons conseils.
 01123148-a	fra:lemma	bon
+01123148-a	fra:lemma	bonne (morph:f)
+01123148-a	fra:exe	un bon élève
+01123148-a	fra:exe	 C'était le bon temps !
+01123148-a	fra:exe	Oui, c'est une bonne idée.
+01123148-a	fra:exe	Bonne journée vous aussi !
+01123148-a	fra:exe	Bonne soirée... et à demain !
 01123148-a	fra:exe	Il donne toujours de bons conseils.
 00064787-a	fra:lemma	bon
+00064787-a	fra:lemma	bonne (morph:f)
+00064787-a	fra:exe	un bon élève
+00064787-a	fra:exe	 C'était le bon temps !
+00064787-a	fra:exe	Oui, c'est une bonne idée.
+00064787-a	fra:exe	Bonne journée vous aussi !
+00064787-a	fra:exe	Bonne soirée... et à demain !
 00064787-a	fra:exe	Il donne toujours de bons conseils.
 00850183-a	fra:lemma	bon
+00850183-a	fra:lemma	bonne (morph:f)
+00850183-a	fra:exe	un bon élève
+00850183-a	fra:exe	 C'était le bon temps !
+00850183-a	fra:exe	Oui, c'est une bonne idée.
+00850183-a	fra:exe	Bonne journée vous aussi !
+00850183-a	fra:exe	Bonne soirée... et à demain !
 00850183-a	fra:exe	Il donne toujours de bons conseils.
 01129977-a	fra:lemma	bon
+01129977-a	fra:lemma	bonne (morph:f)
+01129977-a	fra:exe	un bon élève
+01129977-a	fra:exe	 C'était le bon temps !
+01129977-a	fra:exe	Oui, c'est une bonne idée.
+01129977-a	fra:exe	Bonne journée vous aussi !
+01129977-a	fra:exe	Bonne soirée... et à demain !
 01129977-a	fra:exe	Il donne toujours de bons conseils.
 01586752-a	fra:lemma	bon
+01586752-a	fra:lemma	bonne (morph:f)
+01586752-a	fra:exe	un bon élève
+01586752-a	fra:exe	 C'était le bon temps !
+01586752-a	fra:exe	Oui, c'est une bonne idée.
+01586752-a	fra:exe	Bonne journée vous aussi !
+01586752-a	fra:exe	Bonne soirée... et à demain !
 01586752-a	fra:exe	Il donne toujours de bons conseils.
 04588365-n	fra:lemma	fenêtre
 04588365-n	fra:exe	À cause du vent, la fenêtre s'est fermée toute seule.
 04587648-n	fra:lemma	fenêtre
 04587648-n	fra:exe	À cause du vent, la fenêtre s'est fermée toute seule.
 05216365-n	fra:lemma	corps
+05216365-n	fra:exe	Il a la rougeole. Son corps est couvert de boutons.
 05216365-n	fra:exe	Comme le pauvre enfant avait très froid, il tremblait de tout son corps.
 76100002-x	fra:lemma	exemplaire
 76100002-x	fra:exe	Achetez ce livre en dix exemplaires.
 04967191-n	fra:lemma	vert
+04967191-n	fra:exe	C'est une grande blonde aux yeux verts.
 04967191-n	fra:exe	 Aucun problème ! ...haricots verts pas trop cuits.
 80001047-v	fra:lemma	mourir
 80001047-v	fra:exe	Il n'a pas plu depuis des mois et un grand nombre de gens sont déjà morts de soif
 03497657-n	fra:lemma	chapeau
-03497657-n	fra:exe	 Ce chapeau me plaît beaucoup.
+03497657-n	fra:lemma	chapeaux (morph:pl)
+03497657-n	fra:exe	Ce chapeau me plaît beaucoup.
 15129927-n	fra:lemma	heure
+15129927-n	fra:exe	À 5 heures pile.
+15129927-n	fra:exe	Huit heures !
+15129927-n	fra:exe	 Quelle heure est-il ?
 15129927-n	fra:exe	Vous avez l'heure, s'il vous plaît?
 06359877-n	fra:lemma	phrase
 06359877-n	fra:exe	Quelle est la signification de cette phrase ?
 00546389-n	fra:lemma	chanson
+00546389-n	fra:exe	Quand tu étais petit, je te chantais toujours une chanson pour t'endormir.
 00546389-n	fra:exe	Et vous ne voulez pas que je vous chante une chanson avec ça ?
 07048000-n	fra:lemma	chanson
+07048000-n	fra:exe	Quand tu étais petit, je te chantais toujours une chanson pour t'endormir.
 07048000-n	fra:exe	Et vous ne voulez pas que je vous chante une chanson avec ça ?
 01754737-v	fra:lemma	couper
 01754737-v	fra:exe	Tu peux couper le pain ?
+07447641-n	fra:lemma	fête
+07447641-n	fra:exe	Gérard fait une fête chez lui pour son anniversaire.
 07447641-n	fra:lemma	soirée
-07447641-n	fra:exe	 J'organise une petite soirée chez moi.
+07447641-n	fra:exe	J'organise une petite soirée chez moi.
+01842204-v	fra:lemma	sortir
+01842204-v	fra:exe	Samedi, je suis sorti avec des amis.
+01842204-v	fra:exe	Il est sorti malgré la pluie.
 01842204-v	fra:lemma	partir
+01842204-v	fra:exe	Ça y est, on peut partir.
+01842204-v	fra:exe	Je vais partir tout de suite.
+01842204-v	fra:exe	Vous partez tout de suite ?
 01842204-v	fra:exe	Il est parti il y a deux semaines.
 04241394-n	fra:lemma	pantoufle
 04241394-n	fra:exe	Mettez des pantoufles.
@@ -1236,14 +2442,28 @@
 02440250-n	fra:lemma	main
 02440250-n	fra:exe	Levez la main gauche.
 09823502-n	fra:lemma	tante
+09823502-n	fra:exe	oncle → tante
 09823502-n	fra:exe	C'est la boutique de ma tante.
 10193967-n	fra:lemma	mari
+10193967-n	fra:exe	Son mari ???
+10193967-n	fra:exe	Et votre mari, sa grippe ? 
 10193967-n	fra:exe	 Elle a trouvé un mari au Japon.
 15213406-n	fra:lemma	novembre
+15213406-n	fra:exe	Novembre est un mois pas très gai.
+15213406-n	fra:exe	Beaucoup de gens sont déprimés en novembre.
 15213406-n	fra:exe	En novembre, les étudiants des universités japonaises organisent de grandes fêtes.
+06277280-n	fra:lemma	télé
+06277280-n	fra:exe	Qu'est-ce qu'il y a à la télé ce soir?
+06277280-n	fra:exe	Vous avez mis la télé sur Canal Plus ?
+06277280-n	fra:exe	Selon la télé, le festival serait annulé en raison de la tempête.
 13831176-n	fra:lemma	nord
+13831176-n	fra:exe	J'habite près de la gare du Nord.
 13831176-n	fra:exe	 Dans le Nord, on cuisine au beurre, dans le Sud, on cuisine à l'huile.
 06964901-n	fra:lemma	français
+06964901-n	fra:exe	Vous parlez français? 
+06964901-n	fra:exe	Je parle français.
+06964901-n	fra:exe	 Au Québec, on parle français.
+06964901-n	fra:exe	Une policière qui parle français ?
 06964901-n	fra:exe	Depuis tout à l'heure, pourquoi tu me parles en français ?
 01318741-a	fra:lemma	avoir mal
 01318741-a	fra:exe	Elle a mal à la tête aujourd'hui.
@@ -1254,32 +2474,55 @@
 05556943-n	fra:lemma	ventre
 05556943-n	fra:exe	J'ai mal au ventre.
 02324478-v	fra:lemma	ajouter
+02324478-v	fra:exe	Il a ajouté: «Je rentre en France.»
 02324478-v	fra:exe	Il a ajouté qu'il rentrait en France.
 00640828-v	fra:lemma	ajouter
+00640828-v	fra:exe	Il a ajouté: «Je rentre en France.»
 00640828-v	fra:exe	Il a ajouté qu'il rentrait en France.
 00182406-v	fra:lemma	ajouter
+00182406-v	fra:exe	Il a ajouté: «Je rentre en France.»
 00182406-v	fra:exe	Il a ajouté qu'il rentrait en France.
 00749230-a	fra:lemma	facile
 00749230-a	fra:exe	Tu vas voir, c'est très facile.
 14061805-n	fra:lemma	maladie
+14061805-n	fra:exe	Avez-vous une assurance maladie ?
 14061805-n	fra:exe	Les maladies sont plus nombreuses en hiver
 14055408-n	fra:lemma	maladie
+14055408-n	fra:exe	Avez-vous une assurance maladie ?
 14055408-n	fra:exe	Les maladies sont plus nombreuses en hiver
 14473054-n	fra:lemma	maladie
+14473054-n	fra:exe	Avez-vous une assurance maladie ?
 14473054-n	fra:exe	Les maladies sont plus nombreuses en hiver
 10399491-n	fra:lemma	parents
 10399491-n	fra:exe	Tu connais les parents de Frédéric ?
 13833375-n	fra:lemma	sud
 13833375-n	fra:exe	Il voyage en Italie du Sud.
+02472293-n	fra:lemma	personne
+02472293-n	fra:exe	Et c'est quel genre de personne ?
+02472293-n	fra:lemma	homme
+02472293-n	fra:exe	de pauvres hommes ←→ des hommes pauvres
+02472293-n	fra:exe	un jeune homme → une jeune fille
+02472293-n	fra:exe	Un homme est mortel.
 02472293-n	fra:lemma	on
+02472293-n	fra:exe	Au Japon, on conduit à droite ou à gauche ?
 02472293-n	fra:exe	Patrick, on te demande au téléphone.
 15212167-n	fra:lemma	juillet
 15212167-n	fra:exe	Tu vas partir en juillet ou en aoûｔ？
 00442917-a	fra:lemma	loin
+00442917-a	fra:exe	C'est trop loin.
+00442917-a	fra:exe	Pas trop loin.
 00442917-a	fra:exe	 En effet, c'est très loin d'ici.
+01421622-v	fra:lemma	mettre
+01421622-v	fra:exe	Il faut mettre la lettre à la poste.
+01421622-v	fra:exe	Vous avez mis la télé sur Canal Plus ?
+01421622-v	fra:exe	Le climatiseur se met en marche automatiquement à partir de 30 degrés.
+01421622-v	fra:lemma	placer
+01421622-v	fra:exe	En français, l'adjectif se place après le nom.
 01421622-v	fra:lemma	introduire
 01421622-v	fra:exe	Pour ouvrir une huître, on introduit un couteau dans la coquille.
 03398467-n	fra:lemma	devant
+03398467-n	fra:exe	devant une fille
+03398467-n	fra:exe	Enlève-toi de devant moi, je ne vois rien.
 03398467-n	fra:exe	 Vous voyez la statue de chien devant la gare de Shibuya ?
 00964768-a	fra:lemma	faible
 00964768-a	fra:exe	Philippe vient d'être opéré, il est encore trop faible pour manger.
@@ -1291,36 +2534,63 @@
 02040233-a	fra:exe	Philippe vient d'être opéré, il est encore trop faible pour manger.
 02040049-a	fra:lemma	faible
 02040049-a	fra:exe	Philippe vient d'être opéré, il est encore trop faible pour manger.
+00254978-r	fra:lemma	tous les mois
+00254978-r	fra:exe	Je vois mon médecin tous les mois.
 00254978-r	fra:lemma	chaque mois
 00254978-r	fra:exe	Je vois mon médecin chaque mois.
 77000091-n	fra:lemma	quel
+77000091-n	fra:exe	Quelle est votre pointure?
 77000091-n	fra:exe	Vous venez de quelle région ?
+06605897-n	fra:lemma	sens
+06605897-n	fra:exe	Ça n'a pas de sens !
 06605897-n	fra:lemma	signification
 06605897-n	fra:exe	Je ne comprends pas bien la signification de cette phrase.
+05919866-n	fra:lemma	sens
+05919866-n	fra:exe	Ça n'a pas de sens !
 05919866-n	fra:lemma	signification
 05919866-n	fra:exe	Je ne comprends pas bien la signification de cette phrase.
+06601327-n	fra:lemma	sens
+06601327-n	fra:exe	Ça n'a pas de sens !
 06601327-n	fra:lemma	signification
 06601327-n	fra:exe	Je ne comprends pas bien la signification de cette phrase.
 04059701-n	fra:lemma	derrière
+04059701-n	fra:exe	Derrière ma maison, il y a un petit jardin.
 04059701-n	fra:exe	La mairie est juste derrière l'église.
 02767665-n	fra:lemma	derrière
+02767665-n	fra:exe	Derrière ma maison, il y a un petit jardin.
 02767665-n	fra:exe	La mairie est juste derrière l'église.
 03540595-n	fra:lemma	hôpital
+03540595-n	fra:lemma	hôpitaux (morph:pl)
 03540595-n	fra:exe	Ce n'est pas un hôpital.
 08054417-n	fra:lemma	hôpital
+08054417-n	fra:lemma	hôpitaux (morph:pl)
 08054417-n	fra:exe	Ce n'est pas un hôpital.
 05311054-n	fra:lemma	œil
+05311054-n	fra:lemma	yeux (morph:pl)
+05311054-n	fra:exe	œil → yeux
 05311054-n	fra:exe	 Les yeux me piquent.
 05316025-n	fra:lemma	œil
+05316025-n	fra:lemma	yeux (morph:pl)
+05316025-n	fra:exe	œil → yeux
 05316025-n	fra:exe	 Les yeux me piquent.
 02871439-n	fra:lemma	bibliothèque
 02871439-n	fra:exe	J'ai lu tous les livres qui sont dans ma bibliothèque.
 01186408-a	fra:lemma	léger
+01186408-a	fra:lemma	legere (morph:f)
+01186408-a	fra:exe	Un repas léger.
+01186408-a	fra:exe	Mon sac est léger parce qu'il est vide.
 01186408-a	fra:exe	Bien sûr que ce sac est léger, il n'y a rien dedans.
+04049098-n	fra:lemma	gare
+04049098-n	fra:exe	J'habite près de la gare du Nord.
+04049098-n	fra:exe	 Je vais t'accompagner jusqu'à la gare.
+04049098-n	fra:exe	Nous sommes arrivés à la gare avec cinq minutes de retard. Évidemment, le train était déjà parti.
 04049098-n	fra:lemma	station
 04049098-n	fra:exe	Descendez une station avant le terminus.
+03030663-n	fra:lemma	tabac
+03030663-n	fra:exe	L'odeur de tabac tient longtemps sur les vêtements.
+03030663-n	fra:exe	 C'est écrit " le tabac tue ", maintenant, sur les paquets ?
 03030663-n	fra:lemma	cigarette
-03030663-n	fra:exe	 Moi, je pense qu'on devrait interdire les cigarettes, tout simplement.
+03030663-n	fra:exe	Moi, je pense qu'on devrait interdire les cigarettes, tout simplement.
 02230772-v	fra:lemma	passer
 02230772-v	fra:exe	Passez-moi le poivre qui est sur la table.
 90000504-n	fra:lemma	dans deux ans
@@ -1328,11 +2598,18 @@
 00729108-n	fra:lemma	devoirs
 00729108-n	fra:exe	Tu as des devoirs pour la semaine prochaine ?
 03815615-n	fra:lemma	cravate
+03815615-n	fra:exe	La cravate va bien avec la veste.
+03815615-n	fra:exe	Elle vous va très bien, cette cravate.
 03815615-n	fra:exe	Ces cravates lui ont beaucoup plu.
 07596684-n	fra:lemma	gâteau
+07596684-n	fra:lemma	gateaux (morph:pl)
 07596684-n	fra:exe	Je peux faire un gâteau, ou apporter quelque chose de salé...
+05560787-n	fra:lemma	pied
+05560787-n	fra:exe	J'ai mal au pied droit.
 05560787-n	fra:lemma	jambe
 05560787-n	fra:exe	Pierre s'est cassé la jambe en jouant au foot.
+05563266-n	fra:lemma	pied
+05563266-n	fra:exe	J'ai mal au pied droit.
 05563266-n	fra:lemma	jambe
 05563266-n	fra:exe	Pierre s'est cassé la jambe en jouant au foot.
 15211189-n	fra:lemma	avril
@@ -1346,8 +2623,11 @@
 10080869-n	fra:lemma	père
 10080869-n	fra:exe	Je suis désolé que votre père soit malade.
 10080869-n	fra:lemma	père
+10080869-n	fra:exe	Je suis le père de François.
 10080869-n	fra:exe	 Cette habitude me vient de mon père.
 02411224-a	fra:lemma	gros
+02411224-a	fra:lemma	grosse (morph:f)
+02411224-a	fra:exe	gros → grosse
 02411224-a	fra:exe	Monsieur, vous pourriez écrire plus gros, s'il vous plaît ?
 04446276-n	fra:lemma	toilettes
 04555291-n	fra:lemma	toilettes
@@ -1355,45 +2635,97 @@
 15212455-n	fra:exe	Tu vas partir en juillet ou en août ?
 00292937-a	fra:lemma	occupé
 00292937-a	fra:exe	Parce que j'étais très occupé, j'avais une réunion très tard...
+00273082-a	fra:lemma	sombre
+00273082-a	fra:exe	On n'a pas pu prendre de photos à l'intérieur parce que la pièce était trop sombre.
 00273082-a	fra:lemma	obscur
+00273082-a	fra:exe	II fait trop obscur ici. J'allume ma lampe.
 00273082-a	fra:exe	Il fait très obscur dans cette maison, il n'y a presque jamais de soleil.
 03291819-n	fra:lemma	enveloppe
 03291819-n	fra:exe	Collez un timbre sur l'enveloppe.
+80001545-n	fra:lemma	voisin
+80001545-n	fra:exe	L'appartement voisin est libre.
+80001545-n	fra:exe	Il y a deux enfants qui jouent dans la pièce voisine.
 80001545-n	fra:lemma	côté
+80001545-n	fra:exe	À côté du Centre Pompidou, nous avons écouté un musicien jouer un morceau de Mozart.
 80001545-n	fra:exe	Ce que nous pouvons vous proposer, c'est un grand appartement. Juste à côté du parc.
+09215315-n	fra:lemma	sous
+09215315-n	fra:exe	Juste sous ton pied !
 09215315-n	fra:lemma	au-dessous
 09215315-n	fra:exe	La famille de l'étage au-dessous a déménagé.
+80001661-n	fra:lemma	sous
+80001661-n	fra:exe	Juste sous ton pied !
 80001661-n	fra:lemma	au-dessous
 80001661-n	fra:exe	La famille de l'étage au-dessous a déménagé.
 00523513-n	fra:lemma	sport
 00523513-n	fra:exe	Elle est arrivée dans une voiture de sport.
 03179701-n	fra:lemma	bureau
+03179701-n	fra:exe	Au Japon, on achète un bureau aux enfants qui entrent à l'école primaire.
+03179701-n	fra:exe	Je préfère les bureaux en bois.
+03179701-n	fra:lemma	bureau
+03179701-n	fra:exe	Elle est venue au bureau, tout en étant malade.
+03179701-n	fra:exe	Il y a deux ans qu'il travaille dans ce bureau.
 03179701-n	fra:exe	Il y a un bureau de poste près d'ici?
+04202417-n	fra:lemma	magasin
+04202417-n	fra:exe	Ce magasin ouvre même le dimanche.
+04202417-n	fra:exe	 Le dimanche à Paris, les magasins sont fermés, vous voyez ?
 04202417-n	fra:lemma	boutique
 04202417-n	fra:exe	C'est la boutique de ma tante.
 02016062-v	fra:lemma	descendre
 02016062-v	fra:exe	Tu descends!
 15237782-n	fra:lemma	hiver
 15237782-n	fra:exe	L'hiver à Paris, quel temps fait-il ?
+80001691-n	fra:lemma	sur
+80001691-n	fra:exe	L'odeur de tabac tient longtemps sur les vêtements.
+80001691-n	fra:exe	Ce que j'ai vu sur le mur, c'était une tapisserie médiévale.
 80001691-n	fra:lemma	au-dessus
 80001691-n	fra:exe	La lune est au-dessus du lac.
+08663354-n	fra:lemma	sur
+08663354-n	fra:exe	L'odeur de tabac tient longtemps sur les vêtements.
+08663354-n	fra:exe	Ce que j'ai vu sur le mur, c'était une tapisserie médiévale.
 08663354-n	fra:lemma	au-dessus
 08663354-n	fra:exe	La lune est au-dessus du lac.
+07804323-n	fra:lemma	riz
+07804323-n	fra:exe	Vous voulez votre viande avec des frites, du pain ou du riz ?
 07804323-n	fra:lemma	repas
-07804323-n	fra:exe	 Trois repas par jour, ça suffit.
+07804323-n	fra:exe	Trois repas par jour, ça suffit.
+15245990-n	fra:lemma	riz
+15245990-n	fra:exe	Vous voulez votre viande avec des frites, du pain ou du riz ?
 15245990-n	fra:lemma	repas
-15245990-n	fra:exe	 Trois repas par jour, ça suffit.
+15245990-n	fra:exe	Trois repas par jour, ça suffit.
+90000417-n	fra:lemma	riz
+90000417-n	fra:exe	Vous voulez votre viande avec des frites, du pain ou du riz ?
 90000417-n	fra:lemma	repas
-90000417-n	fra:exe	 Trois repas par jour, ça suffit.
+90000417-n	fra:exe	Trois repas par jour, ça suffit.
 07575076-n	fra:lemma	déjeuner
 07575076-n	fra:exe	Il est midi, on va aller déjeuner.
 15156001-n	fra:lemma	aujourd'hui
+15156001-n	fra:exe	Tu as l'air bizarre aujourd'hui.
+15156001-n	fra:exe	Il est absent aujourd'hui, parce qu'il est malade.
 15156001-n	fra:exe	Alors, est-ce que je pourrai prendre un bain aujourd'hui ?
 09604981-n	fra:lemma	soi
 09604981-n	fra:exe	Personne ne reste chez soi quand il fait beau.
 07557434-n	fra:lemma	plat
+07557434-n	fra:exe	Mon plat préféré ?
 07557434-n	fra:exe	J'avais pensé que tu aimerais ce plat.
+02395115-a	fra:lemma	bon
+02395115-a	fra:exe	C'est très bon.
+02395115-a	fra:exe	Ce vin est très bon.
+02395115-a	fra:exe	Nous avons un bon bourgogne.
+02395115-a	fra:exe	 En Bourgogne, on fait du très bon vin.
+02395115-a	fra:lemma	délicieux
+02395115-a	fra:lemma	délicieuse (morph:f)
+02395115-a	fra:exe	Ces gâteaux sont absolument délicieux.
 02395115-a	fra:lemma	excellent
+02395115-a	fra:exe	Ce couscous est excellent.
 02395115-a	fra:exe	Cette boulangerie vend un pain excellent.
+02396720-a	fra:lemma	bon
+02396720-a	fra:exe	C'est très bon.
+02396720-a	fra:exe	Ce vin est très bon.
+02396720-a	fra:exe	Nous avons un bon bourgogne.
+02396720-a	fra:exe	 En Bourgogne, on fait du très bon vin.
+02396720-a	fra:lemma	délicieux
+02396720-a	fra:lemma	délicieuse (morph:f)
+02396720-a	fra:exe	Ces gâteaux sont absolument délicieux.
 02396720-a	fra:lemma	excellent
+02396720-a	fra:exe	Ce couscous est excellent.
 02396720-a	fra:exe	Cette boulangerie vend un pain excellent.

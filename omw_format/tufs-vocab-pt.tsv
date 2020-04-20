@@ -82,17 +82,25 @@
 15236859-n	por:lemma	outono
 15236859-n	por:exe	As vindimas começam no início do Outono.
 02107442-v	por:lemma	perguntar
-02107442-v	por:exe	Ele perguntou-me pelo caminho para o aeroporto.　
+02107442-v	por:exe	Ele perguntou-me pelo caminho para o aeroporto. 
 02169891-v	por:lemma	perguntar
-02169891-v	por:exe	Ele perguntou-me pelo caminho para o aeroporto.　
+02169891-v	por:exe	Ele perguntou-me pelo caminho para o aeroporto. 
 02242464-v	por:lemma	vender
 02242464-v	por:exe	Venderam tudo o que havia no armazém.
 00271022-a	por:lemma	claro
+00271022-a	por:exe	Esta sala é clara.
+00271022-a	por:lemma	claro
 00271022-a	por:exe	Este vestido claro ficará-lhe bem.
+00396523-a	por:lemma	claro
+00396523-a	por:exe	Esta sala é clara.
 00396523-a	por:lemma	claro
 00396523-a	por:exe	Este vestido claro ficará-lhe bem.
 00269989-a	por:lemma	claro
+00269989-a	por:exe	Esta sala é clara.
+00269989-a	por:lemma	claro
 00269989-a	por:exe	Este vestido claro ficará-lhe bem.
+00278551-a	por:lemma	claro
+00278551-a	por:exe	Esta sala é clara.
 00278551-a	por:lemma	claro
 00278551-a	por:exe	Este vestido claro ficará-lhe bem.
 02924116-n	por:lemma	autocarro
@@ -207,11 +215,15 @@
 01640850-a	por:exe	"Que há de novo?""Nada de novo, continua tudo na mesma."
 00894552-n	por:lemma	prática
 00894552-n	por:exe	Tenho que ｆazer prática.
+01292683-a	por:lemma	gostar
+01292683-a	por:exe	Ele gosta de ver os jogos na televisão.
 01292683-a	por:lemma	gostar de
 01292683-a	por:exe	Ela gosta de gatos.
+01777210-v	por:lemma	gostar
+01777210-v	por:exe	Ele gosta de ver os jogos na televisão.
 01777210-v	por:lemma	gostar de
 01777210-v	por:exe	Ela gosta de gatos.
-03038685-n	por:lemma	sala (brk:de aula)
+03038685-n	por:lemma	sala (de aula)
 03038685-n	por:exe	Todos os estudantes já entraram na sala.
 00296131-r	por:lemma	se calhar
 00296131-r	por:exe	Se calhar amanhã choverá.
@@ -285,8 +297,11 @@
 05137165-n	por:exe	Este prédio tem vinte metros de altura.
 05131647-n	por:lemma	altura
 05131647-n	por:exe	Este prédio tem vinte metros de altura.
-00009966-r	por:lemma	poderia (brk:fazer)
+00009966-r	por:lemma	poderia (fazer) …
 00009966-r	por:exe	Poderia abrir a janela?
+00009966-r	por:lemma	por favor
+00009966-r	por:lemma	de nada
+00009966-r	por:exe	"Tome isto, por favor.""Muito obrigado.""De nada."
 00009966-r	por:lemma	faça favor
 00009966-r	por:exe	"Posso sentar-me aqui?""Faça favor."
 10103485-n	por:lemma	estrangeiro
@@ -320,7 +335,7 @@
 01845720-v	por:lemma	viajar
 01845720-v	por:exe	Um dia será possível viajar até à Lua.
 00061203-r	por:lemma	atrás
-00061203-r	por:exe	Chegaram todos senão ele que devia vir atrás.　
+00061203-r	por:exe	Chegaram todos senão ele que devia vir atrás. 
 10112591-n	por:lemma	amigo
 10112591-n	por:exe	Ele é bom e velho amigo.
 08588294-n	por:lemma	dentro
@@ -364,7 +379,7 @@
 09624168-n	por:lemma	homem
 09624168-n	por:exe	Os homens jogam as cartas no café.
 15164105-n	por:lemma	terça-feira
-15164105-n	por:exe	Tem lições de piano às terças-feiras.　
+15164105-n	por:exe	Tem lições de piano às terças-feiras. 
 77000099-n	por:lemma	todas as pessoas
 77000099-n	por:exe	Todas as pessoas gostam dela.
 00479391-v	por:lemma	apagar
@@ -505,6 +520,8 @@
 00941990-v	por:exe	Disse obrigado e saiu.
 00979870-v	por:lemma	dizer
 00979870-v	por:exe	Disse obrigado e saiu.
+09854218-n	por:lemma	irmã mais velha
+09854218-n	por:exe	Ela tem duas irmãs mais velhas.
 09854218-n	por:lemma	irmã
 09854218-n	por:exe	Você tem irmãs?
 04507155-n	por:lemma	guarda-chuva
@@ -548,7 +565,11 @@
 02529945-a	por:lemma	fresco
 02529945-a	por:exe	Na Primavera, ainda há manhãs muito frescas.
 02207206-v	por:lemma	comprar
+02207206-v	por:exe	Tenho que comprar as prendas do Natal.
+02207206-v	por:lemma	comprar
 02207206-v	por:exe	Eu compro o jornal no quiosque todas as manhãs.
+02208265-v	por:lemma	comprar
+02208265-v	por:exe	Tenho que comprar as prendas do Natal.
 02208265-v	por:lemma	comprar
 02208265-v	por:exe	Eu compro o jornal no quiosque todas as manhãs.
 00422620-a	por:lemma	sujo
@@ -625,8 +646,11 @@
 09876454-n	por:exe	Não tenho irmãos. Sou filho único.
 80001731-n	por:lemma	estudante estrangeiro
 80001731-n	por:exe	Na minha universidade há muitos estudantes estrangeiros.
-77000031-n	por:lemma	eles; elas
-77000031-n	por:lemma	eles; elas
+77000031-n	por:lemma	ele
+77000031-n	por:lemma	ela
+77000031-n	por:exe	Ela fala mais do que ele.
+77000031-n	por:lemma	eles
+77000031-n	por:lemma	elas
 77000031-n	por:exe	Ele quis sair com elas.
 00934199-a	por:lemma	barato
 00934199-a	por:exe	O mito da energia nuclear ser mais económica já totalmente se destruiu há muito tempo.
@@ -776,6 +800,8 @@
 80001331-x	por:exe	Como foi o filme?
 77000104-n	por:lemma	quando
 77000104-n	por:exe	Quando é que parte este autocarro?
+04105893-n	por:lemma	quarto
+04105893-n	por:exe	Prefiro ficar sozinha no meu quarto.
 04105893-n	por:lemma	apartamento
 04105893-n	por:exe	Queria alugar um apartamento perto do escritório.
 06415419-n	por:lemma	caderno
@@ -882,6 +908,9 @@
 77000089-a	por:exe	Mesmo assim é que eu gosto!
 15164354-n	por:lemma	quinta-feira
 15164354-n	por:exe	Há aulas de música às quintas-feiras à tarde.
+00056916-r	por:lemma	por favor
+00056916-r	por:lemma	de nada
+00056916-r	por:exe	"Tome isto, por favor.""Muito obrigado.""De nada."
 00056916-r	por:lemma	faça favor
 00056916-r	por:exe	"Posso sentar-me aqui?""Faça favor."
 00816481-a	por:lemma	devagar
@@ -904,10 +933,16 @@
 03871083-n	por:exe	Perdi a minha bagagem no aeroporto.
 02774630-n	por:lemma	bagagem
 02774630-n	por:exe	Perdi a minha bagagem no aeroporto.
+07891726-n	por:lemma	álcool
+07891726-n	por:exe	O álcool deve ser bebido com moderação.
 07891726-n	por:lemma	bebida alcoólica
 07891726-n	por:exe	Vendem-se bebidas alcoólicas
+07884567-n	por:lemma	álcool
+07884567-n	por:exe	O álcool deve ser bebido com moderação.
 07884567-n	por:lemma	bebida alcoólica
 07884567-n	por:exe	Vendem-se bebidas alcoólicas
+07891433-n	por:lemma	álcool
+07891433-n	por:exe	O álcool deve ser bebido com moderação.
 07891433-n	por:lemma	bebida alcoólica
 07891433-n	por:exe	Vendem-se bebidas alcoólicas
 15164463-n	por:lemma	sexta-feira
@@ -1193,15 +1228,15 @@
 77000095-n	por:lemma	quem
 77000095-n	por:exe	Quem é que telefonou?
 90000500-n	por:lemma	há dois anos
-90000500-n	por:exe	Meu avô morreu há dois anos.　
+90000500-n	por:exe	Meu avô morreu há dois anos. 
 03221720-n	por:lemma	porta
 03221720-n	por:exe	Poderia abrir a porta, por favor.
 03221720-n	por:lemma	porta
-03221720-n	por:exe	Alguém bateu à porta.　
+03221720-n	por:exe	Alguém bateu à porta. 
 00050681-r	por:lemma	não haver
-00050681-r	por:exe	Não há para comer.　
+00050681-r	por:exe	Não há para comer. 
 00024587-r	por:lemma	não haver
-00024587-r	por:exe	Não há para comer.　
+00024587-r	por:exe	Não há para comer. 
 77000012-n	por:lemma	eu
 77000012-n	por:exe	Eu sou japonês.
 77000015-n	por:lemma	eu
@@ -1248,6 +1283,8 @@
 04587648-n	por:exe	A casa tem muita luz, todas as divisões têm grandes janelas.
 05216365-n	por:lemma	corpo
 05216365-n	por:exe	O corpo humano é formado por cabeça, tronco e membros.
+76100002-x	por:lemma	volume
+76100002-x	por:exe	Um volume de versos.
 76100002-x	por:lemma	folha
 76100002-x	por:exe	Apanhou uma folha de papel para tomar notas.
 04967191-n	por:lemma	verde
@@ -1293,7 +1330,11 @@
 01712753-a	por:lemma	doer-se
 01712753-a	por:exe	Dói-me a cabeça.
 05395690-n	por:lemma	barriga
+05395690-n	por:exe	Tenho dor de barriga.
+05395690-n	por:lemma	barriga
 05395690-n	por:exe	O bebé, depois de ter a barriga cheia, ficou sorridente.
+05556943-n	por:lemma	barriga
+05556943-n	por:exe	Tenho dor de barriga.
 05556943-n	por:lemma	barriga
 05556943-n	por:exe	O bebé, depois de ter a barriga cheia, ficou sorridente.
 02324478-v	por:lemma	juntar
@@ -1314,6 +1355,8 @@
 10399491-n	por:exe	Nas férias de inverno vou regressar à casa dos meus pais.
 13833375-n	por:lemma	sul
 13833375-n	por:exe	Ele vem do sul.
+02472293-n	por:lemma	pessoa
+02472293-n	por:exe	Ele é pessoa de confiança.
 02472293-n	por:lemma	pessoa
 02472293-n	por:exe	As pessoas que viram o acidente disseram que a culpa era dele.
 15212167-n	por:lemma	julho
@@ -1374,8 +1417,12 @@
 03815615-n	por:exe	Esta gravata fica muito bem contigo..
 07596684-n	por:lemma	doce
 07596684-n	por:exe	Aquela pastelaria tem doces regionais
+05560787-n	por:lemma	perna(s)
+05560787-n	por:exe	Partiu uma perna e por isso anda de muletas.
 05560787-n	por:lemma	pé(s)
 05560787-n	por:exe	Aqueles sapatos apertavam-me os pés, mal conseguia andar.
+05563266-n	por:lemma	perna(s)
+05563266-n	por:exe	Partiu uma perna e por isso anda de muletas.
 05563266-n	por:lemma	pé(s)
 05563266-n	por:exe	Aqueles sapatos apertavam-me os pés, mal conseguia andar.
 15211189-n	por:lemma	abril

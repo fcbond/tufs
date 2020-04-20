@@ -6,19 +6,40 @@
 04971928-n	vie:lemma	nâu
 04971928-n	vie:exe	Dưới ghế có một con mèo màu nâu.
 15163797-n	vie:lemma	chủ nhật
+15163797-n	vie:exe	Thứ bảy em lên lớp, chủ nhật em đi chơi đi.
+15163797-n	vie:exe	Chủ nhật này chúng mình đi xem đi.
 15163797-n	vie:exe	Cả chủ Nhật cũng phải đi làm thêm.
 15043763-n	vie:lemma	tuyết
+15043763-n	vie:exe	Tuyết rơi. 
 15043763-n	vie:exe	Tối qua trời lạnh đến nỗi có tuyết.
 00251013-n	vie:lemma	dọn phòng
-00251013-n	vie:exe	Tôi thường dọn phòng vào thứ hai.\n\n
+00251013-n	vie:exe	Tôi thường dọn phòng vào thứ hai.
 08058098-n	vie:lemma	công ty
+08058098-n	vie:exe	Tôi thuê xe của công ty ấy.
+08058098-n	vie:exe	Anh là nhân viên công ty, phải không?
 08058098-n	vie:exe	Công ty này có hai mưoi lăm người.
+01382086-a	vie:lemma	to
+01382086-a	vie:exe	Em nói to lên một chút.
+01382086-a	vie:exe	Ngày mai trời mưa to.
+01382086-a	vie:exe	Cái nhà này to bằng cái nhà kia.
 01382086-a	vie:lemma	lớn
 01382086-a	vie:exe	Đi thẳng qua ngã tư đó có một ngân hàng lớn.
+01453084-a	vie:lemma	to
+01453084-a	vie:exe	Em nói to lên một chút.
+01453084-a	vie:exe	Ngày mai trời mưa to.
+01453084-a	vie:exe	Cái nhà này to bằng cái nhà kia.
 01453084-a	vie:lemma	lớn
 01453084-a	vie:exe	Đi thẳng qua ngã tư đó có một ngân hàng lớn.
+00527870-a	vie:lemma	to
+00527870-a	vie:exe	Em nói to lên một chút.
+00527870-a	vie:exe	Ngày mai trời mưa to.
+00527870-a	vie:exe	Cái nhà này to bằng cái nhà kia.
 00527870-a	vie:lemma	lớn
 00527870-a	vie:exe	Đi thẳng qua ngã tư đó có một ngân hàng lớn.
+01677433-a	vie:lemma	to
+01677433-a	vie:exe	Em nói to lên một chút.
+01677433-a	vie:exe	Ngày mai trời mưa to.
+01677433-a	vie:exe	Cái nhà này to bằng cái nhà kia.
 01677433-a	vie:lemma	lớn
 01677433-a	vie:exe	Đi thẳng qua ngã tư đó có một ngân hàng lớn.
 10084295-n	vie:lemma	con gái
@@ -26,14 +47,17 @@
 10129825-n	vie:lemma	con gái
 10129825-n	vie:exe	Dạo này anh ấy hay đi ra ngoài với một con gái.
 10129825-n	vie:lemma	chị
-10129825-n	vie:exe	Có khi chị tôi không ăn tối.\n\n
+10129825-n	vie:exe	Có khi chị tôi không ăn tối.
 00065495-v	vie:lemma	khỏe
+00065495-v	vie:exe	Chị ấy không được khỏe.
 00065495-v	vie:exe	Mấy hôm nay tôi không khỏe lắm.
 80001734-n	vie:lemma	giờ học
 80001734-n	vie:exe	Trước giờ học tôi mua báo.
 00889472-n	vie:lemma	giờ học
 00889472-n	vie:exe	Trước giờ học tôi mua báo.
 02608347-v	vie:lemma	bắt đầu
+02608347-v	vie:exe	Chúng ta bắt đầu nhé.
+02608347-v	vie:exe	Phim bắt đầu lúc mấy giờ hả anh? 
 02608347-v	vie:exe	Hôm nay chúng ta bắt đầu học từ trang 120.
 07850329-n	vie:lemma	phó mát
 07850329-n	vie:exe	Ăn quá nhiều phó mát, sữa, trứng cũng không tốt lắm.
@@ -41,79 +65,140 @@
 03623556-n	vie:exe	Hiện nay ai cũng ăn được bằng nĩa và dao.
 03624134-n	vie:lemma	dao
 03624134-n	vie:exe	Hiện nay ai cũng ăn được bằng nĩa và dao.
+01776727-v	vie:lemma	ghét
+01776727-v	vie:exe	Ông ngoại tôi ghét chanh.
 01776727-v	vie:lemma	không thích
+01776727-v	vie:exe	Ăn được, nhưng mà tôi không thích lắm.
 01776727-v	vie:exe	Chớ vì không thích thầy giáo mà lười. 
+01774136-v	vie:lemma	ghét
+01774136-v	vie:exe	Ông ngoại tôi ghét chanh.
 01774136-v	vie:lemma	không thích
+01774136-v	vie:exe	Ăn được, nhưng mà tôi không thích lắm.
 01774136-v	vie:exe	Chớ vì không thích thầy giáo mà lười. 
 02783161-n	vie:lemma	bút bi
 02783161-n	vie:exe	Cho tôi một tờ giấy và một cây bút bi.
 02632567-v	vie:lemma	muốn
+02632567-v	vie:exe	Thưa thầy, em muốn hỏi một điều.
+02632567-v	vie:exe	Tôi không muốn uống nữa
 02632567-v	vie:exe	Tôi muốn đi du lịch khắp thế giới.
 01579608-a	vie:lemma	sắp
 01579608-a	vie:exe	Xe buýt sắp đến, chị thấy không? Xe màu xanh lá cây đó.
 03427296-n	vie:lemma	cổng
 03427296-n	vie:exe	Vâng, 2 giờ chiều gặp nhau ở cổng trường nhé. 
 04026417-n	vie:lemma	ví
-04026417-n	vie:exe	Đối với tôi ví càng nhỏ càng dễ dùng.\n
+04026417-n	vie:exe	Đối với tôi ví càng nhỏ càng dễ dùng.
 11456462-n	vie:lemma	trời đẹp
-11456462-n	vie:exe	Hôm nay trời đẹp bạn sẽ có chuyến du lịch thú vị.\n\n
+11456462-n	vie:exe	Hôm nay trời đẹp bạn sẽ có chuyến du lịch thú vị.
 07848338-n	vie:lemma	bơ
 07848338-n	vie:exe	Tôi thích ăn bánh mì với bơ.
+90000501-n	vie:lemma	năm ngoái
+90000501-n	vie:exe	Tháng mười hai năm ngoái tôi làm quen với cô ấy.
 15210870-n	vie:lemma	tháng ba
-15210870-n	vie:exe	Ở Nhật mùa xuân bắt đầu từ tháng ba.\n\n
+15210870-n	vie:exe	Ở Nhật mùa xuân bắt đầu từ tháng ba.
 77000072-n	vie:lemma	đây
+77000072-n	vie:exe	Anh giới thiệu với em, đây là anh Thịnh, bạn cùng lớp anh. 
+77000072-n	vie:exe	Em không được hút thuốc ở đây.
+77000072-n	vie:exe	Đây là cái gì?
 77000072-n	vie:exe	Đây là sầu riêng.
 08489497-n	vie:lemma	đây
+08489497-n	vie:exe	Anh giới thiệu với em, đây là anh Thịnh, bạn cùng lớp anh. 
+08489497-n	vie:exe	Em không được hút thuốc ở đây.
+08489497-n	vie:exe	Đây là cái gì?
 08489497-n	vie:exe	Đây là sầu riêng.
 03561345-n	vie:lemma	tranh
+03561345-n	vie:exe	Phòng này có 3 bức tranh.
 03561345-n	vie:exe	Bức tranh này do tôi vẽ.
 03234306-n	vie:lemma	tranh
+03234306-n	vie:exe	Phòng này có 3 bức tranh.
 03234306-n	vie:exe	Bức tranh này do tôi vẽ.
 03876519-n	vie:lemma	tranh
+03876519-n	vie:exe	Phòng này có 3 bức tranh.
 03876519-n	vie:exe	Bức tranh này do tôi vẽ.
 07110615-n	vie:lemma	tiếng
 07110615-n	vie:exe	Tiếng cãi nhau khiến hàng xóm khó chịu.
 05202284-n	vie:lemma	tiếng
 05202284-n	vie:exe	Tiếng cãi nhau khiến hàng xóm khó chịu.
 09411430-n	vie:lemma	sông
+09411430-n	vie:exe	Bộ đội đang qua sông.
 09411430-n	vie:exe	Dưới sông có một chiếc tàu. 
 15236859-n	vie:lemma	mùa thu
 15236859-n	vie:exe	Mùa thu không có nhiều ngày mưa gió.
 02107442-v	vie:lemma	nghe
+02107442-v	vie:exe	Ví dụ, em đọc báo, nghe đài, nói chuyện với bạn,viết nhật ký, v.v...
 02107442-v	vie:exe	Tôi thường vừa nghe nhạc vừa học.
 02169891-v	vie:lemma	nghe
+02169891-v	vie:exe	Ví dụ, em đọc báo, nghe đài, nói chuyện với bạn,viết nhật ký, v.v...
 02169891-v	vie:exe	Tôi thường vừa nghe nhạc vừa học.
 02242464-v	vie:lemma	bán
+02242464-v	vie:exe	Chị có biết ở đâu bán không ạ?
 02242464-v	vie:exe	Ở đây có bán từ điển Nhật-Việt không ạ?
 00271022-a	vie:lemma	sáng
+00271022-a	vie:exe	Phòng này sáng làm sao!
+00271022-a	vie:exe	Tắt đèn đi, bây giờ đã sáng lắm rồi.
+00271022-a	vie:lemma	nhạt
+00271022-a	vie:exe	Em thích màu nhạt hơn.
+00271022-a	vie:lemma	sáng
+00396523-a	vie:lemma	sáng
+00396523-a	vie:exe	Phòng này sáng làm sao!
+00396523-a	vie:exe	Tắt đèn đi, bây giờ đã sáng lắm rồi.
+00396523-a	vie:lemma	nhạt
+00396523-a	vie:exe	Em thích màu nhạt hơn.
 00396523-a	vie:lemma	sáng
 00269989-a	vie:lemma	sáng
+00269989-a	vie:exe	Phòng này sáng làm sao!
+00269989-a	vie:exe	Tắt đèn đi, bây giờ đã sáng lắm rồi.
+00269989-a	vie:lemma	nhạt
+00269989-a	vie:exe	Em thích màu nhạt hơn.
+00269989-a	vie:lemma	sáng
+00278551-a	vie:lemma	sáng
+00278551-a	vie:exe	Phòng này sáng làm sao!
+00278551-a	vie:exe	Tắt đèn đi, bây giờ đã sáng lắm rồi.
+00278551-a	vie:lemma	nhạt
+00278551-a	vie:exe	Em thích màu nhạt hơn.
 00278551-a	vie:lemma	sáng
 02924116-n	vie:lemma	xe buýt
-02924116-n	vie:exe	Xe buýt sắp đến, chị thấy không? Xe màu xanh lá cây đó.\n
+02924116-n	vie:exe	Xe buýt sắp đến, chị thấy không? Xe màu xanh lá cây đó.
 01614426-v	vie:lemma	dán
-01614426-v	vie:exe	Bưu thiếp này không cần dán tem.\n\n
+01614426-v	vie:exe	Bưu thiếp này không cần dán tem.
+80001230-x	vie:lemma	vâng
+80001230-x	vie:exe	Vâng, 2 giờ chiều gặp nhau ở cổng trường nhé. 
+80001230-x	vie:exe	Vâng ạ. 
+80001230-x	vie:exe	Dạ, vâng.
 80001230-x	vie:lemma	có
+80001230-x	vie:exe	Có.
+80001230-x	vie:exe	Có, tôi ăn cơm rồi.
 80001230-x	vie:exe	Có, tôi biết. 
 01184932-a	vie:lemma	nặng
 01184932-a	vie:exe	Phong bì này mỏng mà nặng, không biết có gì bên trong không ?
 07881800-n	vie:lemma	đồ uống
 07881800-n	vie:exe	Đồ uống hộp thường dở.
 01119192-a	vie:lemma	giỏi
-01119192-a	vie:exe	Anh nói tiếng Việt giỏi quá!　 
+01119192-a	vie:exe	Em giỏi quá !
+01119192-a	vie:exe	À , nghe nói là em rất giỏi tiếng Pháp, đúng không? 
+01119192-a	vie:exe	Anh nói tiếng Việt giỏi quá!  
 02226162-a	vie:lemma	giỏi
-02226162-a	vie:exe	Anh nói tiếng Việt giỏi quá!　 
+02226162-a	vie:exe	Em giỏi quá !
+02226162-a	vie:exe	À , nghe nói là em rất giỏi tiếng Pháp, đúng không? 
+02226162-a	vie:exe	Anh nói tiếng Việt giỏi quá!  
 01838916-a	vie:lemma	giỏi
-01838916-a	vie:exe	Anh nói tiếng Việt giỏi quá!　 
+01838916-a	vie:exe	Em giỏi quá !
+01838916-a	vie:exe	À , nghe nói là em rất giỏi tiếng Pháp, đúng không? 
+01838916-a	vie:exe	Anh nói tiếng Việt giỏi quá!  
 03467517-n	vie:lemma	đàn ghi-ta
 03467517-n	vie:exe	Tôi biết chơi ghi-ta.
 03613294-n	vie:lemma	chìa khoá
 03613294-n	vie:exe	Tôi mất chìa khoá rồi!
 01553629-a	vie:lemma	nhiều
+01553629-a	vie:exe	Còn nhiều không?
+01553629-a	vie:exe	Thầy giáo bảo các sinh viên ôn tập nhiều.
 01553629-a	vie:exe	Cảm ơn em nhiều ! 
 01551633-a	vie:lemma	nhiều
+01551633-a	vie:exe	Còn nhiều không?
+01551633-a	vie:exe	Thầy giáo bảo các sinh viên ôn tập nhiều.
 01551633-a	vie:exe	Cảm ơn em nhiều ! 
 01552419-a	vie:lemma	nhiều
+01552419-a	vie:exe	Còn nhiều không?
+01552419-a	vie:exe	Thầy giáo bảo các sinh viên ôn tập nhiều.
 01552419-a	vie:exe	Cảm ơn em nhiều ! 
 00127137-a	vie:lemma	cũ
 00127137-a	vie:exe	Ý tưởng này trở nên cũ.
@@ -121,7 +206,13 @@
 01638438-a	vie:exe	Ý tưởng này trở nên cũ.
 01729384-a	vie:lemma	cũ
 01729384-a	vie:exe	Ý tưởng này trở nên cũ.
+10694258-n	vie:lemma	thầy giáo
+10694258-n	vie:exe	Thầy giáo của tôi tên là Sơn.
+10694258-n	vie:exe	Thầy giáo kìa!
+10694258-n	vie:exe	Tôi phải trả quyển sách này cho thầy giáo.
 10694258-n	vie:lemma	cô giáo
+10694258-n	vie:exe	Cô giáo cho các sinh viên từ điển tiếng Việt.
+10694258-n	vie:exe	Chúng ta biếu quà cho cô giáo.
 10694258-n	vie:exe	Tôi được cô giáo khen.
 07859284-n	vie:lemma	đường
 07859284-n	vie:exe	Tôi muốn uống trà Lipton không đường.
@@ -132,21 +223,30 @@
 04081281-n	vie:lemma	quán ăn
 04081281-n	vie:exe	Quán ăn sắp mở cửa.
 10448983-n	vie:lemma	công an
+10448983-n	vie:exe	Công an yêu cầu tôi xuống xe.
 10448983-n	vie:exe	Hai công an đứng trước cửa vào toà nhà kia đang nói chuyện với nhau.
 10448983-n	vie:lemma	công an
-10448983-n	vie:exe	Hai công an đứng trước cửa vào toà nhà kia đang nói chuyện với nhau.\n
+10448983-n	vie:exe	Hai công an đứng trước cửa vào toà nhà kia đang nói chuyện với nhau.
 90000507-n	vie:lemma	tuần này
+90000507-n	vie:exe	Nếu chị là em, chị sẽ rủ Phương Anh đi xem phim cuối tuần này.
 90000507-n	vie:exe	Trong tuần này cô Liên đến thăm nhà tôi.
 02686568-n	vie:lemma	máy bay
+02686568-n	vie:exe	Dạo này vé máy bay rất rẻ. 
 02686568-n	vie:exe	Nếu tôi đi Hà Nội thì tôi sẽ đi bằng máy bay.
 02691156-n	vie:lemma	máy bay
+02691156-n	vie:exe	Dạo này vé máy bay rất rẻ. 
 02691156-n	vie:exe	Nếu tôi đi Hà Nội thì tôi sẽ đi bằng máy bay.
 08420278-n	vie:lemma	ngân hàng
 08420278-n	vie:exe	Đi thẳng qua ngã tư đó có một ngân hàng lớn.
 02787772-n	vie:lemma	ngân hàng
 02787772-n	vie:exe	Đi thẳng qua ngã tư đó có một ngân hàng lớn.
+02018049-v	vie:lemma	đi
+02018049-v	vie:exe	Từ nhà em đến sân bay đi ô tô hết 2 tiếng.
+02018049-v	vie:lemma	lên
+02018049-v	vie:exe	Chúng ta đi bộ đến ga Ueno, sau đó lên tàu từ đấy.
 02018049-v	vie:lemma	xuống
 02324026-v	vie:lemma	mượn
+02324026-v	vie:exe	Cho Long mượn vở tiếng Anh của Thùy một chút có được không?
 02324026-v	vie:exe	Tôi mượn cuốn sách của thư viện 
 01447257-v	vie:lemma	ấn
 01447257-v	vie:exe	Ấn nút này để bật điều hoà.
@@ -173,10 +273,14 @@
 03419014-n	vie:lemma	áo
 03419014-n	vie:exe	Chị mua áo ở đâu?
 15165289-n	vie:lemma	sáng
+15165289-n	vie:exe	Hà ơi, đã ăn sáng chưa? 
 15165289-n	vie:exe	Sáng mai tôi gặp bạn.
 15165289-n	vie:lemma	buổi sáng
 15165289-n	vie:exe	Buổi sáng tôi đi học.
+00109151-r	vie:lemma	đấy
+00109151-r	vie:exe	Đấy là bản đồ thế giới.
 00109151-r	vie:lemma	đó
+00109151-r	vie:exe	Quyển đó của tôi.
 00109151-r	vie:exe	Tên người đó tôi quên mất rồi.
 03720163-n	vie:lemma	bản đồ
 03720163-n	vie:exe	Khi đi thành phố mới chị nên mua một tờ bản đồ.
@@ -201,24 +305,44 @@
 00894552-n	vie:lemma	tập
 00894552-n	vie:exe	Chị ấy tập chơi pi-a-nô suốt ngày.
 01292683-a	vie:lemma	thích
+01292683-a	vie:exe	Thế, hủ tiếu thì Dũng có thích không?
+01292683-a	vie:exe	Tôi thích sashimi.
+01292683-a	vie:exe	Nga thích ăn cơm Nhật không?
+01292683-a	vie:lemma	thích
+01292683-a	vie:exe	Tôi thích bóng đá nhất.
+01292683-a	vie:exe	Tôi thích phở hơn. 
 01292683-a	vie:exe	Chị thích cái gì?
 01777210-v	vie:lemma	thích
+01777210-v	vie:exe	Thế, hủ tiếu thì Dũng có thích không?
+01777210-v	vie:exe	Tôi thích sashimi.
+01777210-v	vie:exe	Nga thích ăn cơm Nhật không?
+01777210-v	vie:lemma	thích
+01777210-v	vie:exe	Tôi thích bóng đá nhất.
+01777210-v	vie:exe	Tôi thích phở hơn. 
 01777210-v	vie:exe	Chị thích cái gì?
 03038685-n	vie:lemma	lớp học
+03038685-n	vie:exe	Từ nay em sẽ không hút thuốc trong lớp học nữa ạ.
 03038685-n	vie:exe	Nhà trường cấm hút thuốc trong lớp học.
 00296131-r	vie:lemma	có lẽ
+00296131-r	vie:exe	Có lẽ em phải về trước ạ.
 00296131-r	vie:exe	Có lẽ lâu quá rồi.
 00154449-r	vie:lemma	có lẽ
+00154449-r	vie:exe	Có lẽ em phải về trước ạ.
 00154449-r	vie:exe	Có lẽ lâu quá rồi.
 03001627-n	vie:lemma	ghế
 03001627-n	vie:exe	Dưới ghế có một con mèo màu nâu.
 01734929-v	vie:lemma	photocopy
+01734929-v	vie:exe	Photocopy tài liệu đó cho tôi được không?
 01734929-v	vie:exe	Tôi đã photocopy trang này, nhưng để quên bản sao đó ở chỗ nào đó.
 01914947-v	vie:lemma	chạy
+01914947-v	vie:exe	Không được chạy ở hành lang.
 01914947-v	vie:exe	Con chó kia chạy nhanh.
 01926311-v	vie:lemma	chạy
+01926311-v	vie:exe	Không được chạy ở hành lang.
 01926311-v	vie:exe	Con chó kia chạy nhanh.
 02005496-v	vie:lemma	về
+02005496-v	vie:exe	Linh ơi, Tết này Linh có về Việt Nam không?
+02005496-v	vie:exe	Có lẽ em phải về trước ạ.
 02005496-v	vie:exe	Chị đi đâu về?
 04379243-n	vie:lemma	bàn ăn
 04379243-n	vie:exe	Trên bàn ăn có mấy quyển sách.
@@ -227,11 +351,13 @@
 00037919-v	vie:lemma	tắm
 00037919-v	vie:exe	Hôm nay trời nóng nên tôi tắm nhiều lần rồi.
 01532589-v	vie:lemma	dọn phòng
+01532589-v	vie:exe	Trước khi khách đến tôi phải dọn phòng.
 01532589-v	vie:exe	Tôi thường dọn phòng vào thứ hai.
 01533442-v	vie:lemma	dọn phòng
+01533442-v	vie:exe	Trước khi khách đến tôi phải dọn phòng.
 01533442-v	vie:exe	Tôi thường dọn phòng vào thứ hai.
 07663592-n	vie:lemma	thịt bò
-07663592-n	vie:exe	Thịt bò, thịt gà và thịt lợn, chị thích nhất là thịt nào?\n
+07663592-n	vie:exe	Thịt bò, thịt gà và thịt lợn, chị thích nhất là thịt nào?
 08182962-n	vie:lemma	đám đông
 08182962-n	vie:exe	Tôi không thích ở trong đám đông người.
 08182379-n	vie:lemma	đám đông
@@ -247,15 +373,17 @@
 03989074-n	vie:lemma	hộp thư
 03989074-n	vie:exe	Hộp thư ở Việt Nam màu gì ?
 15136147-n	vie:lemma	tuần
+15136147-n	vie:exe	Tôi đi nghỉ 1 tuần.
 15136147-n	vie:exe	Từ tuần sau là nghỉ hè rồi. 
 15169873-n	vie:lemma	tuần
+15169873-n	vie:exe	Tôi đi nghỉ 1 tuần.
 15169873-n	vie:exe	Từ tuần sau là nghỉ hè rồi. 
 15211806-n	vie:lemma	tháng sáu
 15211806-n	vie:exe	Tháng sáu năm kia hai người ấy đã kết hôn.
 04489008-n	vie:lemma	quần
 04489008-n	vie:exe	Anh ấy cởi quần để qua sông.
 04230808-n	vie:lemma	váy
-04230808-n	vie:exe	Mùa đông chỉ mặc váy và bít tất thì chắc lạnh lắm.\n
+04230808-n	vie:exe	Mùa đông chỉ mặc váy và bít tất thì chắc lạnh lắm.
 08544813-n	vie:lemma	nước
 08544813-n	vie:exe	Chị ấy là người nước nào?
 08490199-n	vie:lemma	nước
@@ -267,35 +395,49 @@
 05538625-n	vie:lemma	đầu
 05538625-n	vie:exe	Tôi bị đau đầu.
 02418686-v	vie:lemma	chơi
+02418686-v	vie:exe	Mời Chi đến nhà tôi chơi.
+02418686-v	vie:exe	Thứ bảy em lên lớp, chủ nhật em đi chơi đi.
 02418686-v	vie:exe	Chị đi làm việc hay đi chơi? 
 04965661-n	vie:lemma	vàng
-04965661-n	vie:exe	Vòi hoa sen màu vàng này bị hỏng rồi.\n\n
+04965661-n	vie:exe	Vòi hoa sen màu vàng này bị hỏng rồi.
 02561888-a	vie:lemma	hẹp
 02561888-a	vie:exe	Nhà cửa ở Tokyo thường hẹp.
 00476663-a	vie:lemma	hẹp
 00476663-a	vie:exe	Nhà cửa ở Tokyo thường hẹp.
+05137165-n	vie:lemma	chiều cao
+05137165-n	vie:exe	Toà này chiều cao ba trăm mét.
 05137165-n	vie:lemma	độ cao
 05137165-n	vie:exe	Núi Phụ Sĩ có độ cao hơn ba nghìn mét.
+05131647-n	vie:lemma	chiều cao
+05131647-n	vie:exe	Toà này chiều cao ba trăm mét.
 05131647-n	vie:lemma	độ cao
 05131647-n	vie:exe	Núi Phụ Sĩ có độ cao hơn ba nghìn mét.
 00009966-r	vie:lemma	xin ...
+00009966-r	vie:exe	Xin mời vào.
+00009966-r	vie:exe	Xin thầy nói chậm hơn. 
 00009966-r	vie:exe	Xin cho tôi biết.
 00009966-r	vie:lemma	mời ...
+00009966-r	vie:exe	Mời Chi đến nhà tôi chơi.
+00009966-r	vie:exe	Mời anh ngồi.
 00009966-r	vie:exe	Mời anh vào. 
 10103485-n	vie:lemma	người nước ngoài
 10103485-n	vie:exe	Người nước ngoài đó học tập chăm chỉ.
 02958343-n	vie:lemma	xe ô tô
+02958343-n	vie:exe	Tôi đi bằng ô tô.
 02958343-n	vie:exe	Từ nhà em đến sân bay đi ô tô hết 2 tiếng.
 03924069-n	vie:lemma	đĩa hát
 03924069-n	vie:exe	Tôi cho bạn lưu học sinh mượn một đĩa hát.
 10332385-n	vie:lemma	mẹ
+10332385-n	vie:exe	Tuy đứa con không nói gì nhưng người mẹ vẫn hiểu.
 10332385-n	vie:exe	Mẹ cho con đi chợ. 
 10332385-n	vie:lemma	mẹ
-10332385-n	vie:exe	Hôm kia tôi đã mua một chiếc khăn tay cho mẹ tôi.\n\n
+10332385-n	vie:exe	Hôm kia tôi đã mua một chiếc khăn tay cho mẹ tôi.
 02410855-v	vie:lemma	làm việc
+02410855-v	vie:exe	Tôi làm sao mà làm việc đó một mình được. 
+02410855-v	vie:exe	Chị đi làm việc hay đi chơi? 
 02410855-v	vie:exe	Chị ấy làm việc ở siêu thị.
 07668702-n	vie:lemma	thịt lợn
-07668702-n	vie:exe	Thịt bò, thịt gà và thịt lợn, chị thích nhất là thịt nào?\n
+07668702-n	vie:exe	Thịt bò, thịt gà và thịt lợn, chị thích nhất là thịt nào?
 00081836-n	vie:lemma	đi mua hàng
 00081836-n	vie:exe	Nó chưa đi mua hàng một mình lần nào.
 04203889-n	vie:lemma	đi mua hàng
@@ -305,58 +447,110 @@
 02368336-a	vie:lemma	ngọt
 02368336-a	vie:exe	Chắc cô thích ăn ngọt, phải không?
 04254777-n	vie:lemma	bít tất
-04254777-n	vie:exe	Mùa đông chỉ mặc váy và bít tất thì chắc lạnh lắm.\n
+04254777-n	vie:exe	Mùa đông chỉ mặc váy và bít tất thì chắc lạnh lắm.
 01845229-v	vie:lemma	đi du lịch
+01845229-v	vie:exe	Dạo này có nhiều chương trình đi du lịch nước ngoài nhỉ.
+01845229-v	vie:exe	Em đi du lịch với ai?
 01845229-v	vie:exe	Khi nào anh ấy đi du lịch?
 01846916-v	vie:lemma	đi du lịch
+01846916-v	vie:exe	Dạo này có nhiều chương trình đi du lịch nước ngoài nhỉ.
+01846916-v	vie:exe	Em đi du lịch với ai?
 01846916-v	vie:exe	Khi nào anh ấy đi du lịch?
 01845720-v	vie:lemma	đi du lịch
+01845720-v	vie:exe	Dạo này có nhiều chương trình đi du lịch nước ngoài nhỉ.
+01845720-v	vie:exe	Em đi du lịch với ai?
 01845720-v	vie:exe	Khi nào anh ấy đi du lịch?
 00061203-r	vie:lemma	sau
 00061203-r	vie:exe	Sau khi ăn trưa nó làm việc hăng hái hơn.
 10112591-n	vie:lemma	bạn
+10112591-n	vie:exe	Anh giới thiệu với em, đây là anh Thịnh, bạn cùng lớp anh. 
 10112591-n	vie:exe	Sáng mai tôi gặp bạn.
 08588294-n	vie:lemma	trong
+08588294-n	vie:exe	Thế, trong món ăn Việt Nam thì Dũng thích món gì nhất?
+08588294-n	vie:exe	Đừng ăn uống trong lớp.
 08588294-n	vie:exe	Đừng hút thuốc trong quán này.
 08588152-n	vie:lemma	trong
+08588152-n	vie:exe	Thế, trong món ăn Việt Nam thì Dũng thích món gì nhất?
+08588152-n	vie:exe	Đừng ăn uống trong lớp.
 08588152-n	vie:exe	Đừng hút thuốc trong quán này.
 77000021-n	vie:lemma	cậu
 77000021-n	vie:exe	Cậu yêu ai?
+77000021-n	vie:lemma	anh
+77000021-n	vie:exe	Còn anh?
+77000021-n	vie:exe	Cảm ơn anh.
+77000021-n	vie:exe	Anh có khoẻ không?
+77000021-n	vie:exe	Anh đi đâu đấy?
+77000021-n	vie:exe	Anh ăn cơm chưa?
+77000021-n	vie:lemma	chị
+77000021-n	vie:exe	Nếu chị là em, chị sẽ rủ Phương Anh đi xem phim cuối tuần này.
+77000021-n	vie:exe	Chị ơi.
+77000021-n	vie:exe	Chị có phải là người Việt không? 
+77000021-n	vie:lemma	ông
+77000021-n	vie:exe	Ông muốn mua cái nào, cái này hay cái kia?
+77000021-n	vie:lemma	bà
+77000021-n	vie:exe	Bà tử tế lắm.
+77000021-n	vie:lemma	cô
+77000021-n	vie:exe	Em xin lỗi cô ạ.
+77000021-n	vie:lemma	chú
+77000021-n	vie:exe	Cháu chào chú.
+77000021-n	vie:lemma	em
+77000021-n	vie:exe	Anh muốn nhờ em ghi băng bộ phim tối nay, có được không? 
+77000021-n	vie:exe	Năm nay em mấy tuổi?
+77000021-n	vie:lemma	cháu
+77000021-n	vie:exe	Xin ông dạy cho cháu.
+77000021-n	vie:exe	Cháu ngồi đi.
 77000021-n	vie:lemma	bạn
+77000021-n	vie:exe	Thứ bảy này bạn có rảnh không? 
+77000021-n	vie:exe	Ôi, cảm ơn bạn.
+77000021-n	vie:exe	Tôi tặng bạn quyển sách này.
 77000021-n	vie:exe	Chính các bạn là những người chủ tương lai.
 02771169-v	vie:lemma	trời đẹp
-02771169-v	vie:exe	Hôm nay trời đẹp bạn sẽ có chuyến du lịch thú vị.\n
+02771169-v	vie:exe	Hôm nay trời đẹp bạn sẽ có chuyến du lịch thú vị.
 77000061-a	vie:lemma	này
+77000061-a	vie:exe	Chỗ này quan trọng lắm.
+77000061-a	vie:exe	Tôi tặng bạn quyển sách này.
 77000061-a	vie:exe	Anh phải đọc bài này cẩn thận, chứ không thì không thể hiểu được.
 80001619-a	vie:lemma	này
+80001619-a	vie:exe	Chỗ này quan trọng lắm.
+80001619-a	vie:exe	Tôi tặng bạn quyển sách này.
 80001619-a	vie:exe	Anh phải đọc bài này cẩn thận, chứ không thì không thể hiểu được.
 77000075-a	vie:lemma	này
+77000075-a	vie:exe	Chỗ này quan trọng lắm.
+77000075-a	vie:exe	Tôi tặng bạn quyển sách này.
 77000075-a	vie:exe	Anh phải đọc bài này cẩn thận, chứ không thì không thể hiểu được.
 04018667-n	vie:lemma	phòng vệ sinh
+04018667-n	vie:exe	Hàng ngày tôi dọn sạch phòng vệ sinh.
 04018667-n	vie:exe	Phòng vệ sinh chỉ có ở tầng một thôi.
 08649345-n	vie:lemma	bên cạnh
+08649345-n	vie:exe	Bên cạnh cái bàn có thùng rác.
 08649345-n	vie:exe	Bên cạnh tủ lạnh có bếp ga. 
 08649345-n	vie:lemma	bên cạnh
+08649345-n	vie:exe	Bên cạnh cái bàn có thùng rác.
 08649345-n	vie:exe	Bên cạnh tủ lạnh có bếp ga.
 08649345-n	vie:lemma	bên cạnh
+08649345-n	vie:exe	Bên cạnh cái bàn có thùng rác.
 08649345-n	vie:exe	Bên cạnh tủ lạnh có bếp ga.
 05136150-n	vie:lemma	bên cạnh
+05136150-n	vie:exe	Bên cạnh cái bàn có thùng rác.
 05136150-n	vie:exe	Bên cạnh tủ lạnh có bếp ga. 
 15211484-n	vie:lemma	tháng năm
-15211484-n	vie:exe	Tháng năm nhiều người cảm thấy buồn ngủ vì trời ấm áp.\n
+15211484-n	vie:exe	Tháng năm nhiều người cảm thấy buồn ngủ vì trời ấm áp.
 05563770-n	vie:lemma	cánh tay
 05563770-n	vie:exe	Tôi bị thương cánh tay trong khi làm việc.
 04272054-n	vie:lemma	kính
 04272054-n	vie:exe	Cha tôi đeo kính khi xem ti vi.
 80000746-n	vie:lemma	chữ Hán
+80000746-n	vie:exe	Em thấy chữ Hán rất khó. 
 80000746-n	vie:exe	Anh Tuấn viết được chữ Hán.
 10287213-n	vie:lemma	đàn ông
 10287213-n	vie:exe	Người đàn ông ấy thường mặc áo sơ mi khi làm việc.
 09624168-n	vie:lemma	đàn ông
 09624168-n	vie:exe	Người đàn ông ấy thường mặc áo sơ mi khi làm việc.
 15164105-n	vie:lemma	thứ ba
-15164105-n	vie:exe	Tôi làm thêm vào thứ ba và thứ năm.\n
+15164105-n	vie:exe	Tôi làm thêm vào thứ ba và thứ năm.
 77000099-n	vie:lemma	mọi người
+77000099-n	vie:exe	Tôi định rủ mọi người đi Bát Tràng chơi.
+77000099-n	vie:exe	Em gửi lời chào mọi người nhé.
 77000099-n	vie:exe	Hầu hết mọi người đều biết chuyện này.
 00479391-v	vie:lemma	tắt
 00479391-v	vie:exe	Tắt đèn đi, bây giờ đã sáng lắm rồi.
@@ -369,65 +563,119 @@
 08489627-n	vie:lemma	kia
 08489627-n	vie:exe	Kia là nhà tôi.
 01168468-v	vie:lemma	ăn
+01168468-v	vie:exe	Anh thích ăn phở. 
+01168468-v	vie:exe	Nga thích ăn cơm Nhật không?
 01168468-v	vie:exe	Hà ơi, đã ăn sáng chưa? 
 01166351-v	vie:lemma	ăn
+01166351-v	vie:exe	Anh thích ăn phở. 
+01166351-v	vie:exe	Nga thích ăn cơm Nhật không?
 01166351-v	vie:exe	Hà ơi, đã ăn sáng chưa? 
 01179865-v	vie:lemma	ăn
+01179865-v	vie:exe	Anh thích ăn phở. 
+01179865-v	vie:exe	Nga thích ăn cơm Nhật không?
 01179865-v	vie:exe	Hà ơi, đã ăn sáng chưa? 
 15122231-n	vie:lemma	khi
+15122231-n	vie:exe	Anh ấy nói : Khi nào có kết quả thì xin anh cho tôi biết.
 15122231-n	vie:exe	Sau khi ăn cơm tôi uống chè.
 02818832-n	vie:lemma	giường
 02818832-n	vie:exe	Chân giường này quá to, không đẹp lắm.
+90000503-n	vie:lemma	năm sau
+90000503-n	vie:exe	Năm sau hay là năm sau nữa, tôi sẽ đến sống một thành phố náo nhiệt hơn.
 08168367-n	vie:lemma	nước ngoài
+08168367-n	vie:exe	Tôi chưa đi nước ngoài lần nào. 
 08168367-n	vie:exe	Anh ấy đi nước ngoài những 3 năm.
 02560548-a	vie:lemma	rộng
 02560548-a	vie:exe	Nhà cửa ở nông thôn rộng rãi.
 01384212-a	vie:lemma	rộng
 01384212-a	vie:exe	Nhà cửa ở nông thôn rộng rãi.
 01031256-v	vie:lemma	gửi
+01031256-v	vie:exe	Em gửi lời chào mọi người nhé.
 01031256-v	vie:exe	Tôi gửi thư cho chị Thuận.
 01995211-v	vie:lemma	gửi
+01995211-v	vie:exe	Em gửi lời chào mọi người nhé.
 01995211-v	vie:exe	Tôi gửi thư cho chị Thuận.
 00255710-n	vie:lemma	giặt
-00255710-n	vie:exe	Kiểm tra kỹ túi áo trước khi giặt.\n\n
+00255710-n	vie:exe	Kiểm tra kỹ túi áo trước khi giặt.
 07110457-n	vie:lemma	chuyện
+07110457-n	vie:exe	Có chuyện gì vậy?
+07110457-n	vie:exe	Cả chị ấy cũng biết chuyện ấy.
+07110457-n	vie:exe	Chúng em nói chuyện đến khuya. 
 07110457-n	vie:exe	Em chào anh ạ, anh có chuyện gì thế ạ ? 
 00893243-n	vie:lemma	chuyện
+00893243-n	vie:exe	Có chuyện gì vậy?
+00893243-n	vie:exe	Cả chị ấy cũng biết chuyện ấy.
+00893243-n	vie:exe	Chúng em nói chuyện đến khuya. 
 00893243-n	vie:exe	Em chào anh ạ, anh có chuyện gì thế ạ ? 
 07221094-n	vie:lemma	chuyện
+07221094-n	vie:exe	Có chuyện gì vậy?
+07221094-n	vie:exe	Cả chị ấy cũng biết chuyện ấy.
+07221094-n	vie:exe	Chúng em nói chuyện đến khuya. 
 07221094-n	vie:exe	Em chào anh ạ, anh có chuyện gì thế ạ ? 
 07139316-n	vie:lemma	chuyện
+07139316-n	vie:exe	Có chuyện gì vậy?
+07139316-n	vie:exe	Cả chị ấy cũng biết chuyện ấy.
+07139316-n	vie:exe	Chúng em nói chuyện đến khuya. 
 07139316-n	vie:exe	Em chào anh ạ, anh có chuyện gì thế ạ ? 
 00031798-r	vie:lemma	đã
+00031798-r	vie:exe	Hà ơi, đã ăn sáng chưa? 
+00031798-r	vie:exe	Tôi đã làm bài tập.
 00031798-r	vie:exe	Anh đã làm bài tập hay chưa?
+07555863-n	vie:lemma	món ăn
+07555863-n	vie:exe	Thế, trong món ăn Việt Nam thì Dũng thích món gì nhất?
+07555863-n	vie:exe	Tôi chưa ăn món ăn Trung Quốc lần nào.
+07555863-n	vie:lemma	thức ăn
+07555863-n	vie:exe	Tiệm này bán nhiều loại thức ăn nước ngoài.
+07560652-n	vie:lemma	món ăn
+07560652-n	vie:exe	Thế, trong món ăn Việt Nam thì Dũng thích món gì nhất?
+07560652-n	vie:exe	Tôi chưa ăn món ăn Trung Quốc lần nào.
+07560652-n	vie:lemma	thức ăn
+07560652-n	vie:exe	Tiệm này bán nhiều loại thức ăn nước ngoài.
 00157412-r	vie:lemma	có khi
 00157412-r	vie:exe	Có khi chị tôi không ăn tối.
 00021212-r	vie:lemma	có khi
 00021212-r	vie:exe	Có khi chị tôi không ăn tối.
 03740161-n	vie:lemma	thuốc
+03740161-n	vie:exe	Dù đã uống thuốc ngủ, tôi vẫn không ngủ được
 03740161-n	vie:exe	Trong khi dùng thuốc anh không nên uống rượu.
 02318272-a	vie:lemma	thẳng
-02318272-a	vie:exe	Đi thẳng qua ngã tư đó có một ngân hàng lớn.\n
+02318272-a	vie:exe	Đi thẳng qua ngã tư đó có một ngân hàng lớn.
 02310895-a	vie:lemma	thẳng
-02310895-a	vie:exe	Đi thẳng qua ngã tư đó có một ngân hàng lớn.\n
+02310895-a	vie:exe	Đi thẳng qua ngã tư đó có một ngân hàng lớn.
 02314584-a	vie:lemma	thẳng
-02314584-a	vie:exe	Đi thẳng qua ngã tư đó có một ngân hàng lớn.\n
+02314584-a	vie:exe	Đi thẳng qua ngã tư đó có một ngân hàng lớn.
 10787470-n	vie:lemma	phụ nữ
+10787470-n	vie:exe	Chị ấy trở thành một cô gái đẹp.
 10787470-n	vie:exe	Phụ nữ sợ khi gặp phải một người nào đó không quen trên đường tối.
+10736091-n	vie:lemma	bác
+10736091-n	vie:exe	Bức thư này do bác Cường viết. 
 10736091-n	vie:lemma	chú
 10736091-n	vie:exe	Đây là máy ảnh chú tôi mua cho tôi.
 04404997-n	vie:lemma	máy ảnh
+04404997-n	vie:exe	Đây là máy ảnh chú tôi mua cho tôi.
 04404997-n	vie:exe	Có máy ảnh mà không có phim thì không có ý nghĩa.
 02942699-n	vie:lemma	máy ảnh
+02942699-n	vie:exe	Đây là máy ảnh chú tôi mua cho tôi.
 02942699-n	vie:exe	Có máy ảnh mà không có phim thì không có ý nghĩa.
 04370048-n	vie:lemma	áo len
 04370048-n	vie:exe	Chị ấy thích mặc áo len.
+02626604-v	vie:lemma	trở thành
+02626604-v	vie:exe	Một nông thôn trở thành đô thị mới.
+02626604-v	vie:exe	Cô ấy trở thành một nhà văn nổi tiếng.
+02626604-v	vie:exe	Em muốn trở thành luật sư, anh ạ. 
 02626604-v	vie:lemma	trở nên
+02626604-v	vie:exe	Các sinh viên trong lớp trở nên thân mật.
+02626604-v	vie:exe	Vấn đề trở nên phức tạp.
 02626604-v	vie:exe	Ông ấy trở nên giàu có. 
+02623529-v	vie:lemma	trở thành
+02623529-v	vie:exe	Một nông thôn trở thành đô thị mới.
+02623529-v	vie:exe	Cô ấy trở thành một nhà văn nổi tiếng.
+02623529-v	vie:exe	Em muốn trở thành luật sư, anh ạ. 
 02623529-v	vie:lemma	trở nên
+02623529-v	vie:exe	Các sinh viên trong lớp trở nên thân mật.
+02623529-v	vie:exe	Vấn đề trở nên phức tạp.
 02623529-v	vie:exe	Ông ấy trở nên giàu có. 
 04398497-n	vie:lemma	quán cà phê
-04398497-n	vie:exe	Ông nội tôi hay đi quán cà phê.\n
+04398497-n	vie:exe	Ông nội tôi hay đi quán cà phê.
 00081591-r	vie:lemma	hàng tuần
 00081591-r	vie:exe	Hàng tuần vợ chồng ấy đi ăn tối ở nhà hàng.
 01535246-v	vie:lemma	rửa
@@ -439,33 +687,49 @@
 01536168-v	vie:lemma	rửa
 01536168-v	vie:exe	Buổi sáng tôi đánh răng, rửa mặt.
 00606093-v	vie:lemma	tập
+00606093-v	vie:exe	Bây giờ chúng ta đi uống bia và tập nói tiếng Nga đi.
 00606093-v	vie:exe	Mặc dù em tập viết nhiều lần nhưng mà vẫn hay quên. 
 01723224-v	vie:lemma	tập
+01723224-v	vie:exe	Bây giờ chúng ta đi uống bia và tập nói tiếng Nga đi.
 01723224-v	vie:exe	Mặc dù em tập viết nhiều lần nhưng mà vẫn hay quên. 
 15156187-n	vie:lemma	hôm qua
+15156187-n	vie:exe	Hôm qua mẹ tôi vào thành phố Hồ Chí Minh.
 15156187-n	vie:exe	Hôm qua tôi gặp anh Nam. 
 01919428-a	vie:lemma	yên tĩnh
-01919428-a	vie:exe	Thành phố này yên tĩnh lắm.\n
+01919428-a	vie:exe	Thành phố này yên tĩnh lắm.
 01918984-a	vie:lemma	yên tĩnh
-01918984-a	vie:exe	Thành phố này yên tĩnh lắm.\n
+01918984-a	vie:exe	Thành phố này yên tĩnh lắm.
 04437953-n	vie:lemma	đồng hồ
 04437953-n	vie:exe	Đồng hồ tôi nhanh đến mười ba phút.
 03046257-n	vie:lemma	đồng hồ
 03046257-n	vie:exe	Đồng hồ tôi nhanh đến mười ba phút.
 04350905-n	vie:lemma	com lê
 04350905-n	vie:exe	Không chỉ vào mùa đông mà còn vào mủa hè một số người Nhật cũng mặc com lê.
+00409440-a	vie:lemma	thẫm
+00409440-a	vie:exe	Em ấy không thích màu đỏ thẫm.
 00409440-a	vie:lemma	tối
 00842199-a	vie:lemma	mạnh
+00842199-a	vie:exe	Gió thổi mạnh. 
 00842199-a	vie:exe	Ông ấy không được mạnh.
 15163979-n	vie:lemma	thứ hai
-15163979-n	vie:exe	Tôi thường dọn phòng vào thứ hai.\n\n
+15163979-n	vie:exe	Tôi thường dọn phòng vào thứ hai.
+00059413-r	vie:lemma	hay
+00059413-r	vie:exe	Ông nội tôi hay đi quán cà phê.
 00059413-r	vie:lemma	nhiều lần
+00059413-r	vie:exe	Mặc dù em tập viết nhiều lần nhưng mà vẫn hay quên. 
 00059413-r	vie:exe	Trong khi cô Lan ở bệnh viện chúng em thăm cô nhiều lần.
+00035058-r	vie:lemma	hay
+00035058-r	vie:exe	Ông nội tôi hay đi quán cà phê.
 00035058-r	vie:lemma	nhiều lần
+00035058-r	vie:exe	Mặc dù em tập viết nhiều lần nhưng mà vẫn hay quên. 
 00035058-r	vie:exe	Trong khi cô Lan ở bệnh viện chúng em thăm cô nhiều lần.
 05687338-n	vie:lemma	bài
+05687338-n	vie:exe	Chắc chắn là bài thi khó lắm.
+05687338-n	vie:exe	Tôi chưa làm bài tập của thầy mà. 
 05687338-n	vie:exe	Em làm bài tập xong chưa?
 06784003-n	vie:lemma	bài
+06784003-n	vie:exe	Chắc chắn là bài thi khó lắm.
+06784003-n	vie:exe	Tôi chưa làm bài tập của thầy mà. 
 06784003-n	vie:exe	Em làm bài tập xong chưa?
 03281145-n	vie:lemma	thang máy
 03281145-n	vie:exe	Tôi không thích thang máy vì bên trong rất bí.
@@ -476,19 +740,30 @@
 03436182-n	vie:lemma	máy ra-đi-ô cát-xét
 03436182-n	vie:exe	Sử dụng máy ghi âm, máy ra-đi-ô cát-xét sẽ giúp anh học tiếng Việt tốt hơn.
 04284002-n	vie:lemma	thìa
-04284002-n	vie:exe	Người Hàn Quốc thường ăn cơm bằng thìa.\n
+04284002-n	vie:exe	Người Hàn Quốc thường ăn cơm bằng thìa.
 13134947-n	vie:lemma	hoa quả
 13134947-n	vie:exe	Em họ tôi thường ăn hoa qủa sau bữa trưa.
 11683989-n	vie:lemma	hoa quả
 11683989-n	vie:exe	Em họ tôi thường ăn hoa qủa sau bữa trưa.
 02730813-v	vie:lemma	nói
+02730813-v	vie:exe	Em nói to lên một chút.
+02730813-v	vie:exe	Nhiều người cũng nói thế.
 02730813-v	vie:exe	Sao anh nói vậy?
 01009240-v	vie:lemma	nói
+01009240-v	vie:exe	Em nói to lên một chút.
+01009240-v	vie:exe	Nhiều người cũng nói thế.
 01009240-v	vie:exe	Sao anh nói vậy?
 00941990-v	vie:lemma	nói
+00941990-v	vie:exe	Em nói to lên một chút.
+00941990-v	vie:exe	Nhiều người cũng nói thế.
 00941990-v	vie:exe	Sao anh nói vậy?
 00979870-v	vie:lemma	nói
+00979870-v	vie:exe	Em nói to lên một chút.
+00979870-v	vie:exe	Nhiều người cũng nói thế.
 00979870-v	vie:exe	Sao anh nói vậy?
+09854218-n	vie:lemma	chị em
+09854218-n	vie:exe	Ước gì tôi có chị em.
+09854218-n	vie:exe	Tôi có hai chị em.
 09854218-n	vie:lemma	chị
 09854218-n	vie:exe	Có khi chị tôi không ăn tối.
 04507155-n	vie:lemma	ô
@@ -508,15 +783,25 @@
 15269513-n	vie:lemma	thời gian
 15269513-n	vie:exe	Không còn thời gian nữa, nhanh lên!
 00744916-a	vie:lemma	khó
+00744916-a	vie:exe	Chắc chắn là bài thi khó lắm.
+00744916-a	vie:exe	Nhưng phát âm thì không khó lắm.
 00744916-a	vie:exe	Em thấy chữ Hán rất khó. 
 04401088-n	vie:lemma	điện thoại
 04401088-n	vie:exe	Cho tôi biết số điện thoại của chị được không?
 06272803-n	vie:lemma	điện thoại
 06272803-n	vie:exe	Cho tôi biết số điện thoại của chị được không?
 02870092-n	vie:lemma	sách
+02870092-n	vie:exe	À, quyển sách này của ai? 
+02870092-n	vie:exe	A! Sách tiếng Nhật à.
 02870092-n	vie:exe	Tôi vừa đọc hết cuốn sách này.
 06410904-n	vie:lemma	sách
+06410904-n	vie:exe	À, quyển sách này của ai? 
+06410904-n	vie:exe	A! Sách tiếng Nhật à.
 06410904-n	vie:exe	Tôi vừa đọc hết cuốn sách này.
+09972010-n	vie:lemma	anh họ
+09972010-n	vie:exe	Đây là lần đầu tiên em gặp anh họ em.
+09972010-n	vie:lemma	chị ho
+09972010-n	vie:exe	Tôi chưa bao giờ gặp chị họ của tôi.
 09972010-n	vie:lemma	em họ
 09972010-n	vie:exe	Em họ tôi thường ăn hoa qủa sau bữa trưa.
 14974264-n	vie:lemma	giấy
@@ -532,8 +817,12 @@
 02529945-a	vie:lemma	mát
 02529945-a	vie:exe	Tháng mười ở Nhật Bản trời mát đấy.
 02207206-v	vie:lemma	mua
+02207206-v	vie:exe	Tôi muốn mua cả hai cái này.
+02207206-v	vie:exe	Anh ấy đi mua báo về.
 02207206-v	vie:exe	Chị mua áo ở đâu?
 02208265-v	vie:lemma	mua
+02208265-v	vie:exe	Tôi muốn mua cả hai cái này.
+02208265-v	vie:exe	Anh ấy đi mua báo về.
 02208265-v	vie:exe	Chị mua áo ở đâu?
 00422620-a	vie:lemma	bẩn
 00422620-a	vie:exe	Phòng này bẩn quá!
@@ -542,10 +831,13 @@
 00419289-a	vie:lemma	bẩn
 00419289-a	vie:exe	Phòng này bẩn quá!
 01345109-v	vie:lemma	đóng
+01345109-v	vie:exe	Trời lạnh đấy, đóng cửa lại đi.
 01345109-v	vie:exe	Khi nghe nhạc anh đóng cửa đi.
 01960911-v	vie:lemma	bơi
+01960911-v	vie:exe	Anh có biết bơi không?
 01960911-v	vie:exe	Khi tôi còn trẻ, tôi thường bơi ở ao.
 00933154-a	vie:lemma	đắt
+00933154-a	vie:exe	Đắt quá!
 00933154-a	vie:exe	Cái nhà này đắt không?
 04199027-n	vie:lemma	giày
 04199027-n	vie:exe	Giày này đẹp mà đắt thế.
@@ -560,15 +852,18 @@
 06947032-n	vie:lemma	tiếng Anh
 06947032-n	vie:exe	Tôi học tiếng Anh 3 giờ một ngày.
 07575726-n	vie:lemma	bữa tối
-07575726-n	vie:exe	Em ăn tối chưa?\n\n
+07575726-n	vie:exe	Có khi chị tôi không ăn tối.
+07575726-n	vie:exe	Em ăn tối chưa?
 07575726-n	vie:lemma	bữa tối
+07575726-n	vie:exe	Có khi chị tôi không ăn tối.
 07575726-n	vie:exe	Em ăn tối chưa?
 03485794-n	vie:lemma	khăn tay
 03485794-n	vie:exe	Hôm kia tôi đã mua một chiếc khăn tay cho mẹ tôi.
 01198101-v	vie:lemma	hút
+01198101-v	vie:exe	Nhà trường cấm hút thuốc trong lớp học.
 01198101-v	vie:exe	Em không được hút thuốc ở đây.
 02741003-v	vie:lemma	treo
-02741003-v	vie:exe	Thế thì treo bức ảnh này trên tường được không?\n
+02741003-v	vie:exe	Thế thì treo bức ảnh này trên tường được không?
 01206474-a	vie:lemma	thấp
 01206474-a	vie:exe	Mây trên trời càng ở xa thấy càng thấp.
 13832355-n	vie:lemma	phía đông
@@ -583,25 +878,41 @@
 01433493-a	vie:exe	Cái cầu này dài bằng cái cầu kia.
 01444022-a	vie:lemma	dài
 01444022-a	vie:exe	Cái cầu này dài bằng cái cầu kia.
+80001077-n	vie:lemma	mấy
+80001077-n	vie:exe	Thế mấy giờ bắt đầu anh? 
+80001077-n	vie:exe	Mấy hôm nay tôi không khỏe lắm.
+80001077-n	vie:exe	Bây giờ mấy giờ rồi?
 80001077-n	vie:lemma	bao nhiêu
+80001077-n	vie:exe	Lớp tiếng Nhật của bạn có bao nhiêu sinh viên?
+80001077-n	vie:exe	Cái này bao nhiêu?
 80001077-n	vie:exe	Năm nay anh bao nhiêu tuổi?
 80001077-n	vie:lemma	bao nhiêu tiền
+80001077-n	vie:exe	Cái túi đỏ này bao nhiêu tiền ạ?
 80001077-n	vie:exe	Quyển sách này giá bao nhiêu tiền?
 10665698-n	vie:lemma	học sinh
 10665698-n	vie:exe	Hiệu trưởng phát phần thưởng cho học sinh.
 10665698-n	vie:lemma	sinh viên
+10665698-n	vie:exe	Lớp tiếng Nhật của tôi có 15 sinh viên.
 10665698-n	vie:exe	Tôi là sinh viên.
 10251779-n	vie:lemma	học sinh
 10251779-n	vie:exe	Hiệu trưởng phát phần thưởng cho học sinh.
 08615374-n	vie:lemma	công viên
+08615374-n	vie:exe	Sáng qua tôi đi dạo công viên.
 08615374-n	vie:exe	Hàng ngày tôi đi công viên tập thể dục.
+77000064-n	vie:lemma	gì
+77000064-n	vie:exe	Không có gì.
+77000064-n	vie:exe	Sau khi tốt nghiệp, em muốn làm nghề gì? 
+77000064-n	vie:exe	Cái gì cũng được.
+77000064-n	vie:exe	Đây là cái gì?
 77000064-n	vie:lemma	nào
+77000064-n	vie:exe	Em học khoa nào?
 77000064-n	vie:exe	Chị ấy là người nước nào?
 03290771-n	vie:lemma	cửa ra vào
 03290771-n	vie:exe	Ở Nhật Bản có cửa ra vào gọi là Genkan.
 03290771-n	vie:lemma	lối vào
 03290771-n	vie:exe	Tôi không thể tìm ra lối vào được.
 06409752-n	vie:lemma	đặt câu
+06409752-n	vie:exe	Thi tiếng Anh thì tôi thích bài đặt câu.
 06409752-n	vie:exe	Em hãy đạt câu.
 10286084-n	vie:lemma	anh em
 10286084-n	vie:exe	Tôi có hai anh em.
@@ -609,25 +920,55 @@
 09876454-n	vie:exe	Tôi có hai anh em.
 80001731-n	vie:lemma	lưu học sinh
 80001731-n	vie:exe	Tôi cho bạn lưu học sinh mượn một đĩa hát.
+77000031-n	vie:lemma	anh ấy
+77000031-n	vie:exe	Mẹ anh ấy lo là anh ấy bị tai nạn trong du lịch.
+77000031-n	vie:exe	Tuần trước anh ấy lên Hà Nội.
+77000031-n	vie:exe	Tôi gặp anh ấy.
+77000031-n	vie:lemma	ông ấy
+77000031-n	vie:exe	Ông ấy lúc nào cũng uống rượu.
+77000031-n	vie:exe	Ông ấy là ai?
+77000031-n	vie:lemma	chị ấy
+77000031-n	vie:exe	Chị ấy có nhờ thì tôi mới giúp.
+77000031-n	vie:exe	Chị ấy là ai?
+77000031-n	vie:lemma	cô ấy
+77000031-n	vie:exe	Em đã xin lỗi nhưng cô ấy vẫn giận.
+77000031-n	vie:exe	Cô ấy trở thành một nhà văn nổi tiếng.
+77000031-n	vie:exe	Anh ấy yêu cô ấy đến mức có thể chết vì cô ấy. 
+77000031-n	vie:lemma	bà ấy
+77000031-n	vie:exe	Khi đến bệnh viện, bà ấy đã khỏe rồi.
+77000031-n	vie:lemma	các anh ấy
+77000031-n	vie:exe	Các anh ấy họp mỗi mười lăm phút.
+77000031-n	vie:lemma	các ông ấy
+77000031-n	vie:exe	Các ông ấy là giáo sư ở trường đại học này.
+77000031-n	vie:lemma	các chị ấy
+77000031-n	vie:exe	Các chị ấy đi làm bằng xe máy.
+77000031-n	vie:lemma	các cô ấy
+77000031-n	vie:exe	Các cô ấy nói tiếng Việt rất giỏi.
 77000031-n	vie:lemma	các bà ấy
 77000031-n	vie:exe	Các bà ấy khoẻ lắm.
 00934199-a	vie:lemma	rẻ
+00934199-a	vie:exe	Dạo này vé máy bay rất rẻ. 
 00934199-a	vie:exe	Thế thì rẻ quá.
 00935103-a	vie:lemma	rẻ
+00935103-a	vie:exe	Dạo này vé máy bay rất rẻ. 
 00935103-a	vie:exe	Thế thì rẻ quá.
 02747802-n	vie:lemma	gạt tàn
 02747802-n	vie:exe	Đừng hút thuốc ở đây, không có gạt tàn mà.
 15213115-n	vie:lemma	tháng mười
 15213115-n	vie:exe	Tháng mười ở Nhật Bản trời mát đấy.
 15203791-n	vie:lemma	năm
+15203791-n	vie:exe	Dạ, em học tiếng Nhật được 1 năm. 
 15203791-n	vie:exe	Anh ấy đi nước ngoài những 3 năm.
 03619890-n	vie:lemma	phòng bếp
 03619890-n	vie:exe	Phòng này vừa là nhà bếp vừa là phòng ăn.
 00273734-v	vie:lemma	dạy
+00273734-v	vie:exe	Thầy dạy thêm ngữ âm tiếng Nhật.
 00273734-v	vie:exe	Xin ông dạy cho cháu.
 00829107-v	vie:lemma	dạy
+00829107-v	vie:exe	Thầy dạy thêm ngữ âm tiếng Nhật.
 00829107-v	vie:exe	Xin ông dạy cho cháu.
 00963570-v	vie:lemma	nói chuyện
+00963570-v	vie:exe	Ví dụ, em đọc báo, nghe đài, nói chuyện với bạn,viết nhật ký, v.v...
 00963570-v	vie:exe	Chúng em nói chuyện đến khuya. 
 00815686-v	vie:lemma	trả lời
 00815686-v	vie:exe	Giả sử có người hỏi, anh sẽ trả lời sao?
@@ -642,22 +983,28 @@
 01828736-v	vie:lemma	rất thích
 01828736-v	vie:exe	Trẻ con rất thích ăn kẹo.
 06418901-n	vie:lemma	từ điển
+06418901-n	vie:exe	Ở đây có bán từ điển Nhật-Việt không ạ?
 06418901-n	vie:exe	Từ điển này tốt, từ điển này không tốt.
 15164570-n	vie:lemma	thứ bảy
+15164570-n	vie:exe	Thứ bảy em lên lớp, chủ nhật em đi chơi đi.
+15164570-n	vie:exe	Thứ bảy này các em phải lên lớp.
 15164570-n	vie:exe	Thứ bảy, chủ nhật Phương thường làm gì?
 00284798-n	vie:lemma	đi dạo
 00284798-n	vie:exe	Sáng qua tôi đi dạo công viên.
 00284101-n	vie:lemma	đi dạo
 00284101-n	vie:exe	Sáng qua tôi đi dạo công viên.
 01712704-v	vie:lemma	làm
+01712704-v	vie:exe	Em phải đi làm thêm, chán lắm. 
+01712704-v	vie:exe	Tôi đã làm bài tập.
 01712704-v	vie:exe	Sau khi tốt nghiệp, em muốn làm nghề gì? 
 08277393-n	vie:lemma	trường học
-08277393-n	vie:exe	Từ nhà tôi đến trường học rất gần.\n\n
+08277393-n	vie:exe	Từ nhà tôi đến trường học rất gần.
 08276720-n	vie:lemma	trường học
-08276720-n	vie:exe	Từ nhà tôi đến trường học rất gần.\n\n
+08276720-n	vie:exe	Từ nhà tôi đến trường học rất gần.
 00161630-r	vie:lemma	chậm
 00161630-r	vie:exe	Xin thầy nói chậm hơn. 
 90000506-n	vie:lemma	tuần trước
+90000506-n	vie:exe	Dạ, tuần trước em mới từ Pháp về ạ. 
 90000506-n	vie:exe	Tuần trước tôi đã xem phim ấy rồi nhưng tuần này tôi muốn xem lại.
 03057021-n	vie:lemma	áo ngoài
 03057021-n	vie:exe	Anh mang áo ngoài đi, dự báo thời tiết nói là tối nay trời lạnh.
@@ -666,29 +1013,34 @@
 03589791-n	vie:lemma	áo ngoài
 03589791-n	vie:exe	Anh mang áo ngoài đi, dự báo thời tiết nói là tối nay trời lạnh.
 06929279-n	vie:lemma	tiếng Nhật
+06929279-n	vie:exe	Hôm nay các em thi ngữ pháp tiếng Nhật.
+06929279-n	vie:exe	Lớp tiếng Nhật của tôi có 15 sinh viên.
 06929279-n	vie:exe	Em thấy tiếng Nhật thế nào? 
 03303965-n	vie:lemma	lối ra
 03303965-n	vie:exe	Xin lỗi, lối ra ở đâu?
+10142391-n	vie:lemma	ông ngoại
+10142391-n	vie:exe	Ông ngoại tôi ghét chanh.
 10142391-n	vie:lemma	ông nội
 10142391-n	vie:exe	Ông nội tôi hay đi quán cà phê.
 07934530-n	vie:lemma	trà Lipton
-07934530-n	vie:exe	Tôi muốn uống trà Lipton không đường.\n
+07934530-n	vie:exe	Tôi muốn uống trà Lipton không đường.
 07933274-n	vie:lemma	trà Lipton
-07933274-n	vie:exe	Tôi muốn uống trà Lipton không đường.\n
+07933274-n	vie:exe	Tôi muốn uống trà Lipton không đường.
 07933274-n	vie:lemma	trà
-07933274-n	vie:exe	Cà phê hay trà xanh, em thích loại nào hơn?\n
+07933274-n	vie:exe	Tôi muốn uống trà Lipton không đường.
+07933274-n	vie:exe	Cà phê hay trà xanh, em thích loại nào hơn?
 07989373-n	vie:lemma	vợ chồng
-07989373-n	vie:exe	Hàng tuần vợ chồng ấy đi ăn tối ở nhà hàng.\n\n
+07989373-n	vie:exe	Hàng tuần vợ chồng ấy đi ăn tối ở nhà hàng.
 10146559-n	vie:lemma	cửa hàng rau quả
-10146559-n	vie:exe	Muốn đến cửa hàng rau quả thì anh rẽ phải ở đó, cửa hàng đó ở ngay bên trái đường.\n\n
+10146559-n	vie:exe	Muốn đến cửa hàng rau quả thì anh rẽ phải ở đó, cửa hàng đó ở ngay bên trái đường.
 03457686-n	vie:lemma	cửa hàng rau quả
-03457686-n	vie:exe	Muốn đến cửa hàng rau quả thì anh rẽ phải ở đó, cửa hàng đó ở ngay bên trái đường.\n\n
+03457686-n	vie:exe	Muốn đến cửa hàng rau quả thì anh rẽ phải ở đó, cửa hàng đó ở ngay bên trái đường.
 03147509-n	vie:lemma	tách
 03147509-n	vie:exe	Ông ấy thích sưu tập tách cổ châu Âu.
 03972524-n	vie:lemma	túi
-03972524-n	vie:exe	Kiểm tra kỹ túi áo trước khi giặt.\n
+03972524-n	vie:exe	Kiểm tra kỹ túi áo trước khi giặt.
 04968895-n	vie:lemma	xanh da trời
-04968895-n	vie:exe	Ô màu xanh da trời này của ai?\n\n
+04968895-n	vie:exe	Ô màu xanh da trời này của ai?
 01555416-a	vie:lemma	ít
 01555416-a	vie:exe	Vì sao chị ăn ít thế?
 01552885-a	vie:lemma	ít
@@ -696,27 +1048,30 @@
 00017865-v	vie:lemma	đi ngủ
 00017865-v	vie:exe	Tôi đi ngủ lúc 10 giờ tối.
 00450147-a	vie:lemma	gần
-00450147-a	vie:exe	Từ nhà tôi đến trường học rất gần.\n
+00450147-a	vie:exe	Từ nhà tôi đến trường học rất gần.
 00444519-a	vie:lemma	gần
-00444519-a	vie:exe	Từ nhà tôi đến trường học rất gần.\n
+00444519-a	vie:exe	Từ nhà tôi đến trường học rất gần.
 00445169-a	vie:lemma	gần
-00445169-a	vie:exe	Từ nhà tôi đến trường học rất gần.\n
+00445169-a	vie:exe	Từ nhà tôi đến trường học rất gần.
 00584367-n	vie:lemma	việc làm
-00584367-n	vie:exe	Anh ấy tốt nghiệp đại học nổi tiếng rồi mà chưa có việc làm.\n
+00584367-n	vie:exe	Anh ấy tốt nghiệp đại học nổi tiếng rồi mà chưa có việc làm.
 07574602-n	vie:lemma	bữa sáng
 07574602-n	vie:exe	Chị ấy luôn luôn ăn sáng với gia đình.
 08078020-n	vie:lemma	gia đình
+08078020-n	vie:exe	Tôi đi với gia đình.
 08078020-n	vie:exe	Cả gia đình em có khoẻ không?
 10236304-n	vie:lemma	gia đình
+10236304-n	vie:exe	Tôi đi với gia đình.
 10236304-n	vie:exe	Cả gia đình em có khoẻ không?
 07970406-n	vie:lemma	gia đình
+07970406-n	vie:exe	Tôi đi với gia đình.
 07970406-n	vie:exe	Cả gia đình em có khoẻ không?
 07970406-n	vie:lemma	gia đình
 07970406-n	vie:exe	Hiện nay bạo lực là một vấn đề gia đình rất lớn.
 04197391-n	vie:lemma	áo lót
 04197391-n	vie:exe	Tôi phải mua áo lót mới.
 09918248-n	vie:lemma	trẻ con
-09918248-n	vie:exe	Trẻ con rất thích ăn kẹo.\n\n
+09918248-n	vie:exe	Trẻ con rất thích ăn kẹo.
 12212361-n	vie:lemma	rau
 12212361-n	vie:exe	Mẹ tôi sai tôi đi mua rau. 
 07707451-n	vie:lemma	rau
@@ -732,21 +1087,21 @@
 01367431-a	vie:lemma	náo nhiệt
 01367431-a	vie:exe	Năm sau hay là năm sau nữa, tôi sẽ đến sống một thành phố náo nhiệt hơn.
 07644382-n	vie:lemma	thịt gà
-07644382-n	vie:exe	Thịt bò, thịt gà và thịt lợn, chị thích nhất là thịt nào?\n
+07644382-n	vie:exe	Thịt bò, thịt gà và thịt lợn, chị thích nhất là thịt nào?
 07644967-n	vie:lemma	thịt gà
-07644967-n	vie:exe	Thịt bò, thịt gà và thịt lợn, chị thích nhất là thịt nào?\n
+07644967-n	vie:exe	Thịt bò, thịt gà và thịt lợn, chị thích nhất là thịt nào?
 07813107-n	vie:lemma	muối
 07813107-n	vie:exe	Có quá nhiều muối thì không ngon miệng.
 07825972-n	vie:lemma	xì dầu
-07825972-n	vie:exe	Món này nhạt, thêm một chút xì dầu sẽ ngon hơn.\n
+07825972-n	vie:exe	Món này nhạt, thêm một chút xì dầu sẽ ngon hơn.
 02005948-v	vie:lemma	tới
-02005948-v	vie:exe	Tháng trước một người bạn Việt Nam của tôi tới Nhật Bản.\n
+02005948-v	vie:exe	Tháng trước một người bạn Việt Nam của tôi tới Nhật Bản.
 02930766-n	vie:lemma	tắc xi
 02930766-n	vie:exe	Khi mua ở cửa hàng tổng hợp chúng tôi thường đi bằng tắc xi.
 04371225-n	vie:lemma	bể bơi
 04371225-n	vie:exe	Bể bơi này sâu tới 4m.
 00604617-a	vie:lemma	tiện
-00604617-a	vie:exe	Sưởi lò hiện đại nhất của công ty này rất tiện.\n
+00604617-a	vie:exe	Sưởi lò hiện đại nhất của công ty này rất tiện.
 15237250-n	vie:lemma	mùa hè
 15237250-n	vie:exe	Mùa hè Nhật Bản không những nóng mà còn oi bức.
 03757138-n	vie:lemma	tàu điện ngầm
@@ -754,12 +1109,24 @@
 04349306-n	vie:lemma	tàu điện ngầm
 04349306-n	vie:exe	Trong xe điện ngầm người ta không thể nghe ra-đi-ô được.
 77000090-n	vie:lemma	thế nào
+77000090-n	vie:exe	Em học như thế nào vậy ?
+77000090-n	vie:exe	À, em gái anh thế nào?
+77000090-n	vie:exe	Nga học tiếng Nga thấy thế nào?
 77000090-n	vie:exe	Ngày mai thời tiết thế nào?
 80001331-x	vie:lemma	thế nào
+80001331-x	vie:exe	Em học như thế nào vậy ?
+80001331-x	vie:exe	À, em gái anh thế nào?
+80001331-x	vie:exe	Nga học tiếng Nga thấy thế nào?
 80001331-x	vie:exe	Ngày mai thời tiết thế nào?
 77000104-n	vie:lemma	khi nào
+77000104-n	vie:exe	Khi nào Chi đến?
+77000104-n	vie:exe	Anh đi Việt Nam khi nào?
 77000104-n	vie:exe	Khi nào anh đi Việt Nam?
+04105893-n	vie:lemma	phòng
+04105893-n	vie:exe	Phòng này vừa là nhà bếp vừa là phòng ăn.
+04105893-n	vie:exe	Chúng ta phải để phòng sạch sẽ.
 04105893-n	vie:lemma	căn hộ
+04105893-n	vie:exe	Tôi lớn lên ở căn hộ này.
 04105893-n	vie:exe	Căn hộ này chỉ có cầu thang.
 06415419-n	vie:lemma	vở
 06415419-n	vie:exe	Cho Long mượn vở tiếng Anh của Thùy một chút có được không?
@@ -774,10 +1141,13 @@
 02935891-n	vie:lemma	quán ăn
 02935891-n	vie:exe	Quán ăn sắp mở cửa.
 01984902-v	vie:lemma	ngồi
+01984902-v	vie:exe	Xin lỗi, tôi ngồi đây được không ạ?
 01984902-v	vie:exe	Mời anh ngồi.
 00120223-r	vie:lemma	vừa ... vừa ...
+00120223-r	vie:exe	Chị ấy vừa ngồi tàu vừa ngắm cảnh.
 00120223-r	vie:exe	Tôi thường vừa nghe nhạc vừa học.
 00120095-r	vie:lemma	vừa ... vừa ...
+00120095-r	vie:exe	Chị ấy vừa ngồi tàu vừa ngắm cảnh.
 00120095-r	vie:exe	Tôi thường vừa nghe nhạc vừa học.
 02386612-a	vie:lemma	nhỏ
 02386612-a	vie:exe	Cô giáo mới chia lớp thành 3 nhóm nhỏ.
@@ -794,12 +1164,16 @@
 15166191-n	vie:lemma	buổi chiều
 15166191-n	vie:exe	Chiều này anh đi đâu?
 80000080-n	vie:lemma	tháng này
+80000080-n	vie:exe	Tháng này là tháng 11.
 80000080-n	vie:exe	Tháng này là tháng mấy?
 06624161-n	vie:lemma	thư
+06624161-n	vie:exe	Tôi nhờ anh ấy chuyển bức thư cho gia đình tôi.
+06624161-n	vie:exe	Tôi không quên gửi thư cho chị ấy.
 06624161-n	vie:exe	Chị viết thư chưa?
 01909812-v	vie:lemma	rẽ
 01909812-v	vie:exe	Cấm rẽ phải.
 07929519-n	vie:lemma	cà phê
+07929519-n	vie:exe	Có bánh mì và cà phê đây.
 07929519-n	vie:exe	Cà phê hay trà xanh, em thích loại nào hơn?
 01729431-v	vie:lemma	hát
 01729431-v	vie:exe	Chị có hát được bài hát này không?
@@ -810,11 +1184,20 @@
 90000511-n	vie:lemma	hôm kia
 90000511-n	vie:exe	Hôm kia tôi đã mua một chiếc khăn tay cho mẹ tôi.
 00118032-r	vie:lemma	thế thì
+00118032-r	vie:exe	Thế thì tốt quá, em cảm ơn anh ạ. 
 00118032-r	vie:exe	Thế thì rẻ quá.
+00118032-r	vie:lemma	thế nhé!
+00118032-r	vie:exe	Tôi phải đi ngay bây giờ, thế nhé!
 00118032-r	vie:lemma	thế thì
+00118032-r	vie:exe	Thế thì chúng ta đi ăn bún chả nhé. 
+00118032-r	vie:exe	Thế thì chị chơi giỏi lắm nhỉ?
 00118032-r	vie:exe	Thế thì ba mươi lăm nghìn nhé.
 04468005-n	vie:lemma	tàu điện
-04468005-n	vie:exe	Ngày kia tôi sẽ đi Tokyo bằng xe điện.\n
+04468005-n	vie:exe	Ngày kia tôi sẽ đi Tokyo bằng xe điện.
+77000002-n	vie:lemma	chúng ta
+77000002-n	vie:exe	Chúng ta bắt đầu nhé.
+77000002-n	vie:exe	Chúng ta đi đi.
+77000002-n	vie:exe	Chúng ta học tiếng Việt.
 77000002-n	vie:lemma	chúng tôi
 77000002-n	vie:exe	Tuy vậy chúng tôi vẫn thua cuộc.
 15206296-n	vie:lemma	một tháng
@@ -828,44 +1211,61 @@
 03704210-n	vie:lemma	tạp chí
 03704210-n	vie:exe	Tôi đọc tạp chí Việt Nam nhưng có nhiều từ không biết ý nghĩa.
 08238463-n	vie:lemma	lớp
+08238463-n	vie:exe	Anh giới thiệu với em, đây là anh Thịnh, bạn cùng lớp anh. 
+08238463-n	vie:exe	Thứ bảy này các em phải lên lớp.
 08238463-n	vie:exe	Lớp này có năm người.
 00050454-v	vie:lemma	cởi
 00050454-v	vie:exe	Anh ấy cởi quần để qua sông.
 02649830-v	vie:lemma	sống
+02649830-v	vie:exe	Bố mẹ tôi sống ở Huế.
 02649830-v	vie:exe	Chị sống ở đâu?
 15155891-n	vie:lemma	ngày mai
+15155891-n	vie:exe	Ngày mai chị đi Đà Lạt, đúng không?
 15155891-n	vie:exe	Ngày mai thời tiết thế nào?
 04208936-n	vie:lemma	vòi hoa sen
-04208936-n	vie:exe	Vòi hoa sen màu vàng này bị hỏng rồi.\n\n
+04208936-n	vie:exe	Vòi hoa sen màu vàng này bị hỏng rồi.
 15213774-n	vie:lemma	tháng mười hai
-15213774-n	vie:exe	Tháng mười hai năm ngoái tôi làm quen với cô ấy.\n
+15213774-n	vie:exe	Tháng mười hai năm ngoái tôi làm quen với cô ấy.
 00625119-v	vie:lemma	đọc
+00625119-v	vie:exe	Ví dụ, em đọc báo, nghe đài, nói chuyện với bạn,viết nhật ký, v.v...
 00625119-v	vie:exe	Tôi vừa đọc hết cuốn sách này.
 02774152-n	vie:lemma	túi
 02774152-n	vie:exe	Cái túi đỏ này bao nhiêu tiền ạ?
 02773037-n	vie:lemma	túi
 02773037-n	vie:exe	Cái túi đỏ này bao nhiêu tiền ạ?
 13250542-n	vie:lemma	tiền
+13250542-n	vie:exe	Cái túi đỏ này bao nhiêu tiền ạ?
+13250542-n	vie:exe	Mẹ cho tôi một chút tiền để mua sách.
 13250542-n	vie:exe	Tôi trả tiền rồi mà.
 13384557-n	vie:lemma	tiền
+13384557-n	vie:exe	Cái túi đỏ này bao nhiêu tiền ạ?
+13384557-n	vie:exe	Mẹ cho tôi một chút tiền để mua sách.
 13384557-n	vie:exe	Tôi trả tiền rồi mà.
 05600637-n	vie:lemma	mặt
 05600637-n	vie:exe	Buổi sáng tôi đánh răng, rửa mặt.
 07597365-n	vie:lemma	kẹo
 07597365-n	vie:exe	Trẻ con rất thích ăn kẹo.
 00024356-r	vie:lemma	không
+00024356-r	vie:exe	Không thích lắm 
+00024356-r	vie:exe	Xin lỗi, em không nhớ ạ.
 00024356-r	vie:exe	Tôi không biết đâu.
 03176763-n	vie:lemma	cửa hàng tổng hợp
 03176763-n	vie:exe	Khi mua ở cửa hàng tổng hợp chúng tôi thường đi bằng tắc xi.
 01725051-v	vie:lemma	chơi
+01725051-v	vie:exe	Không, tôi không biết chơi. 
+01725051-v	vie:exe	À, chị có biết chơi vi-ô-lông không?
+01725051-v	vie:exe	Tôi biết chơi pianô.
 01725051-v	vie:exe	Tôi biết chơi ghi-ta.
 03388183-n	vie:lemma	bút máy
 03388183-n	vie:exe	Nhiều nhà văn thích dùng bút máy.
 77000089-a	vie:lemma	thế này
+77000089-a	vie:exe	À, thế này nhé…
 77000089-a	vie:exe	Không có kinh nghiệm, làm sao mà vượt qua khó khăn như thế này được.
 15164354-n	vie:lemma	thứ năm
-15164354-n	vie:exe	Tôi làm thêm vào thứ ba và thứ năm.\n\n
+15164354-n	vie:exe	Tôi làm thêm vào thứ ba và thứ năm.
 00056916-r	vie:lemma	mời ...
+00056916-r	vie:exe	Mời Chi đến nhà tôi chơi.
+00056916-r	vie:exe	Mời anh ngồi.
 00056916-r	vie:exe	Mời anh vào. 
 00816481-a	vie:lemma	chậm
 00816481-a	vie:exe	Con chó này chạy rất chậm.
@@ -880,6 +1280,9 @@
 06282651-n	vie:lemma	lời nói
 06282651-n	vie:exe	Lời nói phải đi đôi với việc làm.
 00121135-r	vie:lemma	thế
+00121135-r	vie:exe	Thế còn phát âm thì sao? 
+00121135-r	vie:exe	Thế thì rẻ quá.
+00121135-r	vie:exe	Em đừng có nghĩ như thế.
 00121135-r	vie:exe	Cái gì khiến anh ấy nói như thế?
 04962784-n	vie:lemma	đỏ
 04962784-n	vie:exe	Cái túi đỏ này bao nhiêu tiền ạ?
@@ -887,51 +1290,76 @@
 03871083-n	vie:exe	Anh đến đây mang mấy chiếc hành lý?
 02774630-n	vie:lemma	hành lý
 02774630-n	vie:exe	Anh đến đây mang mấy chiếc hành lý?
+07891726-n	vie:lemma	rượu
+07891726-n	vie:exe	Trong khi dùng thuốc anh không nên uống rượu.
+07891726-n	vie:exe	Anh ấy không uống rượu.
 07891726-n	vie:lemma	vang
-07891726-n	vie:exe	Rượu vang Beaujolais Nouveau được bán rất nhiều tại Nhật Bản.\n\n
+07891726-n	vie:exe	Rượu vang Beaujolais Nouveau được bán rất nhiều tại Nhật Bản.
+07884567-n	vie:lemma	rượu
+07884567-n	vie:exe	Trong khi dùng thuốc anh không nên uống rượu.
+07884567-n	vie:exe	Anh ấy không uống rượu.
 07884567-n	vie:lemma	vang
-07884567-n	vie:exe	Rượu vang Beaujolais Nouveau được bán rất nhiều tại Nhật Bản.\n\n
+07884567-n	vie:exe	Rượu vang Beaujolais Nouveau được bán rất nhiều tại Nhật Bản.
+07891433-n	vie:lemma	rượu
+07891433-n	vie:exe	Trong khi dùng thuốc anh không nên uống rượu.
+07891433-n	vie:exe	Anh ấy không uống rượu.
 07891433-n	vie:lemma	vang
-07891433-n	vie:exe	Rượu vang Beaujolais Nouveau được bán rất nhiều tại Nhật Bản.\n\n
+07891433-n	vie:exe	Rượu vang Beaujolais Nouveau được bán rất nhiều tại Nhật Bản.
 15164463-n	vie:lemma	thứ sáu
 15164463-n	vie:exe	Thứ sáu tuần sau cho phép tôi nghỉ, được không ạ?
 03581125-n	vie:lemma	ngã tư
 03581125-n	vie:exe	Đi thẳng qua ngã tư đó có một ngân hàng lớn.
 02410393-a	vie:lemma	dày
-02410393-a	vie:exe	Quyển sách ấy dày đến nỗi không thể đọc hết được.\n\n
+02410393-a	vie:exe	Quyển sách ấy dày đến nỗi không thể đọc hết được.
 02410393-a	vie:lemma	dày
 02410393-a	vie:exe	Chân giường này quá to, không đẹp lắm.
 02415390-a	vie:lemma	dày
-02415390-a	vie:exe	Quyển sách ấy dày đến nỗi không thể đọc hết được.\n\n
+02415390-a	vie:exe	Quyển sách ấy dày đến nỗi không thể đọc hết được.
 02756821-v	vie:lemma	mưa
+02756821-v	vie:exe	Nếu trời không mưa thì chúng ta đi Bát Tràng.
+02756821-v	vie:exe	Ôi, nhưng tôi nghe nói ngày kia có thể trời mưa.
 02756821-v	vie:exe	Tôi bị mưa.
 02529264-a	vie:lemma	ấm
 02529264-a	vie:exe	Thời tiết trở nên ấm áp hơn. 
 01546111-v	vie:lemma	đứng
 01546111-v	vie:exe	Hãy đứng xa xa mà nhìn lại.
+10142747-n	vie:lemma	bà ngoại
+10142747-n	vie:exe	Bà ngoại tôi sống ở ngoại ô.
 10142747-n	vie:lemma	bà nội
 10142747-n	vie:exe	Tuần sau gia đình em đi thăm nhà bà nội.
 07679356-n	vie:lemma	bánh mì
+07679356-n	vie:exe	Có bánh mì và cà phê đây.
 07679356-n	vie:exe	Tôi thích ăn bánh mì với bơ.
 03259505-n	vie:lemma	nhà
+03259505-n	vie:exe	Nhà tôi ở 80 Trần Quốc Toản..
+03259505-n	vie:exe	Em đợi anh ở nhà nhé.
 03259505-n	vie:exe	Từ nhà tôi đến ga 2 km. 
 03544360-n	vie:lemma	nhà
+03544360-n	vie:exe	Nhà tôi ở 80 Trần Quốc Toản..
+03544360-n	vie:exe	Em đợi anh ở nhà nhé.
 03544360-n	vie:exe	Từ nhà tôi đến ga 2 km. 
 03544360-n	vie:lemma	nhà tôi?
 08559508-n	vie:lemma	nhà
+08559508-n	vie:exe	Nhà tôi ở 80 Trần Quốc Toản..
+08559508-n	vie:exe	Em đợi anh ở nhà nhé.
 08559508-n	vie:exe	Từ nhà tôi đến ga 2 km. 
 08559508-n	vie:lemma	nhà tôi?
 15210486-n	vie:lemma	tháng hai
 15210486-n	vie:exe	Ngày mười bốn tháng hai là ngày Valentine.
 15167349-n	vie:lemma	tối
+15167349-n	vie:exe	Em có hẹn vào 6 giờ tối nay.
 15167349-n	vie:exe	Tối qua trời lạnh đến nỗi có tuyết.
 15155747-n	vie:lemma	tối
+15155747-n	vie:exe	Em có hẹn vào 6 giờ tối nay.
 15155747-n	vie:exe	Tối qua trời lạnh đến nỗi có tuyết.
 15167027-n	vie:lemma	tối
+15167027-n	vie:exe	Em có hẹn vào 6 giờ tối nay.
 15167027-n	vie:exe	Tối qua trời lạnh đến nỗi có tuyết.
 15167027-n	vie:lemma	tối qua
+15167027-n	vie:exe	Tối qua trời lạnh đến nỗi có tuyết.
 15167027-n	vie:exe	Tối qua anh ấy đến thăm nhà tôi.
 15167474-n	vie:lemma	tối
+15167474-n	vie:exe	Em có hẹn vào 6 giờ tối nay.
 15167474-n	vie:exe	Tối qua trời lạnh đến nỗi có tuyết.
 03438257-n	vie:lemma	cốc
 03438257-n	vie:exe	Xin cho tôi một cốc nước.
@@ -942,26 +1370,37 @@
 06613686-n	vie:lemma	phim
 06613686-n	vie:exe	Có máy ảnh mà không có phim thì không có ý nghĩa.
 06613686-n	vie:lemma	phim
+06613686-n	vie:exe	Tôi thích xem phim Mỹ.
+06613686-n	vie:exe	Chị ấy rủ tôi đi xem phim.
 06613686-n	vie:exe	Anh muốn nhờ em ghi băng bộ phim tối nay, có được không? 
 06262567-n	vie:lemma	phim
 06262567-n	vie:exe	Có máy ảnh mà không có phim thì không có ý nghĩa.
 04096066-n	vie:lemma	đường
+04096066-n	vie:exe	Tòa nhà ở cạnh con đường.
 04096066-n	vie:exe	Muốn đến cửa hàng rau quả thì anh rẽ phải ở đó, cửa hàng đó ở ngay bên trái đường.
 15212739-n	vie:lemma	tháng chín
 15212739-n	vie:exe	Nghỉ hè bắt đầu từ cuối tháng bảy đến cuối tháng chín.
+77000079-a	vie:lemma	ấy
+77000079-a	vie:exe	Cả chị ấy cũng biết chuyện ấy.
+77000079-a	vie:exe	Tôi thuê xe của công ty ấy.
 77000079-a	vie:lemma	kia
+77000079-a	vie:exe	Ông muốn mua cái nào, cái này hay cái kia?
 77000079-a	vie:exe	Con chó kia chạy nhanh.
 14524198-n	vie:lemma	có mây
 14524198-n	vie:exe	Trời có mây.
 13828795-n	vie:lemma	chiều dài
 13828795-n	vie:exe	Chiều dài kệ sách này có mấy mét?
 00543233-n	vie:lemma	âm nhạc
+00543233-n	vie:exe	Ở trường đại học tôi học về âm nhạc.
 00543233-n	vie:exe	Thanh niên hay nghe nhạc phương Tây.
 05718556-n	vie:lemma	âm nhạc
+05718556-n	vie:exe	Ở trường đại học tôi học về âm nhạc.
 05718556-n	vie:exe	Thanh niên hay nghe nhạc phương Tây.
 05718935-n	vie:lemma	âm nhạc
+05718935-n	vie:exe	Ở trường đại học tôi học về âm nhạc.
 05718935-n	vie:exe	Thanh niên hay nghe nhạc phương Tây.
 07020895-n	vie:lemma	âm nhạc
+07020895-n	vie:exe	Ở trường đại học tôi học về âm nhạc.
 07020895-n	vie:exe	Thanh niên hay nghe nhạc phương Tây.
 00409709-r	vie:lemma	gần
 00409709-r	vie:exe	Gần đây có một ngôi nhà cho thuê.
@@ -970,10 +1409,12 @@
 03112099-n	vie:lemma	hành lang
 03112099-n	vie:exe	Không được chạy ở hành lang.
 03661043-n	vie:lemma	thư viện
+03661043-n	vie:exe	Tôi mượn cuốn sách của thư viện 
 03661043-n	vie:exe	Từ đây đến thư viện đi bộ hết 15 phút.
 07840804-n	vie:lemma	trứng
-07840804-n	vie:exe	Ăn quá nhiều phó mát, sữa, trứng cũng không tốt lắm.\n
+07840804-n	vie:exe	Ăn quá nhiều phó mát, sữa, trứng cũng không tốt lắm.
 90000502-n	vie:lemma	năm nay
+90000502-n	vie:exe	Năm nay là năm 2005.
 90000502-n	vie:exe	Năm nay tôi 25 tuổi.
 03908204-n	vie:lemma	bút chì
 03908204-n	vie:exe	Tôi tặng bút chì chúc anh tôi thi đỡ.
@@ -987,21 +1428,31 @@
 01649720-a	vie:exe	Giả tôi trẻ lại được thì tôi muốn lập gia đình với cô ấy.
 01646941-a	vie:lemma	trẻ
 01646941-a	vie:exe	Giả tôi trẻ lại được thì tôi muốn lập gia đình với cô ấy.
+00514884-a	vie:lemma	cả
+00514884-a	vie:exe	Cả ngày anh ấy xem Internet.
 00514884-a	vie:lemma	suốt
 00514884-a	vie:exe	Chị ấy tập chơi pi-a-nô suốt ngày.
 00988232-a	vie:lemma	mỏng
 01029368-v	vie:lemma	tôi tên là ...
-01029368-v	vie:exe	Tôi tên là Nguyễn Văn Hùng.\n
+01029368-v	vie:exe	Tôi tên là Nguyễn Văn Hùng.
 77000084-n	vie:lemma	đâu
+77000084-n	vie:exe	Anh có định đi đâu không? 
+77000084-n	vie:exe	Anh đi đâu ?
 77000084-n	vie:exe	Bưu điện ở đâu?
 00220082-a	vie:lemma	đẹp
+00220082-a	vie:exe	[Mở vở] Ôi, chữ Thùy đẹp quá!
+00220082-a	vie:exe	Chị ấy vừa đẹp vừa hiền.
 00220082-a	vie:exe	Hôm nay trời đẹp. 
 01586342-a	vie:lemma	đẹp
+01586342-a	vie:exe	[Mở vở] Ôi, chữ Thùy đẹp quá!
+01586342-a	vie:exe	Chị ấy vừa đẹp vừa hiền.
 01586342-a	vie:exe	Hôm nay trời đẹp. 
 01586342-a	vie:lemma	tốt
+01586342-a	vie:exe	Nếu chuẩn bị tốt, thi dễ thôi.
+01586342-a	vie:exe	Anh ấy dịch khá tốt đấy.
 01586342-a	vie:exe	Xe đạp này tốt nhất.
 01346003-v	vie:lemma	mở
-01346003-v	vie:exe	Cửa hàng này 5 giờ sáng mở cửa.\n\n
+01346003-v	vie:exe	Cửa hàng này 5 giờ sáng mở cửa.
 09853467-n	vie:lemma	anh
 09853467-n	vie:exe	Anh tôi làm việc ở sứ quan Nhật Bản.
 09853467-n	vie:lemma	anh
@@ -1010,8 +1461,12 @@
 03102654-n	vie:exe	Bên cạnh tủ lạnh có bếp ga. 
 03273913-n	vie:lemma	tủ lạnh
 03273913-n	vie:exe	Bên cạnh tủ lạnh có bếp ga. 
+02399595-a	vie:lemma	dở
+02399595-a	vie:exe	Đồ uống hộp thường dở.
 02399595-a	vie:lemma	không ngon miệng
 02399595-a	vie:exe	Có quá nhiều muối thì không ngon miệng.
+01716971-a	vie:lemma	dở
+01716971-a	vie:exe	Đồ uống hộp thường dở.
 01716971-a	vie:lemma	không ngon miệng
 01716971-a	vie:exe	Có quá nhiều muối thì không ngon miệng.
 07845335-n	vie:lemma	sữa
@@ -1023,32 +1478,43 @@
 10780632-n	vie:lemma	vợ
 10780632-n	vie:exe	Anh nên xin lỗi vợ, nếu không chị ấy sẽ giận lắm.
 08625462-n	vie:lemma	trái
-08625462-n	vie:exe	Muốn đến cửa hàng rau quả thì anh rẽ phải ở đó, cửa hàng đó ở ngay bên trái đường.\n
+08625462-n	vie:exe	Muốn đến cửa hàng rau quả thì anh rẽ phải ở đó, cửa hàng đó ở ngay bên trái đường.
 90000508-n	vie:lemma	tuần sau
+90000508-n	vie:exe	Thứ sáu tuần sau cho phép tôi nghỉ, được không ạ?
 90000508-n	vie:exe	Từ tuần sau là nghỉ hè rồi. 
 01848718-v	vie:lemma	đi
+01848718-v	vie:exe	Em đi du lịch với ai?
+01848718-v	vie:exe	Anh đi đâu ?
 01848718-v	vie:exe	Thoa đã đi Bát Tràng chưa?
 06518719-n	vie:lemma	vé
+06518719-n	vie:exe	Hải ơi, bạn anh cho anh 2 vé xem phim.
 06518719-n	vie:exe	Chiều mai tôi đi mua vé máy bay.
 01470670-v	vie:lemma	gặp
+01470670-v	vie:exe	Tuy tôi chưa gặp chị ấy nhưng tôi đã nghe nói nhiều về chị ấy.
 01470670-v	vie:exe	Ngày mai tôi gặp anh Nam. 
 02428924-v	vie:lemma	gặp
+02428924-v	vie:exe	Tuy tôi chưa gặp chị ấy nhưng tôi đã nghe nói nhiều về chị ấy.
 02428924-v	vie:exe	Ngày mai tôi gặp anh Nam. 
 10285313-n	vie:lemma	con trai
 10285313-n	vie:exe	Để con trai ấy ra ngoài chơi đi.
 03542333-n	vie:lemma	khách sạn
+03542333-n	vie:exe	Tôi gặp anh ấy ở khách sạn.
 03542333-n	vie:exe	Anh vẫn ở khách sạn Thăng Long chứ?
 02913152-n	vie:lemma	toà nhà
-02913152-n	vie:exe	Hai công an đứng trước cửa vào toà nhà kia đang nói chuyện với nhau.\n
+02913152-n	vie:exe	Hai công an đứng trước cửa vào toà nhà kia đang nói chuyện với nhau.
 07649854-n	vie:lemma	thịt
-07649854-n	vie:exe	Thịt bò, thịt gà và thịt lợn, chị thích nhất là thịt nào?\n
+07649854-n	vie:exe	Thịt bò, thịt gà và thịt lợn, chị thích nhất là thịt nào?
 09397391-n	vie:lemma	ao
 09397391-n	vie:exe	Khi tôi còn trẻ, tôi thường bơi ở ao.
 07935152-n	vie:lemma	trà
-07935152-n	vie:exe	Cà phê hay trà xanh, em thích loại nào hơn?\n
+07935152-n	vie:exe	Tôi muốn uống trà Lipton không đường.
+07935152-n	vie:exe	Cà phê hay trà xanh, em thích loại nào hơn?
 03082979-n	vie:lemma	máy tính
 03082979-n	vie:exe	Tôi không thể sửa máy tính.
 00312553-n	vie:lemma	du lịch
+00312553-n	vie:exe	Dạo này có nhiều chương trình đi du lịch nước ngoài nhỉ.
+00312553-n	vie:exe	Tôi muốn đi du lịch khắp thế giới.
+00312553-n	vie:exe	Em đi du lịch với ai?
 00312553-n	vie:exe	Khi nào anh ấy đi du lịch?
 04043733-n	vie:lemma	ra-đi-ô
 04043733-n	vie:exe	Trong xe điện ngầm người ta không thể nghe ra-đi-ô được.
@@ -1071,64 +1537,105 @@
 15137890-n	vie:lemma	ngày nghỉ
 15137890-n	vie:exe	Người ta cảm thấy ngày nghỉ ngắn lắm.
 00027918-r	vie:lemma	chưa
+00027918-r	vie:exe	Em chưa biết tình yêu là gì.
+00027918-r	vie:exe	Tôi chưa ăn.
 00027918-r	vie:exe	Tôi chưa viết xong. 
 00031304-r	vie:lemma	chưa
+00031304-r	vie:exe	Em chưa biết tình yêu là gì.
+00031304-r	vie:exe	Tôi chưa ăn.
 00031304-r	vie:exe	Tôi chưa viết xong. 
 03925226-n	vie:lemma	bức ảnh
+03925226-n	vie:exe	Tôi có 3 bức ảnh của anh.
 03925226-n	vie:exe	Thế thì treo bức ảnh này trên tường được không?
 03931044-n	vie:lemma	bức ảnh
+03931044-n	vie:exe	Tôi có 3 bức ảnh của anh.
 03931044-n	vie:exe	Thế thì treo bức ảnh này trên tường được không?
 04248607-n	vie:lemma	bức ảnh
+04248607-n	vie:exe	Tôi có 3 bức ảnh của anh.
 04248607-n	vie:exe	Thế thì treo bức ảnh này trên tường được không?
 15164233-n	vie:lemma	thứ tư
+15164233-n	vie:exe	Hôm nay là thứ tư.
 15164233-n	vie:exe	Hôm nay là ngày thứ tư.
 11524662-n	vie:lemma	thời tiết
+11524662-n	vie:exe	Thời tiết trở nên ấm áp hơn. 
 11524662-n	vie:exe	Ngày mai thời tiết thế nào?
 07193184-n	vie:lemma	hỏi
+07193184-n	vie:exe	Thưa thầy, em muốn hỏi một điều.
 07193184-n	vie:exe	Em hãy hỏi mẹ thử.
 07196682-n	vie:lemma	hỏi
+07196682-n	vie:exe	Thưa thầy, em muốn hỏi một điều.
 07196682-n	vie:exe	Em hãy hỏi mẹ thử.
 05797597-n	vie:lemma	hỏi
+05797597-n	vie:exe	Thưa thầy, em muốn hỏi một điều.
 05797597-n	vie:exe	Em hãy hỏi mẹ thử.
 07193596-n	vie:lemma	hỏi
+07193596-n	vie:exe	Thưa thầy, em muốn hỏi một điều.
 07193596-n	vie:exe	Em hãy hỏi mẹ thử.
 01904930-v	vie:lemma	đi bộ
 01904930-v	vie:exe	Từ đây đến thư viện đi bộ hết 15 phút.
 03383948-n	vie:lemma	nĩa
 03383948-n	vie:exe	Hiện nay ai cũng ăn được bằng nĩa và dao.
 08286569-n	vie:lemma	trường đại học
+08286569-n	vie:exe	Còn đây là em Hiền, sinh viên năm thứ 2 trường Đại học Ngoại ngữ Hà Nội.
+08286569-n	vie:exe	Anh tên là Bình, đang học tiếng Nhật ở trường Đại học Ngoại ngữ Tokyo.
 08286569-n	vie:exe	Từ nhà tôi đến trường đại học mất 5 phút.
 08286163-n	vie:lemma	trường đại học
+08286163-n	vie:exe	Còn đây là em Hiền, sinh viên năm thứ 2 trường Đại học Ngoại ngữ Hà Nội.
+08286163-n	vie:exe	Anh tên là Bình, đang học tiếng Nhật ở trường Đại học Ngoại ngữ Tokyo.
 08286163-n	vie:exe	Từ nhà tôi đến trường đại học mất 5 phút.
 08278169-n	vie:lemma	trường đại học
+08278169-n	vie:exe	Còn đây là em Hiền, sinh viên năm thứ 2 trường Đại học Ngoại ngữ Hà Nội.
+08278169-n	vie:exe	Anh tên là Bình, đang học tiếng Nhật ở trường Đại học Ngoại ngữ Tokyo.
 08278169-n	vie:exe	Từ nhà tôi đến trường đại học mất 5 phút.
 01000214-v	vie:lemma	viết
+01000214-v	vie:exe	Mặc dù em tập viết nhiều lần nhưng mà vẫn hay quên. 
+01000214-v	vie:exe	Tôi chưa viết xong. 
 01000214-v	vie:exe	Cô ấy viết một bức thư cho bố mẹ.
 02471690-v	vie:lemma	viết
+02471690-v	vie:exe	Mặc dù em tập viết nhiều lần nhưng mà vẫn hay quên. 
+02471690-v	vie:exe	Tôi chưa viết xong. 
 02471690-v	vie:exe	Cô ấy viết một bức thư cho bố mẹ.
 01020356-v	vie:lemma	viết
+01020356-v	vie:exe	Mặc dù em tập viết nhiều lần nhưng mà vẫn hay quên. 
+01020356-v	vie:exe	Tôi chưa viết xong. 
 01020356-v	vie:exe	Cô ấy viết một bức thư cho bố mẹ.
 01691057-v	vie:lemma	viết
+01691057-v	vie:exe	Mặc dù em tập viết nhiều lần nhưng mà vẫn hay quên. 
+01691057-v	vie:exe	Tôi chưa viết xong. 
 01691057-v	vie:exe	Cô ấy viết một bức thư cho bố mẹ.
 01698271-v	vie:lemma	viết
+01698271-v	vie:exe	Mặc dù em tập viết nhiều lần nhưng mà vẫn hay quên. 
+01698271-v	vie:exe	Tôi chưa viết xong. 
 01698271-v	vie:exe	Cô ấy viết một bức thư cho bố mẹ.
 01020934-v	vie:lemma	viết
+01020934-v	vie:exe	Mặc dù em tập viết nhiều lần nhưng mà vẫn hay quên. 
+01020934-v	vie:exe	Tôi chưa viết xong. 
 01020934-v	vie:exe	Cô ấy viết một bức thư cho bố mẹ.
 00993014-v	vie:lemma	viết
+00993014-v	vie:exe	Mặc dù em tập viết nhiều lần nhưng mà vẫn hay quên. 
+00993014-v	vie:exe	Tôi chưa viết xong. 
 00993014-v	vie:exe	Cô ấy viết một bức thư cho bố mẹ.
 03822171-n	vie:lemma	báo
+03822171-n	vie:exe	Ví dụ, em đọc báo, nghe đài, nói chuyện với bạn,viết nhật ký, v.v...
 03822171-n	vie:exe	Trước giờ học tôi mua báo.
 06267145-n	vie:lemma	báo
+06267145-n	vie:exe	Ví dụ, em đọc báo, nghe đài, nói chuyện với bạn,viết nhật ký, v.v...
 06267145-n	vie:exe	Trước giờ học tôi mua báo.
 14961722-n	vie:lemma	báo
+14961722-n	vie:exe	Ví dụ, em đọc báo, nghe đài, nói chuyện với bạn,viết nhật ký, v.v...
 14961722-n	vie:exe	Trước giờ học tôi mua báo.
 07197021-n	vie:lemma	thi
+07197021-n	vie:exe	Chắc chắn là bài thi khó lắm.
+07197021-n	vie:exe	Hôm nay các em thi ngữ pháp tiếng Nhật.
 07197021-n	vie:exe	Phải chăm học mấy năm, anh mới thi đỗ lấy tư cách đó được.
 00158309-r	vie:lemma	vừa
+00158309-r	vie:exe	Tôi vừa lên Đà Lạt.
 00158309-r	vie:exe	Tôi vừa đọc hết cuốn sách này.
 00002621-r	vie:lemma	vừa
+00002621-r	vie:exe	Tôi vừa lên Đà Lạt.
 00002621-r	vie:exe	Tôi vừa đọc hết cuốn sách này.
 00002950-r	vie:lemma	vừa
+00002950-r	vie:exe	Tôi vừa lên Đà Lạt.
 00002950-r	vie:exe	Tôi vừa đọc hết cuốn sách này.
 13714184-n	vie:lemma	độ
 13714184-n	vie:exe	Hôm nay nóng quá, chắc chắn hơn ba mươi lăm độ.
@@ -1142,52 +1649,82 @@
 01270199-v	vie:exe	Kiểm tra kỹ túi áo trước khi giặt.
 06505517-n	vie:lemma	bản sao
 06505517-n	vie:exe	Tôi đã photocopy trang này, nhưng để quên bản sao đó ở chỗ nào đó.
+15166462-n	vie:lemma	chiều
+15166462-n	vie:exe	Chiều nay tôi phải nộp cho giám đốc đấy.
 15166462-n	vie:lemma	tối
 15166462-n	vie:lemma	tối qua
+15166462-n	vie:exe	Tối qua trời lạnh đến nỗi có tuyết.
 15166462-n	vie:exe	Tối qua anh ấy đến thăm nhà tôi.
 01343918-a	vie:lemma	thú vị
-01343918-a	vie:exe	Hôm nay trời đẹp bạn sẽ có chuyến du lịch thú vị.\n\n
+01343918-a	vie:exe	Hôm nay trời đẹp bạn sẽ có chuyến du lịch thú vị.
 01344344-a	vie:lemma	thú vị
-01344344-a	vie:exe	Hôm nay trời đẹp bạn sẽ có chuyến du lịch thú vị.\n\n
+01344344-a	vie:exe	Hôm nay trời đẹp bạn sẽ có chuyến du lịch thú vị.
 01344344-a	vie:lemma	vui
+01344344-a	vie:exe	Chúc chị đi chơi vui vẻ nhé.
+01344344-a	vie:exe	Anh cũng rất vui được gặp em. 
+01344344-a	vie:exe	Chị ấy lúc nào cũng vui.
 01344344-a	vie:exe	Không ai không vui vì tin ấy.
 01265308-a	vie:lemma	thú vị
-01265308-a	vie:exe	Hôm nay trời đẹp bạn sẽ có chuyến du lịch thú vị.\n\n
+01265308-a	vie:exe	Hôm nay trời đẹp bạn sẽ có chuyến du lịch thú vị.
 01344485-a	vie:lemma	thú vị
-01344485-a	vie:exe	Hôm nay trời đẹp bạn sẽ có chuyến du lịch thú vị.\n\n
+01344485-a	vie:exe	Hôm nay trời đẹp bạn sẽ có chuyến du lịch thú vị.
 00067045-r	vie:lemma	trước
 00067045-r	vie:exe	Tôi đi trước nhé.
 00067265-r	vie:lemma	trước
 00067265-r	vie:exe	Tôi đi trước nhé.
 90000515-n	vie:lemma	ngày kia
+90000515-n	vie:exe	Ôi, nhưng tôi nghe nói ngày kia có thể trời mưa.
 90000515-n	vie:exe	Ngày kia trường chúng ta được nghỉ đấy, bạn đã biết chưa?
 01296462-v	vie:lemma	bật
 01296462-v	vie:exe	Ấn nút này để bật điều hoà.
 01801029-a	vie:lemma	vui
+01801029-a	vie:exe	Chúc chị đi chơi vui vẻ nhé.
+01801029-a	vie:exe	Anh cũng rất vui được gặp em. 
+01801029-a	vie:exe	Chị ấy lúc nào cũng vui.
 01801029-a	vie:exe	Không ai không vui vì tin ấy.
 03906997-n	vie:lemma	bút
+03906997-n	vie:exe	Cái bút của tôi
 03906997-n	vie:exe	Chị ấy mua có một cái bút.
 77000095-n	vie:lemma	ai
+77000095-n	vie:exe	Ai cũng biết cả.
+77000095-n	vie:exe	Cái này của ai?
+77000095-n	vie:exe	Ai bấm chuông đấy?
 77000095-n	vie:exe	Ông ấy là ai?
 77000095-n	vie:lemma	ai
+77000095-n	vie:exe	Ai cũng biết cả.
+77000095-n	vie:exe	Cái này của ai?
+77000095-n	vie:exe	Ai bấm chuông đấy?
 77000095-n	vie:exe	Ông ấy là ai?
 90000500-n	vie:lemma	năm kia
 90000500-n	vie:exe	Tháng sáu năm kia hai người ấy đã kết hôn.
 03221720-n	vie:lemma	cửa
 03221720-n	vie:exe	Khi nghe nhạc anh đóng cửa đi.
 03221720-n	vie:lemma	cửa
-03221720-n	vie:exe	Khi nghe nhạc anh đóng cửa đi.\n
+03221720-n	vie:exe	Khi nghe nhạc anh đóng cửa đi.
 00050681-r	vie:lemma	không có
+00050681-r	vie:exe	Không có gì đâu ạ. 
+00050681-r	vie:exe	Không có kinh nghiệm, làm sao mà vượt qua khó khăn như thế này được.
 00050681-r	vie:exe	Giữa anh và tôi không có bí mật.
 00024587-r	vie:lemma	không có
+00024587-r	vie:exe	Không có gì đâu ạ. 
+00024587-r	vie:exe	Không có kinh nghiệm, làm sao mà vượt qua khó khăn như thế này được.
 00024587-r	vie:exe	Giữa anh và tôi không có bí mật.
 77000012-n	vie:lemma	tôi
+77000012-n	vie:exe	Tôi bận. 
+77000012-n	vie:exe	Tôi thích phở hơn. 
+77000012-n	vie:exe	Tôi biết chơi pianô.
 77000012-n	vie:exe	Tôi muốn mua cả hai cái này.
 77000015-n	vie:lemma	tôi
+77000015-n	vie:exe	Tôi bận. 
+77000015-n	vie:exe	Tôi thích phở hơn. 
+77000015-n	vie:exe	Tôi biết chơi pianô.
 77000015-n	vie:exe	Tôi muốn mua cả hai cái này.
 01344963-a	vie:lemma	chán
+01344963-a	vie:exe	Em phải đi làm thêm, chán lắm. 
 01344963-a	vie:exe	Bài học chán ấy làm các sinh viên buồn ngủ.
 01170052-v	vie:lemma	uống
+01170052-v	vie:exe	Bây giờ chúng ta đi uống bia và tập nói tiếng Nga đi.
+01170052-v	vie:exe	Tôi không muốn uống nữa
 01170052-v	vie:exe	Tôi muốn uống nước cam hay là nước xoài.
 03282295-n	vie:lemma	sứ quán
 03282295-n	vie:exe	Sau đó, anh đến Sứ quán Nhật xin visa.
@@ -1200,26 +1737,48 @@
 02512053-n	vie:lemma	cá
 02512053-n	vie:exe	Người Việt hay ăn cá sông, còn người Nhật hay ăn cá biển.
 01586866-a	vie:lemma	tốt
+01586866-a	vie:exe	Nếu chuẩn bị tốt, thi dễ thôi.
+01586866-a	vie:exe	Anh ấy dịch khá tốt đấy.
 01586866-a	vie:exe	Xe đạp này tốt nhất.
 01048762-a	vie:lemma	tốt
+01048762-a	vie:exe	Nếu chuẩn bị tốt, thi dễ thôi.
+01048762-a	vie:exe	Anh ấy dịch khá tốt đấy.
 01048762-a	vie:exe	Xe đạp này tốt nhất.
 00067638-a	vie:lemma	tốt
+00067638-a	vie:exe	Nếu chuẩn bị tốt, thi dễ thôi.
+00067638-a	vie:exe	Anh ấy dịch khá tốt đấy.
 00067638-a	vie:exe	Xe đạp này tốt nhất.
 01993408-a	vie:lemma	tốt
+01993408-a	vie:exe	Nếu chuẩn bị tốt, thi dễ thôi.
+01993408-a	vie:exe	Anh ấy dịch khá tốt đấy.
 01993408-a	vie:exe	Xe đạp này tốt nhất.
 01171213-a	vie:lemma	tốt
+01171213-a	vie:exe	Nếu chuẩn bị tốt, thi dễ thôi.
+01171213-a	vie:exe	Anh ấy dịch khá tốt đấy.
 01171213-a	vie:exe	Xe đạp này tốt nhất.
 01800349-a	vie:lemma	tốt
+01800349-a	vie:exe	Nếu chuẩn bị tốt, thi dễ thôi.
+01800349-a	vie:exe	Anh ấy dịch khá tốt đấy.
 01800349-a	vie:exe	Xe đạp này tốt nhất.
 01123148-a	vie:lemma	tốt
+01123148-a	vie:exe	Nếu chuẩn bị tốt, thi dễ thôi.
+01123148-a	vie:exe	Anh ấy dịch khá tốt đấy.
 01123148-a	vie:exe	Xe đạp này tốt nhất.
 00064787-a	vie:lemma	tốt
+00064787-a	vie:exe	Nếu chuẩn bị tốt, thi dễ thôi.
+00064787-a	vie:exe	Anh ấy dịch khá tốt đấy.
 00064787-a	vie:exe	Xe đạp này tốt nhất.
 00850183-a	vie:lemma	tốt
+00850183-a	vie:exe	Nếu chuẩn bị tốt, thi dễ thôi.
+00850183-a	vie:exe	Anh ấy dịch khá tốt đấy.
 00850183-a	vie:exe	Xe đạp này tốt nhất.
 01129977-a	vie:lemma	tốt
+01129977-a	vie:exe	Nếu chuẩn bị tốt, thi dễ thôi.
+01129977-a	vie:exe	Anh ấy dịch khá tốt đấy.
 01129977-a	vie:exe	Xe đạp này tốt nhất.
 01586752-a	vie:lemma	tốt
+01586752-a	vie:exe	Nếu chuẩn bị tốt, thi dễ thôi.
+01586752-a	vie:exe	Anh ấy dịch khá tốt đấy.
 01586752-a	vie:exe	Xe đạp này tốt nhất.
 04588365-n	vie:lemma	cửa sổ
 04588365-n	vie:exe	Vì mùa đông trời rét nên người ta thường không mở cửa sổ.
@@ -1227,17 +1786,25 @@
 04587648-n	vie:exe	Vì mùa đông trời rét nên người ta thường không mở cửa sổ.
 05216365-n	vie:lemma	người
 05216365-n	vie:exe	Mẹ tôi đã lo đến gầy người.
+76100002-x	vie:lemma	cuốn
+76100002-x	vie:exe	Sách này được in ba nghìn cuốn.
 76100002-x	vie:lemma	tờ
-76100002-x	vie:exe	Cho tôi một tờ giấy và một cây bút bi.\n\n
+76100002-x	vie:exe	Cho tôi một tờ giấy và một cây bút bi.
 04967191-n	vie:lemma	xanh lá cây
-04967191-n	vie:exe	Xe buýt sắp đến, chị thấy không? Xe màu xanh lá cây đó.\n\n
+04967191-n	vie:exe	Xe buýt sắp đến, chị thấy không? Xe màu xanh lá cây đó.
 80001047-v	vie:lemma	chết
 80001047-v	vie:exe	Anh ấy yêu cô ấy đến mức có thể chết vì cô ấy. 
 03497657-n	vie:lemma	mũ
 03497657-n	vie:exe	Trời nắng lắm, đội mũ vào đi.
 15129927-n	vie:lemma	giờ
+15129927-n	vie:exe	Mấy giờ cũng được.
+15129927-n	vie:exe	Thế mấy giờ bắt đầu anh? 
+15129927-n	vie:exe	Anh đi làm lúc mấy giờ? 
 15129927-n	vie:exe	Bây giờ 12 giờ rồi.
+06359877-n	vie:lemma	câu
+06359877-n	vie:exe	Em hãy đạt câu.
 06359877-n	vie:lemma	bài
+06359877-n	vie:exe	Anh phải đọc bài này cẩn thận, chứ không thì không thể hiểu được.
 06359877-n	vie:exe	Bài học chán ấy làm các sinh viên buồn ngủ.
 00546389-n	vie:lemma	bài hát
 00546389-n	vie:exe	Chị có hát được bài hát này không?
@@ -1262,26 +1829,34 @@
 15213406-n	vie:lemma	tháng mười một
 15213406-n	vie:exe	Tháng mười một ở Hokkaido có tuyết rơi chưa?
 06277280-n	vie:lemma	ti-vi
-06277280-n	vie:exe	Cha tôi đeo kính khi xem ti vi.\n\n
+06277280-n	vie:exe	Cha tôi đeo kính khi xem ti vi.
 13831176-n	vie:lemma	phía bắc
 13831176-n	vie:exe	Phía bắc Việt Nam là Trung Quốc, phía đông và phía nam là biển, còn phía tây là Căm-pu-chia.
 06964901-n	vie:lemma	tiếng Pháp
+06964901-n	vie:exe	Em dùng tiếng Pháp trong tất cả mọi việc. 
 06964901-n	vie:exe	À , nghe nói là em rất giỏi tiếng Pháp, đúng không? 
 01318741-a	vie:lemma	đau
+01318741-a	vie:exe	Tôi bị đau đầu.
 01318741-a	vie:exe	Vì tôi bị đau dạ dày.
 01712753-a	vie:lemma	đau
+01712753-a	vie:exe	Tôi bị đau đầu.
 01712753-a	vie:exe	Vì tôi bị đau dạ dày.
 05395690-n	vie:lemma	bụng
-05395690-n	vie:exe	Chú tôi rất dễ béo bụng.\n\n
+05395690-n	vie:exe	Chú tôi rất dễ béo bụng.
+05395690-n	vie:lemma	bụng
+05395690-n	vie:exe	Chú tôi rất dễ béo bụng.
 05556943-n	vie:lemma	bụng
-05556943-n	vie:exe	Chú tôi rất dễ béo bụng.\n\n
+05556943-n	vie:exe	Chú tôi rất dễ béo bụng.
+05556943-n	vie:lemma	bụng
+05556943-n	vie:exe	Chú tôi rất dễ béo bụng.
 02324478-v	vie:lemma	thêm
-02324478-v	vie:exe	Món này nhạt, thêm một chút xì dầu sẽ ngon hơn.\n
+02324478-v	vie:exe	Món này nhạt, thêm một chút xì dầu sẽ ngon hơn.
 00640828-v	vie:lemma	thêm
-00640828-v	vie:exe	Món này nhạt, thêm một chút xì dầu sẽ ngon hơn.\n
+00640828-v	vie:exe	Món này nhạt, thêm một chút xì dầu sẽ ngon hơn.
 00182406-v	vie:lemma	thêm
-00182406-v	vie:exe	Món này nhạt, thêm một chút xì dầu sẽ ngon hơn.\n
+00182406-v	vie:exe	Món này nhạt, thêm một chút xì dầu sẽ ngon hơn.
 00749230-a	vie:lemma	dễ
+00749230-a	vie:exe	Nếu chuẩn bị tốt, thi dễ thôi.
 00749230-a	vie:exe	Tiếng Việt rất dễ.
 14061805-n	vie:lemma	bệnh
 14061805-n	vie:exe	Bố tôi mắc bệnh.
@@ -1289,45 +1864,54 @@
 14055408-n	vie:exe	Bố tôi mắc bệnh.
 14473054-n	vie:lemma	bệnh
 14473054-n	vie:exe	Bố tôi mắc bệnh.
+10399491-n	vie:lemma	bố mẹ
+10399491-n	vie:exe	Dạo này bố mẹ anh thế nào?
+10399491-n	vie:exe	Tôi bị bố mẹ mắng. 
+10399491-n	vie:exe	Bố mẹ tôi sống ở Huế.
 10399491-n	vie:lemma	cha mẹ
 10399491-n	vie:exe	Nếu tôi có nhiều tiền tôi muốn mua một ngôi nhà cho cha mẹ tôi.
 13833375-n	vie:lemma	phía nam
 13833375-n	vie:exe	Phía bắc Việt Nam là Trung Quốc, phía đông và phía nam là biển, còn phía tây là Căm-pu-chia.
 02472293-n	vie:lemma	người
+02472293-n	vie:exe	Lớp này có năm người.
+02472293-n	vie:exe	Vâng, chị ấy là người Việt.
+02472293-n	vie:lemma	người
 02472293-n	vie:exe	Chúc em sớm tìm được người ấy nhé.
 15212167-n	vie:lemma	tháng bảy
 15212167-n	vie:exe	Nghỉ hè bắt đầu từ cuối tháng bảy đến cuối tháng chín.
 00442917-a	vie:lemma	xa
-00442917-a	vie:exe	Mây trên trời càng ở xa thấy càng thấp.\n
+00442917-a	vie:exe	Mây trên trời càng ở xa thấy càng thấp.
 03398467-n	vie:lemma	trước
-03398467-n	vie:exe	Hai công an đứng trước cửa vào toà nhà kia đang nói chuyện với nhau.\n
+03398467-n	vie:exe	Hai công an đứng trước cửa vào toà nhà kia đang nói chuyện với nhau.
 00964768-a	vie:lemma	yếu
-00964768-a	vie:exe	Phái mạnh phải bảo vệ phái yếu.\n
+00964768-a	vie:exe	Phái mạnh phải bảo vệ phái yếu.
 02324397-a	vie:lemma	yếu
-02324397-a	vie:exe	Phái mạnh phải bảo vệ phái yếu.\n
+02324397-a	vie:exe	Phái mạnh phải bảo vệ phái yếu.
 00709215-a	vie:lemma	yếu
-00709215-a	vie:exe	Phái mạnh phải bảo vệ phái yếu.\n
+00709215-a	vie:exe	Phái mạnh phải bảo vệ phái yếu.
 02040233-a	vie:lemma	yếu
-02040233-a	vie:exe	Phái mạnh phải bảo vệ phái yếu.\n
+02040233-a	vie:exe	Phái mạnh phải bảo vệ phái yếu.
 02040049-a	vie:lemma	yếu
-02040049-a	vie:exe	Phái mạnh phải bảo vệ phái yếu.\n
+02040049-a	vie:exe	Phái mạnh phải bảo vệ phái yếu.
 00254978-r	vie:lemma	hàng tháng
 00254978-r	vie:exe	Hàng tháng anh ấy về quê.
 77000091-n	vie:lemma	thế nào
 77000091-n	vie:exe	Sau này, Ngọc muốn lấy người như thế nào?
 06605897-n	vie:lemma	ý nghĩa
-06605897-n	vie:exe	Tôi đọc tạp chí Việt Nam nhưng có nhiều từ không biết ý nghĩa.\n\n
+06605897-n	vie:exe	Tôi đọc tạp chí Việt Nam nhưng có nhiều từ không biết ý nghĩa.
 05919866-n	vie:lemma	ý nghĩa
-05919866-n	vie:exe	Tôi đọc tạp chí Việt Nam nhưng có nhiều từ không biết ý nghĩa.\n\n
+05919866-n	vie:exe	Tôi đọc tạp chí Việt Nam nhưng có nhiều từ không biết ý nghĩa.
 06601327-n	vie:lemma	ý nghĩa
-06601327-n	vie:exe	Tôi đọc tạp chí Việt Nam nhưng có nhiều từ không biết ý nghĩa.\n\n
+06601327-n	vie:exe	Tôi đọc tạp chí Việt Nam nhưng có nhiều từ không biết ý nghĩa.
 04059701-n	vie:lemma	sau
 04059701-n	vie:exe	Sau khi ăn trưa nó làm việc hăng hái hơn.
 02767665-n	vie:lemma	sau
 02767665-n	vie:exe	Sau khi ăn trưa nó làm việc hăng hái hơn.
 03540595-n	vie:lemma	bệnh viện
+03540595-n	vie:exe	Khi đến bệnh viện, bà ấy đã khỏe rồi.
 03540595-n	vie:exe	Trong khi cô Lan ở bệnh viện chúng em thăm cô nhiều lần.
 08054417-n	vie:lemma	bệnh viện
+08054417-n	vie:exe	Khi đến bệnh viện, bà ấy đã khỏe rồi.
 08054417-n	vie:exe	Trong khi cô Lan ở bệnh viện chúng em thăm cô nhiều lần.
 05311054-n	vie:lemma	mắt
 05311054-n	vie:exe	Mắt chị ấy to lắm.
@@ -1344,25 +1928,36 @@
 90000504-n	vie:lemma	năm sau nữa
 90000504-n	vie:exe	Năm sau hay là năm sau nữa, tôi sẽ đến sống một thành phố náo nhiệt hơn.
 00729108-n	vie:lemma	bài tập
+00729108-n	vie:exe	Về ngữ pháp thì Nga nên làm bài tập nhiều. 
+00729108-n	vie:exe	Chị chưa làm bài tập, phải không?
 00729108-n	vie:exe	Em làm bài tập xong chưa?
 03815615-n	vie:lemma	ca vát
 03815615-n	vie:exe	Ca vát không quen thì thắt rất khó.
 07596684-n	vie:lemma	bánh kẹo
 07596684-n	vie:exe	Cô Liên làm bánh kẹo rất ngon.
 05560787-n	vie:lemma	chân
+05560787-n	vie:exe	Chân giường này quá to, không đẹp lắm.
+05560787-n	vie:lemma	chân
 05560787-n	vie:exe	Tôi mỏi chân rồi.
+05563266-n	vie:lemma	chân
+05563266-n	vie:exe	Chân giường này quá to, không đẹp lắm.
 05563266-n	vie:lemma	chân
 05563266-n	vie:exe	Tôi mỏi chân rồi.
 15211189-n	vie:lemma	tháng tư
-15211189-n	vie:exe	Từ tháng tư năm sau con trai tôi sẽ bắt đầu vào học trung học.\n
+15211189-n	vie:exe	Từ tháng tư năm sau con trai tôi sẽ bắt đầu vào học trung học.
 02310007-v	vie:lemma	trả
 02310007-v	vie:exe	Tôi phải trả quyển sách này cho thầy giáo.
 01308381-v	vie:lemma	trả
 01308381-v	vie:exe	Tôi phải trả quyển sách này cho thầy giáo.
 80001595-v	vie:lemma	trả
 80001595-v	vie:exe	Tôi phải trả quyển sách này cho thầy giáo.
+10080869-n	vie:lemma	bố
+10080869-n	vie:exe	Bố tôi biết lái xe.
 10080869-n	vie:lemma	cha
-10080869-n	vie:exe	Cha tôi không bao giờ dậy muộn.\n\n
+10080869-n	vie:exe	Cha tôi không bao giờ dậy muộn.
+10080869-n	vie:lemma	bố
+10080869-n	vie:exe	Bố tôi bảo tôi không thức khuya. 
+10080869-n	vie:exe	Mai bố tôi ra Hà Nội.
 10080869-n	vie:lemma	cha
 10080869-n	vie:exe	Cha tôi không bao giờ dậy muộn.
 02411224-a	vie:lemma	dày
@@ -1372,42 +1967,61 @@
 15212455-n	vie:lemma	tháng tám
 15212455-n	vie:exe	Tháng tám hàng năm có rất nhiều khách du lịch ở sân bay.
 00292937-a	vie:lemma	bận
+00292937-a	vie:exe	Tôi bận. 
 00292937-a	vie:exe	Anh muốn xem mãi mà hôm nay lại bận, không xem được.
 00273082-a	vie:lemma	tối
-00273082-a	vie:exe	Phụ nữ sợ khi gặp phải một người nào đó không quen trên đường tối.\n
+00273082-a	vie:exe	Phụ nữ sợ khi gặp phải một người nào đó không quen trên đường tối.
 03291819-n	vie:lemma	phong bì
 03291819-n	vie:exe	Phong bì này mỏng mà nặng, không biết có gì bên trong không ?
 80001545-n	vie:lemma	bên cạnh
+80001545-n	vie:exe	Bên cạnh cái bàn có thùng rác.
 80001545-n	vie:exe	Bên cạnh tủ lạnh có bếp ga.
 09215315-n	vie:lemma	dưới
 09215315-n	vie:exe	Dưới ghế có một con mèo màu nâu.
 80001661-n	vie:lemma	dưới
 80001661-n	vie:exe	Dưới ghế có một con mèo màu nâu.
 00523513-n	vie:lemma	thể thao
+00523513-n	vie:exe	Thể thao, Minh thích môn nào nhất?
 00523513-n	vie:exe	Chơi thể thao.
 03179701-n	vie:lemma	bàn
+03179701-n	vie:exe	Cái bàn này làm bằng gỗ.
 03179701-n	vie:exe	Trên bàn có nhiều sách. 
 04202417-n	vie:lemma	cửa hàng
+04202417-n	vie:exe	Muốn đến cửa hàng rau quả thì anh rẽ phải ở đó, cửa hàng đó ở ngay bên trái đường.
 04202417-n	vie:exe	Cửa hàng này 5 giờ sáng mở cửa.
 02016062-v	vie:lemma	xuống
 02016062-v	vie:exe	Công an yêu cầu tôi xuống xe.
 15237782-n	vie:lemma	mùa đông
 15237782-n	vie:exe	Mùa đông, trời rét.
 80001691-n	vie:lemma	trên
+80001691-n	vie:exe	Không được để xe trên vỉa hè.
 80001691-n	vie:exe	Trên bàn có nhiều sách. 
 08663354-n	vie:lemma	trên
+08663354-n	vie:exe	Không được để xe trên vỉa hè.
 08663354-n	vie:exe	Trên bàn có nhiều sách. 
 07804323-n	vie:lemma	cơm
+07804323-n	vie:exe	Ăn cơm xong em sẽ gọi điện thử.
+07804323-n	vie:exe	Mẹ tôi đang nấu cơm.
 07804323-n	vie:exe	Anh ăn cơm chưa?
 15245990-n	vie:lemma	cơm
+15245990-n	vie:exe	Ăn cơm xong em sẽ gọi điện thử.
+15245990-n	vie:exe	Mẹ tôi đang nấu cơm.
 15245990-n	vie:exe	Anh ăn cơm chưa?
 90000417-n	vie:lemma	cơm
+90000417-n	vie:exe	Ăn cơm xong em sẽ gọi điện thử.
+90000417-n	vie:exe	Mẹ tôi đang nấu cơm.
 90000417-n	vie:exe	Anh ăn cơm chưa?
 07575076-n	vie:lemma	bữa trưa
+07575076-n	vie:exe	Em họ tôi thường ăn hoa qủa sau bữa trưa.
 07575076-n	vie:exe	Sau khi ăn trưa nó làm việc hăng hái hơn.
 15156001-n	vie:lemma	hôm nay
+15156001-n	vie:exe	Hôm nay siêu thị này đông người quá!
+15156001-n	vie:exe	Hôm nay là thứ mấy?
+15156001-n	vie:exe	Hôm nay là ngày mồng mấy?
 15156001-n	vie:exe	Hôm nay là ngày mồng 2. 
 09604981-n	vie:lemma	mình
+09604981-n	vie:exe	Mình là Chi.
+09604981-n	vie:exe	Long nghĩ Thùy viết đẹp nhất lớp mình đấy. 
 09604981-n	vie:exe	Hôm nay đến nhà mình chơi nhé.
 07557434-n	vie:lemma	nấu ăn
 07557434-n	vie:exe	Tôi thích nấu ăn.
