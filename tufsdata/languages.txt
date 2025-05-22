@@ -1,0 +1,23 @@
+ar|ar|Arabic|العربية
+as|as|Assamese|অসমীয়া
+de|de|German|Deutsch
+en|en|English|English
+es|es|Spanish|Español
+fr|fr|French|Français
+id|id|Indonesian|Bahasa Indonesia
+ja|ja|Japanese|日本語
+km|km|Khmer|ភាសាខ្មែរ
+ko|ko|Korean|한국어
+lo|lo|Lao|ພາສາລາວ
+mn|mn|Mongolian|Монгол хэл
+ms|zsm|Malay|Bahasa Melayu
+my|my|Burmese|မြန်မာဘာသာ
+pb|pt-BR|Brazilian Portuguese|Português do Brasil
+pt|pt|Portuguese|Português
+ru|ru|Russian|Русский
+th|th|Thai|ไทย
+tl|fil|Filipino|Filipino
+tr|tr|Turkish|Türkçe
+ur|ur|Urdu|اردو
+vi|vi|Vietnamese|Tiếng Việt
+zh|zh|Chinese|中文
