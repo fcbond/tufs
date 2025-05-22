@@ -9,10 +9,12 @@ Created on Sun Apr  5 10:52:56 2020
 from collections import defaultdict as dd
 from munge import l2l3
 import re
+import iso639
 
 
 tufsOmwMap = 'tufs-omw-map.tsv'
 tufsVocab = 'tufs-vocab.tsv'
+outdir ='tmpout'
 #oNew = 'onew.tsv'
 
 
@@ -109,17 +111,19 @@ def cidInfo(filename):
                 lem += '; ' + '; '.join(known)
             else:
                 unknown = [(l, m) for m, l in matches if m not in morph or l[0] in 'のを名で']
-#                print('WARNING: unknown morphology', unknown)
+                print('WARNING: unknown morphology', unknown)
         if exe:
             info[cid].append((lng,                                        # language        
                               com.replace('\u3000', ' '),                 # comment
                               lem,                                        # lemma
-                              exe.replace('\u3000', ' ')))
+                              exe.replace('\u3000', ' '),
+                              wid))
         else:
             info[cid].append((lng,                                        # language
                               com.replace('\u3000', ' '),                 # comment
                               lem,                                        # lemma
-                              None))                # example
+                              None,
+                              wid))                # example
     return info, langs
 
 # adds roughly 100 more lemmas by going through comment
@@ -136,7 +140,7 @@ def initWordnet(lgs):
     '''
     fh = dict()
     for l in lgs:
-        fh[l] = open('tufs-vocab-{}.tsv'.format(l), 'w')
+        fh[l] = open(f'{outdir}/tufs-vocab-{l}.tsv', 'w')
         print('\t'.join(['# TUFS Basic {} Wordnet'.format(l2l3(l)[1]),      # title
                          l2l3(l)[0],                                        # iso633; three letter abbreviation
                          'http://www.coelang.tufs.ac.jp/mt/{}/'.format(l),  # source
@@ -144,6 +148,21 @@ def initWordnet(lgs):
               file = fh[l])
 
 
+def splitLem(lem):
+    """
+    for a lemma of the form: lemma (tag)
+    returns (lemma, tag, var)
+    """
+    if ' (' in lem and ')' in lem:
+        lemma, rest = lem.strip().strip(')').split(' (')
+        if ' ' in rest:
+            tag, var = rest.split(' ', 1)
+            return (lemma, tag, var)
+        else:
+            return (lemma, rest, '')
+    else:
+        return (lem, '', '')
+        
 
 def writeToWNs(syns, info):
     '''
@@ -159,22 +178,52 @@ def writeToWNs(syns, info):
     '''
     for k in syns:                                                    # loops through synsets
         for c in syns[k]:                                              # loops through conceptIDs
-            for lng, com, lem, exe in info[c]:                          # loops through list of tuples
+            for lng, com, lem, exe, wid in info[c]:                          # loops through list of tuples
                 l3 = l2l3(lng)[0]
                 langlem = l3 + ':lemma'
                 langexe = l3 + ':exe'
-                fh = open('tufs-vocab-{}.tsv'.format(lng), 'a')
-                if '; ' in lem:
-                    for w in lem.split('; '):
-                        print('\t'.join([k, langlem, w.replace('\u200f', '')]), file=fh)
-                else:
-                    print('\t'.join([k, langlem, lem.replace('\u200f', '')]), file=fh)
+                fh = open(f'{outdir}/tufs-vocab-{lng}.tsv', 'a')
+                #                if '; ' in lem:
+                for w in lem.split('; '):
+                    lm, tag, var = splitLem(w)
+                    if tag:
+                        print('\t'.join([k, langlem,
+                                         lm.replace('\u200f', ''),
+                                         f"{var}__{tag}"]), file=fh)
+                    else:
+                        print('\t'.join([k, langlem,
+                                         lm.replace('\u200f', '')]), file=fh)
                 if exe: # checking if list of examples is empty
                     exes = exe.strip().split(';;;')
-                    for e in exes: # loops through examples
+                    for i, e in enumerate(exes): # loops through examples
                         e = e.split('|')[0].replace('\u200f', '')       # removes Japanese gloss
-                        print('\t'.join([k, langexe, e]), file=fh)
-
+                        print('\t'.join([k, langexe, str(i), e]), file=fh)
+                ### calculate and write count
+                ###  under counts due to lack of morphology
+                ###  over counts due to subword matching
+                ###
+                ###
+                ### Also add the audio!
+                ###
+                for lem in lem.split('; '):
+                    if exe:
+                        lm, tag, var = splitLem(lem)
+                        freq = exe.lower().count(lm.lower())
+                        if freq > 0:
+                            print(f"{k}\t{l3}:count\t{lm}\t{freq}", file=fh)
+                audio=f"https://www.coelang.tufs.ac.jp/mt/{lng}/vmod/sound/word/word_{wid}.mp3"
+                ## try for transcription
+                lm, tag, var = splitLem(lem)
+                if tag ==  'orth:pīnyīn':
+                    variety ='zh-pinyin'
+                    pron = var
+                else:
+                    variety, pron = '', ''
+                if ';' in lem:
+                    note = 'two words'
+                else:
+                   note = '' 
+                print(f"{k}\t{l3}:pron\t{lm}\t{pron}\t{variety}\t{audio}\t{note}", file=fh)
 
 
 def readAllWNs():
@@ -216,7 +265,7 @@ def readAllWNs():
     titles = dict()
     data = dd(lambda: dd(lambda: dd(list)))
     for lg in langs:
-        fh = open('tufs-vocab-{}.tsv'.format(lg))
+        fh = open(f'{outdir}/tufs-vocab-{lg}.tsv')
         titles[lg] = fh.readline().strip()[2:].split('\t')
         for ln in fh:           
             row = ln.strip().split('\t')
@@ -224,7 +273,9 @@ def readAllWNs():
             if row[1][4:] == "lemma":
                 data[row[0]][lg]["lemmas"].append(row[2])
             elif row[1][4:] == "exe": 
-                data[row[0]][lg]["examples"].append(row[2]) 
+                data[row[0]][lg]["examples"].append(row[2])
+            elif row[1][4:] in ('count', 'pron'):
+                continue
             else:    # additional info like definitions could be added / defensive
                 print('WARNING:', 'unknown type', row)
     return titles, data

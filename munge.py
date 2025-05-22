@@ -504,7 +504,7 @@ def main():
          "pb", "pt", "ru", "th",
          "tl", "tr", "ur", "vi", "zh"]
     data  = fetch_data(datadir, langs)
-    print_tsv('tufs-vocab.tsv', data)
+    print_tsv('test-tufs-vocab.tsv', data)
     #print_html('onew.html',data)
     return None
 
